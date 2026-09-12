@@ -41,7 +41,7 @@ Vous faites de votre cage spirituelle votre objet lié, ce qui vous permet de pr
 
 <div class="blocPF2">
 {s:titrePF2|Envelopper la cage spirituelle (Enshroud Soul Cage)|Don 14}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de liche
 
@@ -50,7 +50,7 @@ Vous enveloppez votre cage spirituelle dans une collection sans cesse croissante
 
 <div class="blocPF2">
 {s:titrePF2|Main de la liche (Hand of the Lich)|Don 14}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de liche
 
@@ -61,7 +61,7 @@ Quand vous obtenez une réussite critique lors d’une Frappe de poing sur une c
 
 <div class="blocPF2">
 {s:titrePF2|Renforcer la cage spirituelle (Bolster Soul Cage)|Don 16}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de liche, légendaire en Artisanat
 
@@ -72,7 +72,7 @@ Au niveau 20, le temps nécessaire pour que votre cage spirituelle reconstruise 
 
 <div class="blocPF2">
 {s:titrePF2|Gemme à sort (Spell Gem)|Don 16}
-{s:traitRareté|Peu commun} {s:trait|Archétype}
+{s:traitRareté|Peu commun} {s:trait|Archétype} 
 
 **Prérequis** Dévotion de liche, légendaire en Artisanat
 

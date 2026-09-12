@@ -142,7 +142,7 @@ Pour devenir un paladin de prestige, il faut satisfaire aux conditions suivantes
 **Sorts.** Capacité à lancer des sorts divins de niveau 1.
 
 ### Compétence de classe
-Voici les compétences de classe de paladin de prestige : [[Pathfinder-RPG.Art de la magie|Art de la Magie]] (Int), [[Pathfinder-RPG.Artisanat|Artisanat]] (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (noblesse) (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (religion) (Int), [[Pathfinder-RPG.Diplomatie|Diplomatie]] (Cha), [[Pathfinder-RPG.Dressage|Dressage]] (Cha), [[Pathfinder-RPG.Équitation|Équitation]] (Dex), [[Pathfinder-RPG.Premiers secours|Premiers secours]] (Sag), [[Pathfinder-RPG.Profession|Profession]] (Sag) et [[Pathfinder-RPG.Psychologie|Psychologie]] (Sag).
+Voici les compétences de classe de paladin de prestige : [[Pathfinder-RPG.Art de la magie|Art de la Magie]] (Int), [[Pathfinder-RPG.Artisanat|Artisanat]] (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (noblesse) (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (religion) (Int), [[Pathfinder-RPG.Diplomatie|Diplomatie]] (Cha), [[Pathfinder-RPG.Dressage|Dressage]] (Cha), [[Pathfinder-RPG.Équitation|Équitation]] (Dex), [[Pathfinder-RPG.Premiers secours|Premiers secours]] (Sag), [[Pathfinder-RPG.Profession|Profession]] (Sag) et [[Pathfinder-RPG.Psychologie|Psychologie]] (Sag). 
 
 **Nombre de rang par niveau.** 2 + modificateur d’[[Pathfinder-RPG.Intelligence|Intelligence]].
 
@@ -167,7 +167,7 @@ De plus, le paladin de prestige gagne un bonus de parade égal à son modificate
 #### Détection du mal (Mag)
 Un paladin de prestige peut détecter le Mal à volonté, comme par le sort de *[[Pathfinder-RPG.détection|détection du Mal]]*. Par une [[Pathfinder-RPG.action de mouvement|action de mouvement]], le paladin de prestige peut se concentrer sur un objet ou un individu unique distant de 18 m (12 cases) ou moins pour déterminer s’il est d’[[Pathfinder-RPG.alignement|alignement]] Mauvais et pour connaître la puissance de son aura comme s’il l’avait étudié pendant trois rounds. Lorsqu’il se concentre sur un objet ou un individu, le paladin de prestige ne détecte pas le Mal sur les autres objets ou individus à proximité.
 
-Si le paladin de prestige possède détection du mal par le biais d’une autre classe ou d'un don, alors, il peut utiliser détection du mal comme une [[Pathfinder-RPG.action libre|action libre]].
+Si le paladin de prestige possède détection du mal par le biais d’une autre classe ou d'un don, alors, il peut utiliser détection du mal comme une [[Pathfinder-RPG.action libre|action libre]]. 
 
 {s:Reference|MAINDIVINE}
 
@@ -196,13 +196,13 @@ Si le destrier vient à mourir, il disparaît immédiatement, laissant son équi
 #### Imposition des mains (Sur)
 À partir du niveau 2, un paladin de prestige peut soigner ses blessures ou celles de ses camarades d’un simple toucher. Il peut utiliser ce pouvoir un nombre de fois par jour égal à la moitié de son niveau de paladin de prestige + son modificateur de [[Pathfinder-RPG.Charisme|Charisme]]. Chaque utilisation permet de soigner 1d6 points de vie par tranche de deux niveaux de paladin de prestige et nécessite une [[Pathfinder-RPG.action simple|action simple]] (sauf si le paladin de prestige soigne ses propres blessures, auquel cas une [[Pathfinder-RPG.action rapide|action rapide]] suffit). Contrairement à ce que son nom pourrait laisser penser, cette capacité ne nécessite qu’une seule main de libre pour être utilisée.
 
-Le paladin de prestige peut également utiliser ce pouvoir de guérison pour infliger des blessures aux [[Pathfinder-RPG.type Mort-vivant|mort-vivants]], à hauteur de 1d6 points de dégâts par tranche de deux niveaux de paladin de prestige. Cette utilisation du pouvoir nécessite un [[Pathfinder-RPG.attaque de contact|jet d’attaque de contact]] au corps à corps et ne provoque pas d’attaque d’opportunité. Les [[Pathfinder-RPG.type Mort-vivant|mort-vivants]] ne bénéficient d’aucun jet de sauvegarde contre ces dégâts.
+Le paladin de prestige peut également utiliser ce pouvoir de guérison pour infliger des blessures aux [[Pathfinder-RPG.type Mort-vivant|mort-vivants]], à hauteur de 1d6 points de dégâts par tranche de deux niveaux de paladin de prestige. Cette utilisation du pouvoir nécessite un [[Pathfinder-RPG.attaque de contact|jet d’attaque de contact]] au corps à corps et ne provoque pas d’attaque d’opportunité. Les [[Pathfinder-RPG.type Mort-vivant|mort-vivants]] ne bénéficient d’aucun jet de sauvegarde contre ces dégâts. 
 
 Si le paladin de prestige possède Imposition des mains par le biais d’une autre classe, alors les niveaux de paladin de prestige se cumulent avec tout autre niveau de classe qui permet l’imposition des mains
 
 {s:Reference|GRACEDIVINE}
 #### Grâce divine (Sur)
-Un paladin de prestige de niveau 2 ou plus bénéficie d’un bonus à tous ses [[Pathfinder-RPG.jet de sauvegarde|jets de sauvegarde]] égal à son bonus de [[Pathfinder-RPG.Charisme|Charisme]] (s’il en a un).
+Un paladin de prestige de niveau 2 ou plus bénéficie d’un bonus à tous ses [[Pathfinder-RPG.jet de sauvegarde|jets de sauvegarde]] égal à son bonus de [[Pathfinder-RPG.Charisme|Charisme]] (s’il en a un). 
 
 Si le paladin de prestige possède Grace divine par le biais d’une autre classe, il gagne un bonus sacrée à sa [[Pathfinder-RPG.CA|CA]] égal à son bonus de Charisme. Lorsque le personnage est pris au dépourvu ou qu’il perd son bonus de Dextérité à la CA d’une façon ou d’une autre, il perd aussi ce bonus.
 
@@ -225,7 +225,7 @@ Les niveaux de paladin de prestige se cumulent avec tout autre niveau de classe 
 
 {s:Reference|RÉSISTANCEDIVINE}
 #### Résistance divine (Sur)
-Un paladin de prestige de niveau 8, gagne une [[Pathfinder-RPG.RD|RD]] 5/mal.
+Un paladin de prestige de niveau 8, gagne une [[Pathfinder-RPG.RD|RD]] 5/mal. 
 De plus, avec une action de mouvement, il peut ajouter une [[Pathfinder-RPG.RD|RD]] égale a son niveau de paladin de prestige contre le mal pendant un nombre de round égale au modificateur de [[Pathfinder-RPG.Charisme|Charisme]] multiplié par deux. Le prestige paladin peut utiliser ce pouvoir une fois par jour par deux niveaux de prestige paladin.
 
 {s:Reference|CHAMPIONDIVIN}

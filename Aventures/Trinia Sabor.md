@@ -37,5 +37,5 @@ LastModified: 2016-08-01 15:18
 - **Équipement de combat** potion de grâce féline, potion de saut, potion de bouclier de la foi +3, baguette d’hébétement de  monstre (10 charges) ; **Autre équipement** chemise de mailles de mithral +1, portée sous des vêtements ordinaires, dague de maître, deux bracelets de bronze (50 po chacun), collier de cuivre (100 po)
 (((Pouvoir spéciaux)))
 - **Coureur des toits**. Ce don (issu du Guide du joueur de La Malédiction du Trône écarlate) offre à Trinia un bonus de +2 aux tests d’Escalade et de Saut et lui permet de faire 10 sur les tests d’Escalade, même si elle est distraite. Si elle tombe, les dégâts de chute sont réduits de 1d6 points de dégâts.
-</div>
+</div> 
 </table>

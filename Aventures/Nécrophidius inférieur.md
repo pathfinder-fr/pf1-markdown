@@ -29,7 +29,7 @@ LastModified: 2016-08-01 15:27
 - **Compétences **Déplacements silencieux +10
 (((Pouvoir spéciaux)))
 - **Danse mortelle (Ext)**. Un nécrophidius inférieur peut hypnotiser ses adversaires en se balançant d’avant en arrière. Ceux qui se trouvent à moins de 9 mètres de la créature et la regardent doivent réussir un jet de Volonté DD 11 sous peine de ne plus pouvoir bouger pendant 2d4 rounds. Les victimes sont hébétées (comme sous les effets d’un sort d’hébétement) pendant toute cette période et ne peuvent pas entreprendre la moindre action (hormis se défendre). 
-Il s’agit d’un effet mental. Le DD du jet de sauvegarde est basé sur le Charisme.
+Il s’agit d’un effet mental. Le DD du jet de sauvegarde est basé sur le Charisme. 
 - ** Paralysie (Sur)**. Une créature vivante mordue par un nécrophidius inférieur doit réussir un jet de Vigueur DD 11 ou être paralysée pendant 1d4 rounds. Le DD du jet de sauvegarde est basé sur le Charisme.
 </div>
 </table>

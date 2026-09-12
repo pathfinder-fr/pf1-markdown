@@ -4,7 +4,7 @@ Title: Gestion de l'Inventaire
 LastModified: 2014-09-30 17:24
 ---
 
-<div class="chapeau">Cette vue vous permet de gérer l’équipement de votre personnage et de ses alliés.
+<div class="chapeau">Cette vue vous permet de gérer l’équipement de votre personnage et de ses alliés. 
 <UL><LI>Inventaire : chaque objet possédé par votre personnage doit être mis dans un entrepôt, soit en l'achetant soit en l'ajoutant sans dépense d'or. Cinq entrepôts sont prédéfinis : sac à dos, dos, ceinture, bottes et monture. Le poids des objets figurant dans les quatre premiers sont pris en compte dans l’encombrement du personnage. Il vous reste de plus cinq entrepôts que vous pouvez nommer et dont vous pouvez décider l’éventuelle influence sur l’encombrement du personnage. Le contenu d'un entrepôt peut être entièrement vendu en un seul clic. En renseignant le bon nombre de parts l'application vous indiquera le montant récupéré par cette vente (au coefficient de vente défini) : vous pourrez ainsi dire aux autres joueurs ce que leur personnage récupère. Notez que l'application ajoutera automatiquement la part de votre personnage dans son inventaire.
 <LI>Objets équipés : chaque objet de l'inventaire de votre personnage lié à un emplacement d'objet magique est répertorié dans le menu déroulant idoine, vous permettant de l'équiper. Vous pouvez faire de même pour vos alliés. Notez que les emplacements disponibles seront fonction du type de corps de celui-ci, comme introduit dans le supplément Animal Archive.
 <LI>Création : vous pouvez créer les objets dont votre personnage a besoin et qui ne figurent pas dans la base de données. Leurs prix et poids seront automatiquement calculés.</UL>

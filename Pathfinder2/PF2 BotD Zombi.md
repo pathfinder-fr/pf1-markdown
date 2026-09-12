@@ -36,7 +36,7 @@ Vous avez très envie de chair provenant de créatures vivantes. Vous gagnez une
 
 <div class="blocPF2">
 {s:titrePF2|Mordre les chevilles (Ankle Biter)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -68,7 +68,7 @@ Mu par votre appétence pour la chair des vivants, vous vous jetez dans la mêl�
 
 <div class="blocPF2">
 {s:titrePF2|Des cerveaux ! (Brains!) {s:PF2a|inv0a}|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Festin
 
@@ -79,7 +79,7 @@ Vous consommez le cerveau de votre ennemi, ce qui réanime certains de vos synap
 
 <div class="blocPF2">
 {s:titrePF2|Engourdi (Numb)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -88,7 +88,7 @@ Alors que votre corps continue de se putréfier, vos sens se meurent et vos pouv
 
 <div class="blocPF2">
 {s:titrePF2|Détachement (Out of Hand)|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -101,7 +101,7 @@ Vous gagnez l’action Lay Down Arms/Baisser les bras.
 
 <div class="blocPF2">
 {s:titrePF2|Tituber (Shamble) {s:PF2a|inv2a} ou {s:PF2a|inv3a}|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -112,7 +112,7 @@ Vous pouvez choisir d’ignorer tous les malus de circonstances et de statut à 
 
 <div class="blocPF2">
 {s:titrePF2|Intuable (Unkillable) {s:PF2a|invra}|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 

@@ -29,7 +29,7 @@ Le plan d'Hargulka est le suivant :
 
 3) <u>*Attaque*</u> en encourageant l'ours-hibou géant à attaquer la capitale du royaume des PJs, espérant ainsi se débarrasser d'eux une fois pour toutes.
 
----
+<hr />
 
 #### Partie 1 - Diplomatie
 
@@ -54,7 +54,7 @@ Hargulka se lève, et dans la précipitation se cogne la tête sur le plafond ca
 
 Si un combat devait se dérouler, Hargulka ne tuera pas les PJs, il attaque au contraire en faisant des dégâts non-létaux, et lorsqu'il n'a plus qu'un adversaire debout (de préférence le Baron) il lui dit, *"Partez, remballer vos affaires et déguerpissez de mon pays. Vos espèces ne sont pas les bienvenues ici."* Puis il quitte la caverne. (Il fait largement le poids face un groupe de PJs de niveaux 4, et d'autant plus avec Nagrundi à ses cotés).
 
----
+<hr />
 
 #### Partie 2 - Harcèlement
 

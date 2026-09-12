@@ -13,7 +13,7 @@ LastModified: 2018-08-25 15:39
 
 Avec cette variante, les dés de vie attribués sont tout simplement,... Ceux de l'édition 3.5. Globalement, cette variante est défavorable aux personnages lanceur de sorts qui auront globalement moins de PV.
 
-Les DV utilisés sont les suivants.
+Les DV utilisés sont les suivants. 
 
 <center>
 

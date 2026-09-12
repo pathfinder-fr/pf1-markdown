@@ -23,7 +23,7 @@ Categories:
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** dague, +5 (1d4+1/19-20)}
 {s:BDTexte|**Distance** arc long composite +1, +4 (1d8+2/x3)}
-{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] négative 7/jour (DD15, 3d6)}
+{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] négative 7/jour (DD15, 3d6)} 
 {s:BDTexte|**Pouvoirs magiques de Shachath**  ([[Pathfinder-RPG.NLS|NLS]] 13; [[Pathfinder-RPG.concentration|concentration]] +15)}
 {s:BDSorts|Constant - [[Pathfinder-RPG.Détection du Bien|Détection du Bien]], [[Pathfinder-RPG.Détection faussée|Détection faussée]]}
 {s:BDSorts|A volonté - [[Pathfinder-RPG.Détection des pensées|Détection du des pensées]] (DD17), [[Pathfinder-RPG.Télékinésie|Télékinésie]] (DD20), [[Pathfinder-RPG.Téléportation suprême|Téléportation suprême]] (personelle, 25 kg) }
@@ -57,14 +57,14 @@ TODO
 Helton est actuellement assis sur le cercueil de cristal, protégé de la chaleur par une *[[Pathfinder-RPG.Endurance aux énergies destructives|Endurance aux énergies destructives]]*. Jesker est en piteux état : le devant de son armure est taché de vomi séché et ses yeux trahissent son épuisement.
 
 ### Tactiques
-**Avant le combat**
+**Avant le combat**   
 Chaque jour, Jesker lance [[Pathfinder-RPG.Endurance aux énergies destructives|Endurance aux énergies destructives]] et [[Pathfinder-RPG.Création de nourriture et deau|Création de nourriture et d'eau]] pour survivre.
-**Pendant le combat**
+**Pendant le combat**   
 Jesker commence le combat en faisant un simple pas en avant, tombant de la rivière de lave.
 A ce moment là, le démon [[Pathfinder-RPG.Shachath|Quinarch]] abandonne son hôte par une action immédiate et apparait physiquement sur le bord de la lave.
 Si les PJs tentent d'empêcher Jesker de se suicider, il riposte à coup de sorts pendant quelques rounds.
-Le démon préférerait fortement qu'il meure de la main des PJ. Si ces derniers parvienn=t à séparer le démon de sa victime , Jesker devient un ex-prêtre et tombe à genoux, en proie à la honte.
-**Moral**
+Le démon préférerait fortement qu'il meure de la main des PJ. Si ces derniers parvienn=t à séparer le démon de sa victime , Jesker devient un ex-prêtre et tombe à genoux, en proie à la honte.  
+**Moral**    
 Jesker, possédé, se bat jusqu'à la mort.
 
 

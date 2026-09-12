@@ -25,7 +25,7 @@ Créer un PJ ou un PNJ est d'une facilité déconcertante, même pour des person
 Une grande partie du contenu est aussi détaillé, ce qui permet, souvent, d'éviter à aller fouiller dans les livres de référence.
 
 
-Pour les MJ, il est possible de cumuler plusieurs personnages, voir PNJ ou même monstres, dans un même fichier. Très pratique pour les campagnes et essentiel pour tout MJ qui dirige une partie par forum ou mail et qui veut un suivi instantané des personnages : un clic sur un effet et tous les paramètres concernés sont immédiatement modifiés...
+Pour les MJ, il est possible de cumuler plusieurs personnages, voir PNJ ou même monstres, dans un même fichier. Très pratique pour les campagnes et essentiel pour tout MJ qui dirige une partie par forum ou mail et qui veut un suivi instantané des personnages : un clic sur un effet et tous les paramètres concernés sont immédiatement modifiés... 
 
 ## Aides de jeu
 

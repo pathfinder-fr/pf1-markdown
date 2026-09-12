@@ -27,7 +27,7 @@ Il y a dix mille an, le monde de Golarion est passé proche de la destruction. C
 
 Il existe des factions au sein de la Société des Éclaireurs depuis des siècles. Cependant, leur histoire est semée de controverses, en particulier lorsque les factions passées se sont affrontées pour le contrôle de la Société elle-même ou ont défendu les aspirations politiques de diverses nations. Après plus d'une décennie de turbulences, de croissance et de ménage interne, les factions actuelles de la Société se consacrent à la promotion des différents éléments de sa charte plutôt que de promouvoir des volontés extérieures. Les agents de la Société comprennent que leur allégeance va d'abord à la Société des Éclaireurs.
 
-Vous pouvez rejoindre plus d'une faction en achetant les *boons* correspondants, mais seule la faction que vous représentez lors d'une aventure peut vous apporter des bénéfices. Au début d'une aventure, vous devez déclarer pour quelle faction vous agissez en activant/insérant son *boon*.
+Vous pouvez rejoindre plus d'une faction en achetant les *boons* correspondants, mais seule la faction que vous représentez lors d'une aventure peut vous apporter des bénéfices. Au début d'une aventure, vous devez déclarer pour quelle faction vous agissez en activant/insérant son *boon*. 
 
 Les sections suivantes décrivent les différentes factions, leurs objectifs généraux et leurs buts pour l'année en cours. Vous trouverez ensuite une liste des *boons* associés à ces factions, qu'un PJ peut acheter avec de la *Fame*. Il n'y a aucune restriction quant aux factions auxquelles les personnages peuvent appartenir, bien que certaines factions se prêtent d'avantage à des compétences de personnages particulières.
 

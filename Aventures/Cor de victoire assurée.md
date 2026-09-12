@@ -11,7 +11,7 @@ LastModified: 2021-07-27 23:50
 (((Description)))
 Ce cor de guerre enroulé est fabriqué dans du bronze de qualité.
 (((Capacités)))
-Lorsqu'on souffle dedans, le son de clairon qu'il produit s'entend jusqu'à 3 kilomètres, quelles que soit les condition climatiques, à l'exception d'un [[Pathfinder-RPG.Vents|vent de tempête]].
+Lorsqu'on souffle dedans, le son de clairon qu'il produit s'entend jusqu'à 3 kilomètres, quelles que soit les condition climatiques, à l'exception d'un [[Pathfinder-RPG.Vents|vent de tempête]].  
 Une fois par jour, le commandant d'une [[Pathfinder-RPG.combat de masse|armée]] peut souffler dans le cor pour motiver ses troupes. Ceci confère à l'armée un bonus de +2 au tests de MA et de moral. L'armée gagne également, pendant la durée de la bataille en cours, un nombre supplémentaires de points de vie égal à son FPA.
 (((Condition de fabrication)))
 [[Pathfinder-RPG.Création dobjets merveilleux|création d'objets merveilleux]]; [[Pathfinder-RPG.aide|aide]]

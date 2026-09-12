@@ -25,7 +25,7 @@ Par la suite, deux nouveaux scénarios de la Starfinder Society sortiront chaque
 ## Présentation des scénarios
 
 Les scénarios de la Starfinder Society sont des aventures pour Starfinder à part entière.
-Par le passé, nous y ajoutions de nombreuses règles spécifiques et exceptions, ce qui les rendait parfois différents des autres aventures pour Starfinder. Ces écarts pouvaient freiner de nouveaux joueurs intéressés par le jeu organisé, et demandaient également plus de temps de travail à l’équipe sur chaque scénario.
+Par le passé, nous y ajoutions de nombreuses règles spécifiques et exceptions, ce qui les rendait parfois différents des autres aventures pour Starfinder. Ces écarts pouvaient freiner de nouveaux joueurs intéressés par le jeu organisé, et demandaient également plus de temps de travail à l’équipe sur chaque scénario. 
 Désormais, nous éviterons les complications inutiles dés que possible et viserons la simplicité et la cohérence. Si vous savez lire et maîtriser une aventure pour Starfinder, vous saurez lire et maîtriser n’importe quelle aventure Starfinder, qu’il s’agisse d’un scénario court de la Starfinder Society ou d’une campagne pour Starfinder (Starfinder Adventure Path). Cette modification nous permet de produire plus de contenu et plus d’aventures pour la Starfinder Society.
 Bien entendu, certaines adaptations restent nécessaires !
 Par exemple, les MJ pourront ajuster la difficulté d’un scénario en utilisant les encadrés “Ajuster la difficulté” disséminés dans les scénarios. Cela leur permettra de s’adapter à des tables de tailles, niveaux ou expériences variés — un besoin incontournable du jeu organisé.

@@ -38,7 +38,7 @@ LastModified: 2016-08-01 22:14
 - **For **10, **Dex **18, **Con **16, **Int **16, **Sag **2, **Cha** 18
 - **Attaque de base** +5 ; **lutte **+1
 - **Dons **Création de baguettes magiques, École renforcée (nécromancie), Écriture de parchemins, Extension de durée, Magie
-de combat
+de combat 
 - **Compétences **Arts de la magie +10, Bluff +10, Concentration +8, Connaissances (mystères) +8, Déplacements silencieux +14, Discrétion +18, Perception auditive +2
 - **Langues **commun, terreux, commun des profondeurs
 - **Part **démence

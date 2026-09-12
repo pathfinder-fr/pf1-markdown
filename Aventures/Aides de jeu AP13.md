@@ -26,7 +26,7 @@ Les aides suivantes ont été compilées par *Giher* afin d'aider le MJ lors des
 - A1 [[Pathfinder-RPG.Ver géant|Ver géant]]
 - A2 [[Pathfinder-RPG.Cafard géant|2 Cafards géants]]
 3 bougies entamées (30 minutes chacune), un hameçon tordu, 3m de corde tres effilochée
-Broche en cuivre en forme de chauve souris perchée au dessus d'un champignon avec des amétystes pour les yeux (200 po)
+Broche en cuivre en forme de chauve souris perchée au dessus d'un champignon avec des amétystes pour les yeux (200 po) 
 - A3 Sac a dos de maître, 10 jours de ration, silex, amorce, jeu de chausses-trappes, 2 flasques d'huile, 12 flèches, potion de [[Pathfinder-RPG.soins légers|soins légers]], potion de [[Pathfinder-RPG.restauration partielle|restauration partielle]]
 - A4 [[Pathfinder-RPG.Serpent venimeux|Vipère des cavernes]]
 - B1 [[Pathfinder-RPG.Mouche géante|Mouche géante]]
@@ -37,7 +37,7 @@ Broche en cuivre en forme de chauve souris perchée au dessus d'un champignon av
 - C2 [[Equipement de Millorn|Millorn]]
 - D [[Pathfinder-RPG.Bâtard|Crel]], [[Pathfinder-RPG.Bâtard|Dyra]] et [[Pathfinder-RPG.Bâtard|Lann]]
 - F deux cadavres de croisés
-potion de [[Pathfinder-RPG.soins légers|soins légers]], parchemin de [[Pathfinder-RPG.frayeur|frayeur]], 129 po, 2 coutilles, 2 gantelets à pointes, symbole de Baphomet (50 po)
+potion de [[Pathfinder-RPG.soins légers|soins légers]], parchemin de [[Pathfinder-RPG.frayeur|frayeur]], 129 po, 2 coutilles, 2 gantelets à pointes, symbole de Baphomet (50 po) 
 - G [[Neathholm]] : [[Neathholm-Sull|Sull]], [[Neathholm-Opoli|Opoli]]
 
 {s:Reference|TANIEREDESBATARDS}
@@ -82,7 +82,7 @@ rondache en bois +1, [[Pathfinder-RPG.anneau descalade|anneau d'escalade]], parc
 [[Ap13-Corsèque de la gargouille|Corsèque de la gargouille]]
 2 potions de [[Pathfinder-RPG.soins modérés|soins modérés]], 3 potions d'[[Pathfinder-RPG.invisibilité|invisibilité]]
 - L1 [[Pathfinder-RPG.PNJ Brigand|6 Pillards]]
-112 po, 418 pa, couverts en argent (125 po), gobelet en laiton (15 po), portrait sans cadre (55 po), flasque d'[[Pathfinder-RPG.Acide (objet)|acide]], flasque de [[Pathfinder-RPG.Feu grégeois (objet)|feu grégeois]], 2 fioles d'[[Pathfinder-RPG.Antitoxine (objet)|antidote]], 3 fioles d'[[Pathfinder-RPG.Eau bénite (objet)|eau bénite]], 3 carreaux de [[Pathfinder-RPG.feu (propriété)|feu]] +1, un [[Pathfinder-RPG.Élixir dacuité visuelle|élixir d'acuité visuelle]], une potion de [[Pathfinder-RPG.peau décorce|peau d'écorce]] +2
+112 po, 418 pa, couverts en argent (125 po), gobelet en laiton (15 po), portrait sans cadre (55 po), flasque d'[[Pathfinder-RPG.Acide (objet)|acide]], flasque de [[Pathfinder-RPG.Feu grégeois (objet)|feu grégeois]], 2 fioles d'[[Pathfinder-RPG.Antitoxine (objet)|antidote]], 3 fioles d'[[Pathfinder-RPG.Eau bénite (objet)|eau bénite]], 3 carreaux de [[Pathfinder-RPG.feu (propriété)|feu]] +1, un [[Pathfinder-RPG.Élixir dacuité visuelle|élixir d'acuité visuelle]], une potion de [[Pathfinder-RPG.peau décorce|peau d'écorce]] +2 
 - L2 [[Pathfinder-RPG.Mandragore|Mandragore]]
 5 symboles sacrés enduits de [[Pathfinder-RPG.Poisons#TABLEAUPOISONS|Pâte de malyasse]]
 <div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Bouteille de bile|FP 1} **[[Pathfinder-RPG.Pièges#TYPES|Type]]** magique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 20 ;
@@ -93,7 +93,7 @@ rondache en bois +1, [[Pathfinder-RPG.anneau descalade|anneau d'escalade]], parc
 Statue de Marilith (250 po)
 - N2 [[Fanatique de Baphomet|2 fanatiques de Baphomet]]
 - N3 [[Ap13-Faxon|Faxon]] et [[Nox]]
-[Lettre à Faxon](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre%20%C3%A0%20Faxon.pdf)
+[Lettre à Faxon](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre%20%C3%A0%20Faxon.pdf)  
 - O [[Kénabres-Kimroth Otail|Kimroth Otail]], [[AP13-Irabeth Tirabade|Irabeth Tirabade]]
 </td><td>{s:ADJ|LFAXON|Lettre à Faxon|/ADJ/Aventures/Icone aidejeu lettre.jpg|/ADJ/Aventures/AP13-Lettre à Faxon.pdf|Retranscription de la lettre à Faxon (fichier PDF)|Mériadec|none}
 </td></tr></table>
@@ -149,7 +149,7 @@ plans de guerre, parchemin de [[Pathfinder-RPG.restauration|restauration]]
 - D1 [[Pathfinder-RPG.Gargouille|3 Gargouilles]]
 - D2 hache d'arme de [[Pathfinder-RPG.arme de maître|maître]], épée longue +1, 3 dagues en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]], pique en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]] +1
 - D3 [[Pathfinder-RPG.Goule|6 Goules]], [[AP13-Pretre de Kabriri Goule|Ilzek]], [[AP13-Pretre de Kabriri Goule|Jadiss]]
-96 potions de [[Pathfinder-RPG.soins légers|soins légers]] (3 ressources d'armée)
+96 potions de [[Pathfinder-RPG.soins légers|soins légers]] (3 ressources d'armée) 
 - D6 [[AP13-Nulkineth|Nulkineth]], [[Pathfinder-RPG.Goule|4 Goules]], [[Pathfinder-RPG.Nabasu|Maugla]]
 - E un tiers de journée (2 vivres)
 - E2 [[Pathfinder-RPG.Nuée de vescavores|2 Nuées de vescavores]]
@@ -173,12 +173,12 @@ Armures magiques (armée)
 
 {s:Reference|EXCURSIONCITADELLE}
 #### Excursion dans la Citadelle (niveau 8.2)
-[[Drézen|Siège de Drézen]] : Armée de [[AP13-Chevalier de Kénabres|Chevaliers de Kénabres]] M
-[[AP13-Irabeth Tirabade|Irabeth Tirabade]], ~~[[AP13-Nurah Dendiwhar|Nurah Dendiwhar]]~~, [[AP13-Sosiel Vaenic|Sosiel Vaenic]] : volontaires pour l'exploration
-[[AP13-Avénia Tirabade|Avénia Tirabade]] : -1 initiative, 25% de chances d'être blessée
-[[AP13-Horgus Gwerm|Horgus Gwerm]] : 1d3 Vivres et 1d4 Marchandises (max 25) par jour
-[[AP13-Aron Kir|Aron Kir]] : -1 initiative, 25% de chances d'être blessé
-[[AP13-Aravashnial|Aravashnial]] : 1d4 potions (max 10) et 1 parchemin (max 5) par nuit
+[[Drézen|Siège de Drézen]] : Armée de [[AP13-Chevalier de Kénabres|Chevaliers de Kénabres]] M  
+[[AP13-Irabeth Tirabade|Irabeth Tirabade]], ~~[[AP13-Nurah Dendiwhar|Nurah Dendiwhar]]~~, [[AP13-Sosiel Vaenic|Sosiel Vaenic]] : volontaires pour l'exploration  
+[[AP13-Avénia Tirabade|Avénia Tirabade]] : -1 initiative, 25% de chances d'être blessée  
+[[AP13-Horgus Gwerm|Horgus Gwerm]] : 1d3 Vivres et 1d4 Marchandises (max 25) par jour  
+[[AP13-Aron Kir|Aron Kir]] : -1 initiative, 25% de chances d'être blessé  
+[[AP13-Aravashnial|Aravashnial]] : 1d4 potions (max 10) et 1 parchemin (max 5) par nuit  
 
 
 <table CLASS="tablo centre toutgauche">
@@ -238,10 +238,10 @@ Armures magiques (armée)
 
 {s:Reference|DONJONDEDREZEN}
 #### Le Donjon de Drézen (niveau 9.2)
-**Imprégnation abyssale.** Le donjon est [[Pathfinder-RPG.Plans#CARACALIGNEMENT|fortement aligné]] sur le Chaos et le Mal (int,sag,cha). Par conséquent la magie des sorts et des pouvoirs magiques du Bien et de la Loi est [[Pathfinder-RPG.Plans#CARACMAGIQUES|entravée]] (Concentration DD 20 + niveau du sort).
-**Sanctification maléfique.** Un effet de [[Pathfinder-RPG.Sanctification maléfique|Sanctification maléfique]] (NLS 20) couvre l'ensemble du donjon. Une [[Pathfinder-RPG.ancre dimensionnelle|ancre dimensionnelle]] est liée à cet effet et affecte toutes les créatures à l'exception des fidèles de Deskari Chaotiques Mauvais.
-**Murmures démentiels.** Des esprits démoniaques hantent les murs du donjon. Leurs murmures ne sont pas assez audibles pour être compréhensibles mais leur susurrements perpétuels irritent l'esprit. Au début de chaque heure passée dans le donjon, toutes les créatures à l'exception des Chaotiques Mauvaises, doivent réussir un jet de volonté DD 14 pour ne pas subir un affaiblissement temporaire de 2 points de Charisme alors que les murmures les plongent peu à peu dans la folie. Une créature qui subit un affaiblissement temporaire de Charisme égal à sa valeur dans cette caractéristique contracte une [[Pathfinder-RPG.Santé mentale|maladie mentale]] déterminée aléatoirement. C'est un effet mental sonore.
-**Portes en fer.** solidité 10, 60 pr, DD 28.
+**Imprégnation abyssale.** Le donjon est [[Pathfinder-RPG.Plans#CARACALIGNEMENT|fortement aligné]] sur le Chaos et le Mal (int,sag,cha). Par conséquent la magie des sorts et des pouvoirs magiques du Bien et de la Loi est [[Pathfinder-RPG.Plans#CARACMAGIQUES|entravée]] (Concentration DD 20 + niveau du sort).  
+**Sanctification maléfique.** Un effet de [[Pathfinder-RPG.Sanctification maléfique|Sanctification maléfique]] (NLS 20) couvre l'ensemble du donjon. Une [[Pathfinder-RPG.ancre dimensionnelle|ancre dimensionnelle]] est liée à cet effet et affecte toutes les créatures à l'exception des fidèles de Deskari Chaotiques Mauvais.  
+**Murmures démentiels.** Des esprits démoniaques hantent les murs du donjon. Leurs murmures ne sont pas assez audibles pour être compréhensibles mais leur susurrements perpétuels irritent l'esprit. Au début de chaque heure passée dans le donjon, toutes les créatures à l'exception des Chaotiques Mauvaises, doivent réussir un jet de volonté DD 14 pour ne pas subir un affaiblissement temporaire de 2 points de Charisme alors que les murmures les plongent peu à peu dans la folie. Une créature qui subit un affaiblissement temporaire de Charisme égal à sa valeur dans cette caractéristique contracte une [[Pathfinder-RPG.Santé mentale|maladie mentale]] déterminée aléatoirement. C'est un effet mental sonore.  
+**Portes en fer.** solidité 10, 60 pr, DD 28.   
 
 [[Drézen|Siège de Drézen]]
 <table>

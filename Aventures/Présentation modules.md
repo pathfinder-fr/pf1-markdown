@@ -271,7 +271,7 @@ Fondée par une célèbre pourfendeuse de dragons, la petite bourgade légèreme
 
 Pourquoi y’a-t-il des cadavres de kobold parmi les décombres ? Quels sinistres secrets se cachent derrière les étranges battements d’ailes qu’on entend la nuit ? Et qu’est-il arrivé à Hunclay, le magicien local, qui ne répond plus lorsque l’on frappe à sa porte ? Le vieil homme irascible a toujours eu en horreur cette tour effondrée. Est-il impliqué dans sa destruction ? Qu’en est-il des rumeurs à propos des inhabituels mouvements dans le proche marais du Dragon ? L’antique fléau draconique de Belhaim est-il de retour ?
 
-L’Injonction du dragon est une magnifique aventure pour des personnages de niveau 1. Cette intrigue pleine d’actions de 64 pages décrit de nouveaux monstres et emmènera les personnages-joueurs jusqu’au niveau 7... à condition qu’ils survivent à la fureur d’un dragon dont les exigences ne sont pas satisfaites
+L’Injonction du dragon est une magnifique aventure pour des personnages de niveau 1. Cette intrigue pleine d’actions de 64 pages décrit de nouveaux monstres et emmènera les personnages-joueurs jusqu’au niveau 7... à condition qu’ils survivent à la fureur d’un dragon dont les exigences ne sont pas satisfaites 
 (Texte BBE)}
 {s:BookEnd}
 {s:Reference|TIANXIA}

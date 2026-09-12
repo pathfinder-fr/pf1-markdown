@@ -20,7 +20,7 @@ C'est un combattant de seconde ligne. Il ne faut pas chercher à jouer à «qui 
 
 ##### 2.1 Caractéristiques
 
-Il faut de la Force pour taper et un minimum de Sagesse pour lancer des sorts. Dextérité et Constitution sont importants pour tenir au contact. Intelligence et Charisme sont de moindre importance.
+Il faut de la Force pour taper et un minimum de Sagesse pour lancer des sorts. Dextérité et Constitution sont importants pour tenir au contact. Intelligence et Charisme sont de moindre importance. 
 
 ##### 2.2 Race
 

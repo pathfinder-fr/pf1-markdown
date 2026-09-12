@@ -12,16 +12,16 @@ Les actions que peuvent effectuer les membres d’équipage à bord d’un vaiss
 le vôtre lorsque vous embarquez à bord d’un vaisseau (si vous vous déclarez en tant que passager, cependant, vous ne pourrez agir en combat à moins d’endosser un rôle) même si vous pouvez en changer en plein combat. Voir Construire des vaisseaux pour plus d’informations concernant la terminologie employée pour les vaisseaux, leurs systèmes et leurs caractéristiques.
 
 #### Canonnier
-Vous gérez les différents systèmes d’armement du vaisseau afin de neutraliser ou détruire les appareils ennemis. Un vaisseau peut compter au maximum un canonnier (ou une équipe de canonniers) par emplacement d’arme. Un canonnier agit pendant la Phase de canonnage.
+Vous gérez les différents systèmes d’armement du vaisseau afin de neutraliser ou détruire les appareils ennemis. Un vaisseau peut compter au maximum un canonnier (ou une équipe de canonniers) par emplacement d’arme. Un canonnier agit pendant la Phase de canonnage. 
 
 #### Capitaine
-Votre rôle en combat est d’encourager votre équipage tout en poussant l’ennemi à commettre une erreur fatale. Un vaisseau ne peut avoir qu’un seul capitaine et un personnage ne peut endosser ce rôle que s’il est disponible. Seul le capitaine peut agir à n’importe quelle phase d’un combat.
+Votre rôle en combat est d’encourager votre équipage tout en poussant l’ennemi à commettre une erreur fatale. Un vaisseau ne peut avoir qu’un seul capitaine et un personnage ne peut endosser ce rôle que s’il est disponible. Seul le capitaine peut agir à n’importe quelle phase d’un combat. 
 
 #### Ingénieur
-Vous optimisez le réacteur et les propulseurs de votre vaisseau, vous fournissez de l’énergie supplémentaire en cas de besoins et vous transférez l’énergie aux systèmes vitaux si cela est nécessaire. Vous pouvez aussi réparer les systèmes endommagés. Un vaisseau peut avoir n’importe quel nombre d’ingénieurs. Un ingénieur agit pendant la Phase d’ingénierie.
+Vous optimisez le réacteur et les propulseurs de votre vaisseau, vous fournissez de l’énergie supplémentaire en cas de besoins et vous transférez l’énergie aux systèmes vitaux si cela est nécessaire. Vous pouvez aussi réparer les systèmes endommagés. Un vaisseau peut avoir n’importe quel nombre d’ingénieurs. Un ingénieur agit pendant la Phase d’ingénierie. 
 
 #### Officier scientifique
-Vous utilisez les ordinateurs, les détecteurs et les autres systèmes du vaisseau pour identifier les menaces, cibler des adversaires et éviter les dangers de la navigation. Un vaisseau peut avoir n’importe quel nombre d’officiers scientifiques. Un officier scientifique agit pendant la Phase manœuvre d’un combat.
+Vous utilisez les ordinateurs, les détecteurs et les autres systèmes du vaisseau pour identifier les menaces, cibler des adversaires et éviter les dangers de la navigation. Un vaisseau peut avoir n’importe quel nombre d’officiers scientifiques. Un officier scientifique agit pendant la Phase manœuvre d’un combat. 
 
 #### Pilote
 Vous calculez la trajectoire du vaisseau. Chaque appareil est doté d’une vitesse et d’une manœuvrabilité, mais vous pouvez pousser le vôtre au-delà de ses limites si vous êtes suffisamment compétent. Un vaisseau ne peut avoir qu’un seul pilote et un personnage ne peut endosser ce rôle que s’il est disponible. Le pilote agit pendant la Phase manœuvre d’un combat.

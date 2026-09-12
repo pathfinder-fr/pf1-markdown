@@ -39,8 +39,8 @@ LastModified: 2016-07-29 11:10
 - Sorts permanents. Viorian est en permanence sous l’effet des sorts suivants (placés par Karzoug avec un NLS 22) : agrandissement et lien télépathique.
 
 </div></td><td><div>
-''L’épée de l’avarice est un cimeterre doré nommé Chellan (voir page 52). Il était récemment la propriété de la maîtresse, particulièrement avare, d’une guilde de mercenaires de Port-Énigme nommée Viorian Dekanti. [[...]] il y a cinq ans, Chellan s’éveilla aussi et flamboya d’une lueur dorée. Réveillée en plein sommeil par le bruit, Viorian examina sa collection pour trouver l’épée qui brillait sur son présentoir.
-Alors qu’elle retirait l’épée pour l’examiner, la puissante arme prit le contrôle de Viorian. Cette dernière tua tous les habitants du manoir, les mercenaires comme le personnel, et partit pour Xin-Shalast.
+''L’épée de l’avarice est un cimeterre doré nommé Chellan (voir page 52). Il était récemment la propriété de la maîtresse, particulièrement avare, d’une guilde de mercenaires de Port-Énigme nommée Viorian Dekanti. [[...]] il y a cinq ans, Chellan s’éveilla aussi et flamboya d’une lueur dorée. Réveillée en plein sommeil par le bruit, Viorian examina sa collection pour trouver l’épée qui brillait sur son présentoir. 
+Alors qu’elle retirait l’épée pour l’examiner, la puissante arme prit le contrôle de Viorian. Cette dernière tua tous les habitants du manoir, les mercenaires comme le personnel, et partit pour Xin-Shalast. 
 L’épée la maintint en vie pendant le voyage et quand elle arriva à destination, les habitants de la ville l’accueillirent à bras ouverts. Elle fut baptisée dans le puits des runes et passa cinq ans à s’entraîner et à affiner ses talents sous la direction de Chellan. Aujourd’hui, Viorian n’est guère plus qu’un réceptacle pour le pouvoir de l’épée.
 
 

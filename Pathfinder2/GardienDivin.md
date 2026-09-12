@@ -33,7 +33,7 @@ Même si les gardiens divins de Brigh peuvent avoir n'importe quelle forme, la p
 Un gardien divin peut entrer en mode d'attente en utilisant une activité à 3 actions. Son temps d'activité ne s'écoule pas pendant qu'il est en mode d'attente mais il perçoit ce qui l'entoure (avec une pénalité de -2 en Perception). Il ne peut pas agir, à une exception près : quand il perçoit une créature, il peut sortir du mode d'attente (et lancer l'initiative si nécessaire).
 
 Une créature peut tenter un test de Sabotage pour appliquer au gardien divin un effet inverse de celui de Remonter (DD 27). Pour chaque réussite, le gardien perd 1 heure de temps d'activité. Cela peut aussi se faire pendant que le gardien divin est en mode d'attente.
----
+<hr />
 **CA** 28 ; **Réf** +20, **Vig** +18, **Vol** +18
 
 **PV** 135 ; **Immunités** effets de mort, maladie, condamné, drainé, fatigué, guérison, mental, nécromancie, attaques non létale, paralysie, empoisonné, nauséeux, inconscient ; **Faiblesses** électricité 10, orichalque 10 ; **Résistances** physique 5 (sauf adamantine ou orichalque)
@@ -45,7 +45,7 @@ Quand elle est enlevée, la *baguette d'automate* est une *baguette magique* con
 **Destruction divine** (divin, nécromancie) Quand le gardien divin est réduit à 0 PV, une explosion d'énergie divine a lieu dans une émanation de 6 cases de rayon. Elle inflige 10d6 points de dégâts positifs. Chaque créature située dans la zone d'effet doit réaliser un jet de Volonté de DD 29 dont les effets sont les suivants. **Réussite critique** La créature subit la moitié des dégâts. **Réussite** La créature subit les pleins dégâts. **Échec** La créature subit les pleins dégâts et devient temporairement maudite par Brigh : affaiblie 1 et stupéfaite 1 pendant 1 jour ; il s'agit d'un effet de malédiction avec un DD de 29 pour le contrer. **Échec critique** Comme échec mais la créature devient affaiblie 2 et stupéfiée 2.
 
 **Lié par la foi** (abjuration, divin) Le gardien divin ne peut pas attaquer une créature qui porte visiblement ou montre le symbole religieux de Brigh, à moins que cette créature n'ait effectué une action hostile contre le gardien divin.
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} poing +20 (agile, finesse) ; **Dégâts** 2d10+6 C
@@ -69,5 +69,5 @@ Quand elle est enlevée, la *baguette d'automate* est une *baguette magique* con
 </div>
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shlx](https://paizo.com/community/blog/v5748dyo6shlx).

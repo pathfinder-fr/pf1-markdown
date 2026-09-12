@@ -50,16 +50,16 @@ Categories:
 </td><td><div class="BD">
 *Aron Kir est négligé et semble exténué, il transpire et tremble, accusant d'une terrible malédiction l'objet convoité par les PJ.*
 
-[[AP13-Aron Kir|Aron Kir]] est possédé par [[AP13-Eustoyriax|Eustoyriax]]
-La dépendance [[Pathfinder-RPG.Drogues#DÉPENDANCE|sévère]] ([[sang dombre|Sang d'ombre]]) est appliquée à son profil.
+[[AP13-Aron Kir|Aron Kir]] est possédé par [[AP13-Eustoyriax|Eustoyriax]]  
+La dépendance [[Pathfinder-RPG.Drogues#DÉPENDANCE|sévère]] ([[sang dombre|Sang d'ombre]]) est appliquée à son profil.  
 Voir : [[Pathfinder-RPG.Exemples de rituels occultes|Exorcisme rituel]] pour exorciser Eustoyriax.
 
 ### Tactique
 **Avant le combat**\
-[[AP13-Eustoyriax|Eustoyriax]] est un expert en infiltration. Il cherche donc à gagner du temps pour invoquer des ombres et d'autres alliés dans l'ombre, en faisant croire que l'Epée du courage est maudite et qu'il ne faut pas la toucher.
+[[AP13-Eustoyriax|Eustoyriax]] est un expert en infiltration. Il cherche donc à gagner du temps pour invoquer des ombres et d'autres alliés dans l'ombre, en faisant croire que l'Epée du courage est maudite et qu'il ne faut pas la toucher.  
 **Pendant le combat**\
-Dans tous les cas, il ne laisse personne approcher de l'épée : le démon  se bat furieusement avec son corps d'emprunt.
+Dans tous les cas, il ne laisse personne approcher de l'épée : le démon  se bat furieusement avec son corps d'emprunt.  
 **Moral**\
-Le démon ne redoute pas la mort de son véhicule, sachant que la mort d'Aron l'obligera simplement à reprendre sa forme véritable pour terminer le combat.
+Le démon ne redoute pas la mort de son véhicule, sachant que la mort d'Aron l'obligera simplement à reprendre sa forme véritable pour terminer le combat.   
 S'il est immobilisé, il libère Aron de sa possession pour finir le travail sous sa forme de démon des ombres.
 </div></td></tr></table>

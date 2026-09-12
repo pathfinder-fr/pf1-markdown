@@ -35,7 +35,7 @@ LastModified: 2016-07-22 15:18
 des ombres affamées.
 - **Pendant le combat** Kazaven ouvre le combat en lançant doigt de mort sur un lanceur de sorts et déplacement à incantation rapide sur lui. Il lance ensuite mur de force pour se retrancher hors de portée des PJ ce qui lui donne le temps de lancer invisibilité majeure, grâce féline à incantation rapide, vol, image miroir et main spectrale. Pendant ce temps, il laisse
 le dévoreur s’occuper des PJ. Si les PJ n’ont pas fait de brèche dans son mur le temps qu’il fi nisse de lancer ses sorts préparatoires, il ouvre une porte dimensionnelle dans leurs rangs et commence à leur jeter des sorts. S’il a besoin de sbires supplémentaires, il lance façonnage de la pierre sur un mur proche ce qui libère plusieurs âmes-en-peine pour distraire les
-personnages.
+personnages. 
 - **Moral **Kazaven accorde bien trop d’importance à son existence immortelle pour continuer à se battre s’il est en train de perdre. S’il tombe à 30 points de vie, il lance double illusoire pour s’échapper sous état gazeux, et il se retire dans la zone F10 où il récupère son phylactère avant de déclencher le piège de la salle qui lui permet de soigner ses blessures. Si on lui en laisse le temps, il régénère ses sorts et cherchent les PJ pour se venger. Si les personnages l’affrontent là bas, il n’a guère d’autre choix que de se battre jusqu’à la mort mais il s’assure de déclencher le piège de la salle avant le début du combat.
 (((Caractéristiques)))
 - **For **10, **Dex** 13, **Con **—, **Int **26, **Sag **14, **Cha **16

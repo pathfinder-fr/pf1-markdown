@@ -12,7 +12,7 @@ LastModified: 2013-09-15 20:13
 NC (nc) - **Cycle** xx  
   
 When a monster is discovered on the grounds of the Pathfinder Lodge at Heidmarch Manor in Magnimar, an investigation into its appearance leads the PCs deep under the City of Monuments—and face to face with a burgeoning thieves’ guild.
----
+<hr />
 Quand un monstre est découvert au manoir Heidmarch à Magnimar sur les terres mêmes de la loge des Éclaireurs, l'enquête conduit les agents sous la Cité aux Monuments face à une guilde de voleurs en plein essor }
 {s:BookTitle|SCEN4-02|In Wrath’s Shadow / Dans l'ombre de la Colère}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0402E_180.jpeg|http://paizo.com/products/btpy8r0c?Pathfinder-Society-Scenario-4-02-In-Wrath-s-Shadow}
@@ -21,7 +21,7 @@ Quand un monstre est découvert au manoir Heidmarch à Magnimar sur les terres m
 NC (nc) - **Cycle** xx  
   
 In the ruins of Xin-Bakrakhan—seat of power of the Runelord of Wrath—the Pathfinder Society stands on the verge of a great discovery, but first the brave agents exploring the ruins must survive ages-old dangers and contemporary threats to return with the knowledge and wealth they’ve unearthed.
----
+<hr />
 Dans les ruines de Xin-Bakrakan, siège de l'ancien pouvoir d'Alaznist Seigneur des Runes de la Colère, la société des Éclaireurs est sur le point de faire une grande découverte. Mais tout d'abord les agents courageux devront explorer les ruines, survivre à ses très anciens dangers mais aussi à ses menaces contemporaines... pour pouvoir revenir avec la connaissance et les trésors qu'ils auront déterrés. }
 {s:BookTitle|SCEN4-03|The Golemworks Incident / Incident à la fabrique de golems}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0403E_180.jpeg|http://paizo.com/products/btpy8r0f?Pathfinder-Society-Scenario-4-03-The-Golemworks-Incident}
@@ -30,7 +30,7 @@ Dans les ruines de Xin-Bakrakan, siège de l'ancien pouvoir d'Alaznist Seigneur 
 NC (nc) - **Cycle** xx  
   
 When the Golemworks in Magnimar starts reporting some “problems” with their most recent batch of golems, the PCs are sent to investigate in the hope that the Pathfinder Society can get on good terms with the influential arcane organization.
----
+<hr />
 Quand la fabrique de golems de Magnimar annonce avoir certains problèmes avec leur lot le plus récent de golems, les personnages sont envoyés pour enquêter dans l'espoir que la Société des Éclaireurs puisse se placer en bons termes avec cette organisation arcanique influente.}
 {s:BookTitle|SCEN4-04|King of the Storval Stairs / Le roi des escaliers de Storval}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0404E_180.jpeg|http://paizo.com/products/btpy8r0g?Pathfinder-Society-Scenario-4-04-King-of-the-Storval-Stairs}
@@ -39,7 +39,7 @@ Quand la fabrique de golems de Magnimar annonce avoir certains problèmes avec l
 NC (nc) - **Cycle** xx  
   
 The PCs are sent to map the Storval Stairs and ensure the stairs provide a safe route to the Storval Rise from Magnimar, but upon their arrival, they find the ancient site claimed and “ruled” by the self-proclaimed King of the Storval Stairs. Only through guile, diplomacy, or cold steel will the Pathfinders ensure access to iconic Thassilonian location.
----
+<hr />
 Les personnages sont envoyés pour cartographier les escaliers de Storval et s'assurer que les escaliers sont une route sûre pour relier Magnimar au plateau de Storval, mais à leur arrivée, ils découvrent le site antique revendiqué et dominé par le roi auto-proclamé des escaliers de Storval. Ce n'est qu'avec ruse, diplomatie ou par la force des armes que les éclaireurs parviendront à rétablir l'accès à cet antique site thassilonnien }
 {s:BookTitle|SCEN4-05|The Sanos Abduction}
 {s:BookPic|http://static4.paizo.com/image/product/catalog/PZOP/PZOPSS0405E_180.jpeg|http://paizo.com/products/btpy8u8r?Pathfinder-Society-Scenario-4-05-The-Sanos-Abduction}
@@ -48,7 +48,7 @@ Les personnages sont envoyés pour cartographier les escaliers de Storval et s'a
 NC (nc) - **Cycle** xx  
   
 The Pathfinders are sent to the Sanos Forest in central Varisia to assist an agent researching the fey who inhabit the remote wood. But like many seemingly routine tasks in a Pathfinder's adventuring career, the simple support mission quickly turns into an adventure the PCs aren't soon to forget—presuming they survive.
----
+<hr />
 Les éclaireurs sont envoyés dans la forêt de Sanos situé au centre de la Varisie pour aider un agent chargé d’effectuer des recherches sur les fées qui peuplent cette forêt.  Mais comme beaucoup de mission d’apparence simpliste dans la carrière d’un aventurier, celle-ci  va très vite se transformer en aventure que les personnages ne sont pas prêts d’oublier. –  en présumant qu’ils en réchappent.}
 {s:BookTitle|SCEN4-06|The Green Markey}
 {s:BookPic|http://static1.paizo.com/image/product/catalog/PZOP/PZOPSS0406E_180.jpeg|http://paizo.com/products/btpy8u8s?Pathfinder-Society-Scenario-4-06-The-Green-Market}
@@ -88,7 +88,7 @@ The eldest daughter of the prominent Blakros family is set to wed an influential
 {s:BookComment|**Niveau** 7-11, par Dennis Baker  
 NC (nc) - **Cycle** xx  
   
-In Kaer Maga, the mysterious and dangerous cliffside City of Strangers in untamed Varisia, the Pathfinder Society will come face to face with a sect of the cult of Lissala who prey upon the city's most vulnerable denizens to increase their own power. To what end do they conduct the ancient Feast of Sigils ritual, and can the Pathfinders stop them before their evil plans come to fruition ?
+In Kaer Maga, the mysterious and dangerous cliffside City of Strangers in untamed Varisia, the Pathfinder Society will come face to face with a sect of the cult of Lissala who prey upon the city's most vulnerable denizens to increase their own power. To what end do they conduct the ancient Feast of Sigils ritual, and can the Pathfinders stop them before their evil plans come to fruition ? 
 <hr>}
 {s:BookTitle|SCEN4-11|The Disappeared}
 {s:BookPic|http://static4.paizo.com/image/product/catalog/PZOP/PZOPSS0411E_180.jpeg|http://paizo.com/products/btpy8v0h?Pathfinder-Society-Scenario-4-11-The-Disappeared}
@@ -96,7 +96,7 @@ In Kaer Maga, the mysterious and dangerous cliffside City of Strangers in untame
 {s:BookComment|**Niveau** 1-5, par Jonathan H. Keith  
 NC (nc) - **Cycle** xx  
   
-A powerful ally of the Pathfinder Society has disappeared, and no one but the Pathfinders even remembers that she ever existed. Can the PCs discover the fate of their missing associate, or will all memory of her be erased completely from history ?
+A powerful ally of the Pathfinder Society has disappeared, and no one but the Pathfinders even remembers that she ever existed. Can the PCs discover the fate of their missing associate, or will all memory of her be erased completely from history ? 
 <hr>}
 {s:BookTitle|SCEN4-12|The Refuge of Time}
 {s:BookPic|http://static2.paizo.com/image/product/catalog/PZOP/PZOPSS0412E_180.jpeg|http://paizo.com/products/btpy8v0i?Pathfinder-Society-Scenario-4-12-The-Refuge-of-Time}

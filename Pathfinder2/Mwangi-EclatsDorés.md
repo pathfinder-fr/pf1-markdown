@@ -81,5 +81,5 @@ Hioba se retourna pour observer à nouveau l’arbre. « C’est un aspect du Ma
 
 Hioba tenta de répondre, mais le Léopard d’Azur était déjà parti.
 
----
+<hr />
 Cette page est la traduction d'un récit publié sur le blog de Paizo à l'adresse [https://paizo.com/community/blog/v5748dyo6shpj?Tales-of-Lost-Omens-Golden-Splinters](https://paizo.com/community/blog/v5748dyo6shpj?Tales-of-Lost-Omens-Golden-Splinters) et écrit par Quinn Murphy.

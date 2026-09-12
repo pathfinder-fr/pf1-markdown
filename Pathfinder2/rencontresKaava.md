@@ -8,7 +8,7 @@ LastModified: 2021-11-23 03:24
 • [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Cette page est la traduction d'une aide de jeu partagée par Jason Tondro (@doctorcomics sur Twitter) et disponible en anglais à l'adresse suivante : [lien GoogleDrive](https://drive.google.com/file/d/1YJJueHtxpqJqqtXT1Rp3kqJB4Y7PBj03/view).
----
+<hr />
 
 Les terres des kaavas constituent un terrain difficile. Les PJ peuvent espérer parcourir 16 km par jour s'ils ne rencontrent aucun obstacle. Chaque jour, lancez un test nu de DD 14. En cas de réussite, une rencontre se produit ce jour-là. En cas de réussite critique, deux rencontres se produisent. Les rencontres décrites ci-dessous sont prévues pour des personnages de niveau 1 à 3.
 
@@ -77,11 +77,11 @@ Un groupe de 1d4 combattants charau-kas (Créature 1, Étendue Mwangie) chassent
 **For** +3, **Dex** +3, **Con** +2, **Int** -1, **Sag** +1, **Cha** +0
 
 **Équipement** dague, hachette, armure de peaux
----
+<hr />
 **CA** 16 ; **Réf** +8, **Vig** +7, **Vol** +4
 
 **PV** 20
----
+<hr />
 **Vitesse** 5 cases, escalade 5 cases
 
 **Càc** {s:PF2a|1a} hachette +7 (agile, balayage) ; **Dégâts** 1d6+3 T
@@ -119,11 +119,11 @@ Une meute de 2d4 compsognathus (Créature -1, Bestiaire 2) chasse en groupe dans
 **Compétences** Acrobaties +6, Discrétion +6
 
 **For** +0, **Dex** +3, **Con** +2, **Int** -4, **Sag** +2, **Cha** -2
----
+<hr />
 **CA** 15 ; **Réf** +7, **Vig** +4, **Vol** +4
 
 **PV** 8
----
+<hr />
 **Vitesse** 6 cases, natation 3 cases
 
 **Càc** {s:PF2a|1a} mâchoires +7 (agile, finesse) ; **Dégâts** 1d6 P plus venin de compsognathus
@@ -145,13 +145,13 @@ Un groupe de petits singes rouges observe les PJ depuis les arbres tout en pouss
 **Compétences** Acrobaties +8, Art du voleur +8
 
 **For** +0, **Dex** +4, **Con** +0, **Int** -4, **Sag** +2, **Cha** +0
----
+<hr />
 **CA** 16 ; **Réf** +10, **Vig** +6, **Vol** +6
 
 **PV** 20 ; **Immunités** dégâts de précision, esprit de nuée ; **Faiblesses** dégâts de zone 3, dégâts d'aspersion 3 ; **Résistances** perforant 3, tranchant 3
 
 **Cacophonie** (auditif, aura 4 cases) L'horrible brouhaha de cris et de hurlements des singes recouvre complètement les autres bruits. Toute créature réalisant une action auditive dans la zone doit hurler pour se faire entendre, ce qui nécessite un jet de Vigueur ou un test de Représentations de DD 15 pour faire porter sa voix suffisamment loin ; en cas d'échec, l'action est perdue.
----
+<hr />
 **Vitesse** 5 cases, escalade 4 cases
 
 **Dépouiller** {s:PF2a|2a} La nuée farfouille dans toutes les possessions d'une unique cible située dans son espace et tente un test d'Art du voleur contre le DD de Réflexes de la créature. En cas de réussite, les singes prennent un objet d'Encombrement négligeable que la créature possède sur elle mais qu'elle ne protège pas particulièrement, comme un objet rangé dans une bourse.
@@ -193,11 +193,11 @@ Un groupe de 1d4 éclaireurs gripplis (Créature 1, Bestiaire 2) occupe une plat
 **For** +1, **Dex** +4, **Con** +2, **Int** +0, **Sag** +3, **Cha** -1
 
 **Équipement** fléchette (5), armure de cuir, filet, serpe
----
+<hr />
 **CA** 18 ; **Réf** +9, **Vig** +7, **Vol** +6
 
 **PV** 20
----
+<hr />
 **Vitesse** 5 cases, escalade 4 cases ; traversée de la jungle
 
 **Càc** {s:PF2a|1a} serpe +9 (agile, finesse, croc-en-jambe) ; **Dégâts** 1d4+1 T
@@ -233,11 +233,11 @@ Un groupe de 1d4 chasseurs kaavas (kaava stalker, Créature 1, Étendue Mwangi) 
 **Équipement** serpe en obsidienne, lance (3)
 
 **Aucune trace** Un kaava qui se déplace à la moitié de sa Vitesse ou moins a le pas si léger qu'il ne laisse quasiment aucune trace. Le DD des tests pour Pister un kaava est augmenté de 10.
----
+<hr />
 **CA** 16 ; **Réf** +9, **Vig** +5, **Vol** +7
 
 **PV** 20 ; **Résistances** poison 3
----
+<hr />
 **Vitesse** 6 cases
 
 **Càc** {s:PF2a|1a} serpe +9 (agile, finesse, croc-en-jambe), **Dégâts** 1d4+3 T
@@ -263,11 +263,11 @@ Un léopard de Mbaiki, qui était autrefois une personne, se repose dans les bra
 **Compétences** Acrobaties +8, Athlétisme +7, Discrétion +8 (+11 dans les fourrés)
 
 **For** +3, **Dex** +4, **Con** +2, **Int** +1, **Sag** +1, **Cha** -2
----
+<hr />
 **CA** 18 ; **Réf** +10, **Vig** +8, **Vol** +5
 
 **PV** 30
----
+<hr />
 **Vitesse** 6 cases, escalade 4 cases
 
 **Càc** {s:PF2a|1a} mâchoires +10 (finesse), **Dégâts** 1d10+3 plus Agripper
@@ -315,11 +315,11 @@ Deux pygmées kaavas (Créature 0, Étendue Mwangie), chacun accompagné d'un ma
 **Équipement** serpe en obsidienne, lance (3)
 
 **Aucune trace** Un kaava qui se déplace à la moitié de sa Vitesse ou moins a le pas si léger qu'il ne laisse quasiment aucune trace. Le DD des tests pour Pister un kaava est augmenté de 10.
----
+<hr />
 **CA** 15 ; **Réf** +7, **Vig** +5, **Vol** +6
 
 **PV** 15 ; **Résistances** poison 2
----
+<hr />
 **Vitesse** 6 cases
 
 **Càc** {s:PF2a|1a} serpe +8 (agile, finesse, croc-en-jambe), **Dégâts** 1d4+2 T
@@ -357,7 +357,7 @@ Les PJ croisent le chemin d'un umasi nomade (Créature 6, Bestiaire 3), un amalg
 **For** +5, **Dex** +3, **Con** +4, **Int** +1, **Sag** +2, **Cha** +1
 
 **Équipement** *sarbacane +1* (10 fléchettes avec du poison de récolteur), bouclier en bois (Solidité 5, PV 12, SB 6) avec des pointes de bouclier
----
+<hr />
 **CA** 23 (25 avec bouclier levé) ; **Réf** +11, **Vig** +16, **Vol** +12 ; +2 de statut à tous les jets de sauvegarde contre le poison
 
 **PV** 99, chair immortelle ; **Immunités** maladie
@@ -365,7 +365,7 @@ Les PJ croisent le chemin d'un umasi nomade (Créature 6, Bestiaire 3), un amalg
 **Chair immortelle** Les umasis ne peuvent pas guérir ni récupérer des PV d'une autre manière que via leurs techniques de greffes. Cependant, même s'il s'agit de créatures vivantes, les énergies positives comme négatives ne leur infligent aucun dégâts.
 
 **Lever le bouclier** {s:PF2a|ra}
----
+<hr />
 **Vitesse** 7 cases
 
 **Càc** {s:PF2a|1a} griffe +17 (agile) ; **Dégâts** 2d6+8 T
@@ -427,11 +427,11 @@ Prêtresse humaine
 **For** +0, **Dex** +1, **Con** +0, **Int** +3, **Sag** +4, **Cha** +1
 
 **Équipement** *potion de guérison mineure* (3), symbole religieux de Sarenrae, bâton, cuir clouté
----
+<hr />
 **CA** 17 ; **Réf** +9, **Vig** +7, **Vol** +11
 
 **PV** 30
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} bâton +8 (deux-mains d8) ; **Dégâts** 1d4 C

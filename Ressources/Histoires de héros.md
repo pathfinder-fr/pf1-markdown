@@ -15,7 +15,7 @@ Categories:
 
 *Vous vous tenez debout sur une grande plaque de roche dont les fissures laissent entrevoir de la lave au dessous. La grande caverne s'étend sur plusieurs mètres au dessus de vous.  A une vingtaine de mètres de part et d'autre il y a un promontoire de 3m de hauteur qui débouche sur un tunnel, au sud le sol rocheux est plutôt solide, tandis qu'à l'opposé, la pierre s'éparpille dans la lave tels des navires à la dérive. *
 
-''Soudain, un cri long et paniqué retenti vers le couloir sud. Il semblerait qu'une personne vienne vers vous rapidement. Et vu les pas extrêmement lourds qui semblent suivre faisant légèrement trembler la roche, cette personne ne doit pas être seule.
+''Soudain, un cri long et paniqué retenti vers le couloir sud. Il semblerait qu'une personne vienne vers vous rapidement. Et vu les pas extrêmement lourds qui semblent suivre faisant légèrement trembler la roche, cette personne ne doit pas être seule. 
 Un homme aux cheveux ébouriffés portant autour du cou, dans deux sacs et sa chemise entrouverte plusieurs colliers et autres bijoux déboule en sautant de la plateforme, l'air paniqué et hurle "COUUURREZ !" ''
 
 
@@ -36,7 +36,7 @@ Un homme aux cheveux ébouriffés portant autour du cou, dans deux sacs et sa ch
 - Le combattant	 : Le mieux c'est de protéger les autres et d'entamer un combat pour éviter le carnage quite à se sacrifier !
 
 
-**Round 4	**Le voleur est soit encore accroché à la paroi soit continue la course. Le dragon souffle (2d10 feu).
+**Round 4	**Le voleur est soit encore accroché à la paroi soit continue la course. Le dragon souffle (2d10 feu). 
 
 
 **Round 5**	Le voleur saute dans un trou trop petit pour que le dragon ne passe et arrive dans une rivière d'eau chaude qui le mène rapidement à un portail magique sur la rive.
@@ -78,7 +78,7 @@ Un choc fait tanguer le bateau de plus belle puis la trappe au plafond se détac
 
 **Phase 3**:  *faites pieuvre d'audace!*
 
-Un kraken coule un bateau au loin, puis un autre, puis encore un autre. La plupart des soldats qui vous assiégeaient sont soit morts, soit tombés à l'eau. Le kraken se rapproche lentement mais sûrement, semblant ignorer les obus qu'il balaye de ses tentacules.
+Un kraken coule un bateau au loin, puis un autre, puis encore un autre. La plupart des soldats qui vous assiégeaient sont soit morts, soit tombés à l'eau. Le kraken se rapproche lentement mais sûrement, semblant ignorer les obus qu'il balaye de ses tentacules. 
 -à vos marques: préparez les canons (connaissance ingénierie DD12 seulement si pas déjà utilisés), armez vos armes à distance et relisez vos sorts! Le combat qui va suivre sera rude!
 -fuyez pauvres fous: tentez de fuir (connaissance ingénierie DD14), qui n'essaie rien n'a rien! Bande de poulpes mouillés...
 -retournez sur le vaisseau mère: si vous avez accosté un autre navire, tentez de regagner le vaisseau de départ:mieux armé, mieux équipé, plus robuste... Vous avez tout à y gagner!
@@ -96,7 +96,7 @@ Un kraken coule un bateau au loin, puis un autre, puis encore un autre. La plupa
 
 <u>**Fins possibles**</u>:
 
-- Vous vous êtes fait tués par les pirates? Bah rien à dire, vous êtes nuls.
+- Vous vous êtes fait tués par les pirates? Bah rien à dire, vous êtes nuls. 
 
 -Le capitaine Thule est mort au combat? Au moins, si vous avez survécu, vous aurez les richesses du bateau dans lequel vous aurez fuit.
 

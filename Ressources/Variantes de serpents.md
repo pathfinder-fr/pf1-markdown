@@ -229,7 +229,7 @@ Aspect : Ce serpent a le corps brun et fin, alors que sa tête est large et bord
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 2, **Dex** 19, **Con** 6, **Int** 1, **Sag** 13, **Cha** 2}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 8 ([[Pathfinder-RPG.croc-en-jambe|croc-en-jambe]] impossible)}
-231
+231 
 {s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]]}
 {s:BDTexte|**Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +16, [[Pathfinder-RPG.Escalade|Escalade]] +10, [[Pathfinder-RPG.Natation|Natation]] +14, [[Pathfinder-RPG.Perception|Perception]] +9 ; **Modificateurs raciaux** [[Pathfinder-RPG.Discrétion|Discrétion]] +4, [[Pathfinder-RPG.Natation|Natation]] +4, [[Pathfinder-RPG.Perception|Perception]] +4}
 {s:BDSousTitre|Écologie}

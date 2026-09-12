@@ -46,9 +46,9 @@ Si [[AP13-Aron Kir|Aron Kir]] a réussi à filler en douce sans l'influence du s
 
 ### Tactiques
 **Avant le combat**\
-Il profite des premiers tours comme indiqué plus bas tant que les PJ ne s'approchent pas de l'[[AP13-Epée du courage|Epée du courage]].
+Il profite des premiers tours comme indiqué plus bas tant que les PJ ne s'approchent pas de l'[[AP13-Epée du courage|Epée du courage]].  
 **Pendant le combat**\
-Pendant les 3 premiers rounds de combat Eustoyriax essaye de posséder ceux qui semblent soigner les membres de leur groupee avant de passer aux attaques physiques. Si les portes de la zone G12 sont ouvertes, il utilise son pouvoir de [[Pathfinder-RPG.télékinésie|télékinésie]] pour pousser les adversaires dans la fosse de cette salle.
+Pendant les 3 premiers rounds de combat Eustoyriax essaye de posséder ceux qui semblent soigner les membres de leur groupee avant de passer aux attaques physiques. Si les portes de la zone G12 sont ouvertes, il utilise son pouvoir de [[Pathfinder-RPG.télékinésie|télékinésie]] pour pousser les adversaires dans la fosse de cette salle.   
 **Moral**\
 Eustoyriax combat jusqu'à la mort.
 </div>

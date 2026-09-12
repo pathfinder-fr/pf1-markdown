@@ -5,7 +5,7 @@ LastModified: 2019-08-31 23:24
 ---
 
 <div class="presentation arrondi recentre ombre"><center>**ÉVOLUÉS (LES)**
-</br>**Activistes cybernétiques**
+</br>**Activistes cybernétiques**  
 </br>**Dirigeant** : Collectif Cyprémaciste
 </br>**Quartier général** : Les Tours Torsadées, Kashak, Verces</center></div>
 

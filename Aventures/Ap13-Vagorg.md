@@ -28,7 +28,7 @@ Categories:
 {s:BDSorts|[[Pathfinder-RPG.Force de taureau|Force de taureau]] : +4 Force; 5 minutes}
 {s:BDSorts|[[Pathfinder-RPG.Fracassement|Fracassement]] (DD 16)}
 {s:BDSorts|[[Pathfinder-RPG.Rayon ardent|Rayon ardent]] : 1 rayon +3, 4d6 feu}
-{s:BDSorts|1<sup>er</sup> (7/jour)}
+{s:BDSorts|1<sup>er</sup> (7/jour)} 
 {s:BDSorts|[[Pathfinder-RPG.Alarme|Alarme]]}
 {s:BDSorts|[[Pathfinder-RPG.Armure de mage|Armure de mage]] : +4 CA ; 5 heures}
 {s:BDSorts|[[Pathfinder-RPG.Bouclier|Bouclier]] : +4 CA, absorption projectiles magiques ; 5 minutes}
@@ -58,13 +58,13 @@ Categories:
 * *
 ### Tactique
 {s:ImageExtLien|https://db4sgowjqfwig.cloudfront.net/images/3350702/Vagorg.PNG|70px|fright cadre}
-**Avant le combat**
-Vagorg maintient tout le temps un sort d'[[Pathfinder-RPG.Alarme|Alarme]] mentale centrée sur la porte de devant. Si quelqu'un approche à 6 mètres ou moins de cette porte il est alerté et prépare son embuscade.
-Vargog boit une potion d'invisibilité, puis se lance silencieusement [[Pathfinder-RPG.Armure de mage|Armure de mage]] et [[Pathfinder-RPG.Bouclier|Bouclier]] pendant q'uil se déplace vers le sud pour y attaquer ses victimes.
-**Pendant le combat**
-Vagorg attend qu'Anévia entre dans son champ de vision pour attaquer. Il lance de manière silencieuse une [[Pathfinder-RPG.Convocation de monstres I|Convocation de monstres I]] (en 2 rounds) pour convoquer un [[Scarabée de feu fiélon]] et lui ordonner d'attaquer Anévia.
-Il réitère cette action tous les deux rounds.
-Une fois à cours de sort de niveau 2, il engage le combat et concentre ses attaques avec sa corsèque sur Anévia tout en criant en orque : "C'est ton cadavre qui attendra ta femme dans son lit !".
+**Avant le combat**  
+Vagorg maintient tout le temps un sort d'[[Pathfinder-RPG.Alarme|Alarme]] mentale centrée sur la porte de devant. Si quelqu'un approche à 6 mètres ou moins de cette porte il est alerté et prépare son embuscade.  
+Vargog boit une potion d'invisibilité, puis se lance silencieusement [[Pathfinder-RPG.Armure de mage|Armure de mage]] et [[Pathfinder-RPG.Bouclier|Bouclier]] pendant q'uil se déplace vers le sud pour y attaquer ses victimes.  
+**Pendant le combat**  
+Vagorg attend qu'Anévia entre dans son champ de vision pour attaquer. Il lance de manière silencieuse une [[Pathfinder-RPG.Convocation de monstres I|Convocation de monstres I]] (en 2 rounds) pour convoquer un [[Scarabée de feu fiélon]] et lui ordonner d'attaquer Anévia.  
+Il réitère cette action tous les deux rounds.  
+Une fois à cours de sort de niveau 2, il engage le combat et concentre ses attaques avec sa corsèque sur Anévia tout en criant en orque : "C'est ton cadavre qui attendra ta femme dans son lit !".  
 Si les PJ parviennent à l'attaquer avant qu'il ne soit à court de sort de niveau 2, il se lance [[Pathfinder-RPG.Force de taureau|Force de taureau]] et contre-attaque.
 **Moral**\
 Vagorg combat jusqu'à la mort.

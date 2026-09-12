@@ -35,7 +35,7 @@ Categories:
 {s:BDSorts|[[Pathfinder-RPG.Cécitésurdité|Cecité-surdité]] (DD vig 17) : cible [[Pathfinder-RPG.assourdi|sourde]] ou [[Pathfinder-RPG.aveuglé|aveugle]]}
 {s:BDSorts|[[Pathfinder-RPG.Nappe de brouillard|Nappe de brouillard]]}
 {s:BDSorts|[[Pathfinder-RPG.Regard Brûlant|Regard Brûlant]] (DD vig 17) : 1d6 feu par round, (ref 17 pour stopper}
-{s:BDSorts|1<sup>er</sup>}
+{s:BDSorts|1<sup>er</sup>} 
 {s:BDSorts|[[Pathfinder-RPG.Blessure légère|Blessure légère]] (DD vol 15, 1/2) : 1d8+5}
 {s:BDSorts|[[Pathfinder-RPG.Charme-personne|Charme-personne]] (DD vol 15)}
 {s:BDSorts|[[Pathfinder-RPG.Injonction|Injonction]] (DD 15)}
@@ -66,25 +66,25 @@ Categories:
 
 Cela ne fait toutefois pas longtemps qu'il occupe cette position, car il a tout simplement pris la place de son supérieur après avoir découvert que celui-ci détournait l'argent du culte pour satisfaire son addiction au sang de démon. Après avoir dénoncé son supérieur, Faxon a été promu au rang de chef temporaire des Templiers de Kénabres: un rôle qu'il n'a joué seulement quelques semaines avant la chute de la cité.
 ### Tactique
-**Pendant le combat**
-Fxon ouvre les hostilités en lançant [[Pathfinder-RPG.Cécitésurdité|Cecité-surdité]] sur l'un des ennemis qu'il pense être un soigneur.
-Puis il lance [[Pathfinder-RPG.sort Malédiction|Malédiction]] sur l'adversaire portant l'armure la plus lourde afin de réduire sa valeur de force de 6 points.
-Il enchaîne ensuite avec des sorts et maléfices offensifs, et lance [[Pathfinder-RPG.Baiser du vampire|Baiser du vampire]] lorsqu'il lui reste moins de 20 points de vie.
+**Pendant le combat**  
+Fxon ouvre les hostilités en lançant [[Pathfinder-RPG.Cécitésurdité|Cecité-surdité]] sur l'un des ennemis qu'il pense être un soigneur.  
+Puis il lance [[Pathfinder-RPG.sort Malédiction|Malédiction]] sur l'adversaire portant l'armure la plus lourde afin de réduire sa valeur de force de 6 points.  
+Il enchaîne ensuite avec des sorts et maléfices offensifs, et lance [[Pathfinder-RPG.Baiser du vampire|Baiser du vampire]] lorsqu'il lui reste moins de 20 points de vie.  
 
-**Moral**
+**Moral**  
 Faxon combat jusqu'à la mort.
 
 ### Trésor (N4)
-Le coffre en bois est verrouillé (Sabotage DD 30, ou clé de Faxon) :
-- 2310 pc, 759 pa, 122 po, 11 pp
-- 5 symboles sacré de Iomédae (25 po chacun)
-- [[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREUNEMAIN|Épée longue]] de [[Pathfinder-RPG.Armes de maître|maître (+1 toucher)]]
-- 2 [[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREUNEMAIN|cimeterres]] de [[Pathfinder-RPG.Armes de maître|maître (+1 toucher)]]
-- ustensiles de cuisine et argenterie (450 po)
-- [[Pathfinder-RPG.Baguettes magiques|Baguette]] de [[Pathfinder-RPG.Bénédiction darme|bénédiction d'arme]] (18 charges)
-- [[Pathfinder-RPG.Phylactère du croyant|phylactère du croyant]] cassé.
-- Liasse de documents sur les activité des fanatiques.
-- [Lettre à Faxon](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre%20%C3%A0%20Faxon.pdf)
+Le coffre en bois est verrouillé (Sabotage DD 30, ou clé de Faxon) :  
+- 2310 pc, 759 pa, 122 po, 11 pp    
+- 5 symboles sacré de Iomédae (25 po chacun)  
+- [[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREUNEMAIN|Épée longue]] de [[Pathfinder-RPG.Armes de maître|maître (+1 toucher)]]  
+- 2 [[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREUNEMAIN|cimeterres]] de [[Pathfinder-RPG.Armes de maître|maître (+1 toucher)]]  
+- ustensiles de cuisine et argenterie (450 po)  
+- [[Pathfinder-RPG.Baguettes magiques|Baguette]] de [[Pathfinder-RPG.Bénédiction darme|bénédiction d'arme]] (18 charges)  
+- [[Pathfinder-RPG.Phylactère du croyant|phylactère du croyant]] cassé.  
+- Liasse de documents sur les activité des fanatiques.  
+- [Lettre à Faxon](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre%20%C3%A0%20Faxon.pdf)    
 
 
 </div></td></tr></table>

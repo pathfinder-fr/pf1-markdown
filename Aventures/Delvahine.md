@@ -57,7 +57,7 @@ de Vigueur DD 28 pour annuler cet effet. Le DD du jet de sauvegarde est basé su
 </div>
 </td><td><div>''
 
-Cette succube est défendue par ses filles.
+Cette succube est défendue par ses filles. 
 
 ''
 

@@ -5,7 +5,7 @@ LastModified: 2019-08-31 23:25
 ---
 
 <div class="presentation arrondi recentre ombre"><center>**CHEVALIERS INFERNAUX (LES)**
-</br>**Exécuteurs impitoyables de l’ordre interstellaire**
+</br>**Exécuteurs impitoyables de l’ordre interstellaire**  
 </br>**Dirigeant** : Selon l'ordre
 </br>**Quartier général** : Sept massifs vaisseaux-citadelles</center></div>
 

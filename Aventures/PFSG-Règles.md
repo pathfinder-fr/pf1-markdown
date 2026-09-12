@@ -79,7 +79,7 @@ Le choix d'une vitesse de progression est lié à votre personnage. Il vous est 
 
 Quelle que soit la vitesse de progression de votre Éclaireur, celui-ci gagne un niveau chaque fois qu'il atteint 3 XP. Une fois qu'il a acquis suffisamment d'XP pour gagner un niveau, vous ne pouvez plus le jouer à son ancien niveau.
 
-**Note.** Les personnages nouvellement créés qui participent aux aventures d'initiation de la série "*Premiers Pas*" doivent utiliser la vitesse de progression standard pour leurs trois premières aventures. Chaque scénario de cette série rapporte 1 XP, et le personnage doit pouvoir atteindre le niveau 2 à la fin de la série.
+**Note.** Les personnages nouvellement créés qui participent aux aventures d'initiation de la série "*Premiers Pas*" doivent utiliser la vitesse de progression standard pour leurs trois premières aventures. Chaque scénario de cette série rapporte 1 XP, et le personnage doit pouvoir atteindre le niveau 2 à la fin de la série. 
 
 {s:Reference|METIER}
 
@@ -385,7 +385,7 @@ Jusqu'à récemment, chaque roman donnait droit à une fiche de chronique. Depui
 ### Récompenses: Convention, Jour de fête et Quête
 {s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20V.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}ous ne pouvez pas assigner des copies multiples d'une récompense au même personnage. Si la seule différence entre deux chroniques est le titre de la convention ou de l'évènement mentionné en haut, alors il s'agit de la même récompense.
 
-Pour les récompenses de Jours de fête, vous devez participer à une session de jeu de la Société des Éclaireurs, durant les dates mentionnées sur la récompense, pour pouvoir l'attribuer à un personnage. Vous ne pouvez recevoir qu'un seul exemplaire de cette récompense, mais vous pouvez l'attribuer à n'importe lequel de vos personnages, il n'est pas obligatoire qu'il s'agisse de celui que vous avez joué durant la session.
+Pour les récompenses de Jours de fête, vous devez participer à une session de jeu de la Société des Éclaireurs, durant les dates mentionnées sur la récompense, pour pouvoir l'attribuer à un personnage. Vous ne pouvez recevoir qu'un seul exemplaire de cette récompense, mais vous pouvez l'attribuer à n'importe lequel de vos personnages, il n'est pas obligatoire qu'il s'agisse de celui que vous avez joué durant la session. 
 
 Pour les Quêtes (**ndt**: parues dans Kobold Quarterly #17 et #23), les récompenses doivent être attribuées au personnage joué. Si le personnage décède, attribuez lui la Chronique, mais barrez la récompense. L'état de mort n'est pas permanent pour les Quêtes. C'est une exception aux règles normales de décès.
 

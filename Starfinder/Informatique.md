@@ -12,9 +12,9 @@ Vous pouvez faire fonctionner, manipuler et pirater des systèmes informatiques.
 Le DD de base de nombre des tâches liées à la compétence Informatique est égal à 13 + (4 × l’échelon de l’ordinateur). Le MJ peut modifier ces DD en fonction d’autres circonstances.
 
 #### Accéder à un système non sécurisé
-Vous pouvez utiliser la compétence Informatique pour accéder aux fonctions les plus basiques d’un système informatique non sécurisé.
-Le DD pour accéder aux informations ou aux fonctions d’un ordinateur public qu’aucune contre-mesure ou qu’aucun pare-feu ne protègent est le plus souvent de 10. À la différence des autres tâches que l’on peut accomplir avec la compétence Informatique, vous pouvez tenter d’accéder à un système même sans bénéficier d’une formation si vous faites 20 pour accomplir cette tâche, ce qui nécessite 2 minutes.
-On peut également accéder à des systèmes informatiques sécurisés et les sections sécurisées d’un système par ailleurs non sécurisé en effectuant des tests d’Informatique pour pirater un système (voir la
+Vous pouvez utiliser la compétence Informatique pour accéder aux fonctions les plus basiques d’un système informatique non sécurisé. 
+Le DD pour accéder aux informations ou aux fonctions d’un ordinateur public qu’aucune contre-mesure ou qu’aucun pare-feu ne protègent est le plus souvent de 10. À la différence des autres tâches que l’on peut accomplir avec la compétence Informatique, vous pouvez tenter d’accéder à un système même sans bénéficier d’une formation si vous faites 20 pour accomplir cette tâche, ce qui nécessite 2 minutes. 
+On peut également accéder à des systèmes informatiques sécurisés et les sections sécurisées d’un système par ailleurs non sécurisé en effectuant des tests d’Informatique pour pirater un système (voir la 
 page 142).
 
 #### Créer ou détecter une contrefaçon
@@ -36,7 +36,7 @@ Les DD des tests d’Informatique pour détecter une contrefaçon dépendent du 
 </center>
 
 #### Désactiver ou manipuler un module
-Un personnage ayant un accès privilégié à un ordinateur peut désactiver ou manipuler une contre-mesure ou un module par une action simple en réussissant un test d’Informatique DD 10. Si vous disposez d’un accès simple (main non privilégié) à un ordinateur, vous pouvez effectuer un test d’Informatique pour activer, ajouter, désactiver ou manipuler des contre-mesures ou des modules. Si vous voulez interagir avec une contre-mesure ou un module protégé par un pare-feu, vous devez d’abord pirater le système (voir plus bas) pour pouvoir y accéder. L’activation ou la désactivation d’une contre-mesure ou d’un module prend généralement 1 minute par échelon de l’ordinateur.
+Un personnage ayant un accès privilégié à un ordinateur peut désactiver ou manipuler une contre-mesure ou un module par une action simple en réussissant un test d’Informatique DD 10. Si vous disposez d’un accès simple (main non privilégié) à un ordinateur, vous pouvez effectuer un test d’Informatique pour activer, ajouter, désactiver ou manipuler des contre-mesures ou des modules. Si vous voulez interagir avec une contre-mesure ou un module protégé par un pare-feu, vous devez d’abord pirater le système (voir plus bas) pour pouvoir y accéder. L’activation ou la désactivation d’une contre-mesure ou d’un module prend généralement 1 minute par échelon de l’ordinateur. 
 Toutes ces tâches ont un DD égal à celui appliqué lors du piratage d’un système. Vous ne pouvez pas faire 20 à un test d’Informatique effectué pour désactiver ou manipuler un module.
 
 #### Détecter une section factice
@@ -49,7 +49,7 @@ Vous pouvez utiliser la compétence Informatique pour réparer un système ou un
 Vous pouvez fabriquer des ordinateurs si vous avez suffisamment de rangs en Informatique. (Voir les [[règles de fabrication]])
 
 #### Obtenir un accès privilégié
-Si vous bénéficiez d’un accès simple à un ordinateur, vous pouvez tenter d’étendre vos autorisations pour obtenir un accès privilégié.
+Si vous bénéficiez d’un accès simple à un ordinateur, vous pouvez tenter d’étendre vos autorisations pour obtenir un accès privilégié. 
 Cette tâche est similaire au piratage de ce même ordinateur mais le DD est augmenté de 20. Il est impossible, dans de nombreux cas, d’obtenir un accès privilégié et chaque tâche, en dehors des fonctions basiques de l’ordinateur, doit être tentée par le biais d’un test distinct pour détruire, réparer, désactiver ou manipuler des modules ou des contre-mesures. Si un pare-feu a été configuré de manière à autoriser un accès privilégié à différents utilisateurs accrédités, vous devez obtenir un accès privilégié à ce pare-feu indépendamment. Une fois que vous disposez d’un accès privilégié à un ordinateur, vous pouvez modifier la liste des personnes bénéficiant d’un accès privilégié en réussissant un test d’Informatique pour pirater le système.
 
 #### Pirater un système

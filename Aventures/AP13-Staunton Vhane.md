@@ -44,11 +44,11 @@ Categories:
 **Monture :** [[Guêpe géante fiélone|Vrexed]]
 
 ### Tactiques
-**Avant le combat**
-Staunton se lance *[[Pathfinder-RPG.Force de taureau|Force de taureau]]* avant le combat.
-**Pendant le combat.**
-Staunton se lance *[[Pathfinder-RPG.protection contre le bien|protection contre le bien]]* au premier round de combat. Il préfère charger au coeur de la mêlée en brandissant * Cisaille des âmes*. Il attaque avec son armure à pointes s'il ne peut maintenir son allonge contre ses adversaires. Il applique toujours son [[Pathfinder-RPG.Antipaladin#CHATIMENTDUBIEN|Châtiment du Bien]] contre les prêtres et les paladins vertueux, en utilisant son pouvoir mythique pour effectuer des [[Pathfinder-RPG.Champion mythique#FRAPPEDUCHAMPION|frappe du champion]] soudaines. A chaque fois qu'il attaque, il utilise [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]] pour augmenter ses dégâts. Il utilise [[Pathfinder-RPG.Aptitudes de la voie du champion mythique#GICLEEDESANG|Giclée de sang]] aussi souvent que possible contre les soigneurs. Contre des ennemis portant des armures lourdes, il se fie à son [[Pathfinder-RPG.Antipaladin#TOUCHERDECORRUPTION|toucher de corruption]], en infligeant d'abord une [[Pathfinder-RPG.Antipaladin#CRUAUTE|cruauté]] fatigue puis maladie ([[Pathfinder-RPG.Maladies#PESTEBUNONIQUE|peste bubonique]]). Sa coutille convoque un [[Pathfinder-RPG.babau|babau]] qui vient l'aider lors du premier round de combat.
-**Moral**
+**Avant le combat**  
+Staunton se lance *[[Pathfinder-RPG.Force de taureau|Force de taureau]]* avant le combat.  
+**Pendant le combat.**   
+Staunton se lance *[[Pathfinder-RPG.protection contre le bien|protection contre le bien]]* au premier round de combat. Il préfère charger au coeur de la mêlée en brandissant * Cisaille des âmes*. Il attaque avec son armure à pointes s'il ne peut maintenir son allonge contre ses adversaires. Il applique toujours son [[Pathfinder-RPG.Antipaladin#CHATIMENTDUBIEN|Châtiment du Bien]] contre les prêtres et les paladins vertueux, en utilisant son pouvoir mythique pour effectuer des [[Pathfinder-RPG.Champion mythique#FRAPPEDUCHAMPION|frappe du champion]] soudaines. A chaque fois qu'il attaque, il utilise [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]] pour augmenter ses dégâts. Il utilise [[Pathfinder-RPG.Aptitudes de la voie du champion mythique#GICLEEDESANG|Giclée de sang]] aussi souvent que possible contre les soigneurs. Contre des ennemis portant des armures lourdes, il se fie à son [[Pathfinder-RPG.Antipaladin#TOUCHERDECORRUPTION|toucher de corruption]], en infligeant d'abord une [[Pathfinder-RPG.Antipaladin#CRUAUTE|cruauté]] fatigue puis maladie ([[Pathfinder-RPG.Maladies#PESTEBUNONIQUE|peste bubonique]]). Sa coutille convoque un [[Pathfinder-RPG.babau|babau]] qui vient l'aider lors du premier round de combat.  
+**Moral**   
 Staunton se bat jusqu'à la mort.
 
 ### Trésor

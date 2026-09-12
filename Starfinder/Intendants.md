@@ -5,7 +5,7 @@ LastModified: 2019-09-01 13:11
 ---
 
 <div class="presentation arrondi recentre ombre"><center>**INTENDANTS (LES)**
-</br>**Pacificateurs diplomatiques**
+</br>**Pacificateurs diplomatiques**  
 </br>**Dirigeant** : Directeur-Général Lin Camulan
 </br>**Quartier général** : Bastion, Station Absalom</center></div>
 

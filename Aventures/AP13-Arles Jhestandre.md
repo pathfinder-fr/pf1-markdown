@@ -55,6 +55,6 @@ Categories:
 {s:BDTexte|44 po}
 </div>
 </td><td><div>
-Arles est un vétéran qui a participé à plusieurs conflits et chacun d'eux s'est plutôt mal terminé. Ses convictions religieuses ont été ébranlées, et même s'il dissimule cela à ses frères d'armes, les [[AP13-Chevalier de Kénabres|Chevalier de Kénabres]], il ne peut les cacher à Iomédae.
+Arles est un vétéran qui a participé à plusieurs conflits et chacun d'eux s'est plutôt mal terminé. Ses convictions religieuses ont été ébranlées, et même s'il dissimule cela à ses frères d'armes, les [[AP13-Chevalier de Kénabres|Chevalier de Kénabres]], il ne peut les cacher à Iomédae.  
 Il prétend que leur mission est sans espoir et prédit une mort atroce pour tous ceux qui y participent.
 </div></td></tr></table>

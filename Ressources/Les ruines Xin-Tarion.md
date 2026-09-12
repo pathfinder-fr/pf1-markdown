@@ -6,24 +6,24 @@ LastModified: 2018-12-05 22:19
 
 *Ce donjon a été créé pour un groupe de 4 aventuriers de niveau 2 ou 3. *
 
-En Varisie, les restes de l'empire thassilonnien réapparaissent parfois de manière impromptue pour les plus chanceux et parfois au contraire, il faut les chercher. C'est dans les Montagnes Calphiaques que des voyageurs ont découvert une porte mystérieuse comportant des glyphes identifiables comme symboles thassilonniens.
+En Varisie, les restes de l'empire thassilonnien réapparaissent parfois de manière impromptue pour les plus chanceux et parfois au contraire, il faut les chercher. C'est dans les Montagnes Calphiaques que des voyageurs ont découvert une porte mystérieuse comportant des glyphes identifiables comme symboles thassilonniens. 
 
-A quoi pouvait servir cet endroit ? Quels trésors et dangers regorgent en ce donjon ?
+A quoi pouvait servir cet endroit ? Quels trésors et dangers regorgent en ce donjon ? 
 
-Encré dans le flanc de la montagne, une porte de pierre se dresse. Des symboles étranges sont dessinés dessus.
+Encré dans le flanc de la montagne, une porte de pierre se dresse. Des symboles étranges sont dessinés dessus. 
 
 {s:ImageExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2fRunes de la porte.jpg|300px|centre}
 
 
-Aucune magie n'en émane. Un jet de linguistique DD20 confirme qu'il s'agit de runes thassilonniennes atypiques. La porte, malgré tous les efforts, reste impossible à ouvrir.
+Aucune magie n'en émane. Un jet de linguistique DD20 confirme qu'il s'agit de runes thassilonniennes atypiques. La porte, malgré tous les efforts, reste impossible à ouvrir. 
 
 
-Les aventuriers n'auront pas le temps de se reposer que des [[Pathfinder-RPG.Araignée géante|Araignées géantes]] provenant d'un surplomb les attaqueront.
+Les aventuriers n'auront pas le temps de se reposer que des [[Pathfinder-RPG.Araignée géante|Araignées géantes]] provenant d'un surplomb les attaqueront. 
 
-Il n'en faudra pas moins pour décider nos aventuriers à escalader la paroi rocheuse et se rendre au surplomb dans lequel ils trouveront l'entré du donjon par un trou dans le sol : les ruines de Xin Tarion.
+Il n'en faudra pas moins pour décider nos aventuriers à escalader la paroi rocheuse et se rendre au surplomb dans lequel ils trouveront l'entré du donjon par un trou dans le sol : les ruines de Xin Tarion. 
 
 
-Note de l'auteure : Etant donné que je joue cette campagne actuellement, il serait malheureux que mes joueurs tombent par mégarde sur des informations top secrètes. C'est pourquoi je crée cette [[Les ruines de Xin-Tarion spoiler|page de spoilers]] pour toutes les explications en ce qui concerne l'histoire.
+Note de l'auteure : Etant donné que je joue cette campagne actuellement, il serait malheureux que mes joueurs tombent par mégarde sur des informations top secrètes. C'est pourquoi je crée cette [[Les ruines de Xin-Tarion spoiler|page de spoilers]] pour toutes les explications en ce qui concerne l'histoire. 
 
 ## Les ruines de Xin-Tarion
 <nav class="wiki-toc"></nav>
@@ -36,37 +36,37 @@ Note de l'auteure : Etant donné que je joue cette campagne actuellement, il ser
 
 #### A : l'entré
 
-La véritable entré (qui se trouvait autrefois en salle K) s'est effondrée. Les aventuriers pénètrent dans une petite salle pleine d'éboulis.
-Elle est creusée à même la roche et maçonnée. Le sol comporte plein de débris : roche, pierres, boue et dans le couloir qui mène en B on peut également voir quelques toiles d'araignées.
+La véritable entré (qui se trouvait autrefois en salle K) s'est effondrée. Les aventuriers pénètrent dans une petite salle pleine d'éboulis. 
+Elle est creusée à même la roche et maçonnée. Le sol comporte plein de débris : roche, pierres, boue et dans le couloir qui mène en B on peut également voir quelques toiles d'araignées. 
 
-L'endroit étant assez étroit, les affrontements en cet endroit peuvent s'avérer difficiles.
+L'endroit étant assez étroit, les affrontements en cet endroit peuvent s'avérer difficiles. 
 
 
 #### B : Hall
 
-''Après avoir passé une arche avec des gonds : vestiges d'une porte qui devait se trouver là, le groupe découvre des toiles d'araignées sur près de la moitié de la pièce, contre les murs. Vers le couloir qui mène au sud elles sont moins denses et vers celui qui va vers le Nord, elles sont au contraire de plus en plus épaisses et fournies.
+''Après avoir passé une arche avec des gonds : vestiges d'une porte qui devait se trouver là, le groupe découvre des toiles d'araignées sur près de la moitié de la pièce, contre les murs. Vers le couloir qui mène au sud elles sont moins denses et vers celui qui va vers le Nord, elles sont au contraire de plus en plus épaisses et fournies. 
 
-Dans le mur, des cristaux diffusent une lumière bleutée qui diffusent assez de lumière pour pouvoir avancer sans torche.
+Dans le mur, des cristaux diffusent une lumière bleutée qui diffusent assez de lumière pour pouvoir avancer sans torche. 
 
 A cause des nombreuses toiles, il est difficile de voir clairement les murs. ''
 
-C'est alors que deux [[Pathfinder-RPG.Nuée daraignées|nuées d'araignées]] viennent se joindre à la découverte.
+C'est alors que deux [[Pathfinder-RPG.Nuée daraignées|nuées d'araignées]] viennent se joindre à la découverte. 
 
-Des fresques recouvrent les murs et si les aventuriers utilisent un peu trop de feu, ils pourraient se ternir et ne plus permettre l'identification des peintures.
-S'ils arrivent à dégager les murs, ils découvrent en partie des pigments bleutés sur le haut du mur, le bas a semble-t-il été érodé. Sous les toiles, de chaque côté du mur, se trouvent un personnage : d'un côté une femme vêtue d'une robe blanche et portant une torche dans la main droite, son autre main est au niveau du bassin comme si elle invitait à suivre la torche vers le Nord. De l'autre côté il y a l'image d'un homme également en robe, qui fait le même geste.
+Des fresques recouvrent les murs et si les aventuriers utilisent un peu trop de feu, ils pourraient se ternir et ne plus permettre l'identification des peintures. 
+S'ils arrivent à dégager les murs, ils découvrent en partie des pigments bleutés sur le haut du mur, le bas a semble-t-il été érodé. Sous les toiles, de chaque côté du mur, se trouvent un personnage : d'un côté une femme vêtue d'une robe blanche et portant une torche dans la main droite, son autre main est au niveau du bassin comme si elle invitait à suivre la torche vers le Nord. De l'autre côté il y a l'image d'un homme également en robe, qui fait le même geste. 
 
 
-Les cristaux lumineux sont bien enchâssés dans le mur et risqueraient de se briser si on n'y prend pas garde. Cependant ils gardent leur effet luminescent. Il n'y a rien de magique, ils sont naturellement lumineux.
+Les cristaux lumineux sont bien enchâssés dans le mur et risqueraient de se briser si on n'y prend pas garde. Cependant ils gardent leur effet luminescent. Il n'y a rien de magique, ils sont naturellement lumineux. 
 
 [[Les ruines de Xin-Tarion spoiler.ashx?NoRedirect=1#B_:_Hall_1|Spoilere]
 
 #### C : Nids
 
-*Le couloir qui mène au hall (salle B) est obstrué de toiles d'araignées. A l'intérieur des centaines de petites araignées gambadent allègrement. Nul doute qu'elles se jetteront sur la première proie qui ose s'aventurer trop près.*
+*Le couloir qui mène au hall (salle B) est obstrué de toiles d'araignées. A l'intérieur des centaines de petites araignées gambadent allègrement. Nul doute qu'elles se jetteront sur la première proie qui ose s'aventurer trop près.* 
 
-Encore une [[Pathfinder-RPG.Nuée daraignées|nuée d'araignées]] à affronter ou 2 [[Pathfinder-RPG.Araignée géante|araignées géantes]].
+Encore une [[Pathfinder-RPG.Nuée daraignées|nuée d'araignées]] à affronter ou 2 [[Pathfinder-RPG.Araignée géante|araignées géantes]]. 
 
-''Le couloir débouche sur un croisement.
+''Le couloir débouche sur un croisement. 
 Le sol est jonché de centaines d'oeufs, certains éclos, d'autres encore en dormance. Certains sont peut-être stériles d'ailleurs.
 
 Le mur du fond est tinté d'un bleu sombre sur lequel une étoile blanche à huit branches est dessinée dans laquelle un des joyaux bleutés lumineux est incrusté.
@@ -74,26 +74,26 @@ Le mur du fond est tinté d'un bleu sombre sur lequel une étoile blanche à hui
 Sur le côté Ouest, un éboulement manifeste avec quelques os pris dans les toiles d'araignées et de l'autre côté des toiles encore plus nombreuses et un trou béant dans le sol''
 
 
-Un teste de Religion DD 20 peut mettre en relation le fait que l'étoile représente Desna dans d'anciennes croyances.
+Un teste de Religion DD 20 peut mettre en relation le fait que l'étoile représente Desna dans d'anciennes croyances. 
 
 [Spoiler](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#C_:_Nids_2)
 #### D : Couveuse
 
-Le souci principal de cette salle est son accès. Il y a en effet un trou béant recouvert de toiles d'araignées peu solides qui s'enfonce dans les profondeurs de la terre et de l'autre côté une [[Pathfinder-RPG.Veuve noire géante|énorme araignée]].
+Le souci principal de cette salle est son accès. Il y a en effet un trou béant recouvert de toiles d'araignées peu solides qui s'enfonce dans les profondeurs de la terre et de l'autre côté une [[Pathfinder-RPG.Veuve noire géante|énorme araignée]]. 
 
-Une chute dans le trou est mortelle. Bien qu'il y ait un rapide passage vers la salle P, il faudrait réussir un jet d'Escalade DD 30 pour pouvoir s'agripper et ne pas tomber.
+Une chute dans le trou est mortelle. Bien qu'il y ait un rapide passage vers la salle P, il faudrait réussir un jet d'Escalade DD 30 pour pouvoir s'agripper et ne pas tomber. 
 
-L'araignée en question (surnommée "poney géant à huit pattes" par le barbare) est la mère de la couvée. Le reste de la salle a moins de toiles et de nombreux œufs.
+L'araignée en question (surnommée "poney géant à huit pattes" par le barbare) est la mère de la couvée. Le reste de la salle a moins de toiles et de nombreux œufs. 
 
-Au fond de la salle, il est possible de découvrir un coffre métallique.
+Au fond de la salle, il est possible de découvrir un coffre métallique. 
 
 {s:ImageExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2fCoffre1.png}
 
-Il contient un [pendentif](https://img0.etsystatic.com/101/0/8286617/il_570xN.848992134_1hud.jpg), des carreaux d'arbalète en fer froid, une potion de soin, trois pièces (argent thassilonien) et un petit [anneau](https://img1.etsystatic.com/000/0/5583387/il_fullxfull.285174621.jpg) grisâtre aux motifs de feuilles (anneau de feuille morte).
+Il contient un [pendentif](https://img0.etsystatic.com/101/0/8286617/il_570xN.848992134_1hud.jpg), des carreaux d'arbalète en fer froid, une potion de soin, trois pièces (argent thassilonien) et un petit [anneau](https://img1.etsystatic.com/000/0/5583387/il_fullxfull.285174621.jpg) grisâtre aux motifs de feuilles (anneau de feuille morte). 
 
 #### E : Salle des  champignons
 
-*Il n'y a plus aucune toile d'araignée ici mais une couche de substance noire recouvre les murs et les interstices des dalles. Les cristaux bleutés prodiguant de la lumière en sont également recouverts, plongeant la salle dans une obscurité presque totale.*
+*Il n'y a plus aucune toile d'araignée ici mais une couche de substance noire recouvre les murs et les interstices des dalles. Les cristaux bleutés prodiguant de la lumière en sont également recouverts, plongeant la salle dans une obscurité presque totale.* 
 
 En réalité la moisissure noire qui est présente afflige les PJ qui ne prendraient pas garde de la manière suivante :
 
@@ -131,14 +131,14 @@ En réalité la moisissure noire qui est présente afflige les PJ qui ne prendra
 
 
 
-Les effets néfastes durent 10 fois le temps d'exposition (10 round pour 1 round d'exposition, 10 minutes pour une minute d'exposition) pour peu qu'on rate un jet de **Vigueur DD 17**.
-De quoi voir le mage du groupe chanter la "Digue du"... c'est un moment bien amusant qui permet de détendre l'ambiance.
+Les effets néfastes durent 10 fois le temps d'exposition (10 round pour 1 round d'exposition, 10 minutes pour une minute d'exposition) pour peu qu'on rate un jet de **Vigueur DD 17**. 
+De quoi voir le mage du groupe chanter la "Digue du"... c'est un moment bien amusant qui permet de détendre l'ambiance. 
 
 
 #### F : Péristyle
 
 La galerie sur laquelle se trouve le groupe a des rambardes et des colonnes joliment décorées avec des sculptures florales. Sur les murs, la pierre avait dû être peinte en partie en vert, mais il ne restait plus assez de pigments pour remarquer s'il y avait également des motifs.
-Toutefois, le long du mur, une inscription était gravée avec une écriture dorée, et ce, de chaque côté de la pièce.
+Toutefois, le long du mur, une inscription était gravée avec une écriture dorée, et ce, de chaque côté de la pièce. 
 
 <img src="{UP}/Partie 82/Draconique1.jpg" class="imageleft" alt="">
 
@@ -156,53 +156,53 @@ Toutefois, le long du mur, une inscription était gravée avec une écriture dor
 
 En contrebas, on peut voir la pièce inférieure qui semble remplie d'eau claire. Les cristaux luminescents sont actifs sur cette zone et la pièce du bas.
 
-Un teste de linguistique "draconique" DD 15 peut aider à déchiffrer le [message](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#F_:_P%C3%A9ristyle_5).
+Un teste de linguistique "draconique" DD 15 peut aider à déchiffrer le [message](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#F_:_P%C3%A9ristyle_5). 
 
 (Personnellement, j'ai accordé au joueur la possibilité de déchiffrer avec l'alphabet utilisé (la police s'appelle "draconomicon") et un de mes joueurs s'est amusé à décoder. )
 
 
 #### G : Salle effondrée
 
-''Vous êtes devant une salle dont le sol est partiellement effondré. Des racines d'une vingtaine de centimètres semblent avoir poussé les pierres sur la façade Est, se frayant un chemin entre d'autres roches immuables.
+''Vous êtes devant une salle dont le sol est partiellement effondré. Des racines d'une vingtaine de centimètres semblent avoir poussé les pierres sur la façade Est, se frayant un chemin entre d'autres roches immuables. 
 
 Un couloir au Nord semble accessible à condition de sauter par dessus le trou béant qui donne sur l'étage inférieur 3 mètres plus bas.''
 
 Cette salle présente un danger : les dalles en périphérie ne sont pas solides. Une créature de taille M restant sur la pierre doit faire un jet de **Réflexe DD 15** ou tomber en contrebas avec la dalle, se prenant 1d6+1 points de dommages.
 
-Il est toutefois possible de ne pas avoir à faire ce jet si le personnage prend juste son élan et s'en sert comme d'un tremplin pour se rendre sur l'autre versant (qui peut également tomber si le saut n'est pas assez long). La dalle tombera alors mais il ne subira aucun dommage.
+Il est toutefois possible de ne pas avoir à faire ce jet si le personnage prend juste son élan et s'en sert comme d'un tremplin pour se rendre sur l'autre versant (qui peut également tomber si le saut n'est pas assez long). La dalle tombera alors mais il ne subira aucun dommage. 
 
 Un teste d**'acrobatie DD 15** permet de sauter vers le couloir en toute sécurité. Si le résultat est entre 10 et 14, le personnage atterri sur une dalle mouvante et doit faire à nouveau un jet de **Réflexe DD 15** comme plus haut pour ne pas tomber.
 #### H : Porte du bas
 
 *La porte est grande et massive, lisse avec quatre renfoncements de forme ovale d'une largeur de deux pouces disposés en ligne : deux sur chaque porte. *
 
-Les portes fonctionnent avec l'énigme en salle M pour la porte du bas et I pour la porte du haut.
+Les portes fonctionnent avec l'énigme en salle M pour la porte du bas et I pour la porte du haut. 
 
-Il faut insérer des gemmes aux formes particulières. Des auras de transmutation sont présentes.
+Il faut insérer des gemmes aux formes particulières. Des auras de transmutation sont présentes. 
 #### I : Salle des quatre statues
 
 *La salle est éclairée par un gros cristal au plafond qui diffuse une lueur chaude.*
 
 {s:ImageExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2fStatue1.png|80px|fleft}
-''Aux quatre coins de la pièce, des statues identiques de femmes portant une longue robe et un voile présentent un plateau de pierre. Dans ces plateaux, il semble y avoir quelque chose de coloré.
+''Aux quatre coins de la pièce, des statues identiques de femmes portant une longue robe et un voile présentent un plateau de pierre. Dans ces plateaux, il semble y avoir quelque chose de coloré. 
 Leurs traits sont doux, comme si l'artiste n'avait osé trop creuser leurs visages de crainte de les rendre trop dures, à moins que la pierre utilisée n'avait pas permis de sculpter avec plus de précision. Les pans  des robes étaient magistralement créés et donnent à l’œil l'impression d'une souplesse que la pierre froide et dure ne peut obtenir.
 Le sol de la salle est dallé mais nulle poussière n'y réside. ''
 
 
-Sur chaque plateau réside une pierre de forme ronde de la taille d'une pêche. Elles sont chacune une couleur différente : rouge, bleu, blanc et vert. Une détection de la magie indique une forte aura d'évocation.
+Sur chaque plateau réside une pierre de forme ronde de la taille d'une pêche. Elles sont chacune une couleur différente : rouge, bleu, blanc et vert. Une détection de la magie indique une forte aura d'évocation. 
 
-Si un personnage prend une gemme du plateau, celle-ci se met à luire, à pulser plus précisément toutes les six secondes. A chaque pulsation, la gemme envoie une décharge d'un élément sous forme d'aura.
-1d6 points de dommage de l'élément en fonction de la couleur (bleu : froid, rouge : feu, vert : acide, blanc : électricité) pour les créatures à 2 cases de distance du porteur de la gemme. Ca monte à 2d6 pour ceux qui sont sur les cases adjacentes au porteur.
+Si un personnage prend une gemme du plateau, celle-ci se met à luire, à pulser plus précisément toutes les six secondes. A chaque pulsation, la gemme envoie une décharge d'un élément sous forme d'aura. 
+1d6 points de dommage de l'élément en fonction de la couleur (bleu : froid, rouge : feu, vert : acide, blanc : électricité) pour les créatures à 2 cases de distance du porteur de la gemme. Ca monte à 2d6 pour ceux qui sont sur les cases adjacentes au porteur. 
 
 La solution est [ici](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#I_:_Salle_des_quatre_statues_6).
 #### J : Porte du haut
 
 *La porte du haut est identique à  celle du bas : métallique et solide. La seul différence est qu'au lieu des renfoncements ovales, il y a un dessin de gemmes rondes de couleur qui forme une ligne : bleu, rouge, blanc et vert. *
 
-Ces couleurs sont celles des gemmes de la pièce I dans l'ordre horaire. Ca indique le sens dans lequel il faut les déplacer pour que la porte s'ouvre.
+Ces couleurs sont celles des gemmes de la pièce I dans l'ordre horaire. Ca indique le sens dans lequel il faut les déplacer pour que la porte s'ouvre. 
 #### K : Ancien hall d'entré
 
-''Le sol est jonché de fragments de pierre qui s'est effondré de l'étage supérieur. Le passage vers le Sud qui devait mener vers la porte d'entré est totalement obstrué par un éboulement.
+''Le sol est jonché de fragments de pierre qui s'est effondré de l'étage supérieur. Le passage vers le Sud qui devait mener vers la porte d'entré est totalement obstrué par un éboulement. 
 Vers l'Ouest un passage humide mène à une volée de quelques marches qui se termine dans de l'eau.
 Au Nord le couloir illuminé de pierres bleutées mène à une grande porte dont le revêtement semble être métallique. ''
 
@@ -212,7 +212,7 @@ Au Nord le couloir illuminé de pierres bleutées mène à une grande porte dont
 
 {s:ImageExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2fPique.png|150px|fright}
 
-Un teste de perception DD 15 permet de remarquer dans le couloir entre la salle K et la L une pique en métal dans un renfoncement. De l'autre côté il y a également un renfoncement mais vide.
+Un teste de perception DD 15 permet de remarquer dans le couloir entre la salle K et la L une pique en métal dans un renfoncement. De l'autre côté il y a également un renfoncement mais vide. 
 
 
 [Spoiler](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#L_:_Salle_deau_7)
@@ -222,26 +222,26 @@ Un teste de perception DD 15 permet de remarquer dans le couloir entre la salle 
 
 Cette salle est le repaire d'une [[Pathfinder-RPG.Vase grise|vase grise]] qui servait autrefois à nettoyer les couloirs, notamment la salle des statues (I). Elle tente de prendre les aventuriers par surprise.
 
-Le sol de la salle est recouvert d'eau de ruissellement : autrefois il y avait un bassin d'agrément au milieu mais l'eau a continuer à affluer et a fait monter de 15 cm le niveau, inondant toute la pièce.
+Le sol de la salle est recouvert d'eau de ruissellement : autrefois il y avait un bassin d'agrément au milieu mais l'eau a continuer à affluer et a fait monter de 15 cm le niveau, inondant toute la pièce. 
 
-L'eau est donc environ à 15cm sur les bords de la pièce et 50cm au niveau du bassin en lui-même. Le bassin devient un terrain difficile.
+L'eau est donc environ à 15cm sur les bords de la pièce et 50cm au niveau du bassin en lui-même. Le bassin devient un terrain difficile. 
 
 
 
-Une fois le bassin passé, la pièce qui fait l'angle n'a rien de particulier.
+Une fois le bassin passé, la pièce qui fait l'angle n'a rien de particulier. 
 
 ''Dans un angle, de l'eau gouttait sur le sol, formant une petite flaque, laquelle s'insinuait dans les interstices des dalles les plus proches pour former un petit ruisseau qui se déversait dans la salle du bassin.
-Là encore, un cristal bleu illuminait la pièce.
+Là encore, un cristal bleu illuminait la pièce. 
 
 Il n'y avait rien de particulier, hors mis une grande propreté des lieux : pas de poussière, pas de boue. ''
 
 
-De part et d'autre du couloir qui mène en M il y a des alcôves, dans chacune d'elle un levier.
-Il faut les actionner en même temps pour que la porte s'ouvre.
+De part et d'autre du couloir qui mène en M il y a des alcôves, dans chacune d'elle un levier. 
+Il faut les actionner en même temps pour que la porte s'ouvre. 
 
 #### M : Salle des fresques
 
-''Une forte lumière inonde la pièce par un plafonnier similaire à la salle des quatre statues. Le sol est couvert de ce qu'on peut penser être du sable, mais à bien vérifier il s'agit de poussière.
+''Une forte lumière inonde la pièce par un plafonnier similaire à la salle des quatre statues. Le sol est couvert de ce qu'on peut penser être du sable, mais à bien vérifier il s'agit de poussière. 
 
 Les murs portent des centaines d'inscriptions entourant certains dessins gravés. Des runes thassilonniennes par centaines, sur tous les murs de cette salle. ([Illustration approximative](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2ffresque.jpg))
 Au Nord-Ouest il y a un éboulis : la fresque s'est effondrée et laisse voir de la pierre non travaillée, comme si quelque chose avait donné un grand coup de pied depuis l'étage du dessus.
@@ -254,38 +254,38 @@ Les deux choses cependant les plus remarquables sont le piédestal au centre de 
 
 Sur l'autel au centre de la pièce, il y a un livre de pierre sur lequel est inscrit deux symboles. ([Spoiler](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#M_:_Salle_des_fresques_8))
 
-Il y a huit emplacements de personnages sur les fresques et de préférence, ce sont les aventuriers qui sont représentés. Au dessus de chaque personnage il y en a d'autres plus petits, et encore d'autres plus haut qui forment tout une colonne.
+Il y a huit emplacements de personnages sur les fresques et de préférence, ce sont les aventuriers qui sont représentés. Au dessus de chaque personnage il y en a d'autres plus petits, et encore d'autres plus haut qui forment tout une colonne. 
 
-Au plafond, il y a des visages qui surmontent chaque colonne.
+Au plafond, il y a des visages qui surmontent chaque colonne. 
 #### N : Épreuve du miroir
 
 *Le couloir est plongé dans l'obscurité : aucun cristal ne luit à cet endroit. Le fond de la pièce est effondré tout comme une partie au Nord. Au Sud de la pièce se trouve une alcôve avec un miroir. *
 
-Le miroir en lui-même est une épreuve. Quiconque se trouve devant voit son reflet s'animer d'une fureur étrange (en fonction d'un pécher attribué au PJ) et le reflet traverse le miroir et affronte son opposant.
+Le miroir en lui-même est une épreuve. Quiconque se trouve devant voit son reflet s'animer d'une fureur étrange (en fonction d'un pécher attribué au PJ) et le reflet traverse le miroir et affronte son opposant. 
 
-Seul le personnage reflété peut toucher son double : tous les autres ne feront que le traverser comme s'il s'agissait d'une illusion.
+Seul le personnage reflété peut toucher son double : tous les autres ne feront que le traverser comme s'il s'agissait d'une illusion. 
 
-Une fois le double mort, une bénédiction est accordée au vainqueur qui se sent plus serein.
+Une fois le double mort, une bénédiction est accordée au vainqueur qui se sent plus serein. 
 
-Si le personnage passe en dessous de 0 points de vie, le double se dissipe et aucune bénédiction n'est accordée.
-Le miroir est magique et est bien plus résistant qu'un miroir normal (qui se briserait si on donnait un coup). Les armes sont sans effet sur lui.
+Si le personnage passe en dessous de 0 points de vie, le double se dissipe et aucune bénédiction n'est accordée. 
+Le miroir est magique et est bien plus résistant qu'un miroir normal (qui se briserait si on donnait un coup). Les armes sont sans effet sur lui. 
 
 
 #### O : Préristyle octogonal
 
-Que ce soit en résolvant l'énigme des quatre statues ou bien celle de la salle des fresques, les aventuriers réussissent (normalement) à ouvrir une des portes qui mène sur un anneau octogonal.
+Que ce soit en résolvant l'énigme des quatre statues ou bien celle de la salle des fresques, les aventuriers réussissent (normalement) à ouvrir une des portes qui mène sur un anneau octogonal. 
 
-Au centre il y a des toiles d'araignées qui font office d'échelle pour aller dans les tréfonds du donjon.
+Au centre il y a des toiles d'araignées qui font office d'échelle pour aller dans les tréfonds du donjon. 
 Les autres pièces sont effondrées et aucun accès n'est possible hors mis pour aller en salle P où la porte s'ouvre normalement.
 
 
 #### P : Salle au trésor
 
-''La pièce est éclairée par des torches magiques. Elle est comme sectionnée par une épée divine, à moins que ce ne fut un éboulement qui emportant tout un ban de la salle. Il n'y a plus que trois colonnes, quatre si on compte celle du Nord-Ouest à moitié effondrée. On imagine aisément qu'il pouvait y en avoir au moins six ou huit. En levant la tête on peut apercevoir que la faille se poursuit au plafond. Quelques toiles d'araignées pendent en haut mais rien dans la vaste  fosse, contrairement à la pièce précédente.
+''La pièce est éclairée par des torches magiques. Elle est comme sectionnée par une épée divine, à moins que ce ne fut un éboulement qui emportant tout un ban de la salle. Il n'y a plus que trois colonnes, quatre si on compte celle du Nord-Ouest à moitié effondrée. On imagine aisément qu'il pouvait y en avoir au moins six ou huit. En levant la tête on peut apercevoir que la faille se poursuit au plafond. Quelques toiles d'araignées pendent en haut mais rien dans la vaste  fosse, contrairement à la pièce précédente. 
 
 Après le gouffre qui doit faire au moins six mètres de large, il y a le reste de la pièce et une alcôve avec un énorme coffre qui ressemble presque à un sarcophages  tant il est gros. ''
 
-Le gouffre se poursuit à plusieurs dizaines de mètres de profondeur. Une chute dedans serait mortelle.
+Le gouffre se poursuit à plusieurs dizaines de mètres de profondeur. Une chute dedans serait mortelle. 
 
 
 Le coffre lourd renferme un trésor peu commun : à vous de voir ce que vous voulez y mettre, personnellement, j'ai choisi [ça](http://www.pathfinder-fr.org/Forum/posts/m649727-3--Les-ruines-de-la-Clef#post649727) (dans le spoiler "Pour Aylora").

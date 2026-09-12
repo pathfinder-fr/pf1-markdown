@@ -20,5 +20,5 @@ Une halfling bavarde du nom de Vandy Banderdash est l'actuelle haute prêtresse.
 
 - **Prendre soin des blessés.** La Bibliothèque de la Fleur de l'Aube est le premier endroit auquel bon nombre d'habitants d'Otari pensent lorsqu'ils ont besoin de soins médicaux, sans doute à cause du nombre de prêtres qui y travaillent. Toutes les blessures ne nécessitent pas forcément une intervention divine toutefois. Le héros peut utiliser la compétence de Médecine pour Gagner de l'argent à la Bibliothèque de la Fleur de l'Aube. En cas d'échec critique, le héros blesse une des personnes dont il est censé prendre soin, ce qui pourrait avoir des répercussions en termes de roleplay si le MJ le désire.
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shhc](https://paizo.com/community/blog/v5748dyo6shhc) et écrit par Ron Lundeen.

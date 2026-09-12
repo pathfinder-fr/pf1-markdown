@@ -33,10 +33,10 @@ LastModified: 2016-03-28 16:07
 
 
 </div>
-</td><td><div>''Ce balai est fait d'un manche en bois verni gravé de runes et garni d'un faisceau
-de brins de paille à son extrémité.
+</td><td><div>''Ce balai est fait d'un manche en bois verni gravé de runes et garni d'un faisceau 
+de brins de paille à son extrémité. 
 
-Il aurait pu paraître ordinaire si ce n'était le fait qu'il nettoie le sol, comme si une personne
+Il aurait pu paraître ordinaire si ce n'était le fait qu'il nettoie le sol, comme si une personne 
 invisible le tenait.''
 
 </div></td></tr></table>

@@ -42,6 +42,6 @@ Categories:
 </td><td><div class="BD">
 Les croisades mendeviennes attirent depuis longtemps des volontaires issus d'ordres vertueux disséminés dans tout Golarion. Toutefois ces organisations ne sont pas forcément de vastes organisations bien établies. Des ordres de petites taille, certains ne rassemblant pas plus d'une dizaine de chevaliers, arrivent en masse au Mendev. Plusieurs de ces ordres ne sont guère plus qu'une poignée d'amis qui inventent un nom pour leur propre groupe une fois arrivés sur place.
 ### Tactiques
-**Pendant le combat**
+**Pendant le combat**  
 Le guerrier tire avec des flèches jusqu'à ce que ses ennemis soient proches, et utilise alors son épée.
 </div></td></tr></table>

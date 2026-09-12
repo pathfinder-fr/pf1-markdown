@@ -15,7 +15,7 @@ LastModified: 2013-08-03 10:29
 - **CA**:15,contact:11,pris au dépurvu:14
 - **Pv**:13(1D6+1D10+3+1 (classe de prédilection))
 - **Réf**:+1,**Vig**:+2,**Vol**:-1
-(((ATTAQUE)))
+(((ATTAQUE))) 
 - **VD**:6m
 - **Corps à corps**:épée courte +4 (1D6+2)
 - **Distance**:arc court +2 (1D6)

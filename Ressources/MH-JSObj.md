@@ -14,6 +14,6 @@ LastModified: 2014-07-06 13:46
 <OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]]
 <LI>Cochez cette case pour ne plus avoir que les objets équipés dans la liste 4).
 <LI>Sélection de l’entrepôt à observer. Les objets présents dans celui-ci seront listés en 4).
-<LI>Liste des objets. Pour chacun d’entre eux sont indiqués les modificateurs de Ref, Vig et Vol ainsi que le modificateur brut (comme s’il n’était pas tenu par le personnage).
+<LI>Liste des objets. Pour chacun d’entre eux sont indiqués les modificateurs de Ref, Vig et Vol ainsi que le modificateur brut (comme s’il n’était pas tenu par le personnage). 
 </OL>
 <center></center></td></tr></table>

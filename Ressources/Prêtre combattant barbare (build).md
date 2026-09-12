@@ -19,7 +19,7 @@ LastModified: 2021-03-02 00:09
 
 Il s'agit d'un cogneur principal, disposant de nombreuses attaques puissantes dès les premiers niveaux grâce aux armes naturelles obtenues en tant que [[Pathfinder-RPG.Barbare|barbare]]. Il est assez résistant avec des PV corrects, le port de l'armure lourde (ou intermédiaire), et de bons JS vigueur et volonté. A moyen et haut niveau, il se diversifie en sachant faire autre chose que taper sur l'intrigue en devenant capable de faire un peu de support grâce à sa liste de sorts divins, même si en tant que [[Pathfinder-RPG.Prêtre combattant|prêtre combattant]] ce n'est qu'un semi-caster avec un retard de 2 niveaux.
 
-Au niveau 1, il s'agit d'un [[Pathfinder-RPG.Barbare|barbare]] qui frappe à l'arme à deux mains à laquelle il adjoint une morsure (voir ci-dessous [[Ressources.Prêtre combattant barbare (build)#DC_Traits_4|les traits]]) tout au long du combat.
+Au niveau 1, il s'agit d'un [[Pathfinder-RPG.Barbare|barbare]] qui frappe à l'arme à deux mains à laquelle il adjoint une morsure (voir ci-dessous [[Ressources.Prêtre combattant barbare (build)#DC_Traits_4|les traits]]) tout au long du combat. 
 
 Aux niveaux 2 et 3, il obtient 3 puis 4 attaques attaques naturelles primaires. Une arme à deux mains (voire une arme à allonge) sera conseillée tout au long du build, au moins pour le premier round de combat, qui nécessite généralement un déplacement et donc ne profite pas du nombre d'attaques, mais tout le reste des combats se fera aux armes naturelles.
 

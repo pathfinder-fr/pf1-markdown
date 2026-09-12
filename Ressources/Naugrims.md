@@ -12,7 +12,7 @@ Categories:
 <ul>Voir aussi les [[Pathfinder-RPG.nain|nains]]</ul>
 </div>
 
-Les Naugrims forment une sous-race au sein du peuple nain. La société naine étant fortement organisée, leur système de caste plus ou moins rigide a favorisé l'apparition de différences physiques entre l'aristocratie composée essentiellement de guerriers, et les classes laborieuses. Parmi ces dernières, on retrouve des représentant de la race de taille plus petite, mesurant en moyenne à peine un mètre de haut. Cette sous-race fait partie intégrante de la société naine, et on peut les voir exceller dans l'artisanat, l'exploitation minière, mais rarement dans les arts de la guerre.
+Les Naugrims forment une sous-race au sein du peuple nain. La société naine étant fortement organisée, leur système de caste plus ou moins rigide a favorisé l'apparition de différences physiques entre l'aristocratie composée essentiellement de guerriers, et les classes laborieuses. Parmi ces dernières, on retrouve des représentant de la race de taille plus petite, mesurant en moyenne à peine un mètre de haut. Cette sous-race fait partie intégrante de la société naine, et on peut les voir exceller dans l'artisanat, l'exploitation minière, mais rarement dans les arts de la guerre. 
 
 Mis à part leur taille, les naugrims peuvent être traités comme des nains. Les traits des personnages naugrims sont repris ci-dessous.
 

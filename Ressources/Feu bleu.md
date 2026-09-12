@@ -19,8 +19,8 @@ Cette substance ne peut se retrouver que dans des endroits dont la température 
 Dans une bouteille en verre et scellée, elle produit autant de lumière qu’une bougie ([[Pathfinder-RPG.Exploration.ashx#VISIONLUMIERE|éclairage]] faible dans un rayon de 1,5 m) sans jamais s’arrêter. {br}
 Une fois en contact avec l’air, cette substance produit une lumière diffuse correspondant à un éclairage faible dans un rayon de 6m. Cette lumière fonctionne durant cinq jours. Une flasque d’un demi-litre est suffisante pour créer quatre points de lumières ponctuels, ou une ligne de 6 m. {br}
 Un alchimiste peut utiliser un catalyseur simple (via un jet d’[[Pathfinder-RPG.artisanat|alchimie]] DD 10) pour accélérer le phénomène. Dès lors, il n’est possible d’allumer ainsi un seul point lumineux avec un demi-litre de cette substance qui se met à produire d’étranges flammes bleues et froides éclairant autant qu'une torche. La réaction consomme l’intégralité de la substance en six heures. Ces flammes peuvent infliger 1D6 dégâts de froids aux créatures vulnérables au froid (généralement, les créatures du sous-type du feu), mais elles ne font quasiment aucun mal aux autres. {br}
-Si cette substance est emmenée dans un endroit plus chaud que 5 °C, elle perd rapidement sa consistance gélatineuse et ses propriétés.
+Si cette substance est emmenée dans un endroit plus chaud que 5 °C, elle perd rapidement sa consistance gélatineuse et ses propriétés. 
 
 (((Fabrication)))
-**Conditions** [[Pathfinder-RPG.artisanat|alchimie]] DD 17, les créatures ayant le sous type froid bénéficient d'un bonus de +2 pour cette création.
+**Conditions** [[Pathfinder-RPG.artisanat|alchimie]] DD 17, les créatures ayant le sous type froid bénéficient d'un bonus de +2 pour cette création.  
 </div>

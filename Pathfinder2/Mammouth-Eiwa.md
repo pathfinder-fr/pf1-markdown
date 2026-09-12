@@ -91,5 +91,5 @@ Ce soir, je vous vois tous rassemblés avec moi, écoutant et apprenant nos cout
 
 Cette nuit, je célèbre votre présence, Défenses Brisées. Et je sais que vous affronterez avec courage tous les défis qui se dresseront devant nous.
 
----
+<hr />
 Cette page est la traduction d'un récit publié sur le blog de Paizo à l'adresse [https://paizo.com/community/blog/v5748dyo6shxz?Quest-For-The-Frozen-Flame-Eiwas-Lesson](https://paizo.com/community/blog/v5748dyo6shxz?Quest-For-The-Frozen-Flame-Eiwas-Lesson) et écrit par Rachael Cruz.

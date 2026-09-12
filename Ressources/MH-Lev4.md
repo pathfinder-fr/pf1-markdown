@@ -22,5 +22,5 @@ Cette vue est optionnelle : toutes les créations de personnages n'ont pas besoi
 <OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]].
 <LI>Sélection de l’option choisie. Les options de base sont un point de vie supplémentaire ou un point de compétence supplémentaire. D’autres options supplémentaires sont apparues dans les ouvrages suivants, dépendant de la race et de la classe. Cette troisième option apparaît sous la mention « Spécial » et est décrite sous le cadre (quand elle est disponible). Notez que les demi-elfes et les demi-orques peuvent choisir parmi les options de leurs deux héritages en plus du leur propre.
 <LI>Retour vers [[MH-Lev2|Classe]].
-<LI>Validation des choix. Vers [[MH-Lev5|Sorts]].
+<LI>Validation des choix. Vers [[MH-Lev5|Sorts]]. 
 </OL></td></tr></table>

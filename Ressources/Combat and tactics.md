@@ -47,7 +47,7 @@ Avec ces mécaniques de classe, c'est un style qui fonctionne souvent bien avec 
 
 Un exemple de cogneur de corps à corps à une main est l'[[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t15148-L-etroit-mousquetaire|étroit mousquetaire</nowiki>]].
 
-<u>**Le cogneur de corps à corps à arme et bouclier**</u> est similaire cogneur de corps à corps à deux armes.
+<u>**Le cogneur de corps à corps à arme et bouclier**</u> est similaire cogneur de corps à corps à deux armes. 
 
 <u>**Le cogneur de corps à corps aux armes naturelles**</u> (généralement au moins une morsure et deux griffes) a besoin, comme le cogneur à deux armes, de rester statique pour frapper souvent.</br>
 Contrairement au cogneur à deux armes, il n'a pas besoin de chaîne de dons pour être efficace : il n'a besoin, comme le cogneur à deux mains, que du don [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]. Il a également l'avantage d'avoir les mains libres : il peut attaquer avec une arme à deux mains ou une arme à allonge lorsqu'il se déplace, puis la lâcher au round d'après pour profiter de son style de combat aux armes naturelles, ainsi qu'incanter sans difficulté.</br>

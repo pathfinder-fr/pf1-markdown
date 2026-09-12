@@ -74,7 +74,7 @@ Les règles pour les PJ morts-vivants réalisent certains ajustements pour la jo
 
 Faire en sorte que les PJ soient détruits à 0 Point de vie est une modification plus complexe, car elle supprime un garde-fou conçu pour éviter l’extermination complète du groupe (le TPK) et ne pas devoir suivre minutieusement et constamment l’évolution des PV du groupe. Ce changement convient sans doute mieux aux parties d’un soir (one-shot) à haut risque ou aux campagnes de style « troupe » avec plus de personnages que de joueurs et où un personnage qui meurt peut être rapidement remplacé.
 
----
+<hr />
 
 ## Fantôme (archétype)
 Vos liens avec le monde des vivants persistent même à travers la mort et les tâches que vous n’avez pas terminées vous cantonnent à l’état d’esprit. Votre âme survit, mais votre corps n’est plus. Votre mental, lui aussi, pourrait bien avoir changé : la mort peut altérer les pensées et les désirs de bien des manières, mais la majorité des fantômes ressentent des émotions plus fortes et plus volatiles et sont fréquemment submergés par leur passé. Leur besoin de résoudre ce passé prend le pas sur tous leurs autres désirs. Leurs motivations peuvent évoluer au fil du temps mais elles sont toujours très puissantes. Le pragmatisme, la compassion et la prudence passent au second plan face aux désirs fondamentaux du fantôme.
@@ -114,7 +114,7 @@ Vous vous lamentez au sujet de votre sort et contraignez toutes les créatures v
 
 <div class="blocPF2">
 {s:titrePF2|Résistance fantomatique (Ghostly Resistance)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -124,7 +124,7 @@ Au niveau 10, la résistance passe à 2 (ou 4 si la source n’est pas magique).
 
 <div class="blocPF2">
 {s:titrePF2|Poigne fantomatique (Ghostly Grasp)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -133,7 +133,7 @@ Vous parvenez à mieux contrôler votre forme fantomatique. Vous gagnez les avan
 
 <div class="blocPF2">
 {s:titrePF2|Vol de fantôme (Ghost Flight) {s:PF2a|inv2a}|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -142,7 +142,7 @@ Vous pouvez vous libérer de votre lien avec le sol et vaincre cette restriction
 
 <div class="blocPF2">
 {s:titrePF2|Passe-murailles (Pass Through) {s:PF2a|inv3a}|Don 10}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** maître en Acrobaties, Dévotion de fantôme
 
@@ -157,7 +157,7 @@ En égrainant votre forme à travers la substance d’un objet, vous pouvez trav
 
 <div class="blocPF2">
 {s:titrePF2|Réjuvénation (Rejuvenation)|Don 12}
-{s:traitRareté|Rare} {s:trait|Archétype}
+{s:traitRareté|Rare} {s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -166,7 +166,7 @@ L’appel de votre tâche inachevée vous recrée quand vous êtes détruit. Qua
 
 <div class="blocPF2">
 {s:titrePF2|Vol de fantôme illimité (Unlimited Ghost Flight)|Don 14}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -178,7 +178,7 @@ De nombreuses capacités de fantôme ont été affaiblies de manière significat
 
 En combinant le don de réjuvénation avec un personnage dont la tâche inachevée est liée à l’aventure, on crée en fait un personnage immortel. Tout comme la cage spirituelle de la liche, même un groupe qui utilise d’autres archétypes de morts-vivants préférera sans doute éviter le don de réjuvénation ou le faire fonctionner comme un gage de réjuvénation.
 
----
+<hr />
 
 ## Goule (archétype)
 
@@ -220,7 +220,7 @@ Quand vous dévorez des cadavres ou satisfaites votre faim, certaines de vos ble
 
 <div class="blocPF2">
 {s:titrePF2|Bond rapide (Swift Leap) {s:PF2a|inv1a}|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -231,7 +231,7 @@ Au lieu de cela, si vous êtes rassasié, vous pouvez choisir de perdre l’éta
 
 <div class="blocPF2">
 {s:titrePF2|Enzymes fiévreuses (Feverish Enzymes) {s:PF2a|inv2a}|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -242,7 +242,7 @@ Si vous êtes rassasié, quand vous touchez, vous pouvez choisir de perdre l’�
 
 <div class="blocPF2">
 {s:titrePF2|Force du tombeau (Grave Strength)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -260,7 +260,7 @@ Vos enzymes peuvent paralyser vos ennemis au lieu de simplement rendre la guéri
 
 <div class="blocPF2">
 {s:titrePF2|Morsure nauséeuse (Sickening Bite)|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -270,7 +270,7 @@ Si vous êtes rassasié, vous pouvez perdre l’état rassasié pour rendre la c
 
 <div class="blocPF2">
 {s:titrePF2|Gloutonnerie pour la chair (Glutton for Flesh)|Don 10}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -291,7 +291,7 @@ Lorsque vous jouez une goule, pensez à la manière dont la faim affecte votre p
 
 Lorsque vous gagnez d’autres dons de goule, vous pouvez jouer l’effacement de certaines facettes de votre personnage en parallèle avec l’émergence des caractéristiques typiques des goules. Plus votre personnage devient véritablement une goule et plus il perd ses anciennes inhibitions et devient ambitieux. Après tout, l’ambition n’est rien de plus qu’une autre forme de faim. Ces nouvelles ambitions que vous ajoutez vous permettent d’étoffer la manière dont vous interprétez votre personnage au-delà du fait de le rendre simplement cannibale.
 
----
+<hr />
 
 ## Liche (archétype)
 
@@ -328,7 +328,7 @@ Vous faites de votre cage spirituelle votre objet lié, ce qui vous permet de pr
 
 <div class="blocPF2">
 {s:titrePF2|Envelopper la cage spirituelle (Enshroud Soul Cage)|Don 14}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de liche
 
@@ -337,7 +337,7 @@ Vous enveloppez votre cage spirituelle dans une collection sans cesse croissante
 
 <div class="blocPF2">
 {s:titrePF2|Main de la liche (Hand of the Lich)|Don 14}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de liche
 
@@ -348,7 +348,7 @@ Quand vous obtenez une réussite critique lors d’une Frappe de poing sur une c
 
 <div class="blocPF2">
 {s:titrePF2|Renforcer la cage spirituelle (Bolster Soul Cage)|Don 16}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de liche, légendaire en Artisanat
 
@@ -359,7 +359,7 @@ Au niveau 20, le temps nécessaire pour que votre cage spirituelle reconstruise 
 
 <div class="blocPF2">
 {s:titrePF2|Gemme à sort (Spell Gem)|Don 16}
-{s:traitRareté|Peu commun} {s:trait|Archétype}
+{s:traitRareté|Peu commun} {s:trait|Archétype} 
 
 **Prérequis** Dévotion de liche, légendaire en Artisanat
 
@@ -406,7 +406,7 @@ La cage spirituelle de l’archétype de liche est très similaire à celle de l
 Le thème des PJ s’infiltrant discrètement pour aller détruire la cage spirituelle d’un PNJ liche est très classique. Mais il est plus difficile de faire en sorte que des adversaires PNJ fassent la même chose à la cage spirituelle d’un PJ liche sans que cela ne se passe mal, tout comme il est peu avisé de faire détruire le livre de sorts d’un PJ magicien entre deux aventures. Comme il s’agit là de la seule méthode pour vaincre une liche, ces considérations peuvent concrètement rendre le PJ liche immortel. Vu que cela peut profondément changer le jeu et la narration, les tables (même celles qui utilisent les autres archétypes morts-vivants) devraient bien réfléchir à la question d’autoriser ou pas l’archétype de liche. Si vous cherchez un compromis, envisagez de faire fonctionner la cage spirituelle comme un gage de réjuvénation nécessitant un rituel pour réveiller l’âme de la liche depuis l’intérieur de la cage spirituelle.
 
 
----
+<hr />
 
 ## Momie (archétype)
 La momification est un rite funéraire assez courant à travers Golarion et à travers les âges. Mais devenir une momie vivante capable de se déplacer et de penser est une tout autre chose.
@@ -436,7 +436,7 @@ Finalement, vous développez un lien surnaturel avec le terrain principal de l�
 
 <div class="blocPF2">
 {s:titrePF2|Uni avec le terrain (One with the Land)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de momie
 
@@ -456,7 +456,7 @@ Vous redirigez l’humidité que vous avez drainée hors d’autres créatures v
 
 <div class="blocPF2">
 {s:titrePF2|Momification profonde (Grave Mummification)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de momie
 
@@ -478,7 +478,7 @@ Vous projetez vos angoisses mentales vers l’extérieur, vers ceux qui vous ent
 
 <div class="blocPF2">
 {s:titrePF2|Toucher maudit (Accursed Touch)|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de momie
 
@@ -498,7 +498,7 @@ Vous vous entourez d’une tempête tourbillonnante de pluie, de sable, de neige
 
 <div class="blocPF2">
 {s:titrePF2|Canalisation de la putréfaction (Channel Rot)|Don 10}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Toucher maudit
 
@@ -507,7 +507,7 @@ Vous avez appris à canaliser votre malédiction à travers les armes que vous m
 
 <div class="blocPF2">
 {s:titrePF2|Bandelettes agrippantes (Ensnaring Wrappings) {s:PF2a|invra}|Don 10}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de momie, expert en Athlétisme
 
@@ -539,7 +539,7 @@ Au niveau 14 et tous les 2 niveaux par la suite, les dégâts augmentent de 1d8.
 
 <div class="blocPF2">
 {s:titrePF2|Désespoir supérieur (Greater Despair)|Don 12}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Désespoir de la momie
 
@@ -547,12 +547,12 @@ Vous augmentez la fréquence de votre Désespoir de la momie à une fois toutes 
 </div>
 
 
----
+<hr />
 
 ## Squelette (Ascendance)
 
 
----
+<hr />
 
 ## Vampire (archétype)
 
@@ -573,7 +573,7 @@ Vous êtes un vampire qui s’est relevé récemment. Vous gagnez les traits Mor
 
 <div class="blocPF2">
 {s:titrePF2|Grimpeur bien ancré (Clinging Climber)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de vampire, entraîné en Athlétisme
 
@@ -592,7 +592,7 @@ Une fois par jour, vous pouvez lancer *charme* en tant que sort inné divin en u
 
 <div class="blocPF2">
 {s:titrePF2|Familiarité avec les créatures de la nuit (Norcturnal Kindred)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de vampire, entraîné en Nature
 
@@ -612,7 +612,7 @@ Grâce à un pacte occulte ou une particularité dans votre lignage, vous pouvez
 
 <div class="blocPF2">
 {s:titrePF2|Griffes de prédateur (Predatory Claws)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de vampire
 
@@ -622,7 +622,7 @@ Si vous touchez le même ennemi avec deux Frappes consécutives de griffes au co
 
 <div class="blocPF2">
 {s:titrePF2|Crocs vicieux (Vicious Fangs)|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de vampire
 
@@ -665,7 +665,7 @@ Votre cercueil ne peut pas vous soigner si un pieu transperce votre cœur. On ne
 
 <div class="blocPF2">
 {s:titrePF2|Sauvé par la brume (Mist Escape) {s:PF2a|inv0a}|Don 14}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Cercueil lié, Transformation en brume
 
@@ -676,7 +676,7 @@ Lorsque vous tombez au combat, votre corps réagit pour se défendre de lui-mêm
 
 <div class="blocPF2">
 {s:titrePF2|Regard de domination (Dominating Gaze)|Don 16}
-{s:traitRareté|Peu commun} {s:trait|Archétype}
+{s:traitRareté|Peu commun} {s:trait|Archétype} 
 
 **Prérequis** Charme manipulateur
 
@@ -690,7 +690,7 @@ Votre pouvoir a un prix. En tant que vampire, vous possédez les vulnérabilité
 
 **Lumière du soleil** Si vous êtes exposé directement à la lumière du soleil, vous devez immédiatement ralenti 1. La valeur de l’état ralenti augmente de 1 chaque fois que vous terminez votre round dans la lumière du soleil. Si cela vous amène à perdre toutes vos actions, vous êtes détruit. À cause d’une aversion surnaturelle envers la lumière, vous ne projetez pas d’ombre et n’avez aucune réflexion dans les miroirs.
 
----
+<hr />
 
 ## Zombi (archétype)
 Vous êtes un zombi, un corps pourrissant animé par des magies nécromantiques. Même si la majorité des zombis sont des brutes sans intelligence, vous êtes un zombi-cosse, préservé grâce à des rites nécromantiques et des réactifs alchimiques. Le processus a particulièrement bien fonctionné pour vous : vous avez pu retenir votre intelligence et votre identité, dans une mesure bien plus grande que les autres zombis-cosses.
@@ -721,7 +721,7 @@ Vous avez très envie de chair provenant de créatures vivantes. Vous gagnez une
 
 <div class="blocPF2">
 {s:titrePF2|Mordre les chevilles (Ankle Biter)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -753,7 +753,7 @@ Mu par votre appétence pour la chair des vivants, vous vous jetez dans la mêl�
 
 <div class="blocPF2">
 {s:titrePF2|Des cerveaux ! (Brains!) {s:PF2a|inv0a}|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Festin
 
@@ -764,7 +764,7 @@ Vous consommez le cerveau de votre ennemi, ce qui réanime certains de vos synap
 
 <div class="blocPF2">
 {s:titrePF2|Engourdi (Numb)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -773,7 +773,7 @@ Alors que votre corps continue de se putréfier, vos sens se meurent et vos pouv
 
 <div class="blocPF2">
 {s:titrePF2|Détachement (Out of Hand)|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -786,7 +786,7 @@ Vous gagnez l’action Lay Down Arms/Baisser les bras.
 
 <div class="blocPF2">
 {s:titrePF2|Tituber (Shamble) {s:PF2a|inv2a} ou {s:PF2a|inv3a}|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -797,7 +797,7 @@ Vous pouvez choisir d’ignorer tous les malus de circonstances et de statut à 
 
 <div class="blocPF2">
 {s:titrePF2|Intuable (Unkillable) {s:PF2a|invra}|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de zombi
 
@@ -826,7 +826,7 @@ Les blessures que vous infligez avec vos attaques naturelles suppurent et pourri
 Vous saisissez votre adversaire et l’approchez de vous. L’ennemi touché est agrippé, comme si vous aviez réussi un test d’Athlétisme pour l’Agripper.
 </div>
 
----
+<hr />
 
 ## Nécromancien sacré (archétype)
 
@@ -936,7 +936,7 @@ Votre corps projette de l’énergie positive, ce qui rend votre présence très
 **Spécial** Votre aura gagne le trait de la tradition magique correspondant aux sorts que vous avez utilisés pour remplir les conditions de Dévotion de nécromancien sacré.
 </div>
 
----
+<hr />
 
 ## Gardien des âmes (archétype)
 
@@ -1047,7 +1047,7 @@ Vos prières touchent également vos compagnons, ce qui vous donne la capacité 
 ### Le cycle des âmes
 Le voyage d’une âme commence sur le plan de l’Énergie positive, où des âmes vides et dénuées de caractéristiques distinctes vont s’attacher, avec de l’essence de vie positive provenant du plan, à des mortels situés sur le plan Matériel, formant ainsi un individu vivant. Au terme de la vie du mortel, ces âmes entrent dans le plan Éthéré et progressent vers le Fleuve des âmes qui les mène jusqu’à l’Ossuaire, où elles sont jugées et envoyées vers l’après-vie qui leur convient. Les âmes jugées transitent vers les plans qui leur ont été assignés et deviennent des pétitionnaires. Ces pétitionnaires, eux aussi, meurent après un certain temps et sont alors absorbées par leur plan, contribuant ainsi à son expansion quand leur essence spirituelle vient rejoindre celle du plan sous la forme d’une substance appelée quintessence. Mais le maëlstrom chaotique et ses remous incessants érode ces plans et disperse leur quintessence planaire en son sein et vers les autres plans voisins. Les morceaux qui finissent sur le plan de l’Énergie positive forment à nouveau des âmes vides et le cycle recommence.
 
----
+<hr />
 
 ## Tueur de morts-vivants (archétype)
 

@@ -7,9 +7,9 @@ LastModified: 2014-08-13 02:24
 <div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst6610_L-abomination----Alchimiste-inside.aspx#post246229)***</div><nav class="wiki-toc"></nav>
 
-''Un jeune homme a la carrure robuste bêche dans un champ... il accomplit son travail avec soin, mais il est rêveur cependant. Il regarde vers le ciel, et attend avec impatience l'heure de la fin de son labeur. Sitôt fini, il court se débarbouiller et, secrètement, à l'insu de sa mère, rejoint l'apothicaire du petit village qu'il n'a jamais quitté.
+''Un jeune homme a la carrure robuste bêche dans un champ... il accomplit son travail avec soin, mais il est rêveur cependant. Il regarde vers le ciel, et attend avec impatience l'heure de la fin de son labeur. Sitôt fini, il court se débarbouiller et, secrètement, à l'insu de sa mère, rejoint l'apothicaire du petit village qu'il n'a jamais quitté. 
 
-Le vieil alchimiste enseigne à notre jeune homme les bases de son métier depuis plusieurs semaines déjà,  et il se trouve qu'il a du talent. Entre chaque corvée de ferme, il expérimente et repousse ses limites. Sa mère le surprit un beau jour et, mécontente, lui donna une paire de baffes. Elle n'était pas d'accord pour que son fils pratique ce métier "étrange" et "dangereux". Son avis changea le jour où un raid de gobelins attaqua le village, et que notre jeune homme, pour sauver sa mère, ingurgita une potion qui le rendit aussi fort qu'Hercule, suffisamment pour éclater 2 gobelins crasseux d'un seul coup de pied.
+Le vieil alchimiste enseigne à notre jeune homme les bases de son métier depuis plusieurs semaines déjà,  et il se trouve qu'il a du talent. Entre chaque corvée de ferme, il expérimente et repousse ses limites. Sa mère le surprit un beau jour et, mécontente, lui donna une paire de baffes. Elle n'était pas d'accord pour que son fils pratique ce métier "étrange" et "dangereux". Son avis changea le jour où un raid de gobelins attaqua le village, et que notre jeune homme, pour sauver sa mère, ingurgita une potion qui le rendit aussi fort qu'Hercule, suffisamment pour éclater 2 gobelins crasseux d'un seul coup de pied. 
 
 Ce fut un nouveau départ pour lui ; sa mère le laissait faire désormais. Il sentit que rien ne pourrait le stopper dans sa quête alchimique.''
 

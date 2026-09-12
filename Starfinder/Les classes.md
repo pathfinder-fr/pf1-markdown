@@ -43,12 +43,12 @@ Categories:
 Votre classe de personnage représente son domaine de compétences, qu’il s’agisse d’un soldat aguerri ou d’un technomancien pliant à sa volonté les lois de la physique. Cette classe lui octroie un certain nombre de capacités qui peuvent résulter de son entraînement, de ses spécialités ou même d’un lien direct à une divinité. Elle détermine aussi ses caractéristiques comme ses points de vie, ses points d’endurance, son degré de maîtrise des armes et des armures, ses compétences de classe et ses rangs de compétence par niveau ainsi que ses bonus de base au combat et aux jets de sauvegarde.
 
 ### Description des classes
-Votre classe est l’élément le plus important pour déterminer les capacités de votre personnage. C’est la base qui va servir à définir tout le reste. Cependant, chaque classe a la possibilité d’engendrer un nombre presque infini de personnages selon les choix que vous ferez que ce soit en fonction des règles, de votre personnalité et de l’histoire que vous voulez raconter. Même s’ils partagent la même classe, un androïde mystique, prêtre du dieu machine Triune aura un comportement très différent en jeu qu’un lashunta mystique qui utilise ses pouvoirs psychiques en tant que détective privé capable de lire les pensées.
+Votre classe est l’élément le plus important pour déterminer les capacités de votre personnage. C’est la base qui va servir à définir tout le reste. Cependant, chaque classe a la possibilité d’engendrer un nombre presque infini de personnages selon les choix que vous ferez que ce soit en fonction des règles, de votre personnalité et de l’histoire que vous voulez raconter. Même s’ils partagent la même classe, un androïde mystique, prêtre du dieu machine Triune aura un comportement très différent en jeu qu’un lashunta mystique qui utilise ses pouvoirs psychiques en tant que détective privé capable de lire les pensées. 
 
 #### Aperçu général
-Pour chaque classe est décrit un membre typique de cette profession ainsi que des suggestions vous indiquant différentes manières d’utiliser vos pouvoirs au cours d’une aventure. Vous n’êtes pas limité à ces actions ou à ces traits de personnalité quand vous jouez un personnage de cette classe et, comme cela est signalé précédemment, il est possible de créer des personnages spécialisés de cette même classe qui sont efficaces dans des domaines différents. Mais si vous découvrez Starfinder et que vous avez besoin d’un peu d’aide pour comprendre comment jouer un personnage de cette profession, c’est une bonne base de départ.
+Pour chaque classe est décrit un membre typique de cette profession ainsi que des suggestions vous indiquant différentes manières d’utiliser vos pouvoirs au cours d’une aventure. Vous n’êtes pas limité à ces actions ou à ces traits de personnalité quand vous jouez un personnage de cette classe et, comme cela est signalé précédemment, il est possible de créer des personnages spécialisés de cette même classe qui sont efficaces dans des domaines différents. Mais si vous découvrez Starfinder et que vous avez besoin d’un peu d’aide pour comprendre comment jouer un personnage de cette profession, c’est une bonne base de départ. 
 
-**Points d’endurance :** au niveau 1 et à chaque nouveau niveau, vous gagnez le nombre indiqué de points d’endurance + votre modificateur de Constitution (minimum 0 PE par niveau). Si votre modificateur de Constitution change ultérieurement, ajustez vos points d’endurance pour tous vos niveaux.
+**Points d’endurance :** au niveau 1 et à chaque nouveau niveau, vous gagnez le nombre indiqué de points d’endurance + votre modificateur de Constitution (minimum 0 PE par niveau). Si votre modificateur de Constitution change ultérieurement, ajustez vos points d’endurance pour tous vos niveaux. 
 
 **Points de vie :** au niveau 1 et à chaque nouveau niveau, vous gagnez ce nombre de points de vie. Au niveau 1, ils s’ajoutent aux points de vie déterminés par votre race.
 
@@ -67,42 +67,42 @@ C’est ici que sont indiqués les types d’armes pour lesquels vous êtes form
 ### Aptitudes de classe
 Chacune de vos aptitudes de classe est décrite dans le reste de la description. Si une aptitude donnée nécessite un calcul ou que vous obtenez une fraction, à moins que le contraire ne soit indiqué, arrondissez toujours à l’inférieur, comme pour la règle d’arrondi normale.
 
-Les aptitudes de classe peuvent faire référence à différents niveaux comme le niveau du personnage, le niveau de la classe ou le niveau de lanceur de sorts (si vous en êtes un). Pour un personnage qui n’a qu’une seule classe, le niveau est le même dans tous les cas. Si vous décidez de choisir plusieurs classes, quand une aptitude a un effet ou un prérequis basé sur votre niveau, cela signifie toujours votre niveau dans la classe concernée, pas le niveau total de votre personnage (qui est la somme de tous les niveaux de vos classes). Si une aptitude de classe, ou un sort, mentionne votre niveau de lanceur de sorts, cela se réfère aux niveaux combinés de toutes vos classes de lanceur de sorts (bien que le nombre de sorts que vous pouvez utiliser chaque jour reste basé sur le niveau de la classe qui vous permet de les lancer).
+Les aptitudes de classe peuvent faire référence à différents niveaux comme le niveau du personnage, le niveau de la classe ou le niveau de lanceur de sorts (si vous en êtes un). Pour un personnage qui n’a qu’une seule classe, le niveau est le même dans tous les cas. Si vous décidez de choisir plusieurs classes, quand une aptitude a un effet ou un prérequis basé sur votre niveau, cela signifie toujours votre niveau dans la classe concernée, pas le niveau total de votre personnage (qui est la somme de tous les niveaux de vos classes). Si une aptitude de classe, ou un sort, mentionne votre niveau de lanceur de sorts, cela se réfère aux niveaux combinés de toutes vos classes de lanceur de sorts (bien que le nombre de sorts que vous pouvez utiliser chaque jour reste basé sur le niveau de la classe qui vous permet de les lancer). 
 
-Les aptitudes de classe sont généralement réparties en trois catégories les pouvoirs extraordinaires, les pouvoirs magiques et les pouvoirs surnaturels. Vous pouvez obtenir ces aptitudes de différentes manières dont l’utilisation de techniques avancées de méditation, un entraînement athlétique, des stimulateurs biologiques, des appareils technologiques d’avant-garde, des améliorations cybernétiques expérimentales, de mystérieuses technologies extraterrestres ou des biotechs de pointe. La manière spécifique dont vous obtenez ces aptitudes est laissée à votre entière discrétion et dépend de la saveur que vous voulez donner à votre personnage. Quelle que soit la source choisie, ces capacités sont des aptitudes de classe et ne peuvent vous être retirées bien qu’elles puissent être neutralisées ou annulées par d’autres effets.
+Les aptitudes de classe sont généralement réparties en trois catégories les pouvoirs extraordinaires, les pouvoirs magiques et les pouvoirs surnaturels. Vous pouvez obtenir ces aptitudes de différentes manières dont l’utilisation de techniques avancées de méditation, un entraînement athlétique, des stimulateurs biologiques, des appareils technologiques d’avant-garde, des améliorations cybernétiques expérimentales, de mystérieuses technologies extraterrestres ou des biotechs de pointe. La manière spécifique dont vous obtenez ces aptitudes est laissée à votre entière discrétion et dépend de la saveur que vous voulez donner à votre personnage. Quelle que soit la source choisie, ces capacités sont des aptitudes de classe et ne peuvent vous être retirées bien qu’elles puissent être neutralisées ou annulées par d’autres effets. 
 
-**Pouvoirs extraordinaires (Ext) :** les pouvoirs extraordinaires ne sont pas magiques bien qu’ils ne soient pas accessibles à tout le monde et nécessitent souvent un entraînement intensif. Les effets localisés ou de zones qui annulent ou neutralisent la magie n’ont aucun effet sur les pouvoirs extraordinaires.
+**Pouvoirs extraordinaires (Ext) :** les pouvoirs extraordinaires ne sont pas magiques bien qu’ils ne soient pas accessibles à tout le monde et nécessitent souvent un entraînement intensif. Les effets localisés ou de zones qui annulent ou neutralisent la magie n’ont aucun effet sur les pouvoirs extraordinaires. 
 
-**Pouvoirs magiques (Mag) :** les pouvoirs magiques sont des aptitudes magiques semblables à des sorts. Ils sont donc affectés par la résistance à la magie et ne fonctionnent pas dans des zones où la magie est neutralisée ou annulée. Les pouvoirs magiques peuvent être dissipés.
+**Pouvoirs magiques (Mag) :** les pouvoirs magiques sont des aptitudes magiques semblables à des sorts. Ils sont donc affectés par la résistance à la magie et ne fonctionnent pas dans des zones où la magie est neutralisée ou annulée. Les pouvoirs magiques peuvent être dissipés. 
 
 **Pouvoirs surnaturels (Sur) :** les pouvoirs surnaturels sont magiques mais ils ne sont pas comme des sorts. Ils ne sont pas affectés par la résistance à la magie mais ils ne fonctionnent pas dans des zones où la magie est neutralisée ou annulée. Un pouvoir surnaturel ne peut être dissipé.
 
 ### Tableau des classes
-Pour chaque description de classe, il y a un tableau qui résume les différents éléments concernant une classe à chaque niveau.
+Pour chaque description de classe, il y a un tableau qui résume les différents éléments concernant une classe à chaque niveau. 
 
-**Niveau :** c’est le niveau de la classe auquel votre personnage reçoit les avantages indiqués dans cette ligne.
+**Niveau :** c’est le niveau de la classe auquel votre personnage reçoit les avantages indiqués dans cette ligne. 
 
-**Bonus de base à l’attaque :** c’est le bonus de base à l’attaque à ce niveau qui est utilisé pour calculer vos bonus d’attaque à distance ou au corps à corps.
+**Bonus de base à l’attaque :** c’est le bonus de base à l’attaque à ce niveau qui est utilisé pour calculer vos bonus d’attaque à distance ou au corps à corps. 
 
-**Bonus Vig., Bonus Réf., Bonus Vol. :** ce sont vos bonus de base aux jets de sauvegarde de Vigueur, de Réflexes et de Volonté à ce niveau. Vous ajoutez votre modificateur de Constitution aux jets de sauvegarde de Vigueur, votre modificateur de Dextérité aux jets de Réflexes et votre modificateur de Sagesse à vos jets de Volonté.
+**Bonus Vig., Bonus Réf., Bonus Vol. :** ce sont vos bonus de base aux jets de sauvegarde de Vigueur, de Réflexes et de Volonté à ce niveau. Vous ajoutez votre modificateur de Constitution aux jets de sauvegarde de Vigueur, votre modificateur de Dextérité aux jets de Réflexes et votre modificateur de Sagesse à vos jets de Volonté. 
 
-**Aptitudes :** ce sont les aptitudes de classe que vous gagnez à ce niveau. Elles sont présentées ultérieurement dans la description de la classe.
+**Aptitudes :** ce sont les aptitudes de classe que vous gagnez à ce niveau. Elles sont présentées ultérieurement dans la description de la classe. 
 
-**Sorts par jour :** pour une classe qui permet de lancer des sorts, il est indiqué dans le tableau le nombre de sorts que vous pouvez lancer chaque jour en fonction de votre niveau (on appelle aussi ça les « emplacements de sorts »). En fonction de votre valeur de caractéristique essentielle, vous pouvez lancer des sorts supplémentaires comme cela est indiqué sur un tableau distinct dans la description de la classe. Un tiret indique que vous ne pouvez pas encore lancer un sort de ce niveau.
+**Sorts par jour :** pour une classe qui permet de lancer des sorts, il est indiqué dans le tableau le nombre de sorts que vous pouvez lancer chaque jour en fonction de votre niveau (on appelle aussi ça les « emplacements de sorts »). En fonction de votre valeur de caractéristique essentielle, vous pouvez lancer des sorts supplémentaires comme cela est indiqué sur un tableau distinct dans la description de la classe. Un tiret indique que vous ne pouvez pas encore lancer un sort de ce niveau. 
 
 **Autres indications :** si une classe accorde des aptitudes différentes qui dépendent de votre niveau, elles sont indiquées ici. Par exemple, le bonus d’armure et de dégâts avec des armes par niveau du solarien est indiqué sous l’intitulé Manifestation solaire. Ces capacités sont décrites ultérieurement dans la description de la classe.
 
 ### Orientation de classe
-Après les explications concernant les aptitudes des classes, vous trouverez quatre exemples de personnages de cette classe. Ces orientations sont quelques-uns des choix que vous pouvez faire pour créer un type précis de personnage et sont conçues pour vous aider à réfléchir aux différentes manières de jouer une même classe.
+Après les explications concernant les aptitudes des classes, vous trouverez quatre exemples de personnages de cette classe. Ces orientations sont quelques-uns des choix que vous pouvez faire pour créer un type précis de personnage et sont conçues pour vous aider à réfléchir aux différentes manières de jouer une même classe. 
 
-**Thème :** le thème approprié pour cette orientation.
+**Thème :** le thème approprié pour cette orientation. 
 
-**Caractéristiques importantes :** ici est indiqué quelles caractéristiques sont les plus importantes pour cette orientation.
+**Caractéristiques importantes :** ici est indiqué quelles caractéristiques sont les plus importantes pour cette orientation. 
 
-**Choix de classe :** de nombreuses classes proposent des choix multiples pour certaines aptitudes (comme les improvisations de l’émissaire ou les astuces de mécano). Vous trouverez ici quelques choix appropriés pour cette orientation, classés dans l’ordre des niveaux à partir desquels vous avez accès à ces options.
+**Choix de classe :** de nombreuses classes proposent des choix multiples pour certaines aptitudes (comme les improvisations de l’émissaire ou les astuces de mécano). Vous trouverez ici quelques choix appropriés pour cette orientation, classés dans l’ordre des niveaux à partir desquels vous avez accès à ces options. 
 
-**Sorts :** un choix de sorts classés par niveau qui s’accorde avec cette orientation.
+**Sorts :** un choix de sorts classés par niveau qui s’accorde avec cette orientation. 
 
-**Dons :** les dons utiles sont indiqués par ordre alphabétique.
+**Dons :** les dons utiles sont indiqués par ordre alphabétique. 
 
 **Compétences :** ce sont les compétences les plus appropriées pour cette orientation.

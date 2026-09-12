@@ -41,7 +41,7 @@ LastModified: 2024-10-25 22:41
 {s:BDSorts|3e — *[[Pathfinder-RPG.antidétection|antidétection]]*D, *[[Pathfinder-RPG.prière|prière]]*, *[[Pathfinder-RPG.protection contre les énergies destructives|protection contre les énergies destructives]]*, *[[Pathfinder-RPG.silence|silence]]*, *[[Pathfinder-RPG.soins importants|soins importants]]* }
 {s:BDSorts|2e — *[[Pathfinder-RPG.bouclier de défense|bouclier de défense]]*, *[[Pathfinder-RPG.détection de la magie suprême|détection de la magie suprême]]*, *[[Pathfinder-RPG.endurance de lours|endurance de l'ours]]*, *[[Pathfinder-RPG.force de taureau|force de taureau]]*, *[[Pathfinder-RPG.grâce féline|grâce féline]]*, invisibilitéD }
 {s:BDSorts|1er — *[[Pathfinder-RPG.bouclier de la foi|bouclier de la foi]]*, *[[Pathfinder-RPG.bénédiction|bénédiction]]*, *[[Pathfinder-RPG.faveur divine|faveur divine]]*(2), *[[Pathfinder-RPG.ordre assassin|ordre assassin]]* (DD 20), *[[Pathfinder-RPG.soins légers|soins légers]]* (2)}
-{s:BDSorts|0 (à volonté) — *[[Pathfinder-RPG.assistance divine|assistance divine]]*, *[[Pathfinder-RPG.création deau|création d'eau]]*, *[[Pathfinder-RPG.diplomatie améliorée|diplomatie améliorée]]*, *[[Pathfinder-RPG.stimulant|stimulant]]*}
+{s:BDSorts|0 (à volonté) — *[[Pathfinder-RPG.assistance divine|assistance divine]]*, *[[Pathfinder-RPG.création deau|création d'eau]]*, *[[Pathfinder-RPG.diplomatie améliorée|diplomatie améliorée]]*, *[[Pathfinder-RPG.stimulant|stimulant]]*} 
 {s:BDTexte|D **Domaine** [[Pathfinder-RPG.Domaine de la Duperie|Duperie]], [[Pathfinder-RPG.Domaine de la Destruction|Destruction]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 42, **Dex** 6, **Con** 31, **Int** 22, **Sag** 28, **Cha** 26}

@@ -68,5 +68,5 @@ Vous interprétez la signification d'une marque de bûcherons que vous avez trou
 **Échec critique** Vous interprétez la marque de manière incorrecte et obtenez un message opposé à sa signification (par exemple, une invitation à couper un arbre au lieu de le préserver).
 </div>
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shhp](https://paizo.com/community/blog/v5748dyo6shhp) et écrit par Ron Lundeen.

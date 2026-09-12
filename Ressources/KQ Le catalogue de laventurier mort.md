@@ -9,7 +9,7 @@ Categories:
 {s:KQtop}
 {s:Separateur}
 
-<div class="chapeau">Tendant sa torche vacillante vers la pièce mal éclairée du donjon, Tarquilos perçut comme un relent putride dans l'air.
+<div class="chapeau">Tendant sa torche vacillante vers la pièce mal éclairée du donjon, Tarquilos perçut comme un relent putride dans l'air. 
 
 {s:Dit|Tu sens ça, Wendell ? Il y a quelque chose de définitivement mort là-dedans.}
 

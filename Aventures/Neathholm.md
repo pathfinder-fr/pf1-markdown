@@ -18,17 +18,17 @@ Categories:
 **Gouvernement** : seigneur\
 **Population** : 38 (100% bâtards)\
 (((PNJ Importants)))
-**Chef** [[Neathholm-Sull|Sull]] : bâtard (m) rôdeur 2, LN
-**Devin** [[Neathholm-Opoli|Opoli]] : bâtard (m) sorcière 3, LN
+**Chef** [[Neathholm-Sull|Sull]] : bâtard (m) rôdeur 2, LN  
+**Devin** [[Neathholm-Opoli|Opoli]] : bâtard (m) sorcière 3, LN  
 (((PNJ secondaires)))
 Gardes : [[Pathfinder-RPG.Bâtard|Crel]] (m), [[Pathfinder-RPG.Bâtard|Dyra]] (f) et [[Pathfinder-RPG.Bâtard|Lann]] (m)
 (((Place du marché)))
 **Valeur de base** 200 po ; **Limite d'achat** 1000 po ; **Incantation** 2\
-**Objets faibles** :
-- [[Pathfinder-RPG.Armes magiques#BONUSALTERATION|Flèches +1]] (8)
-- [[Pathfinder-RPG.Armes magiques#BONUSALTERATION|Targe +1]]
-- [[Pathfinder-RPG.Anneau de protection|Anneau de protection +1]]
-- [[Pathfinder-RPG.Gemme à élémentaire|Gemme à élémentaire de la Terre]]
+**Objets faibles** :   
+- [[Pathfinder-RPG.Armes magiques#BONUSALTERATION|Flèches +1]] (8)  
+- [[Pathfinder-RPG.Armes magiques#BONUSALTERATION|Targe +1]]  
+- [[Pathfinder-RPG.Anneau de protection|Anneau de protection +1]]  
+- [[Pathfinder-RPG.Gemme à élémentaire|Gemme à élémentaire de la Terre]]  
 </div>
 </td><td><div class="BD">Les eaux sombres d'un petit lac ondulent au centre de la caverne de soixante mètres de diamètre. les murs et les plafonds sont couverts d'épaisses couches de champignons luminescents. Au centre du lac, plus d'une vingtaine de bâtiments de pierre peu élevés s'entassent sur une île rocheuse de trente mètres de diamètre. Des lumières brillent derrière les fenêtres des bâtiments, donnant à la communauté un aspect presque accueillant. Des radeaux fabriqués à l'aides de planches de bois dépareillées flottent le long d'un quai de guingois situé sur la berge du lac la plus proche.
 

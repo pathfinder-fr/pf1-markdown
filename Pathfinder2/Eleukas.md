@@ -31,11 +31,11 @@ Guerrier humain homme
 **For** +4, **Dex** +1, **Con** +3, **Int** +0, **Sag** +0, **Cha** +2
 
 **Équipement** plastron, *potion de guérison mineure*, dagues (3), corde, *Visperath* (*hache de bataille +1* qui inflige 1 point de dégâts d'acide supplémentaire et 1d4 points de dégâts persistants d'acide en cas de coup critique)
----
+<hr />
 **CA** 19 ; **Réf** 11, **Vig** +9, **Vol** +6
 
 **PV** 32
----
+<hr />
 **Attaque d'opportunité** {s:PF2a|ra}
 
 **Vitesse** 4 cases
@@ -63,5 +63,5 @@ Les MJ pourraient vouloir considérer les idées suivantes pour intégrer Éleuk
 
 - Alors que les héros enquêtent sur d'étranges événements à Otari, Éleukas leur propose son aide en tant qu'intermédiaire pouvant les présenter aux habitants qui pourraient les aider et peut-être même convaincre le capitaine Longsaddle d'ignorer leurs faux-pas involontaires.
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adresse [https://paizo.com/community/blog/v5748dyo6shjp](https://paizo.com/community/blog/v5748dyo6shjp) et écrit par Ron Lundeen.

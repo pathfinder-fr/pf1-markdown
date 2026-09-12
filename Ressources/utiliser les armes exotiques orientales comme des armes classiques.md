@@ -14,7 +14,7 @@ On a simplement considéré que tant qu'aucun don ne lui est consacré, une arme
 
 
 Ainsi, entre des mains non expérimentées, un wakizashi devient une épée courte.
-Le wakizashi : 1d4 (P) 1d6 (M) (18-20/x2) P/T *mortel*devient : 1d4 (P), 1d6 (M) (19-20/x2) T
+Le wakizashi : 1d4 (P) 1d6 (M) (18-20/x2) P/T *mortel*devient : 1d4 (P), 1d6 (M) (19-20/x2) T 
 
 
 Il perd la propriété T, le meilleur facteur de critique 18-20/x2 pour 19-20x2 et la capacité *mortelle*.
@@ -23,7 +23,7 @@ Il perd la propriété T, le meilleur facteur de critique 18-20/x2 pour 19-20x2 
 Les PJ bénéficient comme çà des avantages de l'arme (en ce qui nous concerne, une arme magique +1 et la possibilité d'utiliser une capacité magique)
 
 
-Ce n'est qu'en prenant le don arme exotique que le PJ en obtiendra éventuellement tous les avantages.
+Ce n'est qu'en prenant le don arme exotique que le PJ en obtiendra éventuellement tous les avantages. 
 
 
 En RP, vous pouvez l'expliquer par exemple par le fait que plus tard, comment le PJ, en la voyant correctement utilisée ou en finissant par comprendre son utilisation, peut en apprendre toutes les subtilités et décider de prendre le don arme exotique.

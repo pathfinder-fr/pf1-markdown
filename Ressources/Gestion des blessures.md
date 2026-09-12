@@ -28,7 +28,7 @@ Explication : la mort avec une limite trop courte fait mourir trop facilement le
 Explication : si les sorts de soin enlèvent les cicatrices les bras cassés etc.. alors vous avez un monde sans aucune blessures Aucune cicatrices etc... Après vous pouvez en décidez autrement.
 
 
-3 ) On peut guérir une blessure grave en faisant des jets de premiers secours une fois par semaine. Selon la gravité de la blessure, il faut réussir autant de fois que c'est indiqué dans le descriptif de la blessure.
+3 ) On peut guérir une blessure grave en faisant des jets de premiers secours une fois par semaine. Selon la gravité de la blessure, il faut réussir autant de fois que c'est indiqué dans le descriptif de la blessure. 
 (Une blessure peut prendre plusieurs semaines à guérir)
 
 
@@ -45,7 +45,7 @@ Explication : si les sorts de soin enlèvent les cicatrices les bras cassés etc
 
 
 
-5 ) Regardez l'effet
+5 ) Regardez l'effet 
 
 
 **1 à 2 - KO** : Le personnage revient à 1 point de vie après (dégât non létaux + points de vie négatifs) minutes (ne se meurt pas)

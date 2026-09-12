@@ -5,7 +5,7 @@ LastModified: 2019-09-01 13:15
 ---
 
 <div class="presentation arrondi recentre ombre"><center>**FRONT DE LIBÉRATION DES ANDROÏDES**
-</br>**Partisans synthétiques**
+</br>**Partisans synthétiques**  
 </br>**Dirigeant** : Ex Novo
 </br>**Quartier général** : inconnu, sans doute dans la Diaspora</center></div>
 

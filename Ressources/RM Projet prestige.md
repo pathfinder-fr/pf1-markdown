@@ -5,7 +5,7 @@ LastModified: 2012-01-15 16:57
 ---
 
 ### Note de l'auteur
-**Le but de ce projet?**
+**Le but de ce projet?** 
 
 Éliminer les classes de prestige et les transformer en quelque chose de mieux!
 
@@ -298,7 +298,7 @@ Au niveau 5, une fois par jour, le disciple dévoué peut se transformer en une 
 
 :: *Deuxième sceau abyssal (Mag)*. Le disciple dévoué ajoute des marques supplémentaires sur son sceau abyssal. Le sceau abyssal lui confère maintenant une résistance 20 à l'électricité et un bonus de +6 à ses jets de sauvegarde contre le poison. Il bénéficie également d'une résistance 5 au feu, au froid et à l'acide. En contrepartie, le disciple dévoué ne peut plus lancer de sort appartenant au registre du Bien et de la Loi. Cette greffe nécessite le premier sceau abyssal et le disciple dévoué doit être de niveau 9 pour l'obtenir.
 
-:: *Griffe démoniaque (Ext)*. Le disciple dévoué remplace une de ses mains par une horrible main griffue. Cette main lui confère une attaque de griffe (1d6 dégât si le disciple dévoué est de taille M) et celle-ci est considérée comme chaotique et mauvaise pour ce qui est d'ignorer les réductions de dégât. Tous les tests impliquant une action demandant de la précision (combattre avec une arme, crocheter une serrure) avec la main griffue subissent un malus de -2.
+:: *Griffe démoniaque (Ext)*. Le disciple dévoué remplace une de ses mains par une horrible main griffue. Cette main lui confère une attaque de griffe (1d6 dégât si le disciple dévoué est de taille M) et celle-ci est considérée comme chaotique et mauvaise pour ce qui est d'ignorer les réductions de dégât. Tous les tests impliquant une action demandant de la précision (combattre avec une arme, crocheter une serrure) avec la main griffue subissent un malus de -2. 
 
 :: *Oeil du démon (Mag)*. Le disciple dévoué remplace un de ses yeux par un oeil de démon. Cet oeil lui confère une vision dans le noir sur 18 mètres et d'utiliser à volonté les sorts de Détection du Bien et de Détection de la Loi. De plus, lorsqu'il est touché par une attaque lui infligeant des dégâts (létaux ou non), il doit effectuer un jet de sauvegarde de Volonté de DD 20 pour ne pas devenir incontrôlable pendant 2d6 rounds, identique à l'effet du sort Confusion.
 
@@ -329,7 +329,7 @@ Au niveau 5, une fois par jour, le disciple dévoué peut se transformer en une 
 
 :: *Deuxième sceau céleste (Mag)*. Le disciple dévoué ajoute des marques supplémentaires sur son sceau céleste. Le sceau céleste lui confère maintenant une résistance 20 à l'acide et au froid et un bonus de +6 à ses jets de sauvegarde contre la pétrification. Il bénéficie également d'une résistance 5 au feu et à l'électricité et un bonus de +2 à ses jets de sauvegarde contre le poison. En contrepartie, le disciple dévoué ne peut plus lancer de sort appartenant au registre du Mal et du Chaos. Cette greffe nécessite le premier sceau céleste et le disciple dévoué doit être de niveau 9 pour l'obtenir.
 
-:: *Coeur d'ange (Mag)*. Le disciple dévoué remplace son coeur par l'âme d'un ange. Il bénéficie désormais constamment l'effet des sorts de Protection du Mal et de Protection du Bien. En contrepartie, le disciple dévoué est également sous l'effet du sort de zone de vérité.
+:: *Coeur d'ange (Mag)*. Le disciple dévoué remplace son coeur par l'âme d'un ange. Il bénéficie désormais constamment l'effet des sorts de Protection du Mal et de Protection du Bien. En contrepartie, le disciple dévoué est également sous l'effet du sort de zone de vérité. 
 
 :: *Oeil de l'ange (Mag)*. Le disciple dévoué remplace un de ses yeux par un oeil d'ange. Cet oeil lui confère la vision nocturne et d'utiliser à volonté les sorts de Détection du Mal et de Détection des mort-vivants. De plus, lorsqu'il est touché par une attaque lui infligeant des dégâts (létaux ou non), il doit effectuer un jet de sauvegarde de Volonté de DD 20 pour ne pas subir les mêmes effets que le sort DRepentir forcé pendant 2d6 rounds.
 
@@ -359,7 +359,7 @@ Au niveau 5, une fois par jour, le disciple dévoué peut se transformer en une 
 
 :: *Deuxième sceau infernal (Mag)*. Le disciple dévoué ajoute des marques supplémentaires sur son sceau infernal. Le sceau infernal lui confère maintenant une résistance 20 au feu et un bonus de +6 à ses jets de sauvegarde contre le poison. Il bénéficie également d'une résistance 5 au froid et à l'acide. En contrepartie, le disciple dévoué ne peut plus lancer de sort appartenant au registre du Bien et du Chaos. Cette greffe nécessite le premier sceau infernal et le disciple dévoué doit être de niveau 9 pour l'obtenir.
 
-:: *Griffe infernal (Ext)*. Le disciple dévoué remplace une de ses mains par une horrible main griffue. Cette main lui confère une attaque de griffe (1d6 dégât si le disciple dévoué est de taille M) et celle-ci est considérée comme loyale et mauvaise pour ce qui est d'ignorer les réductions de dégât. Tous les tests impliquant une action demandant de la précision (combattre avec une arme, crocheter une serrure) avec la main griffue subissent un malus de -2.
+:: *Griffe infernal (Ext)*. Le disciple dévoué remplace une de ses mains par une horrible main griffue. Cette main lui confère une attaque de griffe (1d6 dégât si le disciple dévoué est de taille M) et celle-ci est considérée comme loyale et mauvaise pour ce qui est d'ignorer les réductions de dégât. Tous les tests impliquant une action demandant de la précision (combattre avec une arme, crocheter une serrure) avec la main griffue subissent un malus de -2. 
 
 :: *Oeil du diable (Mag)*. Le disciple dévoué remplace un de ses yeux par un oeil de diable. Cet oeil lui confère une vision dans le noir sur 18 mètres et d'utiliser à volonté les sorts de Détection du Bien et de Détection du Chaos. De plus, lorsqu'il est touché par une attaque lui infligeant des dégâts (létaux ou non), il doit effectuer un jet de sauvegarde de Volonté de DD 20 pour ne pas subir les mêmes effets que le sort Désespoir foudroyant pendant 2d6 rounds.
 

@@ -19,7 +19,7 @@ LastModified: 2023-04-10 13:55
 
 **For** -5, **Dex** +6, **Con** -4, **Int** +2, **Sag** +4, **Cha** +7
 
----
+<hr />
 **CA** 23 ; **Réf** +16, **Vig** +8, **Vol** +14
 
 **PV** 50 ; **Immunités** magie
@@ -28,7 +28,7 @@ LastModified: 2023-04-10 13:55
 
 **Lueur** (aura, lumière) 4 cases. Le feu-follet est naturellement invisible mais il émet une lueur colorée qui projette une lumière vive au sein de l'aura et le rend visible. Les créatures effrayées ne peuvent pas réduire leur valeur d'effrayé tant qu'elles se trouvent dans l'aura.
 
----
+<hr />
 **Vitesse** vol 10 cases
 
 **Càc** {s:PF2a|1a} choc électrique +15 (électricité, magique), **Dégâts** 2d8+4 d'électricité

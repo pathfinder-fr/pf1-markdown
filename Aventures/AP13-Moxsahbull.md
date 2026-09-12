@@ -40,7 +40,7 @@ Categories:
 
 </div>
 </td><td><div class="BD">
-*Cette horreur voûtée aux ailes de chauve-souris se déplace avec une grâce troublante. Ses yeux étincelants et sa longue langue lui donnent un air effrayant.*
+*Cette horreur voûtée aux ailes de chauve-souris se déplace avec une grâce troublante. Ses yeux étincelants et sa longue langue lui donnent un air effrayant.*  
 
 Moxsahbull n'est pas directement affilié aux démons ou à leurs fanatiques, mais une sorte de trêve fragile existe entre lui et les habitants de Drézen. Les démons et les fanatiques l’autorisent à occuper la crypte tant qu'il se nourrit uniquement des prisonniers évadés de la colline du Paradis. Les démons sont des hôtes courtois, ils laissent une poignée de prisonniers s'évader toutes les quelques semaines pour que le berbalang puisse les traquer.
 

@@ -11,7 +11,7 @@ Categories:
 <ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 
-Appelés Hommes-chats ou Félidés par les humains, les rwerrihns sont une race humanoïde aux traits félins dont la société rappelle les lions. Cette race se caractérise principalement par un dimorphisme sexuel très fort, tant au niveau physique qu'au niveau social.
+Appelés Hommes-chats ou Félidés par les humains, les rwerrihns sont une race humanoïde aux traits félins dont la société rappelle les lions. Cette race se caractérise principalement par un dimorphisme sexuel très fort, tant au niveau physique qu'au niveau social. 
 
 **Description . **
 Les rwerrihns sont des humanoïdes de taille humaine, au visage bestial. Leur peau est recouverte d'une fine fourrure dont les tons varient du blanc au noir, en passant par le blond, le fauve, le brun et le roux, uni, avec des taches ou des rayures. Leurs jambes sont courtes mais ils marchent sur les doigts, leur talon ne touchant pas le sol. Ils ont une petite queue souple.
@@ -22,10 +22,10 @@ Ils peuvent vivre jusqu'a 80 ans, mais en général, seules les femelles meurent
 Les rwerrihns vivent dans des savanes, de vastes plaines chaudes. Ils sont semi-nomades, changeant d’endroit au fil saisons.
 
 **Société : **
-Chez les rwerrihns, ce sont les femmes qui font fonctionner la société, les hommes se concentrant sur le combat. Si les femmes sont attentives et effacées, les hommes sont agressifs et orgueilleux.
+Chez les rwerrihns, ce sont les femmes qui font fonctionner la société, les hommes se concentrant sur le combat. Si les femmes sont attentives et effacées, les hommes sont agressifs et orgueilleux. 
 Ils vivent en clans commandés par un mâle dominant, qui est le seul reproducteur. Quand un de ses fils atteint la puberté, il est chassé du clan et doit se débrouiller seul jusqu’à ce qu’il soit assez fort pour défier un chef de clan et prendre sa place. Ça peut être son père mais rares sont ceux qui veulent reprendre leur clan de naissance.
 Les mâles tendent vers le chaos et les femelles vers la loi, mais tous les alignements se retrouvent chez eux. Ils sont en général neutres au niveau moral.
-Les mâles sont la plupart du temps des combattants, Barbares, rôdeurs ou guerriers. Certains choisissent les arcanes et deviennent ensorceleurs.
+Les mâles sont la plupart du temps des combattants, Barbares, rôdeurs ou guerriers. Certains choisissent les arcanes et deviennent ensorceleurs. 
 Quelques rares mâles refusent de se battre et deviennent bardes à la puberté et sont appelés « conteurs ». Ils ont un statut est particulier, ils voyagent de clan en clan pour connaitre les nouvelles. Ce sont les seuls mâles adultes acceptés par les chefs de clan.
 Les femelles sont souvent roublardes ou rôdeuses. Les lanceuses de sorts sont prêtresses ou druides.
 Leur société n’est pas assez développée pour qu’il y ait des magiciens rwerrihns. De même, les moines et les paladins sont quasi-inconnus.

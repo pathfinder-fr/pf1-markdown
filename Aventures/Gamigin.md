@@ -29,7 +29,7 @@ LastModified: 2016-07-29 09:51
 (((Tactique)))
 - **Avant le combat** Gamigin est en permanence sous l’effet de vol et d’*aura maudite*. Juste avant de passer à l’attaque, il tente de convoquer 2d4 diables osseux pour l’aider.
 - **Pendant le combat** Gamigin laisse les diables osseux engager ses ennemis au corps à corps tandis qu’il se déplace pour semer le chaos et se sert de son mur de glace pour briser les tactiques ennemies. À distance, cône de froid et tempête de grêle sont ses attaques favorites mais une fois qu’il se retrouve au corps à corps, il abandonne ses pouvoirs magiques et déchaîne
-sa colère sur les soigneurs avant de passer aux autres adversaires.
+sa colère sur les soigneurs avant de passer aux autres adversaires. 
 - **Moral **Gamigin a survécu pendant des siècles en sachant quand il est temps de battre en retraite mais il ne s’est jamais battu ici, à Xin-Shalast. Il réduit donc dangereusement sa marge de manœuvre et ne se fuit via une téléportation suprême vers une lointaine cachette que lorsqu’il tombe à moins de 20 points de vie. S’il s’échappe ainsi, il ne rentrera pas à Xin-Shalast avant bien longtemps.
 (((Caractéristiques)))
 - **For **27, **Dex **18, **Con **26, **Int **22, **Sag **24, **Cha **24

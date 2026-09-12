@@ -531,7 +531,7 @@ arrayset(races, iraces, new Race (
 "Oréade", "",
 "<b>Oréades</b> (Bestiaire 2)<ul><li>For +2, Sag +2, Cha -2.</li><li>Taille moyenne, vitesse de base 6 cases.</li><li>Vision dans le noir (12 cases).</li><li>Résistance élémentaire (acide 5).</li><li>Affinité élémentaire (Cha +2 pour le lignage élémentaire de la Terre, NLS +1 pour le domaine de la terre).</li><li>Pouvoirs magiques (1/jour—<i>pierre magique</i>, NLS = DV).</li><li>Langues : commun, terreux ; langues en bonus : aérien, aquatique, elfe, gnome, halfelin, igné, nain.</li></ul>",
 2, 0, 0, 0, 2, -2, 0
-));
+));  
 iraces++;
 arrayset(races, iraces, new Race (
 "Sylphe", "",
@@ -554,13 +554,13 @@ arrayset(races, iraces, new Race (
 "Homme-rat", "",
 "<b>Hommes-rats</b> (Bestiaire 3)<ul><li>For -2, Dex +2, Int +2.</li><li>Petite taille (CA +1, attaque +1, BMO -1, DMD -1, Discrétion +4), vitesse de base 6 cases.</li><li>Vision dans le noir (12 cases).</li><li>Bricoleur (+2 Artisanat/Alchimie, Perception et Utilisation d'objets magiques).</li><li>Empathie avec les rongeurs (+4 Dressagepour influencer les rongeurs).</li><li>Attaque en masse (des hommes-rats peuvent partager la même case et bénéficier d'un avantage au combat ; voir Bestaire).</li><li>Langues : commun, homme-rat ; langues supplémentaires : aklo, commun des profondeurs, draconique, gnoll, gnome, gobelin, halfling, nain, orque.</li></ul>",
 -2, 2, 0, 2, 0, 0, 0
-));
+)); 
 iraces++;
 arrayset(races, iraces, new Race (
 "Suli", "",
 "<b>Sulis</b> (Bestiaire 3)<ul><li>For +2, Int -2, Cha +2.</li><li>Taille moyenne, vitesse de base 6 cases.</li><li>Vision nocturne.</li><li>Négociateur (+2 Diplomatie, Psychologie).</li><li>Attaque élémentaire (1/jour, peut ajouter +1d6 dégâts d'énergie aux attaques à mains nues, voir Bestiaire).</li><li>Résistance élémentaire (acide 5, froid 5, feu 5, électricité 5).</li><li>Langues : commun, une langue élémentaire (aérien, terreux, igné ou aquatique) ; langues en bonus : langues élémentaires, draconique.</li></ul>",
 2, 0, 0, -2, 0, 2, 0
-));
+));  
 iraces++;
 arrayset(races, iraces, new Race (
 "Vanara", "",

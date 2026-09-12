@@ -21,7 +21,7 @@ LastModified: 2016-07-28 14:35
 - **Attaques spéciales** absorption de sang, attaque sournoise (+4d6), création de rejeton, créatures des ténèbres, domination (DD 15)
 (((Tactique)))
 - **Pendant le combat** Une fois que le combat commence, les skulks cachés rasent les murs de la salle et essayent de se placer de façon à prendre leurs ennemis en tenaille. Ils se battent à deux contre un aussi longtemps que possible afin d’optimiser leurs attaques sournoises. Ils combattent de préférence des adversaires dépourvus d’armes en argent et rompent le combat
-contre des ennemis équipés de ce genre d’arme pour se concentrer, si possible, sur une proie plus facile.
+contre des ennemis équipés de ce genre d’arme pour se concentrer, si possible, sur une proie plus facile. 
 - **Moral **Les skulks vampires se battent jusqu’à tomber à 0 point de vie. Là, ils se changent en état gazeux et remontent vers le balcon au nord-ouest. Ils se faufilent ensuite dans les fentes du mur pour atteindre une pièce sous le balcon où ils pourront récupérer dans leurs cercueils (en réalité de simples niches étroites dans le sol).
 (((Caractéristiques)))
 - **For **20, **Dex **24, **Con **—, **Int **12, **Sag **18, **Cha **12

@@ -6,7 +6,7 @@ Categories:
 - PNJ
 ---
 
-Le summum du nain en armure se protégeant et protégeant les autres nains avec son bouclier.
+Le summum du nain en armure se protégeant et protégeant les autres nains avec son bouclier. 
 
 <div class="BD">
 {s:BDTitre|Nain rempart|FP 2}

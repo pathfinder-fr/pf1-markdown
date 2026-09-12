@@ -27,7 +27,7 @@ LastModified: 2026-03-30 02:10
 - **Particularités** Points de création : Cannibalisation (voir pouvoir spéciaux plus bas), attaque supplémentaire (morsure)). **Régénération **10/round 
 {s:BDSousTitre|Tactique}
 - **Phase 2** : une fumée noire assez dense semble transpirer des pores de sa peaux. Dans le même temps, il semble abandonner certaines parties mal attachées ou atrophiés.
-De son corps dans une gerbe de sang et de morceaux de chairs sortent.
+De son corps dans une gerbe de sang et de morceaux de chairs sortent. 
 - 1 bras supplémentaire sort de son flanc munie de griffe : 
 permet une attaque de griffe supplémentaire
 - 1 bras sort un au niveau de la nuque, avec une bouche dans la paume de la main : 
@@ -57,5 +57,5 @@ Les nécroforgés sont davantage utilisés pour leur force brute que pour leur p
 
 Les détails du rituel à mettre en oeuvre pour créer un nécroforgé peuvent grandement varier et dépendent des éléments corporels de mort-vivant utilisés ainsi que de la taille voulue pour le nécroforgé. Un fois le nécroforgé terminé, son anatomie dépend largement du talent de son maître sur le plan esthétique et créatif, de ses préférences personnelles et des objectifs particuliers qu’il impose à sa créature. Par exemple, les « dents » du nécroforgé peuvent être prélevées sur les mains griffues de plusieurs dizaines de goules, tout comme ses yeux et sa bouche peuvent être greffés sur sa poitrine plutôt qu’à leur emplacement normal sur la tête.
 
-**PS **: Selon les règles strictes, le monstre devrait être de taille très grand avec ce nombre de DV, je sais, mais ça réduit la classe d'armure et c'était trop grand pour ce que je voulais. De plus j'ai enlevé les aptitudes de vol (qui sont présentes de base) pour les remplacer par cannibalisme, mais ne servant a rien en combat j'ai ajouté une régénération de 10pv/round à la place
+**PS **: Selon les règles strictes, le monstre devrait être de taille très grand avec ce nombre de DV, je sais, mais ça réduit la classe d'armure et c'était trop grand pour ce que je voulais. De plus j'ai enlevé les aptitudes de vol (qui sont présentes de base) pour les remplacer par cannibalisme, mais ne servant a rien en combat j'ai ajouté une régénération de 10pv/round à la place 
 </div></td></tr></table>

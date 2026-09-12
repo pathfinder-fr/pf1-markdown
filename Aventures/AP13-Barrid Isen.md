@@ -44,10 +44,10 @@ Categories:
 </td><td><div class="BD">
 *Le pont de l'Ahari est gardé par cet ensorceleur bossu au sang de démon.*
 ### Tactiques
-**Avant le combat**
+**Avant le combat**   
 Barrid se lance [[Pathfinder-RPG.armure de mage|armure de mage]] et [[Pathfinder-RPG.force de taureau|force de taureau]] avant le début du combat.
-**Pendant le combat**
-Barrid entame le combat en langant [[Pathfinder-RPG.convocation de monstres IV|convocation de monstres IV]] pour invoquer 1d3 [[Pathfinder-RPG.dretch|dretchs]]. Il reste ensuite en retrait pour agresser les PJ avec des sorts. Il lance [[Pathfinder-RPG.rage|rage]] si les adversaires parviennent à l'engager au corps à corps. Il combat sur la défensive et tente de se replier sur le coté nord du pont avant d'ordonner aux [[Pathfinder-RPG.Auroch Mangeur dhommes|aurochs]] de tirer sur leurs chaines afin de provoquer l'effondrement des piliers de soutien du pont.
-**Moral.**
+**Pendant le combat**   
+Barrid entame le combat en langant [[Pathfinder-RPG.convocation de monstres IV|convocation de monstres IV]] pour invoquer 1d3 [[Pathfinder-RPG.dretch|dretchs]]. Il reste ensuite en retrait pour agresser les PJ avec des sorts. Il lance [[Pathfinder-RPG.rage|rage]] si les adversaires parviennent à l'engager au corps à corps. Il combat sur la défensive et tente de se replier sur le coté nord du pont avant d'ordonner aux [[Pathfinder-RPG.Auroch Mangeur dhommes|aurochs]] de tirer sur leurs chaines afin de provoquer l'effondrement des piliers de soutien du pont.  
+**Moral.**   
 Si ses points de vie sont réduits à moins de 20, Barrid prend la fuite pour rejoindre la citadelle (F3) en utilisant sa baguette.
 </div></td></tr></table>

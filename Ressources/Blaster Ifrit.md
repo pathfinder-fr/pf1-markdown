@@ -22,9 +22,9 @@ C'est un blaster. Il utilise les sorts pour faire des dommages. Comparer aux bla
 [[Pathfinder-RPG.ifrit (race).ashx|L'ifrit]] est l'une des conditions requises pour l'acquisition de l'archétype de la classe [[Pathfinder-RPG.Immolateur (inquisiteur).ashx|immolateur]].</br>
 
 =>Pouvoir magique.>>>Magie éfrite. </br>
-On remplace un pouvoir magique par un boost personnel si on doit se passer de ses sorts.
+On remplace un pouvoir magique par un boost personnel si on doit se passer de ses sorts. 
 =>Résistance élémentaire.>>>Coeur embrasé.:Ils gagnent un bonus racial de +4 à leurs tests d’initiative.</br>
-On remplace une capacité obsolète par le domaine du feu par un gros bonus d'initiative (bonus qui équivaut à un don. Donc c'est du très bon)
+On remplace une capacité obsolète par le domaine du feu par un gros bonus d'initiative (bonus qui équivaut à un don. Donc c'est du très bon)  
 
 
 
@@ -37,7 +37,7 @@ On remplace une capacité obsolète par le domaine du feu par un gros bonus d'in
 {br}Sag:15          |15
 {br}Cha:9           |9
 
-La stat clef est la sagesse. Comme il a un malus de -2 avec la race, il faut investir pas mal de point pour préparer l'accès au sort de niveau 3 (17 points). La force est la stat secondaire pour devenir un guerrier de seconde zone (et faire autre chose). La différence entre la Dex et la con vient principalement du gain de stat. A 20, il est équivalent le gain entre la dex et la con, donc je privilégie les points de vu. A 25, vous accédez à +3 en dex, augmentant votre sauvegarde la plus faible. Après, vous pouvez optez pour 13 en dex et 14 en con si vous aimez être un peu plus solide.
+La stat clef est la sagesse. Comme il a un malus de -2 avec la race, il faut investir pas mal de point pour préparer l'accès au sort de niveau 3 (17 points). La force est la stat secondaire pour devenir un guerrier de seconde zone (et faire autre chose). La différence entre la Dex et la con vient principalement du gain de stat. A 20, il est équivalent le gain entre la dex et la con, donc je privilégie les points de vu. A 25, vous accédez à +3 en dex, augmentant votre sauvegarde la plus faible. Après, vous pouvez optez pour 13 en dex et 14 en con si vous aimez être un peu plus solide. 
 
 #### 3. Plan de carrière
 
@@ -45,11 +45,11 @@ Domaine des incendies pour avoir accès à vos sorts de blast
 
 ##### 3.1 Bonus de classe de prédilection
 
-Je vous conseillerais les points de vie, vu que vous pouvez être fréquemment au corps à corps, que ça soit dans votre domaine principale avec le blast, ou secondaire quand vous irez taper.
+Je vous conseillerais les points de vie, vu que vous pouvez être fréquemment au corps à corps, que ça soit dans votre domaine principale avec le blast, ou secondaire quand vous irez taper. 
 
 ##### 3.2 Traits
 
--Je vous conseille fortement [Outlander](http://www.d20pfsrd.com/traits/campaign-traits/rise-of-the-runelords/outlander) avec l'option Missionnary. Il vous donne +1 NLS et 1 pour le dd de trois sorts choisis appartenant aux domaines du feu. Les trois sorts seront mains brûlantes, sphère du feu et boule de feu.
+-Je vous conseille fortement [Outlander](http://www.d20pfsrd.com/traits/campaign-traits/rise-of-the-runelords/outlander) avec l'option Missionnary. Il vous donne +1 NLS et 1 pour le dd de trois sorts choisis appartenant aux domaines du feu. Les trois sorts seront mains brûlantes, sphère du feu et boule de feu. 
 
 ##### 3.3 Capacités de classe et dons
 
@@ -61,21 +61,21 @@ Je vous conseillerais les points de vie, vu que vous pouvez être fréquemment a
 
 ##### 3.4 Sorts
 
-'''3.4.0
+'''3.4.0 
 
-'''3.4.1
+'''3.4.1 
 
-'''3.4.2
+'''3.4.2 
 
-'''3.4.3
+'''3.4.3 
 
-'''3.4.4
+'''3.4.4 
 
-'''3.4.5
+'''3.4.5 
 
-'''3.4.6
+'''3.4.6 
 
-'''3.4.7
+'''3.4.7 
 
 
 #### 4. Équipement

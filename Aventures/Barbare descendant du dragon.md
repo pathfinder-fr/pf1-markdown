@@ -21,18 +21,18 @@ LastModified: 2023-10-22 18:43
 {s:BDTexte|**RD **2/-, **Résistances **feu 5}
 {s:BDSousTitre|CAPACITÉS OFFENSIVES}
 {s:BDTexte|**Vitesse **8 cases (6 cases en armure) }
-{s:BDTexte|**Càc **cimeterre à deux mains +14/+9 (2d4+10, 18-20)
+{s:BDTexte|**Càc **cimeterre à deux mains +14/+9 (2d4+10, 18-20) 
   
 ou cimeterre avec attaque en puissance +12/+7 (2d4+16, 18-20)
   
-ou morsure +13 (1d6+9) et 2 griffes +13 (1d4+4)
+ou morsure +13 (1d6+9) et 2 griffes +13 (1d4+4) 
   
 ou attaque en puissance morsure +11 (1d6+15) et 2 griffes +11 (1d4+6)}
-{s:BDTexte|**Càc en rage **cimeterre à deux mains +16/+11 (2d4+13, 18-20)
+{s:BDTexte|**Càc en rage **cimeterre à deux mains +16/+11 (2d4+13, 18-20) 
   
 ou cimeterre avec attaque en puissance +14/+9 (2d4+19, 18-20)
   
-ou morsure +15 (1d6+12) et 2 griffes +15 (1d4+5)
+ou morsure +15 (1d6+12) et 2 griffes +15 (1d4+5) 
   
 ou attaque en puissance morsure +13 (1d6+18) et 2 griffes +11 (1d4+7)}
 {s:BDTexte|**Dist **hache de lancer +10 (1d6+6, facteur de portée 2 cases)  
@@ -62,10 +62,10 @@ Rage élémentaire (+ 1d6 dégâts de feu aux attaques 1 round/jour)}
 {s:BDSousTitre|PARTICULARITÉS}
 **Furie élémentaire (ext)** Lorsque le barbare encaisse 4 points de dégâts élémentaires, son quota quotidien de rage augmente d'un round.   
 **Arcanes de lignage draconique.** Chaque fois que l’ensorceleur lance un sort appartenant au registre du feu ce sort inflige +1 point de dégâts par dé lancé.   
-'''Résistances draconiques (Ext),
-Griffes (Ext),
-Morsure du dragon (Ext),
-Souffle (Sur),
+'''Résistances draconiques (Ext), 
+Griffes (Ext), 
+Morsure du dragon (Ext), 
+Souffle (Sur), 
 Résistances draconiques (Ext).'''
 {s:BDSousTitre|ÉQUIPEMENT}
 Cuirasse en adamantium +1 ; Cimeterre à deux mains +1, 3 haches de lancer,  arc court et 20 flèches, matériel de voyageur, corde en soie, 400 PO

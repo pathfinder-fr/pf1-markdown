@@ -25,8 +25,8 @@ LastModified: 2022-10-24 13:27
 {s:BDTexte|**For** 14, **Dex** 16, **Con** 10, **Int** 10, **Sag** 14, **Cha** 6}
 {s:BDTexte|**BBA** +3, **BMO** +4, **DMD** 19}
 {s:BDTexte|**Dons** [[Pathfinder-RPG.Défense à deux armes|Défense à deux armes]], [[Pathfinder-RPG.Combat à deux armes|Combat à deux armes]], [[Pathfinder-RPG.Coup étourdissant|Coup étourdissant]], [[Pathfinder-RPG.Esquive|Esquive]], [[Pathfinder-RPG.Science de linitiative|Science de l'initiative]], [[Pathfinder-RPG.Science du combat à mains nues|Science du combat à mains nues]]}
-{s:BDTexte|**Compétences** [[Pathfinder-RPG.Acrobaties|Acrobaties]] +8, [[Pathfinder-RPG.Discrétion|Discrétion]] +16,
-[[Pathfinder-RPG.Dressage|Dressage]] -2, [[Pathfinder-RPG.Équitation|Équitation]] +11, [[Pathfinder-RPG.Escalade|Escalade]] +7, [[Pathfinder-RPG.Evasion|Evasion]] +8, [[Pathfinder-RPG.Intimidation|Intimidation]] +2,
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Acrobaties|Acrobaties]] +8, [[Pathfinder-RPG.Discrétion|Discrétion]] +16, 
+[[Pathfinder-RPG.Dressage|Dressage]] -2, [[Pathfinder-RPG.Équitation|Équitation]] +11, [[Pathfinder-RPG.Escalade|Escalade]] +7, [[Pathfinder-RPG.Evasion|Evasion]] +8, [[Pathfinder-RPG.Intimidation|Intimidation]] +2, 
 [[Pathfinder-RPG.Natation|Natation]] +3, [[Pathfinder-RPG.Perception|Perception]] +7, [[Pathfinder-RPG.Psychologie|Psychologie]] +2 ; **Modificateurs raciaux** [[Pathfinder-RPG.Discrétion|Discrétion]] +4, [[Pathfinder-RPG.Équitation|Équitation]] +4}
 {s:BDTexte|**Langues** gobelin}
 {s:BDTexte|**Équipement** Flasques d'acide x3}

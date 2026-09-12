@@ -37,5 +37,5 @@ Les passages sont si étroits qu'un héros unique doit se trouver en tête. Celu
 
 **Échec critique** Comme échec, mais les héros reviennent par erreur vers l'entrée du labyrinthe, perdant toute progression obtenue jusque là.
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shj2](https://paizo.com/community/blog/v5748dyo6shj2) et écrit par Ron Lundeen.

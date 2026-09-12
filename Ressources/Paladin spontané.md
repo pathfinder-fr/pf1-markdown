@@ -15,9 +15,9 @@ Categories:
 </div>
 
 
-Le paladin empyréen est une variante de la classe de [[Pathfinder-RPG.paladin|paladin]] qui renonce à la grande versatilité des sorts offerts par cette classe contre un plus grand nombre de sorts par jour. Les prières du paladin empyréen sont plus spontanées et moins formelles que celles des autres [[Pathfinder-RPG.paladin|paladins]].
-Les premiers paladin à utiliser cette manière particulière de prier étaient au service des seigneurs empyréens (en particulier des archons) plutôt que les dieux du bien, la manière informelle de prier étant plus appropriée en ce qui concerne le service de ces entités par rapport à celle des dieux.
-A l'heure actuelle cette manière de procéder peut être utilisée par n'importe quel paladin qui en fait le choix au commencement de sa carrière.
+Le paladin empyréen est une variante de la classe de [[Pathfinder-RPG.paladin|paladin]] qui renonce à la grande versatilité des sorts offerts par cette classe contre un plus grand nombre de sorts par jour. Les prières du paladin empyréen sont plus spontanées et moins formelles que celles des autres [[Pathfinder-RPG.paladin|paladins]]. 
+Les premiers paladin à utiliser cette manière particulière de prier étaient au service des seigneurs empyréens (en particulier des archons) plutôt que les dieux du bien, la manière informelle de prier étant plus appropriée en ce qui concerne le service de ces entités par rapport à celle des dieux. 
+A l'heure actuelle cette manière de procéder peut être utilisée par n'importe quel paladin qui en fait le choix au commencement de sa carrière. 
 
 
 ### Sorts
@@ -202,5 +202,5 @@ Contrairement à un [[Pathfinder-RPG.paladin|paladin]] ou à un [[Pathfinder-RPG
 
 
 ### Variantes
-Des [[Pathfinder-RPG.antipaladin|antipaladins]] fonctionnant de la même manière existent également, et se font appeler chevaliers abyssaux.
+Des [[Pathfinder-RPG.antipaladin|antipaladins]] fonctionnant de la même manière existent également, et se font appeler chevaliers abyssaux. 
 Il existe également des [[Pathfinder-RPG.rôdeur|rôdeurs]] qui adoptent le même principe et sont appelés rôdeurs instinctifs.

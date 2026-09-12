@@ -39,5 +39,5 @@ Je t’aime, Jielle… et Mama et Bapa aussi. Ils accepteront mes choix le momen
 
 Donc… ne pleure pas trop longtemps. Je ne suis pas encore morte.
 
----
+<hr />
 Cette page est la traduction d'un récit publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shq4?Tales-of-Lost-Omens-Chance-Encounter](https://paizo.com/community/blog/v5748dyo6shq4?Tales-of-Lost-Omens-Chance-Encounter) et écrit par Jabari Weathers.

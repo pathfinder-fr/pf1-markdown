@@ -147,9 +147,9 @@ Si Desna est la déesse des étoiles, le Papillon Noir est la divinité des espa
 ### Les dieux extérieurs
 **Nyarlathotep** est le plus célèbre des dieux Extérieurs, mais il est loin d’être le seul représentant de ces entités extraterrestres incompréhensibles dont l’influence se fait sentir dans les Mondes du Pacte.
 
-Le Sultan des daémons **Azathoth** (CN) est le dieu Extérieur de l’entropie, de la folie et de la destruction aveugle.
-C’est une masse de chaos primordial d’énergie brute et de dévastation incontrôlable qui se tapit au centre de l’univers. Celui qu’on appelle « le dieu aveugle » n’a pas conscience de l’existence de ses fidèles et ses ravages peuvent détruire des planètes entières.
+Le Sultan des daémons **Azathoth** (CN) est le dieu Extérieur de l’entropie, de la folie et de la destruction aveugle. 
+C’est une masse de chaos primordial d’énergie brute et de dévastation incontrôlable qui se tapit au centre de l’univers. Celui qu’on appelle « le dieu aveugle » n’a pas conscience de l’existence de ses fidèles et ses ravages peuvent détruire des planètes entières. 
 
-**Shub-Niggurath** (CM) est une monstrueuse déesse de la fertilité qui aurait donné naissance à un millier de chevreaux. Appelée la Chèvre noire des bois, elle est la déesse Extérieure de la fertilité, des forêts et des monstres et son culte est assez répandu sur des mondes fertiles couverts de forêts, de jungles ou de marais.
+**Shub-Niggurath** (CM) est une monstrueuse déesse de la fertilité qui aurait donné naissance à un millier de chevreaux. Appelée la Chèvre noire des bois, elle est la déesse Extérieure de la fertilité, des forêts et des monstres et son culte est assez répandu sur des mondes fertiles couverts de forêts, de jungles ou de marais. 
 
 **Yog-Sothoth** (CN), le dieu Extérieur des portails, de l’espace et du temps réside dans la Sombre Tapisserie mais ses plus fidèles adorateurs affirment qu’il est lui-même la Sombre Tapisserie. Appelé la Clef et la Porte, Yog-Sothoth est adjacent à chaque parcelle d’espace et de temps et ses adorateurs pensent qu’il prépare lentement les différents mondes de l’univers à une nouvelle ère d’horreurs quand s’éveilleront les Grands Anciens, d’anciennes entités divines qui servent les dieux Extérieurs.

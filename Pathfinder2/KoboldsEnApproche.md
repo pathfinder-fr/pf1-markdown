@@ -33,11 +33,11 @@ Cette rencontre se déroule en sous-sol, dans ou près d'un repaire de kobolds. 
 **For** +6, **Dex** +1, **Con** +4, **Int** -2, **Sag** +0, **Cha** -1
 
 **Équipement** épieu (3)
----
+<hr />
 **CA** 19 ; **Réf** +11, **Vig** +14, **Vol** +8
 
 **PV** 65
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} poing +14 (allonge 2 cases) ; **Dégâts** 2d6+8 C plus Agripper
@@ -62,11 +62,11 @@ Cette rencontre se déroule en sous-sol, dans ou près d'un repaire de kobolds. 
 **For** +1, **Dex** +3, **Con** +2, **Int** +0, **Sag** +2, **Cha** +0
 
 **Équipement** armure de cuir, pioche
----
+<hr />
 **CA** 16 ; **Réf** +9, **Vig** +6, **Vol** +4
 
 **PV** 16
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} pioche +6 (agile, fatal d8) ; **Dégâts** 1d4+1 P
@@ -76,5 +76,5 @@ Cette rencontre se déroule en sous-sol, dans ou près d'un repaire de kobolds. 
 
 **Adapter cette rencontre.** Il s'agit d'une rencontre Difficile pour des héros de niveau 3 ou Modérée pour des héros de niveau 4. Pour ajuster cette rencontre à des groupes de plus haut niveau, ajoutez un ou deux kobolds mages draconiques qui sont suffisamment intelligents pour se tenir à l'écart de l'ogre !
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shjd](https://paizo.com/community/blog/v5748dyo6shjd) et écrit par Ron Lundeen.

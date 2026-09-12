@@ -8,16 +8,16 @@ LastModified: 2013-09-27 15:58
 <table class="page espace-col deuxcol">
 <tr style="vertical-align: top;">
 <td>
-une aide de jeu par **Shok Nar**, avec l'aide précieuse de **Dalvyn**, **Shait**, **Papyrolf**, **Meriadec**.
+une aide de jeu par **Shok Nar**, avec l'aide précieuse de **Dalvyn**, **Shait**, **Papyrolf**, **Meriadec**. 
 Traduit de l'Américain par Shok Nar, d'après une aide de jeu des forums Paizo, proposée par **Shane Majewski**, **Alexander**, **Eric the cleric** & **Ruyan Ve**.
 
 
-**Avertissement de l’auteur originel Shane ”General Chaos” Majewski : **"Ce document est basé sur les excellentes conversions pour 6 joueurs d’Alexander sur les forums Paizo, disponibles à ces adresses :
-1:[Les Terres Volées pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKigmakerStolenLanDDhapter1For6PCs)
+**Avertissement de l’auteur originel Shane ”General Chaos” Majewski : **"Ce document est basé sur les excellentes conversions pour 6 joueurs d’Alexander sur les forums Paizo, disponibles à ces adresses : 
+1:[Les Terres Volées pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKigmakerStolenLanDDhapter1For6PCs) 
 &
 2: [Quand les Rivières se Teintent de Rouge pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKingmakerRiversRunReDDhapter2For6PCs)
 
-Pour paraphraser et citer, je suis parti du principe d’allouer 50% de PX et de trésor en plus pour compenser l’augmentation du nombre de joueurs. Tout cela en ajoutant des monstres, des Dés de vie supplémentaires, des niveaux et autres idées."
+Pour paraphraser et citer, je suis parti du principe d’allouer 50% de PX et de trésor en plus pour compenser l’augmentation du nombre de joueurs. Tout cela en ajoutant des monstres, des Dés de vie supplémentaires, des niveaux et autres idées." 
 {s:ImageExt|http://paizo.com/image/product/catalog/PZO/PZO9033_500.jpeg|300|fleft}
 
 Recommandations préliminaires
@@ -88,10 +88,10 @@ Pas de changement.
 
 
 #### H - Antre des Ettercaps (FP 8)
-''Valeur originelle de PX = 4800PX | Valeur modifiée de PX= 7200PX (soit 1200PX par PJ).
+''Valeur originelle de PX = 4800PX | Valeur modifiée de PX= 7200PX (soit 1200PX par PJ). 
 
 
-''<span style="font-size: 9pt;">Il s’agit ici d’augmenter le nombre d’adversaire.
+''<span style="font-size: 9pt;">Il s’agit ici d’augmenter le nombre d’adversaire. 
 Il y a une faute de frappe dans la description originale. Le FP et le corps de texte compte 6 Ettercaps, mais le bloc de statistique n’en mentionne que 4. Puisque 4 ne peut pas être un challenge suffisant pour des PJ de ce niveau, nous partons du principe qu’ils sont bien six. En raison du terrain limité de cette rencontre (en particulier si les Ettercaps combattent du mauvais côté du gouffre), ils ont chacun reçu l’attribut Evolué, amenant le total de PX à 7,200.</span>
 
 <div class="BD">
@@ -136,7 +136,7 @@ Pas de changement.
 Valeur originelle de PX = 3600 PX | Valeur modifiée de PX= 5400PX (soit 900PX par PJ).
 
 
-<span style="font-size: 9pt;">Il suffit d’ajouter 3 araignées pour augmenter le FP de façon adéquate. Les araignées privilégieront les attaques en tenaille si elles veulent survivre assez longtemps.
+<span style="font-size: 9pt;">Il suffit d’ajouter 3 araignées pour augmenter le FP de façon adéquate. Les araignées privilégieront les attaques en tenaille si elles veulent survivre assez longtemps. 
 Araignées géantes évoluées FP 2 (9) </span>
 
 <div class="BD">
@@ -174,7 +174,7 @@ Voir Partie 2.
 
 </td><tr><td>
 #### M - Les Tranchées sanglantes (FP8)
-Valeur originelle de PX = 4800 PX | Valeur modifiée de PX= 7200PX (soit 1200PX par PJ).
+Valeur originelle de PX = 4800 PX | Valeur modifiée de PX= 7200PX (soit 1200PX par PJ). 
 <span style="font-size: 9pt;">Le principal changement ici est de modifier la taille de la créature, qui passe d’une Taille TG à une Taille Gigantesque. </span>
 
 <div class="BD">
@@ -205,7 +205,7 @@ Valeur originelle de PX = 4800 PX | Valeur modifiée de PX= 7200PX (soit 1200PX 
 
 #### N - Le Pic des serres (FP9)
 Pour éviter d’utiliser de façon excessive l’attribut Evolué, ajoutez des Dés de vie au Roc et augmentez légèrement ses capacités.
-Valeur originelle de PX = 6400 PX | Valeur modifiée de PX= 9600PX (soit 1600PX par PJ).
+Valeur originelle de PX = 6400 PX | Valeur modifiée de PX= 9600PX (soit 1600PX par PJ). 
 
 <div class="BD">
 {s:BDTitre|ROC |FP 10}
@@ -239,9 +239,9 @@ Pas de changement.
 
 
 #### Q - Les plaines de boue (FP 9)
-Valeur originelle de PX = 7200 PX | Valeur modifiée de PX= 10800PX (soit 1800PX par PJ).
-Ajouter à ces créatures l’attribut Evolué amène le total à 9600PX, ce qui est insuffisant et augmenter leur nombre n’est pas souhaitable, le combat promettant déjà d’être un sacré challenge. Leur ajouter des Dés de Vie et les passer en taille Très Grande peut créer une rencontre intéressante mais demande une grosse réorganisation du combat. Au final, ajoutez un piège de FP 4 amène le total exactement à 10800PX. Le piège devrait apparaître comme particulièrement mortel, mais la majorité des PJ devraient être capable de retenir leur souffle assez longtemps pour que leurs amis arrivent à leur secours, si jamais ils ne parviennent pas à s’en sortir tout seul.
-Un personnage devrait mourir étouffé en 5-6 rounds, ce qui laisse le temps aux autres pour lancer une corde afin d’aider le malheureux.
+Valeur originelle de PX = 7200 PX | Valeur modifiée de PX= 10800PX (soit 1800PX par PJ). 
+Ajouter à ces créatures l’attribut Evolué amène le total à 9600PX, ce qui est insuffisant et augmenter leur nombre n’est pas souhaitable, le combat promettant déjà d’être un sacré challenge. Leur ajouter des Dés de Vie et les passer en taille Très Grande peut créer une rencontre intéressante mais demande une grosse réorganisation du combat. Au final, ajoutez un piège de FP 4 amène le total exactement à 10800PX. Le piège devrait apparaître comme particulièrement mortel, mais la majorité des PJ devraient être capable de retenir leur souffle assez longtemps pour que leurs amis arrivent à leur secours, si jamais ils ne parviennent pas à s’en sortir tout seul. 
+Un personnage devrait mourir étouffé en 5-6 rounds, ce qui laisse le temps aux autres pour lancer une corde afin d’aider le malheureux. 
 
 <div class="BD">
 {s:BDTitre|HOMMES DE BOUE EVOLUES (12) |FP 3}
@@ -281,7 +281,7 @@ Un personnage devrait mourir étouffé en 5-6 rounds, ce qui laisse le temps aux
 
 </td><tr><td>
 #### R - La tombe du Linnorm
-Valeur originelle de PX = 6400 PX | Valeur modifiée de PX= 9600PX (soit 1200PX par PJ).
+Valeur originelle de PX = 6400 PX | Valeur modifiée de PX= 9600PX (soit 1200PX par PJ). 
 Evolué est peut-être excessif pour cette créature, aussi ajoutez-lui plutôt 2DV pour augmenter d'un son FP.
 
 <div class="BD">
@@ -312,10 +312,10 @@ Pas de changement.
 
 </td><td>
 #### T - La pierre fantôme (FP 10)
-Valeur originelle de PX (Zzamas) =1600 PX | Valeur modifiée de PX= 2400PX (soit 400PX par PJ).
-Valeur originelle de PX (Xill) = 8000 PX | Valeur modifiée de PX= 12000PX (soit 2000PX par PJ).
-Le texte originel indique que quatre Xill sont présents. En ajouter un cinquième augmente leur dangerosité.
-Le scénario part du principe que les PJ vont aider Zzamas, mais il est possible que cela ne soit pas le cas, auquel cas le combat sera épique.
+Valeur originelle de PX (Zzamas) =1600 PX | Valeur modifiée de PX= 2400PX (soit 400PX par PJ). 
+Valeur originelle de PX (Xill) = 8000 PX | Valeur modifiée de PX= 12000PX (soit 2000PX par PJ). 
+Le texte originel indique que quatre Xill sont présents. En ajouter un cinquième augmente leur dangerosité. 
+Le scénario part du principe que les PJ vont aider Zzamas, mais il est possible que cela ne soit pas le cas, auquel cas le combat sera épique. 
 
 <div class="BD">
 {s:BDTitre|ZZAMAS |FP 6}
@@ -350,8 +350,8 @@ Xills FP6 (5)
 
 </td><tr><td>
 #### U -Le goulet de la Gueule de dragon (FP10)
-Valeur originelle de PX =9600 PX | Valeur modifiée de PX= 14400PX (soit 2400PX par PJ).
-En plus de l’attrape-mouche géant, il y a 4 essaims d’oestre, prêts à fondre sur les PJ sitôt l’attrape-mouche vaincu. Leur présence supplémentaire fournit les PX manquants.
+Valeur originelle de PX =9600 PX | Valeur modifiée de PX= 14400PX (soit 2400PX par PJ). 
+En plus de l’attrape-mouche géant, il y a 4 essaims d’oestre, prêts à fondre sur les PJ sitôt l’attrape-mouche vaincu. Leur présence supplémentaire fournit les PX manquants. 
 
 <div class="BD">
 {s:BDTitre|ESSAIM D'OESTRE (4) |FP 4}
@@ -436,7 +436,7 @@ Pas de changement.
 <tr style="vertical-align: top;">
 <td>
 #### L1 - La ferme du Porcher (FP 4)
-Valeur originelle de PX = 1200 PX | Valeur modifiée de PX= 1800PX (soit 300X par PJ).
+Valeur originelle de PX = 1200 PX | Valeur modifiée de PX= 1800PX (soit 300X par PJ). 
 
 <div class="BD">
 {s:BDTitre|SANGLIER Sanguinaire Evolué |FP 5}
@@ -469,7 +469,7 @@ Pas de changement. Les biens présents peuvent être rendus à Varnhold comme ob
 </td><td>
 #### L5 - Gué du Sellen (FP 7)
 Il était difficile de choisir entre l’attribut Avancé et davantage de DV pour le Chuul et il était intéressant qu’il demeure une belle distraction. C’est pourquoi, on a ajouté Géant au profil initial.
-Valeur originelle de PX = 3200 PX | Valeur modifiée de PX= 4800PX (soit 800PX par PJ).
+Valeur originelle de PX = 3200 PX | Valeur modifiée de PX= 4800PX (soit 800PX par PJ). 
 
 <div class="BD">
 {s:BDTitre|CHUUL Géant |FP 8}
@@ -501,7 +501,7 @@ Valeur originelle de PX = 3200 PX | Valeur modifiée de PX= 4800PX (soit 800PX p
 </td><tr><td>
 #### L6 - Les fosses piégées (FP7)
 Il suffit d’augmenter le FP de 1, ici en ajoutant du poison.
-Valeur originelle de PX = 2400 PX | Valeur modifiée de PX= 3600PX (soit 600PX par PJ).
+Valeur originelle de PX = 2400 PX | Valeur modifiée de PX= 3600PX (soit 600PX par PJ). 
 
 <div class="BD">
 {s:BDTitre|FOSSE Camouflée hérissée de pieux empoisonnés (piège) |FP 7}
@@ -526,7 +526,7 @@ Pas de changement.
 
 #### L8 - La forge et les écuries (FP 7)
 Un seul essaim ne représente aucune menace pour un groupe de niveau 7, et le FP requis est totalement surestimé par rapport à l’adversaire. Partant donc du principe qu’il faut 4 Nuées pour atteindre le FP de cette zone, pour que total d’XP soit suffisant au regard de 6 joueurs, ajoutons-en encore 2. C’est clairement suffisant pour que chaque PJ y trouve son compte, et devrait rendre la scène intéressante.
-Valeur originelle de PX = 3.200 PX | Valeur modifiée de PX= 4.800 (soit 800PX par PJ).
+Valeur originelle de PX = 3.200 PX | Valeur modifiée de PX= 4.800 (soit 800PX par PJ). 
 
 <div class="BD">
 {s:BDTitre|Vol de Corneilles (6) |FP 3}
@@ -539,8 +539,8 @@ Pas de changement.
 
 
 #### L13 - Eglise d’Erastil (FP4)
-D’où provient exactement ce FP 4 ? Peut-être dans la difficulté de trouver le trésor ? Ce trésor étant le seul que les PJ peuvent emporter sans risque de la ville, sans risquer la colère des habitants de Varnhold, j’ai augmenté sa valeur.{br}
-**Trésor : **Remplacer les 3 parchemins de soins importants par une baguette de soins importants (NLS 5, 11 charges), et 2 parchemins de Rappel à la vie au lieu d’un seul.
+D’où provient exactement ce FP 4 ? Peut-être dans la difficulté de trouver le trésor ? Ce trésor étant le seul que les PJ peuvent emporter sans risque de la ville, sans risquer la colère des habitants de Varnhold, j’ai augmenté sa valeur.{br} 
+**Trésor : **Remplacer les 3 parchemins de soins importants par une baguette de soins importants (NLS 5, 11 charges), et 2 parchemins de Rappel à la vie au lieu d’un seul. 
 
 
 
@@ -550,7 +550,7 @@ Pas de changement.
 
 #### L15 - Grange (FP7)
 Il suffit d’ajouter davantage de nuées, pour atteindre le PX et rendre la scène plus effrayante encore.
-Valeur originelle de PX = 3600 PX | Valeur modifiée de PX= 5400PX (soit 900PX par PJ).
+Valeur originelle de PX = 3600 PX | Valeur modifiée de PX= 5400PX (soit 900PX par PJ). 
 
 <div class="BD">
 {s:BDTitre|Nuée de rats (9) |FP 2}
@@ -574,7 +574,7 @@ Il y a 7.600 XP à répartir :
 - 400 pour chaque spriggan pour leur offrir un niveau de plus ou un Dé de vie supplémentaire.
 
 J’ai choisi de leur donner un niveau de Guerrier – ils bénéficient du niveau de Roublard uniquement sous leur forme petite, et du niveau de guerrier sous leurs deux formes. De plus, le bloc de monstre des spriggans indique qu’ils « tirent » sur les PJ. Mais aucune arme de jet (hormis des dagues) ne leur est fournie, je les ai donc doté d'arbalètes lourdes de maître (pour éviter une pénalité de Force sous leur petite forme). Notez que l’argent des spriggans est de l’argent volé, et est sensé retourné dans les caisses du village, aussi je n’ai pas augmenté la valeur monétaire possédée par chaque spriggan. {br}
-Valeur originelle de PX = 15200 PX | Valeur modifiée de PX= 22800PX (soit 3800PX par PJ).
+Valeur originelle de PX = 15200 PX | Valeur modifiée de PX= 22800PX (soit 3800PX par PJ). 
 
 <div class="BD">
 {s:BDTitre|Loup sanguinaire (4)|FP 3}
@@ -696,7 +696,7 @@ Voici le profil d’Agaï quand il est de taille G :
 </td></tr></table>
 
 **Analyse du trésor**
-Si les spriggans paraissent un peu « courts » en ce qui concerne les objets magiques, c’est surtout en raison de la faible valeur de ceux-ci. La moitié d’un anneau de protection mutuelle, Eclair, un sac sans fond IV et l’arbalète lourde d’Agaï, voici à peu près tout ce que l’on trouve ici. Cela veut dire qu’il devrait y avoir plus d’argent pour compenser la différence de taille des groupes de joueurs.
+Si les spriggans paraissent un peu « courts » en ce qui concerne les objets magiques, c’est surtout en raison de la faible valeur de ceux-ci. La moitié d’un anneau de protection mutuelle, Eclair, un sac sans fond IV et l’arbalète lourde d’Agaï, voici à peu près tout ce que l’on trouve ici. Cela veut dire qu’il devrait y avoir plus d’argent pour compenser la différence de taille des groupes de joueurs. 
 
 Equipement qu’ils devraient rendre à Varnhold, répartis dans le fort comme suit :
 - 550po du général spriggan
@@ -726,10 +726,10 @@ Valeur originelle de PX = 6400PX | Valeur modifiée de PX=- 9600PX (soit 1600PX 
 </div>
 
 #### En présence de Mère Lune
-Originellement, aucune statistiques n'est fournie pour Mère Lune. Sur un FP 10, elle est Druide 7. Insuffisant pour un groupe de 6 joueurs en cas de lutte. Si les PJ veulent absolument combattre dans le camp, tous les centaures présents reçoivent un niveau de barbare supplémentaire, Mère-Lune reçoit un niveau de druide plus et est accompagnée d'un garde du corps barde niveau 2 pour inspirer le courage lors du combat.
+Originellement, aucune statistiques n'est fournie pour Mère Lune. Sur un FP 10, elle est Druide 7. Insuffisant pour un groupe de 6 joueurs en cas de lutte. Si les PJ veulent absolument combattre dans le camp, tous les centaures présents reçoivent un niveau de barbare supplémentaire, Mère-Lune reçoit un niveau de druide plus et est accompagnée d'un garde du corps barde niveau 2 pour inspirer le courage lors du combat. 
 
 </td><td>
-Vous pouvez également utiliser les statistiques suivantes :
+Vous pouvez également utiliser les statistiques suivantes : 
 
 <div class="BD">
 {s:BDTitre|Aecora Feuargenté |FP 10}
@@ -811,7 +811,7 @@ Pas de changement
 Pas de changement
 
 #### W3 - Les falaises des Vouivres (FP 8)
-Une vouivre supplémentaire fonctionne parfaitement.
+Une vouivre supplémentaire fonctionne parfaitement. 
 Valeur originelle de PX = 4800PX | Valeur modifiée de PX=- 7200PX (soit 1200PX par PJ).
 
 <div class="BD">
@@ -819,7 +819,7 @@ Valeur originelle de PX = 4800PX | Valeur modifiée de PX=- 7200PX (soit 1200PX 
 
 </div>
 
-**Trésor : ** Ajoutez trois spinelles supplémentaires. 9,000po supplémentaire en équipement divers attendent dans la tombe de Vordakaï, car je crains que les PJ ne manquent d’explorer cet hexagone. Rater l’épée à deux mains +3 est déjà bien suffisant comme perte.
+**Trésor : ** Ajoutez trois spinelles supplémentaires. 9,000po supplémentaire en équipement divers attendent dans la tombe de Vordakaï, car je crains que les PJ ne manquent d’explorer cet hexagone. Rater l’épée à deux mains +3 est déjà bien suffisant comme perte. 
 
 #### W4 - Le chemin de ronde caché
 Pas de changement
@@ -921,7 +921,7 @@ Pas de changement
 
 
 #### W12 - L’autel infernal FP 9
-En gardant à l’esprit que la conception de piège est un art, non une science, j’ai décidé de conserver tel quel le piège, dont la difficulté est impressionnante et en augmentant simplement, ainsi le total d’XP nécessaire pour le FP 9.{br}
+En gardant à l’esprit que la conception de piège est un art, non une science, j’ai décidé de conserver tel quel le piège, dont la difficulté est impressionnante et en augmentant simplement, ainsi le total d’XP nécessaire pour le FP 9.{br} 
 Valeur originelle de PX = 6400PX | Valeur modifiée de PX=- 9600PX (soit 1600PX par PJ).{br}
 
 <div class="BD">
@@ -942,7 +942,7 @@ Valeur originelle de PX = 9600PX | Valeur modifiée de PX=- 14400PX (soit 2400PX
 <div class="BD">
 {s:BDTitre|Dévoreur d’âme avancé |FP 8}
 
-</div>
+</div> 
 
 #### W15 - Prison
 Aucun profil n’est fournie pour Xamanthe. Voici une proposition :{br}
@@ -1196,7 +1196,7 @@ Vordakai utilise le *Sceptre de Métamagie mineure* (sort à rebonds), des *brac
 **Trésor :** changez les pièces en 1 710pp, 19 500po, 15 4500pa, et les objets d’art et les joyaux pour un total de 29250 po. **Ajoutez :** [[Pathfinder-RPG.veste à outils|*Veste à outils*]] (1800po), Sceptre de métamagie mineure (sort à rebonds) (9000po), [[Pathfinder-RPG.natte de ki|*Natte de Ki*]] (10,000po), [[Pathfinder-RPG.fourreau de lame discrète|*Fourreau de lame discrète*]] (5000po), [[Pathfinder-RPG.Bracelets darmure|*Bracelets d’armure* +4]] (8000po), [[Pathfinder-RPG.Ceinturon de constitution de lours|*Ceinturon de constitution de l’ours +4*]] (4000po), une [[Pathfinder-RPG.Lyre de bâtisseur|*Lyre de bâtisseur*]] (6500po) et un Parchemin de niveau 4 (magicien) (700po).
 
 #### W28 - Le Donjon des âmes
-**Trésor :** je ne compte pas les *jarres des âmes* dans le total de trésor que les PJ peuvent emporter avec eux, bien qu’ils le feront certainement, aussi ai-je simplement augmenté la valeur du trésor de cette pièce, basé sur celui du *puits portable*. Soit 10 000 po. J’ai décidé d’ajouter une *pierre ioun* bleu nuit, celle-là même que Vordakai utilise.
+**Trésor :** je ne compte pas les *jarres des âmes* dans le total de trésor que les PJ peuvent emporter avec eux, bien qu’ils le feront certainement, aussi ai-je simplement augmenté la valeur du trésor de cette pièce, basé sur celui du *puits portable*. Soit 10 000 po. J’ai décidé d’ajouter une *pierre ioun* bleu nuit, celle-là même que Vordakai utilise. 
 
 </td></tr></table>
 
@@ -1204,13 +1204,13 @@ Vordakai utilise le *Sceptre de Métamagie mineure* (sort à rebonds), des *brac
 #### Quêtes mises à jour
 **Le problème des Nomens.** Augmentez la valeur de récompense à 6 000po.
 
-**Avis Recherche : des Manticores.** Augmentez à 4 500 po.
+**Avis Recherche : des Manticores.** Augmentez à 4 500 po. 
 
-**Miam ... des Anguilles.** Ajoutez un Cimeterre à 2 mains ou une Epée à 2 mains, en mithril, ou quelque chose que vos PJ pourront utiliser.
+**Miam ... des Anguilles.** Ajoutez un Cimeterre à 2 mains ou une Epée à 2 mains, en mithril, ou quelque chose que vos PJ pourront utiliser. 
 
 **Avis de Recherche : Soie d’araignée.** Ajoutez à la *cape de résistance* +2 un *Havresac* et un autre vêtement magique, ce qui augmentera la valeur de 50%.
 
-**La guerre de la pierre fantôme. **La valeur totale du coffre est de 5000po + une baguette (9240po) + Grimoire 2475po. A mon avis, seul la baguette nous donne une bonne mesure de calcul. Un *bandeau d’intelligence* +2 (Art de la magie) et un parchemin de *hâte*, de *clignotement* et un parchemin de *projectiles magiques* (NLS 3) me semble bien.
+**La guerre de la pierre fantôme. **La valeur totale du coffre est de 5000po + une baguette (9240po) + Grimoire 2475po. A mon avis, seul la baguette nous donne une bonne mesure de calcul. Un *bandeau d’intelligence* +2 (Art de la magie) et un parchemin de *hâte*, de *clignotement* et un parchemin de *projectiles magiques* (NLS 3) me semble bien. 
 
 **Le Trésor de Varnhold.** Pas de changement.
 
@@ -1219,6 +1219,6 @@ Vordakai utilise le *Sceptre de Métamagie mineure* (sort à rebonds), des *brac
 **Sauver Xamanthe.** Ajoutez 3 potion de chaque sorte.
 
 
-Et voilà, les conversions 6 joueurs pour les Disparus de Varnhold sont terminées. J'ai parfois omis certaines parties du texte original, quelques développements qui n'apportaient pas grand chose quant aux conversions en elle-même.
+Et voilà, les conversions 6 joueurs pour les Disparus de Varnhold sont terminées. J'ai parfois omis certaines parties du texte original, quelques développements qui n'apportaient pas grand chose quant aux conversions en elle-même. 
 
 Merci pour votre lecture et votre soutien et à bientôt pour les conversions du volume 4 de Kingmaker.

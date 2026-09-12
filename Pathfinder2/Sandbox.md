@@ -13,7 +13,7 @@ LastModified: 2023-04-27 14:51
 **Compétences** Discrétion +5, Survie +4
 
 **For** +0, **Dex** +3, **Con** +3, **Int** -5, **Sag** +2, **Cha** +0
----
+<hr />
 **CA** 15 ; **Réf** +7, **Vig** +5, **Vol** +4
 
 **PV** 8
@@ -22,7 +22,7 @@ LastModified: 2023-04-27 14:51
 &nbsp;&nbsp;&nbsp;&nbsp;*Réussite* La créature déclencheur parvient à maintenir sa prise sur l'orteil en trop.  
 &nbsp;&nbsp;&nbsp;&nbsp;*Échec* L'orteil en trop se soustrait à la prise de la créature et perd l'état agrippé.  
 &nbsp;&nbsp;&nbsp;&nbsp;*Échec critique* Comme échec, et la créature est nauséeuse 1.
----
+<hr />
 **Vitesse** 2 cases
 
 **Càc** {s:PF2a|1a} mâchoires +8 (agile, finesse, allonge 0 case) ; **Dégâts** 1d4 P plus S'attacher

@@ -40,6 +40,6 @@ Jamais.
 
 -- Paizo
 
----
+<hr />
 {s:ImageExtLien|https://www.pathfinder-fr.org/images/Pathfinder/logos/discord_icon.png|6%|fleft|https://discord.gg/MYqudHH}Pour discuter de Pathfinder 2, partager des idées et des ressources sur les aventures/campagnes Pathfinder 2,  
  n'hésitez pas à vous rendre sur le [serveur Discord](https://discord.gg/MYqudHH) de Pathfinder-FR !

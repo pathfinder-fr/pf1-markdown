@@ -109,7 +109,7 @@ LastModified: 2017-04-08 15:09
 
 
 #### Arc elfique
-Un arc elfique doit être fabriqué par un druide elfe.
+Un arc elfique doit être fabriqué par un druide elfe. 
 L’arc est constitué de plusieurs arbres différents qui ont été collés ensemble par greffe. Seul un elfe ou un demi-elfe peut faire usage du plein potentiel d'une telle arme. Dans les mains d'un individu d'une autre race, il se comportera comme un arc court ou long normal. Il n’existe pas d’arc elfique de force, mais bien de maître. Le DD du test d’artisanat est de 18.
 
 
@@ -121,7 +121,7 @@ Le DD du jet d'artisanat pour créer une lame flamberge est de 18, et le prix d'
 #### Maillet
 Le maillet est un énorme marteau conçu, à l’instar de l'épée bâtarde ou de la hache naine, pour être manié à une ou deux mains.{br}
 Le poids d'une telle arme est cependant tel qu'il nécessite à la fois force et expérience pour arriver à le manier d'une seule main. On considère le maillet comme une arme de guerre à deux mains. Un don spécifique permet l'utilisation du maillet comme une arme à une main.{br}
-Les nains peuvent considérer qu'ils sont formés au maniement du maillet.
+Les nains peuvent considérer qu'ils sont formés au maniement du maillet. 
 
 ##### Expert au maillet
 **Catégorie.** combat{br}
@@ -131,13 +131,13 @@ Les nains peuvent considérer qu'ils sont formés au maniement du maillet.
 
 
 #### Stylet
-Le stylet est une variante de dague, bien que l'on ne puisse pas s'en servir comme arme de jet. Bien plus étroit, il offre un bonus de circonstance de +4 lorsqu'il s'agit de le dissimuler. Un stylet coûte seulement 2 PA, et le DD du jet d'artisanat pour le fabriquer n'est que de 10 au lieu de 12, ce qui fait que même des personnes pauvres peuvent en être pourvues. Cependant, étant donné la similitude avec la dague, on peut considérer que les dons choisis par un personnage pour une dague peuvent être appliqués pour un stylet.
+Le stylet est une variante de dague, bien que l'on ne puisse pas s'en servir comme arme de jet. Bien plus étroit, il offre un bonus de circonstance de +4 lorsqu'il s'agit de le dissimuler. Un stylet coûte seulement 2 PA, et le DD du jet d'artisanat pour le fabriquer n'est que de 10 au lieu de 12, ce qui fait que même des personnes pauvres peuvent en être pourvues. Cependant, étant donné la similitude avec la dague, on peut considérer que les dons choisis par un personnage pour une dague peuvent être appliqués pour un stylet. 
 
 #### Tanto
-Le tanto est une variante de dague commune dans les contrées orientales. Dans ces pays, il peut être considéré comme une arme courrante. On ne peut pas s'en servir comme arme de jet. Par contre,  il est particulièrement efficace pour les mise à mort ou les suicides. On peut considérer que les dons choisis par un personnage pour une dague peuvent être appliqués pour un tanto.
+Le tanto est une variante de dague commune dans les contrées orientales. Dans ces pays, il peut être considéré comme une arme courrante. On ne peut pas s'en servir comme arme de jet. Par contre,  il est particulièrement efficace pour les mise à mort ou les suicides. On peut considérer que les dons choisis par un personnage pour une dague peuvent être appliqués pour un tanto. 
 
 #### Arbalètes lourdes
-Les arbalètes lourdes prennent un round entier à recharger. Il en existe des [modèles](http://fr.wikipedia.org/wiki/Arbal%C3%A8te_%28arme%29#.C3.89l.C3.A9ments_historiques) à gros ressorts, faisant plus de dégâts. Celles-ci ne peuvent être rechargées que par un individu doué d’une grande force, ou éventuellement en utilisant un puissant levier, ce qui nécessite plus de temps. L'utilisation du don rechargement rapide sur ce type d'engin doit s'accompagner d'un test de force. Il est impossible d'utiliser le rechargement rapide en utilisant un levier spécial. La possibilité d'armes individuelles encore plus puissantes que celles présentées ci dessous est assez restreinte du fait que les premières baliste envoient des carreaux infligeant 3d8 points de dégâts.
+Les arbalètes lourdes prennent un round entier à recharger. Il en existe des [modèles](http://fr.wikipedia.org/wiki/Arbal%C3%A8te_%28arme%29#.C3.89l.C3.A9ments_historiques) à gros ressorts, faisant plus de dégâts. Celles-ci ne peuvent être rechargées que par un individu doué d’une grande force, ou éventuellement en utilisant un puissant levier, ce qui nécessite plus de temps. L'utilisation du don rechargement rapide sur ce type d'engin doit s'accompagner d'un test de force. Il est impossible d'utiliser le rechargement rapide en utilisant un levier spécial. La possibilité d'armes individuelles encore plus puissantes que celles présentées ci dessous est assez restreinte du fait que les premières baliste envoient des carreaux infligeant 3d8 points de dégâts. 
 
 
 <table CLASS="tablo col1centre">
@@ -180,7 +180,7 @@ Les leviers présentés ci dessous diminuent la force nécessaire pour recharger
 
 
 #### Arme de haut maître
-Une arme de haut maître est l'œuvre ultime d'un artisan au sommet de son art. En plus du bonus habituel d'un objet de maître, ces armes sont naturellement acérée, ce qui double leur plage de critique. Le prix d’une telle arme est majoré de 6000 PO. Seul un artisan possédant le don Création d’une arme de haut maître peut prétendre en fabriquer. Le DD d’artisanat est de 27. Une arme de haut maître est également une arme de maître. Enfin, l'augmentation de la plage critique d'une arme accérée ne se cumule pas avec d'autres effets semblables, comme le don science du critique ou la propriété magique accérée. Bien que différent métaux peuvent être utilisés pour réaliser une arme de haut maitre, elle sera toujours constituée principalement d'acier. Il n'existe donc pas d'arme de haut maître constituée principalement d'un autre métal.
+Une arme de haut maître est l'œuvre ultime d'un artisan au sommet de son art. En plus du bonus habituel d'un objet de maître, ces armes sont naturellement acérée, ce qui double leur plage de critique. Le prix d’une telle arme est majoré de 6000 PO. Seul un artisan possédant le don Création d’une arme de haut maître peut prétendre en fabriquer. Le DD d’artisanat est de 27. Une arme de haut maître est également une arme de maître. Enfin, l'augmentation de la plage critique d'une arme accérée ne se cumule pas avec d'autres effets semblables, comme le don science du critique ou la propriété magique accérée. Bien que différent métaux peuvent être utilisés pour réaliser une arme de haut maitre, elle sera toujours constituée principalement d'acier. Il n'existe donc pas d'arme de haut maître constituée principalement d'un autre métal. 
 
 ##### Création d'une arme de haut-maître (Création d'objets)
 - Conditions

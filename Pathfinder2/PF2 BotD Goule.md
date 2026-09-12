@@ -46,7 +46,7 @@ Quand vous dévorez des cadavres ou satisfaites votre faim, certaines de vos ble
 
 <div class="blocPF2">
 {s:titrePF2|Bond rapide (Swift Leap) {s:PF2a|inv1a}|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -57,7 +57,7 @@ Au lieu de cela, si vous êtes rassasié, vous pouvez choisir de perdre l’éta
 
 <div class="blocPF2">
 {s:titrePF2|Enzymes fiévreuses (Feverish Enzymes) {s:PF2a|inv2a}|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -68,7 +68,7 @@ Si vous êtes rassasié, quand vous touchez, vous pouvez choisir de perdre l’�
 
 <div class="blocPF2">
 {s:titrePF2|Force du tombeau (Grave Strength)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -86,7 +86,7 @@ Vos enzymes peuvent paralyser vos ennemis au lieu de simplement rendre la guéri
 
 <div class="blocPF2">
 {s:titrePF2|Morsure nauséeuse (Sickening Bite)|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 
@@ -96,7 +96,7 @@ Si vous êtes rassasié, vous pouvez perdre l’état rassasié pour rendre la c
 
 <div class="blocPF2">
 {s:titrePF2|Gloutonnerie pour la chair (Glutton for Flesh)|Don 10}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de goule
 

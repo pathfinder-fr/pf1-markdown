@@ -38,8 +38,8 @@ Une faculté métapsionique fonctionne à son niveau d’origine, même si on d�
 Manifester une faculté instantanée (modifié par le don Faculté instantanée) ne provoque pas d’attaque d’opportunité.
 Certains dons métapsioniques ne peuvent pas être utilisés pour toutes les facultés, comme le précise leur description
 - **Objets psioniques et dons métapsioniques.**
-Avec le don de création d’objets psioniques approprié, il est possible de stocker une faculté métapsionique dans une pierre psionique, un tatouage psionique ou un dorjé.
-La limite de niveau concernant les tatouages psioniques s’applique au niveau augmenté de la faculté.
+Avec le don de création d’objets psioniques approprié, il est possible de stocker une faculté métapsionique dans une pierre psionique, un tatouage psionique ou un dorjé. 
+La limite de niveau concernant les tatouages psioniques s’applique au niveau augmenté de la faculté. 
 Les personnages n’ont pas besoin d’être eux-mêmes dotés du don avec lequel la faculté a été stockée dans l’objet psionique pour pouvoir l’activer, mais le créateur de l’objet doit, lui, en disposer.
 
 ### Dons de création d’objets psioniques.
@@ -86,10 +86,10 @@ Un personnage ne peut jamais sacrifier de la sorte un nombre de points d’expé
 La fabrication d’objets psioniques requiert des composantes particulièrement coûteuses, qui sont pour la plupart détruites durant le processus de création. Elles coûtent la moitié du prix de base de l’objet.
 Pour pouvoir mettre à profit un don de création d’objets, il faut également avoir accès à un laboratoire ou un atelier psionique, mais aussi à tous les ustensiles appropriés. Sauf circonstances exceptionnelles (par exemple, s’il se retrouve loin de chez lui), le personnage possède généralement tout ce dont il a besoin.
 - **Temps nécessaire. **
-Le temps de création de l’objet psionique dépend du type d’objet et de son prix.
+Le temps de création de l’objet psionique dépend du type d’objet et de son prix. 
 Il ne peut pas être inférieur à 1 jour.
 - **Objets  de  niveau  variable.  **
-Création  de  dorjés, Création de pierres psioniques et Création de tatouages psioniques créent des objets qui reproduisent  directement  l’effet  d’une  faculté.  Leur puissance dépend de leur niveau de manifestation.
+Création  de  dorjés, Création de pierres psioniques et Création de tatouages psioniques créent des objets qui reproduisent  directement  l’effet  d’une  faculté.  Leur puissance dépend de leur niveau de manifestation. 
 Les facultés psioniques manifestées par le biais de ces objets fonctionnent alors exactement comme si elles avaient été manifestées par un psionique de ce niveau.
 Un personnage peut fixer librement le niveau de manifestation d’un objet qu’il crée, tant qu’il est compris entre le niveau minimal nécessaire pour manifester la faculté et son propre niveau de manifestation. Dans la plupart des cas, les créateurs choisissent le niveau minimal possible (c’est du moins la règle que suivent les objets déterminés aléatoirement).
 Il est possible de créer un objet en utilisant une faculté améliorée par une dépense de points psi supplémentaires,  mais  l’objet  doit avoir un niveau de manifestation au moins égal à la dépense totale de points psi. Tous les paramètres de la faculté incrustée dans l’objet qui dépendent du niveau sont déterminés par le niveau de manifestation effectif.

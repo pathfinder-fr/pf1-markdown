@@ -61,7 +61,7 @@ Vous réparez rapidement votre innovation, même si cela la rend moins stable. V
 {s:trait|Inventeur}
 
 **Prérequis** innovation arme
----
+<hr />
 Vous activez des engins sur votre innovation, qui font que votre arme frappe avec un tel recul que cela vous aide à quitter la mêlée. Frappez un ennemi puis Marchez rapidement deux fois. Vous devez terminer chacun de ces deux Déplacements dans une position plus éloignée de l'ennemi que celle où vous vous trouviez au début.
 </div>
 
@@ -72,7 +72,7 @@ Vous activez des engins sur votre innovation, qui font que votre arme frappe ave
 **Prérequis** compagnon artificiel  
 **Fréquence** une fois par minute  
 **Déclencheur** Votre compagnon artificiel est sur le point de devenir confus ou contrôlé.
----
+<hr />
 Vous utilisez le lien qui vous unit votre compagnon artificiel à son créateur pour le libérer d'un effet le contrôlant. Tentez de contrer l'effet qui rend confus ou contrôle votre compagnon artificiel en utilisant votre modificateur d'Artisanat pour le test de contre et la moitié de votre niveau (arrondi vers le haut) comme niveau de contre.
 </div>
 
@@ -91,7 +91,7 @@ Certains prétendaient qu'il était impossible de soigner avec des explosions, m
 
 **Prérequis** innovation armure  
 **Conditions** Vous portez votre armure innovation ou vous la tenez dans vos deux mains sous sa forme compacte (voir le texte).
----
+<hr />
 Vous avez modifié votre armure pour pouvoir la replier en une forme plus petite et plus compacte. Sous sa forme compacte, votre armure innovation est plus facile à transporter, avec un Encombrement de 1 point de moins que son Encombrement normal, avec un minimum d'un Encombrement léger (une armure transportée possède généralement un Encombrement de 1 point de plus que celui indiqué dans sa description).
 
 Vous pouvez Transformer votre armure vers sa forme compacte ou depuis sa forme compacte pour la revêtir ou l'enlever en un instant. Si vous portez votre armure innovation quand vous la Transformez, vous l'enlevez instantanément et elle se replie sous sa forme compacte, que vous tenez dans vos deux mains (si vos deux mains ne sont pas libres, elle tombe au sol dans un espace adjacent). Si vous tenez votre armure sous sa forme compacte quand vous la Transformez, elle se déplie pour reprendre sa forme normale directement sur votre corps.
@@ -102,7 +102,7 @@ Vous pouvez Transformer votre armure vers sa forme compacte ou depuis sa forme c
 {s:trait|Inventeur} {s:trait|Manipulation} {s:trait|Modification}
 
 **Prérequis** Innovation créature artificielle
----
+<hr />
 Vous avez modifié votre compagnon artificiel et l'avez construit à partir de matériaux légers, ce qui vous permet de le replier dans une valise de transport ou sous une autre forme anodine et compacte. Sous forme compacte, votre créature artificielle est facile à transporter, avec un Encombrement de 2 si elle est de Taille Petite, de 4 si elle est de Taille Moyenne ou de 8 si elle est de Taille Grande. La forme compacte possède des roues, ce qui vous permet de facilement la tirer derrière vous à demi-Vitesse (plutôt que la Vitesse encore plus réduite habituellement imposée par le fait de tirer quelque chose). Votre créature artificielle, ou vous (si vous lui êtes adjacent), pouvez utiliser l'action Transformation de créature artificielle.
 </div>
 
@@ -112,7 +112,7 @@ Vous avez modifié votre compagnon artificiel et l'avez construit à partir de m
 {s:trait|Inventeur}
 
 **Prérequis** Compagnon artificiel
----
+<hr />
 Vous avez accru la puissance et la capacité à prendre des décisions de votre compagnon artificiel. Votre compagnon artificiel devient un compagnon créature artificiel avancé. Pendant une rencontre, même si vous n'utilisez pas l'action Diriger un sbire, votre compagnon artificiel peut tout de même réaliser 1 action pendant votre tour pour Frapper ou Marcher rapidement.
 </div>
 
@@ -121,7 +121,7 @@ Vous avez accru la puissance et la capacité à prendre des décisions de votre 
 {s:trait|Inventeur} {s:trait|Modification}
 
 **Prérequis** Innovation armure
----
+<hr />
 Vous avez modifié votre armure en lui ajoutant des nageoires, des rotors ou d'autres gadgets pour faciliter les déplacements dans l'eau, ainsi que des branchies mécaniques qui vous aident à extraire de l'air respirable dans l'eau. Quand vous portez votre armure innovation, vous pouvez respirer sous l'eau et vous gagnez une Vitesse de nage égale à votre Vitesse sur terre.
 </div>
 
@@ -130,7 +130,7 @@ Vous avez modifié votre armure en lui ajoutant des nageoires, des rotors ou d'a
 {s:trait|Inventeur} {s:trait|Modification}
 
 **Prérequis** Innovation arme
----
+<hr />
 Vous avez construit votre innovation avec des pièces qui s'emboîtent et sont faciles à remplacer, ce qui vous permet de la transformer en un tout autre type d'arme. Quand vous choisissez ce don, choisissez une arme simple ou de guerre de niveau 0 qui est commune ou à laquelle vous avez accès. Cette arme devient la seconde configuration de votre innovation.
 
 Choisissez un nouveau groupe de modifications pour cette nouvelle configuration. Vous pouvez passer deux actions d'Interaction pour transformer votre arme innovation d'une configuration à l'autre. Ces actions ne doivent pas forcément être consécutives mais si vous avez utilisé la première de ces actions mais pas encore la seconde, votre arme est inutilisable. L'Encombrement de votre arme est toujours l'Encombrement le plus élevé entre les deux configurations, quelle que soit la configuration actuelle de votre arme ; si une arme est plus petite que l'autre, vous devez malgré tout garder les autres pièces d'armes à portée de main.
@@ -152,7 +152,7 @@ Vous activez des engrenages, des explosifs et d'autres gadgets cachés dans votr
 
 **Prérequis** innovation d'armure, de créature artificielle ou d'arme  
 **Déclencheur** Votre tour commence.
----
+<hr />
 Les engins mécaniques instables de votre innovation vous permettent de pousser votre innovation à agir plus rapidement. Vous êtes accéléré pendant ce tour. La manière dont vous utilisez l'action supplémentaire dépend de votre innovation.
 
 • **Arme** Vous pouvez utiliser l'action supplémentaire pour Frapper avec votre innovation.
@@ -189,7 +189,7 @@ Vous avez trouvé une méthode vous permettant d'utiliser une combinaison hété
 {s:trait|Inventeur}
 
 **Prérequis** Frappe mégatonne
----
+<hr />
 Quand vous activez une Frappe Mégatonne, vous repoussez vos ennemis et vous les faites reculer face à la force explosive de votre coup. En cas de Frappe Mégatonne réussie, votre cible doit effectuer un jet de Vigueur contre votre DD de classe.
 
 **Réussite critique.** La cible n'est pas affectée.  
@@ -205,7 +205,7 @@ Quand vous activez une Frappe Mégatonne, vous repoussez vos ennemis et vous les
 {s:trait|Inventeur}
 
 **Prérequis** Compagnon artificiel avancé
----
+<hr />
 Grâce à vos améliorations constantes, votre compagnon artificiel a atteint un niveau technique incroyable. Votre compagnon artificiel devient un compagnon artificiel incroyable.
 </div>
 
@@ -215,7 +215,7 @@ Grâce à vos améliorations constantes, votre compagnon artificiel a atteint un
 
 **Prérequis** Surpuissance  
 **Condition** Vous êtes actuellement sous les effets de Surpuissance.
----
+<hr />
 Vous passez rapidement certains de vos gadgets améliorants à un allié et partagez brièvement leurs bienfaits avec lui. Choisissez un allié situé à à m ou moins. Jusqu'à la fin de son prochain tour, cet allié gagne les mêmes bonus de dégâts à ses Frappes que ceux dont vous bénéficiez grâce à Surpuissance.
 </div>
 
@@ -226,7 +226,7 @@ Vous passez rapidement certains de vos gadgets améliorants à un allié et part
 
 **Prérequis** Innovation armure  
 **Conditions** Vous portez votre armure innovation.
----
+<hr />
 Vous créez une réaction en chaîne instable qui fait apparaître d'innombrables étincelles dansant sur la surface de votre armure. Pendant 1 minute, toute créature qui vous touche ou qui vous frappe avec une attaque à mains nues de corps à corps ou avec une arme de corps à corps sans allonge subit 1d12 points de dégâts d'électricité.
 
 Si vous possédez l'aptitude de classe d'innovation révolutionnaire, les dégâts passent à 2d12.
@@ -237,7 +237,7 @@ Si vous possédez l'aptitude de classe d'innovation révolutionnaire, les dégâ
 {s:trait|Inventeur} {s:trait|Modification}
 
 **Prérequis** Modification initiale
----
+<hr />
 Vous avez modifié votre innovation en utilisant plusieurs méthodes originales et ajustements spécifiques vous permettant d'inclure une autre modification initiale. Votre innovation gagne une nouvelle modification initiale provenant de la liste des innovations pour son type.
 </div>
 
@@ -247,7 +247,7 @@ Vous avez modifié votre innovation en utilisant plusieurs méthodes originales 
 
 **Prérequis** boost offensif   
 **Fréquence** une fois toutes les 10 minutes
----
+<hr />
 Vous ne vous contentez pas simplement de bricoler votre innovation, vous intervenez également sur les armes de vos alliés. Choisissez un allié à votre portée et une de ses armes. Effectuez un test d'Artisanat contre un DD élevé pour votre niveau.
 
 **Réussite.** Pendant 1 minute, les Frappes de l'allié choisi avec l'arme choisie gagnent le même boost offensif que celui de votre innovation.  
@@ -260,7 +260,7 @@ Vous ne vous contentez pas simplement de bricoler votre innovation, vous interve
 {s:trait|Inventeur} {s:trait|Manipulation}
 
 **Prérequis** Boost offensif
----
+<hr />
 Vous ne vous contentez pas de conserver juste un type de boost grâce à vos bricolages incessants. Choisissez deux boosts offensifs supplémentaires. Vous pouvez utiliser une action d'Interaction pour changer le boost offensif affectant actuellement votre arme parmi celui que vous avez choisi pour l'aptitude de classe et les deux que vous avez choisis pour cette modification. Si votre arme possède le trait modulaire, quand vous utilisez une action d'Interaction pour changer le type des dégâts physiques infligés, vous pouvez en profiter pour également changer le boost offensif.
 </div>
 
@@ -269,7 +269,7 @@ Vous ne vous contentez pas de conserver juste un type de boost grâce à vos bri
 {s:trait|Inventeur}
 
 **Prérequis** Mégavolt
----
+<hr />
 Quand vous libérez de l'électricité de votre innovation, vous pouvez faire en sorte que l'éclair rebondisse sur des obstacles afin de créer un champ d'électricité mortelle. Quand vous utilisez Mégavolt, si votre ligne d'électricité frappe une barrière physique (comme un mur), elle rebondit en suivant un angle de votre choix et continue jusqu'à atteindre la longueur maximale de la ligne. Une créature ne subit les dégâts qu'une seule fois, même si elle se trouve dans la trajectoire de plusieurs rebonds.
 </div>
 
@@ -278,7 +278,7 @@ Quand vous libérez de l'électricité de votre innovation, vous pouvez faire en
 {s:trait|Inventeur}
 
 **Prérequis** Allié en surpuissance
----
+<hr />
 Vous avez mené suffisamment d'expériences sur vos coéquipiers pour savoir comment leur transférer un nombre important de gadgets améliorants, ce qui permet à l'un de vos alliés de gagner les avantages complets de votre capacité de Surpuissance. La première fois que vous utilisez Allié en surpuissance pendant une Surpuissance, les effets persistent pendant le reste de la durée de votre Surpuissance (au lieu de durer simplement jusqu'à la fin du prochain tour de la cible). Les utilisations suivantes d'Allié en surpuissance pendant la même Surpuissance ont une durée normale.
 </div>
 
@@ -289,7 +289,7 @@ Vous avez mené suffisamment d'expériences sur vos coéquipiers pour savoir com
 
 **Prérequis** Intervention du bricoleur  
 **Fréquence** Une fois par jour
----
+<hr />
 Vous bricolez avec l'équipement de vos alliés si souvent que les modifications que vous lui avez apportées leur confèrent des avantages pendant toute la journée. Pendant vos préparatifs quotidiens, vous pouvez choisir un allié et une de ses armes. Effectuez un test d'Artisanat contre un DD très élevé pour votre niveau. En cas de réussite, les Frappes de cet allié avec cette arme gagnent le même boost offensif que celui que vous avez choisi pour votre innovation. Cet effet persiste jusqu'à vos prochains préparatifs quotidiens. En cas d'échec critique, votre allié subit des dégâts de même type et de même quantité que ce que votre boost offensif inflige normalement en cas de Frappe réussite.
 </div>
 
@@ -298,7 +298,7 @@ Vous bricolez avec l'équipement de vos alliés si souvent que les modifications
 {s:trait|Inventeur}
 
 **Prérequis** Compagnon incroyable
----
+<hr />
 Votre compagnon artificiel a atteint des sommets en matière de forme et de fonction. Votre compagnon artificiel devient un compagnon parangon.
 </div>
 
@@ -307,7 +307,7 @@ Votre compagnon artificiel a atteint des sommets en matière de forme et de fonc
 {s:trait|Inventeur}
 
 **Déclencheur** Vous êtes sur le point de lancer un test nu pour déterminer si votre innovation est détruite suite à une action instable mais vous n'avez pas encore lancé les dés.
----
+<hr />
 Vous avec intégré des redondances triples dans votre innovation et ajouté toutes sortes d'éléments absorbants pour le protéger des conséquences négatives de vos expérimentations instables, au moins lors de la première activation. Vous réussissez automatiquement le test nu déclencheur. Vous ne pouvez plus compter sur vos Redondances instables avant d'avoir réajusté votre innovation pour faire en sorte qu'il soit à nouveau possible d'utiliser des actions instables en toute sécurité sur elle.
 </div>
 
@@ -317,7 +317,7 @@ Vous avec intégré des redondances triples dans votre innovation et ajouté tou
 {s:trait|Inventeur} {s:trait|Modification}
 
 **Prérequis** Innovation armure
----
+<hr />
 Que ce soit en libérant des jets de flamme, via des hélices, des champs magnétiques ou une combinaison de ces méthodes, vous êtes parvenu à libérer votre innovation des contraintes de la gravité ! Quand vous portez votre innovation, vous gagnez une Vitesse de vol égale à votre Vitesse sur terre.
 </div>
 
@@ -326,7 +326,7 @@ Que ce soit en libérant des jets de flamme, via des hélices, des champs magné
 {s:trait|Inventeur}
 
 **Déclencheur** Une créature que vous pouvez percevoir vous cible avec une attaque contre votre CA.
----
+<hr />
 Quand vos ennemis tentent de vous attaquer, vous semblez toujours avoir sous la main un gadget étrange que vous pouvez sortir au dernier moment afin de vous protéger. Décrivez un engin que vous tentez d'utiliser pour vous protéger contre l'attaque de l'ennemi (par exemple, si vous êtes attaqué par un lézard électrique, vous pourriez sortir un paratonnerre spécial datant de la fois où vous avez tenté d'utiliser l'énergie d'un orage pour alimenter votre invention !). Utiliser une invention pour vous défendre de la sorte signifie que le jet d'attaque pour l'attaque déclencheuse cible votre DD d'Artisanat au lieu de votre CA.
 
 Comme vous utilisez votre DD d'Artisanat au lieu de votre CA, tous les malus à la CA que vous subissez ne s'appliquent pas, mais ce don ne supprime pas les conditions ou les autres effets qui sont à l'origine de ces malus. Par exemple, si vous êtes pris au dépourvu et utilisez une invention pour vous défendre contre une attaque sournoise, le malus de -2 à la CA dû au fait d'être pris au dépourvu ne s'appliquerait pas à votre DD d'Artisanat. Par contre, vous restez pris au dépourvu : si l'attaque touche, vous subiriez quand même des dégâts supplémentaires.
@@ -338,7 +338,7 @@ Comme vous utilisez votre DD d'Artisanat au lieu de votre CA, tous les malus à 
 {s:trait|Inventeur}
 
 **Prérequis** Innovation arme
----
+<hr />
 Vous libérez une volée de projectiles de votre arme ou vous la faites voler et frapper plusieurs créatures. Effectuez une Frappe avec votre arme innovation contre chaque créature située dans un rayon de 9 m autour de vous. N'augmentez pas votre malus d'attaques multiples avant d'avoir effectué toutes les attaques. Si votre innovation est une arme de corps à corps et qu'au moins une des attaques se situe en-dehors de votre allonge, vous Lâchez l'arme avant les Frappes et elle retourne dans votre main à la fin des attaques. Si vos mains sont occupées quand l'arme revient, elle tombe au sol dans votre espace.
 </div>
 
@@ -347,7 +347,7 @@ Vous libérez une volée de projectiles de votre arme ou vous la faites voler et
 {s:trait|Inventeur}
 
 **Prérequis** Innovation créature artificielle
----
+<hr />
 Votre créature artificielle sème la destruction en détachant ses membres, en dépliant des armes cachées ou en réalisant une opération similaire. Vous Dirigez votre innovation mais, au lieu de ses actions normales, elle Marche rapidement une seule fois puis effectue une Frappe contre chacune des créatures situées dans un rayon de 9 m autour d'elle. Le malus d'attaques multiples n'augmente pas avant que la créature artificielle n'ait porté toutes les attaques.
 </div>
 
@@ -356,7 +356,7 @@ Votre créature artificielle sème la destruction en détachant ses membres, en 
 {s:trait|Inventeur}
 
 **Prérequis** Bricoleur éternel
----
+<hr />
 Alors que certains se demandent comment vous trouvez le temps d'effectuer un si grand nombre de modifications, vous ne pouvez pas vous empêcher de bidouiller l'équipement de vos alliés. Après tout, de quelle autre manière pourraient-ils apprendre ? Pendant vos préparatifs quotidiens, vous pouvez choisir jusqu'à 6 alliés et 6 de leurs armes pour Bricoleur éternel au lieu de juste 1. Vous n'avez plus besoin d'effectuer de test d'Artisanat : vous appliquez automatiquement le boost à chacune des armes.
 </div>
 
@@ -366,7 +366,7 @@ Alors que certains se demandent comment vous trouvez le temps d'effectuer un si 
 
 **Prérequis** Innovation armure  
 **Déclencheur** Vous êtes sur le point de subir des dégâts.
----
+<hr />
 Votre innovation active divers engins que vous avez préparés à l'avance, déclenchant une réaction en chaîne instable qui bloque les dégâts. Réduisez les dégâts que vous êtes sur le point de subir de 50.
 </div>
 
@@ -376,7 +376,7 @@ Votre innovation active divers engins que vous avez préparés à l'avance, déc
 {s:trait|Inventeur}
 
 **Prérequis** innovation arme, armure ou créature artificielle
----
+<hr />
 Vous devenez si proche de vos innovations que vous pouvez les utiliser sans même y penser. Vous êtes accéléré de manière permanente. La manière dont vous pouvez utiliser l'action supplémentaire dépend de votre innovation.
 
 • **Arme** Vous pouvez utiliser l'action supplémentaire pour Frapper avec votre innovation, car l'arme fonce vers votre ennemi sans nécessiter d'effort de votre part, pour autant qu'elle soit dans votre main.
@@ -391,6 +391,6 @@ Vous devenez si proche de vos innovations que vous pouvez les utiliser sans mêm
 {s:trait|Inventeur}
 
 **Prérequis** Surpuissance partagée
----
+<hr />
 Vous gardez des gadgets sur chacun de vos alliés et vous tenez prêt à les activer tous en même temps. Pendant vos préparatifs quotidiens, choisissez jusqu'à 6 alliés volontaires. Chaque fois que vous utilisez Surpuissance, vous octroyez les avantages à chacun de ces alliés qui se trouve à 9 m ou moins de vous.
 </div>

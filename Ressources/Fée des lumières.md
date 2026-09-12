@@ -45,7 +45,7 @@ Categories:
 </div>
 </td><td><div>*Vous distinguez difficilement la silhouette de cette petite fée qui vole avec une grâce incroyable, tant la lumière semble être avivée aux abords de sa silhouette. Soudain, elle tourne vers vous ses minuscules yeux dorés et fait tinter un rire cristallin. L'instant d'après, un puissant flash lumineux survient avant que vous ne la perdiez définitivement des yeux. *
 
-Les fées des lumières sont des êtres plus joueurs que malicieux qui aiment apporter la joie et la lumière dans la vie d'autrui. Elles n'aiment rien tant qu'aborder les enfants pour les éblouir quelques instants en utilisant leur magie, sachant que leurs témoignages ne sera jamais pris au sérieux par les adultes. Elles sont sans surprises inféodée à la cour visible des fées. Plusieurs sages supposent que les habitants de lumières leurs sont apparentés, à moins que ces derniers ne soient des fées des lumières corrompues ou dégénérées.
+Les fées des lumières sont des êtres plus joueurs que malicieux qui aiment apporter la joie et la lumière dans la vie d'autrui. Elles n'aiment rien tant qu'aborder les enfants pour les éblouir quelques instants en utilisant leur magie, sachant que leurs témoignages ne sera jamais pris au sérieux par les adultes. Elles sont sans surprises inféodée à la cour visible des fées. Plusieurs sages supposent que les habitants de lumières leurs sont apparentés, à moins que ces derniers ne soient des fées des lumières corrompues ou dégénérées. 
 
-Un lanceur de sort de niveau 7, d'alignement chaotique bon et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée des lumières.
+Un lanceur de sort de niveau 7, d'alignement chaotique bon et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée des lumières. 
 </div></td></tr></table>

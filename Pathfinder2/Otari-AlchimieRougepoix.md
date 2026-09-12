@@ -19,25 +19,25 @@ Les bombes à rougepoix (Redpitch bombs) sont des armes de lancer martiales avec
 **Utilisation** tenu dans 1 main ; **Encombrement** L
 
 **Activation** {s:PF2a|1a} Frappe
----
+<hr />
 La sève des pins à rougepoix, lorsqu'elle est correctement distillée en une substance gélatineuse et inflammable, s'enflamme dès qu'elle est exposée à l'air. Une bombe à rougepoix inflige les dégâts de feu, les dégâts persistants de feu et les dégâts d'aspersion indiqués. Plusieurs types de bombes octroient un bonus d'objet aux jets d'attaque.
----
+<hr />
 **Type** inférieur ; **Niveau** 1 ; **Prix** 3 po
 
 Cette bombe inflige 1 point de dégâts de feu, 1d4 points de dégâts persistants de feu et 1 point de dégâts d'aspersion de feu. En cas de toucher critique, la cible est maladroite (clumsy) 1 jusqu'au début de votre prochain tour.
----
+<hr />
 **Type** moyen ; **Niveau** 3 ; **Prix** 10 po
 
 Vous gagnez un bonus d'objet aux jets d'attaque de +1. Cette bombe inflige 2 points de dégâts de feu, 2d4 points de dégâts persistants de feu et 2 points de dégâts d'aspersion de feu. En cas de toucher critique, la cible est maladroite (clumsy) 1 jusqu'au début de votre prochain tour.
----
+<hr />
 **Type** supérieur ; **Niveau** 11 ; **Prix** 250 po
 
 Vous gagnez un bonus d'objet aux jets d'attaque de +2. Cette bombe inflige 3 points de dégâts de feu, 3d4 points de dégâts persistants de feu et 3 points de dégâts d'aspersion de feu. En cas de toucher critique, la cible est maladroite (clumsy) 2 jusqu'au début de votre prochain tour.
----
+<hr />
 **Type** majeur ; **Niveau** 17 ; **Prix** 2500 po
 
 Vous gagnez un bonus d'objet aux jets d'attaque de +3. Cette bombe inflige 4 points de dégâts de feu, 4d4 points de dégâts persistants de feu et 4 points de dégâts d'aspersion de feu. En cas de toucher critique, la cible est maladroite (clumsy) 3 jusqu'au début de votre prochain tour.
 </div>
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shhv](https://paizo.com/community/blog/v5748dyo6shhv) et écrit par Ron Lundeen.

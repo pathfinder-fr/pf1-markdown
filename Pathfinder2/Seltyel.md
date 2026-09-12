@@ -31,5 +31,5 @@ Je me suis réveillé quelques heures plus tard, avec un mal de tête atroce, du
 
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shr0?Iconic-Encounter-Whispers-in-the-Storm](https://paizo.com/community/blog/v5748dyo6shr0?Iconic-Encounter-Whispers-in-the-Storm) et écrit par Michael Sayre.

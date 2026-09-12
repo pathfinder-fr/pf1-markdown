@@ -12,38 +12,38 @@ Voir aussi : [[Les Terres Blessées]], [[Golarion.Plaie du monde|La Plaie du mon
 <div class="BD">
 {s:BDTitre|Drézen|}
 {s:BDTexte|*Source : [[Aides de jeu AP13#SIEGEDEDREZEN|La Colère des Justes]], p.126 ; Guide de la Plaie du monde p.24*}
-[[Pathfinder-RPG.Villes#Le_profil_d’une_communauté_1|Grosse bourgade]], CM
-**Corruption** +4; **Criminalité** 0; **Economie** -9; **Loi** -2 ; **Folklore** +0 ; **Société** -6
-**Avantage de ville** : [[Pathfinder-RPG.Villes#AVANTAGES|emplacement stratégique]]
-**Danger** +25
-**Inconvénient de ville** : [[Pathfinder-RPG.Villes#INCONVENIENTS|Terrain de chasse]], [[Pathfinder-RPG.Villes#INCONVENIENTS|Pauvreté]], [[Pathfinder-RPG.Villes#INCONVENIENTS|en ruine]]
+[[Pathfinder-RPG.Villes#Le_profil_d’une_communauté_1|Grosse bourgade]], CM  
+**Corruption** +4; **Criminalité** 0; **Economie** -9; **Loi** -2 ; **Folklore** +0 ; **Société** -6  
+**Avantage de ville** : [[Pathfinder-RPG.Villes#AVANTAGES|emplacement stratégique]]   
+**Danger** +25  
+**Inconvénient de ville** : [[Pathfinder-RPG.Villes#INCONVENIENTS|Terrain de chasse]], [[Pathfinder-RPG.Villes#INCONVENIENTS|Pauvreté]], [[Pathfinder-RPG.Villes#INCONVENIENTS|en ruine]]  
 (((Démographie)))
-**Gouvernement** : seigneur
-**Population** : 3 689 (33% humains, 33% tieffelins, 27% démons, 2% goules, 5% autres), 3800 esclaves et prisonniers
+**Gouvernement** : seigneur  
+**Population** : 3 689 (33% humains, 33% tieffelins, 27% démons, 2% goules, 5% autres), 3800 esclaves et prisonniers 
 (((PNJ Importants)))
-**Dirigent** [[AP13-Aponavicius|Aponavicius]] : maritith (f) guerrier 7, CM
-**Commandant** [[AP13-Staunton Vhane|Staunton Vhane]] : nain (f) Nain (m) Antipaladin de Deskari 8 / Champion mythique 2, CM
-**Sénéchal** [[AP13-Chorussine Domal|Chorussine Domal]] : Tieffelin (f) d'age mûr magicien (invocateur) 7 / adepte démoniaque 3, CM
-**Maître espion** [[AP13-Kiranda|Kiranda]] : succube (f) duelliste 2, CM
-**Maitre des forges** [[AP13-Joran Vhane|Joran Vhane]] : nain (m) prêtre de Droskar 6 / guerrier 2, NM
-**Ingénieur-chef** [[AP13-Jestak|Jestak]] : humain (f) barbare 10, CM
-**Geôlier** [[AP13-Théruk Nul|Théruk Nul]] : vampire (m) demi-orque pretre de Shax 6 / assassin 2, CM
-**Maître du Cimetière** [[AP13-Moxsahbull|Moxsahbull]] : Berbalang évolué (m)
-**Gardien** [[AP13-Soltengrebbe|Soltengrebbe]] : chimère mythique (f), CM
+**Dirigent** [[AP13-Aponavicius|Aponavicius]] : maritith (f) guerrier 7, CM  
+**Commandant** [[AP13-Staunton Vhane|Staunton Vhane]] : nain (f) Nain (m) Antipaladin de Deskari 8 / Champion mythique 2, CM  
+**Sénéchal** [[AP13-Chorussine Domal|Chorussine Domal]] : Tieffelin (f) d'age mûr magicien (invocateur) 7 / adepte démoniaque 3, CM  
+**Maître espion** [[AP13-Kiranda|Kiranda]] : succube (f) duelliste 2, CM  
+**Maitre des forges** [[AP13-Joran Vhane|Joran Vhane]] : nain (m) prêtre de Droskar 6 / guerrier 2, NM  
+**Ingénieur-chef** [[AP13-Jestak|Jestak]] : humain (f) barbare 10, CM  
+**Geôlier** [[AP13-Théruk Nul|Théruk Nul]] : vampire (m) demi-orque pretre de Shax 6 / assassin 2, CM  
+**Maître du Cimetière** [[AP13-Moxsahbull|Moxsahbull]] : Berbalang évolué (m)  
+**Gardien** [[AP13-Soltengrebbe|Soltengrebbe]] : chimère mythique (f), CM  
 (((Lieux notables)))
-**Rive Nord** quartier abandonné
-**Rive Sud** Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +1; [[Rôdeur Tieffelin 5|Alarendi]] Cha +1; aucun bienfait), Armée de [[Pathfinder-RPG.PNJ Brigand|fanatiques]] G (Moral +2; [[Pathfinder-RPG.PNJ Boucanier vétéran|Vérilenn]] Cha +2; aucun bienfait)
-**Colline du Paradis** Armée d'[[Pathfinder-RPG.Ariès|Ariès]] M (Moral +3; [[Pathfinder-RPG.Vrock|Pozlixt]] Cha +3; aucun bienfait), parc à esclaves
-**Cimetière** Armée de [[Pathfinder-RPG.Goule|Goules]] M (Moral +4; [[Pathfinder-RPG.Blême|Turgath]] Cha +4; aucun bienfait)
-**Pont de l'Ahari** Seul pont en état permettant d'accéder à la citadelle.
-**Citadelle de Drézen** Armée de [[Pathfinder-RPG.PNJ Brigand|fanatiques]] G (Moral +2; [[Pathfinder-RPG.PNJ Boucanier Vétéran|Nnelirév]] Cha +2; aucun bienfait), Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +1; [[Rôdeur Tieffelin 5|Idnerala]] Cha +1; aucun bienfait); Armée de [[Pathfinder-RPG.Dretch|Dretchs]] M (Moral +5;  [[Pathfinder-RPG.Incube|Suiroxe]] Char +5; impitoyable)
+**Rive Nord** quartier abandonné  
+**Rive Sud** Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +1; [[Rôdeur Tieffelin 5|Alarendi]] Cha +1; aucun bienfait), Armée de [[Pathfinder-RPG.PNJ Brigand|fanatiques]] G (Moral +2; [[Pathfinder-RPG.PNJ Boucanier vétéran|Vérilenn]] Cha +2; aucun bienfait)  
+**Colline du Paradis** Armée d'[[Pathfinder-RPG.Ariès|Ariès]] M (Moral +3; [[Pathfinder-RPG.Vrock|Pozlixt]] Cha +3; aucun bienfait), parc à esclaves  
+**Cimetière** Armée de [[Pathfinder-RPG.Goule|Goules]] M (Moral +4; [[Pathfinder-RPG.Blême|Turgath]] Cha +4; aucun bienfait)  
+**Pont de l'Ahari** Seul pont en état permettant d'accéder à la citadelle.   
+**Citadelle de Drézen** Armée de [[Pathfinder-RPG.PNJ Brigand|fanatiques]] G (Moral +2; [[Pathfinder-RPG.PNJ Boucanier Vétéran|Nnelirév]] Cha +2; aucun bienfait), Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +1; [[Rôdeur Tieffelin 5|Idnerala]] Cha +1; aucun bienfait); Armée de [[Pathfinder-RPG.Dretch|Dretchs]] M (Moral +5;  [[Pathfinder-RPG.Incube|Suiroxe]] Char +5; impitoyable)  
 (((Place du marché)))
-**Valeur de base** 660  po ; **Limite d'achat** 2 500 po ; **Incantation** 3
-**Objets faibles** : 1d4 ; **intermédiaires** : 1d3
+**Valeur de base** 660  po ; **Limite d'achat** 2 500 po ; **Incantation** 3  
+**Objets faibles** : 1d4 ; **intermédiaires** : 1d3  
 Drézen ressemble plus à un grand campement abritant les armées en poste au milieu des ruines qu'à une véritable ville. Le commerce est donc plus proche du troc et du marché noir, pour les audacieux essayant de s'infiltrer dans la ville.
 </div>
-</td><td><div class="BD">Une petite armée de croisés nains a construit la cité de Drézen, éprouvée par la guerre, et son énorme citadelle dans un style qui n'est pas sans rappeler celui des anciennes citadelles célestes, établissant ainsi un bastion durable pour la *Première Croisade*. Pour cette raison, de nombreux baraquements, remparts et entrepôts ont été taillés dans les collines, en nombre suffisant pour accueillir toute une légion de croisés. Malheureusement, même les puissantes défenses de Drézen n'ont pas résisté à la deuxième vague de démons, qui a émergé de la Plaie du Monde entre la Première et la Deuxième Croisades, et la citadelle comme la cité sont tombé aux mains des forces de Deskari en 4638 AR.
-Aujourd'hui les fanatiques dévoué à Deskari et Baphomet contrôlent les ruines extérieures, ainsi que l'immense forteresse de la cité : les feux illuminent les remparts, les frayères et le col montagneux de la cité par lequel les prisonniers de choix sont conduit dans les profondeurs de la Plaie du Monde. Les gargouilles harpie et les démons halas ont élu domicile dans les grottes alentours et tous prennent un malin plaisir à harceler les nombreux esclaves et prisonniers qui composent au moins la moitié de la population de la cité.
+</td><td><div class="BD">Une petite armée de croisés nains a construit la cité de Drézen, éprouvée par la guerre, et son énorme citadelle dans un style qui n'est pas sans rappeler celui des anciennes citadelles célestes, établissant ainsi un bastion durable pour la *Première Croisade*. Pour cette raison, de nombreux baraquements, remparts et entrepôts ont été taillés dans les collines, en nombre suffisant pour accueillir toute une légion de croisés. Malheureusement, même les puissantes défenses de Drézen n'ont pas résisté à la deuxième vague de démons, qui a émergé de la Plaie du Monde entre la Première et la Deuxième Croisades, et la citadelle comme la cité sont tombé aux mains des forces de Deskari en 4638 AR.  
+Aujourd'hui les fanatiques dévoué à Deskari et Baphomet contrôlent les ruines extérieures, ainsi que l'immense forteresse de la cité : les feux illuminent les remparts, les frayères et le col montagneux de la cité par lequel les prisonniers de choix sont conduit dans les profondeurs de la Plaie du Monde. Les gargouilles harpie et les démons halas ont élu domicile dans les grottes alentours et tous prennent un malin plaisir à harceler les nombreux esclaves et prisonniers qui composent au moins la moitié de la population de la cité.  
 Les soldats et mercenaires constituent le reste des habitants et patrouillent régulièrement dans les rues et les faubourgs orientaux avant de faire leur rapport aux chefs du culte et à leurs maitre démoniaque.
 
 

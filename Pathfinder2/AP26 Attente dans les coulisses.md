@@ -88,5 +88,5 @@ Hod sourit à nouveau, « C’est exactement ce que Tonnerre lui a dit. Il a ajo
 
 Hod se retourna et sourit en regardant intensément par-dessus la tige de métal, en direction de la main tendue d’Axel. « C’est un bonbon ? »
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo, écrit par Ron Lundeen et disponible à l'adressse [https://paizo.com/community/blog/v5748dyo6sh3l?Extinction-Curse-Waiting-in-the-Wings](https://paizo.com/community/blog/v5748dyo6sh3l?Extinction-Curse-Waiting-in-the-Wings).

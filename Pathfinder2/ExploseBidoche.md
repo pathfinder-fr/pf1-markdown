@@ -31,11 +31,11 @@ Alchimiste gobelin
 **Équipement** outils d'alchimiste, dague, bouts de formules (fonctionne comme un livre à formules), lunettes, réactifs infusés (2), armure de cuir clouté
 
 **Objets infusés** Explose-Bidoche possède les objets infusés suivants ; ils restent valides pendant 24 heures ou jusqu'à ce qu'il réalise ses préparatifs quotidiens : flasque d'acide mineure (2), feu grégeois mineur (2), élixir de vision d'aigle mineur (2)
----
+<hr />
 **CA** 18 ; **Réf** +8, **Vig** +10, **Vol** +6
 
 **PV** 30 ; **Résistance** feu 1
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} *dague*, +9 (agile, polyvalent T) ; **Dégâts** 1d4+1 P
@@ -62,5 +62,5 @@ Les MJ pourraient vouloir considérer les idées suivantes pour intégrer Explos
 - Explose-Bidoche a utilisé ses créations alchimiques de manière insouciante et il a accidentellement mis le feu à un bosquet ou à un bâtiment. Il a besoin d'aide urgent pour éteindre l'incendie avant qu'il ne se propage.
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shqh?NoPrep-Character-Gristleburst](https://paizo.com/community/blog/v5748dyo6shqh?NoPrep-Character-Gristleburst) et écrit par Ron Lundeen.

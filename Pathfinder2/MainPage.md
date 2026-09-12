@@ -21,7 +21,7 @@ LastModified: 2025-01-08 21:04
 {s:TilePF2Ext|https://discord.gg/MYqudHH|Serveur Discord Pathfinder-FR|https://www.pathfinder-fr.org/images/Pathfinder/logos/discord_icon.png}
 </div>
 
----
+<hr />
 Cette partie du site Pathfinder-FR regroupe diverses ressources liées à **Pathfinder 2**, la nouvelle version du jeu de rôle Pathfinder créé par [Paizo](http://www.paizo.com), dont les premières sorties datent d'août 2019.
 
 Le jeudi 12 janvier 2023, Paizo a lancé le projet de création d'une nouvelle licence ouverte, l'Open RPG Creative License (ORC). Vous pouvez lire l'annonce [sur le blog de Paizo](https://paizo.com/community/blog/v5748dyo6si7v) ou une traduction en français [[Annonce ORC|sur ce site]].

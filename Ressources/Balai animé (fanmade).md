@@ -33,12 +33,12 @@ LastModified: 2016-03-28 22:54
 
 
 </div>
-</td><td><div>''Ce balai est fait d'un manche en bois verni gravé de runes et garni d'un faisceau
-de brins de paille à son extrémité.
+</td><td><div>''Ce balai est fait d'un manche en bois verni gravé de runes et garni d'un faisceau 
+de brins de paille à son extrémité. 
 
-Il aurait pu paraître ordinaire si ce n'était le fait qu'il nettoie le sol, comme si une personne
+Il aurait pu paraître ordinaire si ce n'était le fait qu'il nettoie le sol, comme si une personne 
 invisible le tenait.''
 
-Les balais animés sont une aide précieuse pour les ménagères, les gens qui n'ont pas de serviteur pour nettoyer derrière eux et les allergiques à la poussière.
+Les balais animés sont une aide précieuse pour les ménagères, les gens qui n'ont pas de serviteur pour nettoyer derrière eux et les allergiques à la poussière. 
 
 </div></td></tr></table>

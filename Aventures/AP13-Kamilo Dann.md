@@ -31,11 +31,11 @@ Categories:
 {s:BDTexte|**Part** [[Pathfinder-RPG.guerrier#COURAGE|courage]] +1, [[Pathfinder-RPG.guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 1}
 {s:BDSousTitre|Équipement de combat}
 {s:BDTexte|potion de soins modérés}
-{s:BDTexte|cotte de mailles de maître}
+{s:BDTexte|cotte de mailles de maître} 
 {s:BDTexte|lance de maître}
 {s:BDTexte|arc long composite de maître (+2 For) avec 20 flèches +1}
 </div>
 </td><td><div class="BD">
-Seule une poignée de survivants blessés subsistent du contingent qui gardait autrefois la zone.
+Seule une poignée de survivants blessés subsistent du contingent qui gardait autrefois la zone.  
 Kamilo adopte une attitude courageuse. Son assurance et ses qualités de meneuse empêchent les survivants de sombrer dans le désespoir.
 </div></td></tr></table>

@@ -165,7 +165,7 @@ Categories:
 {s:BDTexte|**VD** 6 m}
 {s:BDTexte|**Corps à corps**  *chaîne cloutée stockeuse de sorts +1*, +12/+7 (2d4+6)}
 {s:BDTexte|**Attaque spéciale**  châtiment canalisé (+5d6 aux dégâts, DD 14, 2/jour), coup destructeur (+5 aux dégâts 6/jour), blessure grave (+3d8+10 aux dégâts, DD 16)}
-{s:BDTexte|**Pouvoirs offensifs**  [[Pathfinder-RPG.Domaine de la Destruction|aura de destruction]] (+5 aux dégâts et confirmation automatique des critiques pour toutes les créatures situées dans un rayon de 9 m, 10 rounds/jour), canalisation d'énergie négative 5d6 (DD 14, rayon 9 m)}
+{s:BDTexte|**Pouvoirs offensifs**  [[Pathfinder-RPG.Domaine de la Destruction|aura de destruction]] (+5 aux dégâts et confirmation automatique des critiques pour toutes les créatures situées dans un rayon de 9 m, 10 rounds/jour), canalisation d'énergie négative 5d6 (DD 14, rayon 9 m)} 
 {s:BDTexte|**Sorts préparés** (NLS 10)}
 :{s:BDTexte|Niveau 5 — *colonne de feu* (DD 18),* convocation de monstres V *(1d3 ombres seulement), *résistance à la magie**}
 :{s:BDTexte|Niveau 4 — *arme magique suprême**, *blessure critique* (DD 17), *blessure critique*, *communication à distance*, *marche dans les airs*}

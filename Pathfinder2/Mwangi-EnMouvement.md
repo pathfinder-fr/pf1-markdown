@@ -66,5 +66,5 @@ Sans un bruit, elle se faufila rapidement à travers la jungle dense en directio
 
 
 
----
+<hr />
 Cette page est la traduction d'un récit publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shqq](https://paizo.com/community/blog/v5748dyo6shqq) et écrit par Isis Wozniakowska.

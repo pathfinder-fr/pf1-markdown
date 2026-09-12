@@ -114,7 +114,7 @@ La plupart des sociétés mystifie l'histoire de ces créatures,de par leur orig
 Malgré leur nature isolationniste,
 les ornithorynque-garou ne sont pas mauvais, ni conflictuel de nature.
 Leur natures méfiantes les poussent plus simplement
-à des méthodes pour éviter toute confrontation,
+à des méthodes pour éviter toute confrontation, 
 au profit de la diplomatie.
 
 
@@ -124,20 +124,20 @@ certains ornithorynque-garou
 forment parfois des communautés
 où ils peuvent vivre
 entre eux, humanoïdes le
-jour et bêtes la nuit.
+jour et bêtes la nuit. 
 
 Les aventuriers qui tentent
 de pénétrer dans leur villages sont généralement
 abordé en périphérie du village pour essayer de comprendre
-la motivation des visiteurs et essayer de sympathiser avec ceux
+la motivation des visiteurs et essayer de sympathiser avec ceux 
 qu'ils jugent de confiance.
 Malgré la possible sympathie envers ceux-ci,les ornithorynque-garou craignent
-que leur vrai nature éclatent au grand jour et que les personnes
+que leur vrai nature éclatent au grand jour et que les personnes 
 de confiance les fuit à l'issue de leur obscurs nature.
 
 
 Malgré leur nature isolationniste, les ornithorynque-garou ne sont pas hostile.
-Il est difficile d'avoir leur confiance: leur sympathie se mérite mais est une garantie
+Il est difficile d'avoir leur confiance: leur sympathie se mérite mais est une garantie 
 de potentielle amitié durable.A condition d'accepter que ces étranges individus ne soient pas
 simplement qu'un mythe et des sources de curiosité.
 </div>

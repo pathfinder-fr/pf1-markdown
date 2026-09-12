@@ -46,7 +46,7 @@ Categories:
 {s:BDTexte|**Dons** [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection (coutille)]], [[Pathfinder-RPG.Jugement partial|Jugement partial (humain)]], [[Pathfinder-RPG.Talent|Talent (perception)]], [[Pathfinder-RPG.Vigie|Vigie]]}
 {s:BDTexte|**Compétences** [[Pathfinder-RPG.Connaissances|Connaissances]] (exploration souterraine) +3, [[Pathfinder-RPG.Connaissances|Connaissances]] (religion) +5, [[Pathfinder-RPG.Discrétion|Discrétion]] +6, [[Pathfinder-RPG.Intimidation|Intimidation]] +8, [[Pathfinder-RPG.Linguistique|Linguistique]] +1, [[Pathfinder-RPG.Perception|Perception]] +11, [[Pathfinder-RPG.Psychologie|Psychologie]] +9, [[Pathfinder-RPG.Survie|Survie]] +8}
 {s:BDTexte|**Langues** abyssal, commun, hallit}
-{s:BDTexte|**Part** [[Pathfinder-RPG.Inquisiteur#CONNAISSANCEDESMONSTRES|Connaissance des monstres]],
+{s:BDTexte|**Part** [[Pathfinder-RPG.Inquisiteur#CONNAISSANCEDESMONSTRES|Connaissance des monstres]], 
 [[Pathfinder-RPG.Inquisiteur#INITIATIVERUSEE|Initiative rusée]],
 [[Pathfinder-RPG.Inquisiteur#PISTAGE|Pistage]] +1,
 [[Pathfinder-RPG.Inquisiteur#REGARDSEVERE|Regard sévère]],

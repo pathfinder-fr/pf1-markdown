@@ -414,7 +414,7 @@ Le saint peut connaître autant de sorts qu’il veut mais, chaque jour, il ne p
 
 Chez le saint, les dons et effets qui modifient habituellement le nombre de sorts connus modifient à la place le nombre de sorts préparés chaque jour.
 
-Le saint doit choisir et préparer ses sorts à l’avance, en se reposant pendant 8 heures et en consacrant 1 heure à la prière de sa divinité. C’est lors de cette étude qu’il décide quels sorts préparer et qu’il réinitialise le nombre d’emplacements de sorts disponibles pour la journée.
+Le saint doit choisir et préparer ses sorts à l’avance, en se reposant pendant 8 heures et en consacrant 1 heure à la prière de sa divinité. C’est lors de cette étude qu’il décide quels sorts préparer et qu’il réinitialise le nombre d’emplacements de sorts disponibles pour la journée. 
 
 Le saint peut appliquer les dons de métamagie qu’il maîtrise à ses sorts préparés quand il les lance, comme le ferait un oracle, avec la même augmentation de la durée d’incantation (voir Sorts spontanés et dons de métamagie). Cependant, il peut aussi préparer un sort avec un don de métamagie connu et le lancer sans augmentation de la durée d’incantation, comme le ferait un prêtre. Il ne peut pas combiner ces deux options.
 
@@ -428,7 +428,7 @@ Le saint connaît un certain nombre d’oraisons (ou sorts de niveau 0) chaque j
 {s:Reference|STIGMATA}
 #### Stigmata (Ext)
 
-Au niveau 1, le saint est marqué par la divinité qu’il vénère, d’une marque nommée stigmata. Cette marque fonctionne comme un symbole sacré pour les pouvoirs du personnage nécessitant un focalisateur divin, et étincelle quand utilisée ainsi. De plus, le personnage peut utiliser ses stigmatas pour accomplir diverses prouesses. Le saint peut accepter un point de martyr pour augmenter le DD d’un de ses sorts de 1, ou le NLS d’un de ses sorts de 1.
+Au niveau 1, le saint est marqué par la divinité qu’il vénère, d’une marque nommée stigmata. Cette marque fonctionne comme un symbole sacré pour les pouvoirs du personnage nécessitant un focalisateur divin, et étincelle quand utilisée ainsi. De plus, le personnage peut utiliser ses stigmatas pour accomplir diverses prouesses. Le saint peut accepter un point de martyr pour augmenter le DD d’un de ses sorts de 1, ou le NLS d’un de ses sorts de 1. 
 
 Le personnage peut accepter un nombre total de points de martyr égal à la moitié de son niveau + son modificateur de Charisme. Pour chaque point de martyr accepté, il subit un malus dépendant du stigmata qu’il a choisi. Néanmoins, il peut réduire son nombre de points de martyr en accomplissant une action jugée comme favorable à sa divinité. Il peut s'agir d'abattre un champion ou un Extérieur d'un dieu rival, convertir un grand nombre de fidèles, ou une action similaire, à la discrétion du MJ. Ces points tombent également à zéro lorsque le personnage se repose pendant au moins huit heures.
 
@@ -446,13 +446,13 @@ Au niveau 1, le saint choisit un des types de stigmatas suivants ; ce choix ne p
 
 :: *Oeil du prophète.* Un œil du saint est décoloré, inhumain, ou porte une marque distinctive ; il subit un malus de -1 par point de martyr à ses tests de perception et d’attaque à distance. En acceptant un point de martyr, le personnage peut bénéficier d’un effet de vision magique pour un round par niveau ; au niveau 10, il bénéficie de vision lucide à la place.
 
-:: *Récepteur divin.* Les oreilles du saint sont faites pour recevoir les révélations divines ; il subit 5% de chance d'échec de sort à composantes vocales par point de martyr. Le personnage peut accepter un point de martyr pour lancer un sort en ignorant ses composantes vocales et somatiques ; au niveau 10, le sort est lancé avec extension de portée ou extension d'effet.
+:: *Récepteur divin.* Les oreilles du saint sont faites pour recevoir les révélations divines ; il subit 5% de chance d'échec de sort à composantes vocales par point de martyr. Le personnage peut accepter un point de martyr pour lancer un sort en ignorant ses composantes vocales et somatiques ; au niveau 10, le sort est lancé avec extension de portée ou extension d'effet. 
 
 {s:Reference|PRODIGE}
 
 #### Prodiges
 
-Le saint est capable d’accomplir d’étranges miracles, difficilement explicables même par les plus mystiques, appelés prodiges. Au niveau 1, puis à tous les niveaux impairs, il obtient un nouveau prodige.
+Le saint est capable d’accomplir d’étranges miracles, difficilement explicables même par les plus mystiques, appelés prodiges. Au niveau 1, puis à tous les niveaux impairs, il obtient un nouveau prodige. 
 
 La liste complète se trouve ici : [[Liste des prodiges du saint]].
 

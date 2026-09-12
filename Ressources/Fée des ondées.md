@@ -47,7 +47,7 @@ Categories:
 
 </td><td><div>*Cette petite fée vole vers vous en utilisant au mieux les vents violents qui l'entourent. Aussitôt, l'air s'humidifie et vous sentez un frisson de froid qui vous parcourt l'échine. *
 
-Les fées des ondées sont des êtres capricieux et imprévisibles, prompts à se mettre en colère mais aussi à prodiguer leurs bienfaits. Elles ont, au sein des royaumes féériques, la charge des vents et de la pluie.
+Les fées des ondées sont des êtres capricieux et imprévisibles, prompts à se mettre en colère mais aussi à prodiguer leurs bienfaits. Elles ont, au sein des royaumes féériques, la charge des vents et de la pluie.  
 
-Un lanceur de sort de niveau 7, d'alignement chaotique neutre et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée des ondées.
+Un lanceur de sort de niveau 7, d'alignement chaotique neutre et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée des ondées. 
 </div></td></tr></table>

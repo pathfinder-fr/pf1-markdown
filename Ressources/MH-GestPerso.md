@@ -42,6 +42,6 @@ LastModified: 2014-07-06 13:44
 <LI>Chargement d’une fiche. La fiche est chargée à la place de celle sur laquelle vous étiez. Cette dernière est néanmoins enregistrée avant l’opération. Vous êtes ensuite renvoyé à [[MH-MonPerso|Mon Personnage]] avec cette nouvelle fiche.
 <LI>Fiche correspondant à l’enregistrement sélectionné.
 <LI>Recalcul de la fiche sélectionnée. Si vous avez passé plusieurs niveau consécutifs, il peut arriver que la fiche sélectionnée n’ait pas été mise à jour. Appuyez sur ce bouton pour changer cela.
-<LI>Effacement de la fiche sélectionnée.
+<LI>Effacement de la fiche sélectionnée. 
 </OL>
 <center></center></td></tr></table>

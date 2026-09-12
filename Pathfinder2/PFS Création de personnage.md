@@ -14,7 +14,7 @@ La suite du guide détaille les étapes de la création d'un personnage Pathfind
 
 ### Feuilles de Personnage
 
-Il n'y a pas de format standard de feuille de personnage requis.  Les joueurs sont invités à trouver et à utiliser la feuille de personnage qui leur convient le mieux.  Cependant, un joueur doit posséder une feuille de personnage claire et lisible. Il doit pouvoir la donner à un MJ pour qu'il l'examine.
+Il n'y a pas de format standard de feuille de personnage requis.  Les joueurs sont invités à trouver et à utiliser la feuille de personnage qui leur convient le mieux.  Cependant, un joueur doit posséder une feuille de personnage claire et lisible. Il doit pouvoir la donner à un MJ pour qu'il l'examine. 
 
 Des feuilles de personnage vierges peuvent être téléchargées sur la page [<u>Pathfinder de Paizo</u>](https://paizo.com/pathfinder), ou en utilisant les liens directs suivants :\
 [<u>Noir et Blanc</u>](https://paizo.s3-us-west-2.amazonaws.com/PZO2101-CharacterSheet-BW.pdf)\
@@ -100,7 +100,7 @@ Les joueurs ne peuvent pas jouer de personnages d'alignement mauvais. Lorsque vo
 
 Les personnages peuvent vénérer n'importe quelle divinité de Golarion, à condition que leur alignement corresponde à l'un des alignements des disciples de la divinité en question. Les champions et les prêtres doivent choisir une divinité officielle, mais les autres classes peuvent adopter l'une des religions ou philosophies présentées à la page 440 du *Livre de Base*  ou dans une autre source homologuée. Les personnages peuvent également être agnostiques ou athées.
 
-Certains personnages peuvent suivre des divinités sans pour autant les vénérer. Suivre une divinité signifie que votre personnage peut, par exemple, porter le symbole sacré de la divinité, assister aux services religieux de la divinité ou accomplir d'autres rituels mais qui ne sont pas récompensés par des sorts ou des pouvoirs divins.
+Certains personnages peuvent suivre des divinités sans pour autant les vénérer. Suivre une divinité signifie que votre personnage peut, par exemple, porter le symbole sacré de la divinité, assister aux services religieux de la divinité ou accomplir d'autres rituels mais qui ne sont pas récompensés par des sorts ou des pouvoirs divins. 
 
 Un personnage peut suivre autant de divinités qu'il le souhaite, mais ne peut vénérer et recevoir le pouvoir que d'une seule d'entre elles.
 
@@ -114,11 +114,11 @@ Les aventures Pathfinder Society commencent toujours par la présentation des pe
 
 Pathfinder utilise des tapis quadrillées avec des cases de 1 pouce de côté pour déterminer les déplacements et les positionnements tactiques lors des combats. Ainsi, vous aurez besoin de quelque chose qui représente physiquement votre personnage pour ces phases de jeu. Pathfinder édite un large choix de Pions Pathfinder et collabore avec Reaper Miniatures et Wizkids pour proposer un vaste choix de figurines de jeu. Ainsi vous pourrez trouver la figurine qui correspond à votre personnage.
 
-Pour le jeu numérique, il faut un fichier image. Demandez à votre MJ ses préférences en termes de format et de taille.
+Pour le jeu numérique, il faut un fichier image. Demandez à votre MJ ses préférences en termes de format et de taille. 
 
 #### 11. Appartenance à la Société des Éclaireurs
 
-Pendant leur formation, les Pathfinders initiés atteigne un certain niveau de maîtrise et de connaissances. Afin de représenter cela, tous les personnage commencent par défaut avec une compétence bonus dans laquelle ils sont qualifiés : Connaissance de la Société des Éclaireurs. Si leur historique leur confère déjà cette compétence, ils peuvent choisir entre Connaissance des Universités et Connaissance du Métier d'Éclaireur.
+Pendant leur formation, les Pathfinders initiés atteigne un certain niveau de maîtrise et de connaissances. Afin de représenter cela, tous les personnage commencent par défaut avec une compétence bonus dans laquelle ils sont qualifiés : Connaissance de la Société des Éclaireurs. Si leur historique leur confère déjà cette compétence, ils peuvent choisir entre Connaissance des Universités et Connaissance du Métier d'Éclaireur. 
 
 Les agents passent plus ou moins de temps en formation à l'Académie. Cela est représenté par les options supplémentaires d'[[|Écoles]] dans Options de Personnage Supplémentaires.
 

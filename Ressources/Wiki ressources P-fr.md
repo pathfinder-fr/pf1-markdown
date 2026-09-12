@@ -9,8 +9,8 @@ Categories:
 
 {s:TitreSectionRessources|/ADJ/Ressources/titre wiki Pfr 2.png}
 
-<table class="page espace-col deuxcol">
-<tr>
+<table class="page espace-col deuxcol"> 
+<tr> 
 <td>
 #### Règles et monstres
 - [[RM Index|Index des règles maison]]

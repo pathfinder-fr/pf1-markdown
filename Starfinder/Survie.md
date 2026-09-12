@@ -82,7 +82,7 @@ les dégâts de chute que vous subissez de 1d6 si vous réussissez le test.
 
 ##### Guider avec les jambes
 - Au cours d’une action de mouvement effectuée pour chevaucher une créature, vous pouvez la guider avec les jambes pour avoir vos deux mains de libres. Si vous ratez le test, vous devez utiliser une main pour guider votre monture.
-Monter ou descendre de selle rapidement
+Monter ou descendre de selle rapidement 
 
 ##### Monter ou descendre de selle rapidement
 - Vous pouvez tenter de monter ou de descendre de selle par une action rapide au lieu d’une action de mouvement.

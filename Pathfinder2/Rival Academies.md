@@ -112,5 +112,5 @@ L’École de la Science a également commencé à se faire un nom, même si ell
 
 Mais leur œuvre la plus complexe est sans doute leur exposition, une merveille scientifique et occulte qui a la forme d’une lourde commode garnie de bobines stasiennes. L’électricité, via des formes, des symboles et une voix craquante, semble répondre aux questions qu’on lui pose. Et, même si les étudiants de Lepidstadt eux-mêmes ne sont pas certains de ce qui se trouve exactement à l’intérieur, ils demandent que les gens cessent de tenter de l’exorciser !
 
----
+<hr />
 Cette page est la traduction de deux articles publiés sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6xwzn?The-Rival-Academies](https://paizo.com/community/blog/v5748dyo6xwzn?The-Rival-Academies) et [https://paizo.com/community/blog/v5748dyo6y3xn](https://paizo.com/community/blog/v5748dyo6y3xn) et écrits par Landon Winkler.

@@ -12,23 +12,23 @@ Voir aussi : [[Drézen|Drézen avant libération]], [[Les Terres Blessées]], [[
 <div class="BD">
 {s:BDTitre|Drézen Libre|}
 {s:BDTexte|*Source : [[Aides de jeu AP13#RECONSTRUIREDREZEN|La Colère des Justes]], p.126*}
-[[Pathfinder-RPG.Villes#Le_profil_d’une_communauté_1|Grosse Bourgade]], LB
-**Corruption** -2; **Criminalité** -4; **Economie** -5; **Loi** +3 ; **Folklore** +0 ; **Société** -1
-**Avantage de ville** : [[Pathfinder-RPG.Villes#AVANTAGES|site sacré]] , [[Pathfinder-RPG.Villes#AVANTAGES|emplacement stratégique]] , [[Pathfinder-RPG.Villes#AVANTAGES|tenace]]
-**Danger** +5
+[[Pathfinder-RPG.Villes#Le_profil_d’une_communauté_1|Grosse Bourgade]], LB  
+**Corruption** -2; **Criminalité** -4; **Economie** -5; **Loi** +3 ; **Folklore** +0 ; **Société** -1  
+**Avantage de ville** : [[Pathfinder-RPG.Villes#AVANTAGES|site sacré]] , [[Pathfinder-RPG.Villes#AVANTAGES|emplacement stratégique]] , [[Pathfinder-RPG.Villes#AVANTAGES|tenace]]  
+**Danger** +5  
 **Inconvénient de ville** : [[Pathfinder-RPG.Villes#INCONVENIENTS|en ruine]]
 (((Démographie)))
 **Gouvernement** : seigneur\
-**Population** : 2 150 (1860 humains, 170 nains, 35 demi-elfes, 20 elfes, 20 halfelins, 15 aasimars, 10 gnomes, 10 demi-orques, 10 autres)
+**Population** : 2 150 (1860 humains, 170 nains, 35 demi-elfes, 20 elfes, 20 halfelins, 15 aasimars, 10 gnomes, 10 demi-orques, 10 autres)  
 (((PNJ Importants)))
-**Grand Prêtre** [[AP13-Sosiel Vaenic#HERISIEDEMONIAQUE|Sosiel Vaenic]] : humain(m) prêtre de Shélyn 7, NB
-**Commandan**t [[AP13-Irabeth Tirabade#HERISIEDEMONIAQUE|Irabeth Tirabade]] : demi-orque (f) paladin 7, LB
-**Gardien des failles** [[AP13-Aravashnia#HERISIEDEMONIAQUEl|Aravashnial]] : elfe (m) magicien (invocateur) 5 / Gardien des failles 3, CB
-**Maître espion** [[AP13-Avénia Tirabade#HERISIEDEMONIAQUE|Avénia Tirabade]] : humain (f) roublard 7, NB
-**Trésorier** [[AP13-Horgus Gwerm#HERISIEDEMONIAQUE|Horgus Gwerm]] : humain (m) noble 4 / roublard 2, LN
-**Gardien** [[AP13-Aron Kir#HERISIEDEMONIAQUE|Aron Kir]] : humain (m) roublard 5 / templier (déchu) 2, N
+**Grand Prêtre** [[AP13-Sosiel Vaenic#HERISIEDEMONIAQUE|Sosiel Vaenic]] : humain(m) prêtre de Shélyn 7, NB  
+**Commandan**t [[AP13-Irabeth Tirabade#HERISIEDEMONIAQUE|Irabeth Tirabade]] : demi-orque (f) paladin 7, LB  
+**Gardien des failles** [[AP13-Aravashnia#HERISIEDEMONIAQUEl|Aravashnial]] : elfe (m) magicien (invocateur) 5 / Gardien des failles 3, CB  
+**Maître espion** [[AP13-Avénia Tirabade#HERISIEDEMONIAQUE|Avénia Tirabade]] : humain (f) roublard 7, NB  
+**Trésorier** [[AP13-Horgus Gwerm#HERISIEDEMONIAQUE|Horgus Gwerm]] : humain (m) noble 4 / roublard 2, LN  
+**Gardien** [[AP13-Aron Kir#HERISIEDEMONIAQUE|Aron Kir]] : humain (m) roublard 5 / templier (déchu) 2, N  
 (((Place du marché)))
-**Valeur de base** 2 200 po ; **Limite d'achat** 5 000 po ; **Incantation** 5
+**Valeur de base** 2 200 po ; **Limite d'achat** 5 000 po ; **Incantation** 5  
 **Objets faibles** : 2d4 ; **intermédiaires** : 1d6
 (((Remarques)))
 **En ruine.** Apres une dizaine d'année de règne démoniaque et de récents combats de masse, la ville est dévastée : la plupart de des bâtiments sont endommagés et elle n'a plus assez d'habitants pour fonctionner à pleine capacité. (Economie -6; limite d'achat de 60%, réduction de l'incantation de 2 niveaux, disponibilité des objets magiques réduite à celle d'une petite bourgade).
@@ -72,11 +72,11 @@ Voir aussi : [[Drézen|Drézen avant libération]], [[Les Terres Blessées]], [[
 
 {s:Reference|RESTAURERLECONOMIE}
 ### Restaurer l'économie
-Reconstruire la citadelle de Drézen est une tâche colossale. Pour les PJ qui ne souhaitent pas s'investir dans des activités spécifiques voici, pièce par pièce, les réparations à effectuer.
+Reconstruire la citadelle de Drézen est une tâche colossale. Pour les PJ qui ne souhaitent pas s'investir dans des activités spécifiques voici, pièce par pièce, les réparations à effectuer. 
 
 <Custom>
-Même si la citadelle n'est plus entretenue, ce n'est pas une ruine non plus.
-Par défaut les salles n'étant plus en état sont considérées comme [[Pathfinder-RPG.Salles et employés#Salles brisées|brisées]] (50%). Ici, pour simuler un manque d'entretien, le malus est réduit comme indiqué en accord avec la description de la salle, et un multiplicateur de cout est appliqué par rapport à la taille importante de la citadelle et de ce malus. La finalisation apporte des Points de Reconstruction (en fonction des po).
+Même si la citadelle n'est plus entretenue, ce n'est pas une ruine non plus.  
+Par défaut les salles n'étant plus en état sont considérées comme [[Pathfinder-RPG.Salles et employés#Salles brisées|brisées]] (50%). Ici, pour simuler un manque d'entretien, le malus est réduit comme indiqué en accord avec la description de la salle, et un multiplicateur de cout est appliqué par rapport à la taille importante de la citadelle et de ce malus. La finalisation apporte des Points de Reconstruction (en fonction des po).  
 Lorsqu'une pièce est en travaux de rénovation, elle ne produit rien.
 
 
@@ -1219,7 +1219,7 @@ Lorsqu'une pièce est en travaux de rénovation, elle ne produit rien.
 {s:Reference|PONT-BOIS}
 <div class=BD>
 {s:BDTitre|Pont|}
-**Création** 4 Marchandises, 1 Influence, 3 Travail (170 po) ; **Durée** 4 jours
+**Création** 4 Marchandises, 1 Influence, 3 Travail (170 po) ; **Durée** 4 jours  
 **Taille** 4-8 cases
 (((Description)))
 Ce pont enjambe une fosse, une douve ou un obstacle similaire, ce qui permet de contrôler l’accès à
@@ -1229,7 +1229,7 @@ une zone.
 {s:Reference|PONT-PIERRE}
 <div class=BD>
 {s:BDTitre|Pont-levis|{s:GC}}
-**Création** 16 Marchandises, 4 Influence, 10 Travail (640 po) ; **Durée** 12 jours
+**Création** 16 Marchandises, 4 Influence, 10 Travail (640 po) ; **Durée** 12 jours  
 **Taille** 4-8 cases
 (((Description)))
 Ce pont enjambe une fosse, une douve ou un obstacle similaire, ce qui permet de contrôler l’accès à

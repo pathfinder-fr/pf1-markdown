@@ -14,7 +14,7 @@ Les premiers effets c'est de donner de la valeur à l'équipement et donc aux jo
 
 Quelqu'un peut me prêter sa tente ou je peux dormir avec toi ? Et là c'est le bordel entre les joueurs (Voir l'épisode de reflet d'acide [http://www.synopsite.com/articles.php?lng=fr&pg=61](http://www.synopsite.com/articles.php?lng=fr&pg=61)Episode 5 - Bivouac...tion !)
 
-Mais aussi de réaliser des situations de danger autre que par les monstres. La nature est un élément important avec la faim etc. le fait que des personnages tombent inconscients à cause de la fatigue rend un périple en pleine nature bien plus dangereuse et passionnante.
+Mais aussi de réaliser des situations de danger autre que par les monstres. La nature est un élément important avec la faim etc. le fait que des personnages tombent inconscients à cause de la fatigue rend un périple en pleine nature bien plus dangereuse et passionnante. 
 
 #### Description de l'aide de jeu
 

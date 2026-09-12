@@ -8,9 +8,9 @@ LastModified: 2020-06-02 09:01
 <div class="article_2col">
 #### Arme divine (Sur)
 
-Le saint peut, par une action simple, accepter un point de martyr pour améliorer son arme. Cette dernière est alors considérée comme en argent et en fer froid vis-à-vis de la réduction de dégâts.
+Le saint peut, par une action simple, accepter un point de martyr pour améliorer son arme. Cette dernière est alors considérée comme en argent et en fer froid vis-à-vis de la réduction de dégâts. 
 
-À partir du niveau 5, elle bénéficie d’un bonus d’altération de +1 qui augmente ensuite de 1 tous les quatre niveaux, pour un maximum de +4 au niveau 17. Ces bonus peuvent s’ajouter à une arme et se cumulent avec ceux qu’elle possède peut-être déjà jusqu’à un maximum de +5.
+À partir du niveau 5, elle bénéficie d’un bonus d’altération de +1 qui augmente ensuite de 1 tous les quatre niveaux, pour un maximum de +4 au niveau 17. Ces bonus peuvent s’ajouter à une arme et se cumulent avec ceux qu’elle possède peut-être déjà jusqu’à un maximum de +5. 
 
 Un saint peut aussi utiliser c prodige pour ajouter l’une des propriétés spéciales d’arme suivantes : axiomatique, anarchique, sainte, impie, acérée, vicieuse, spectrale, miséricordieuse, vicieuse, d'enchaînement, gardienne, de lumière, flammegrise, de feu, de froid ou de foudre.
 

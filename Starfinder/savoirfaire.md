@@ -44,7 +44,7 @@ Choisissez une compétence que vous avez sélectionnée avec votre aptitude de c
 Vous pouvez parler et lire un nombre de langues supplémentaires égal à votre rang en Culture. De plus, quand vous tentez un test de Culture pour déchiffrer un écrit d’environ 250 mots, vous pouvez renoncer à votre dé de maîtrise pour tenter ce test comme une action complexe (au lieu de la durée normale de 1 minute).
 
 #### Maîtrise de compétence supplémentaire (Ext)
-Choisissez une autre compétence, dans laquelle vous avez au moins 1 rang, dans la liste de celles qui sont accessibles grâce à votre aptitude de maîtrise de compétence. Vous pouvez utiliser maîtrise avec cette compétence. Vous pouvez sélectionner ce savoir-faire trois fois en choisissant à chaque fois une compétence différente.
+Choisissez une autre compétence, dans laquelle vous avez au moins 1 rang, dans la liste de celles qui sont accessibles grâce à votre aptitude de maîtrise de compétence. Vous pouvez utiliser maîtrise avec cette compétence. Vous pouvez sélectionner ce savoir-faire trois fois en choisissant à chaque fois une compétence différente. 
 
 #### Mémoire culturelle (Ext ; Culture)
 Tant que vous disposez d’assez de temps, vous pouvez choisir de faire 20 pour des tests de Culture pour vous remémorer certaines informations même si vous n’avez pas accès à un ordinateur ou à d’autres moyens de recherche.

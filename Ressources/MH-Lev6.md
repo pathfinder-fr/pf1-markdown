@@ -26,7 +26,7 @@ LastModified: 2014-07-06 14:14
 <LI>Liste des compétences suivant la maîtrise du personnage. Entre parenthèses, à la fin de la compétence, le nombre de points de compétence investis lors de ce passage de niveau.
 <LI>Ajout d’un rang dans la compétence correspondante.
 <LI>Retranchement d’un rang dans la compétence correspondante.
-<LI>Résumé des points de compétence investis lors de ce passage de niveau.
+<LI>Résumé des points de compétence investis lors de ce passage de niveau. 
 <LI>Retour vers [[MH-Lev2|Classe]].
-<LI>Validation des choix effectués. Vers [[MH-Lev7|Langages appris]].
+<LI>Validation des choix effectués. Vers [[MH-Lev7|Langages appris]]. 
 </OL></td></tr></table>

@@ -48,7 +48,7 @@ Categories:
 {s:BDTexte|**Zone d’antimagie (Sur).** La zone d’antimagie du marmouscule s’étend sur 3m de rayon et fonctionne comme [[pathfinder-RPG.zone dantimagie|le sort du même nom]], mis à part qu’elle peut être confinée uniquement en enfermant le marmouscule dans une boite hermétique en plomb ou en fer froid. Un marmouscule peut couper son aura par une [[pathfinder-RPG.action de mouvement|action de mouvement]] s’il réussit un jet de volonté DD 12. Par la suite, au début de chacun de ses tours suivants, il devra réussir un jet de volonté DD12 + 1 par nombre de jets précédemment effectués, s’il veut éviter que la zone d’antimagie ne se remette en place. Il peut aussi volontairement la laisser revenir au prix d’une action immédiate. Que cela soit volontaire ou non, lorsque la zone d’antimagie se remet en place, le contrechoc laisse le marmouscule [[pathfinder-RPG.étourdi|étourdi]] durant un nombre de round égal au double de ceux durant lesquelles elle a été réprimée.}
 
 </div>
-</td>
+</td> 
 <td><div>*Cette petite fée possède une parie d’ailes insectoïdes. A votre vue, ses grands yeux noirs pétillent d’intérêt et se petite bouche se fend d’un large sourire garni de dents pointues.  *
 
 Les marmouscule forment une race de fées marginales. Leur aura d’antimagie et leur caractère déplaisant les stigmatisent au sein du monde féérique comme des parias et des êtres de fréquentation douteuse, et ce, aussi bien au sein de la cour visible que de la cour invisible. Même au sein de leur espèce, ils ont du mal à se supporter les uns les autres et préfèrent mener une vie solitaire. Même leur reproduction, un évènement encore plus rarissime que le marmouscule lui-même, se réalise dans les plus brefs délais, la femelle laissant les œufs qu’elle a pondus au mâle. Ce  dernier se dépêche d’inculquer à ses enfants les rudiments de savoir qui leur permettront de survivre dans le monde avant d’échapper à la présence étouffante de ceux-ci.
@@ -61,8 +61,8 @@ Bien qu’ils jurent le contraire, les marmouscule ont la possibilité de répri
 
 De par leur histoire et leur pouvoir, les marmouscules intriguent bien des mages qui souhaitent pouvoir les étudier ou simplement disposer de zones d’antimagies pour défendre leurs tours. Un marmouscule captif peut se vendre jusqu’à 150 000 PO, ce qui inclut le prix de la chaîne dimensionnelle adaptée à sa taille qui l’empêchent de se téléporter au cas où il réprime soin aura.
 
-Les marmouscules sont de petites créatures humanoïdes de 40 centimètres de haut et pesant entre 2,5 et 3 kilogramme.
+Les marmouscules sont de petites créatures humanoïdes de 40 centimètres de haut et pesant entre 2,5 et 3 kilogramme. 
 </div></td></tr></table>
 
-Retour à la [[Wiki ressources monstres|grotte aux monstres]] —
+Retour à la [[Wiki ressources monstres|grotte aux monstres]] — 
 Discuter de cette créature [sur le forum](http://www.pathfinder-fr.org/Forum/yaf_postsm102750_Nouvelle-creature--pour-ceux-qui-ont-joue-aux-livres-dont-nous-etions-les-heros.aspx#post102750)

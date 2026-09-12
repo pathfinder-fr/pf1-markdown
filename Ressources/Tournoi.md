@@ -4,7 +4,7 @@ Title: Tournoi et Festival
 LastModified: 2016-02-22 14:46
 ---
 
-Oyez ! Oyez braves gens ! Voici de quoi vous divertir ! Des épreuves pour des champions ou de quoi rapporter à la maison un bon saucisson ! Il y en a pour tous les goûts !
+Oyez ! Oyez braves gens ! Voici de quoi vous divertir ! Des épreuves pour des champions ou de quoi rapporter à la maison un bon saucisson ! Il y en a pour tous les goûts ! 
 
 
 ### **La Joute**
@@ -13,12 +13,12 @@ Commençons par l'un des duels les plus chevaleresques !
 Chaque jouteur est équipé d’une lance d’arçon de maître et d’un écu de bois. Les cavaliers peuvent utiliser l’équipement et l’armure qu’ils possèdent mais ils doivent impérativement se servir de l’arme et du bouclier fournis. Toute personne qui ne possède pas sa
 propre monture se voit attribuer un cheval lourd et une selle militaire. La joute se déroule en trois étapes, comme indiqué.
 
-*Première étape* : les qualifications.
-Pour pouvoir se qualifier et entrer réellement en lice, il faut réussir à vaincre un des gardes au service de l'organisateur du tournoi. Il serait dommage de donner au public un piètre spectacle, aussi, ces qualifications sont idéales pour se donner une idée de ce que valent les adversaires.
+*Première étape* : les qualifications. 
+Pour pouvoir se qualifier et entrer réellement en lice, il faut réussir à vaincre un des gardes au service de l'organisateur du tournoi. Il serait dommage de donner au public un piètre spectacle, aussi, ces qualifications sont idéales pour se donner une idée de ce que valent les adversaires. 
 
-*Deuxième étape *: L'affrontement.
+*Deuxième étape *: L'affrontement. 
 Les jouteurs s'affrontent en éliminatoires, On détermine au  hasard  l’ordre dans lequel les concurrents
-joutent. Si un des jouteurs est désarçonné, il est éliminé. Le gagnant pourra rencontrer le gagnant d'une autre rencontre, jusqu'au duel final qui désignera un vainqueur.
+joutent. Si un des jouteurs est désarçonné, il est éliminé. Le gagnant pourra rencontrer le gagnant d'une autre rencontre, jusqu'au duel final qui désignera un vainqueur.  
 
 *Troisième étape*. Le duel.
 Lors de la dernière phase, le dernier concurrent en lice affronte le champion en titre qui n'aura pas participé aux combats jusqu'alors.
@@ -28,7 +28,7 @@ Les deux adversaires font un test d’Équitation pour savoir lequel tente de d�
 
 **Triche **: Il est possible d'attaquer directement le PJ avec la lance : à chaque fois qu'un PJ reçoit des dégâts, il doit faire un teste d'Equitation DD5 pour éviter de vider les étriers. Certains participants mal intentionnés peuvent donc vouloir davantage blesser l'adversaire plutôt que de simplement le repousser.
 
-**Les participants.**
+**Les participants.** 
 
 Les gardes (FP2) : Équitation +2 ; BMO +4, DMD 14{br}
 Les gardes (FP4) : Équitation +4 ; BMO +6, DMD 16{br}
@@ -51,26 +51,26 @@ Champion (FP15) : Équitation +15 ; BMO +22, DMD 34{br}
 **La chasse au diable (FP1)**
 *Serez-vous capables de venir à bout du terrible Diable de Pointesable et de l’empêcher de mettre toute la région en danger ? Tentez votre chance !*
 
-Il s’agit d’un concours de tir à l’arc placé sur la plage en contrebas de la Lumière de Pointesable. Deux grandes cibles ressemblant à des chevaux ailés effrayants ont été installées à 50 mètres de la ligne de tir.
-Le centre des cibles est situé à peu près à l’endroit où le cœur des chevaux devraient être et des cercles concentriques plus grands ont été dessinés autour de ce point. Une pièce de cuivre par tentative. Il faut utiliser les arcs longs qui sont fournis et lancer deux flèches en direction des cibles. Seule la meilleure des deux compte. Si on touche le centre de la cible, on gagne une petite tarte.
-En cas de résultat moins brillant, on gagne des prix de moins en moins coûteux, jusqu’à... rien du tout en cas d’échec.
+Il s’agit d’un concours de tir à l’arc placé sur la plage en contrebas de la Lumière de Pointesable. Deux grandes cibles ressemblant à des chevaux ailés effrayants ont été installées à 50 mètres de la ligne de tir. 
+Le centre des cibles est situé à peu près à l’endroit où le cœur des chevaux devraient être et des cercles concentriques plus grands ont été dessinés autour de ce point. Une pièce de cuivre par tentative. Il faut utiliser les arcs longs qui sont fournis et lancer deux flèches en direction des cibles. Seule la meilleure des deux compte. Si on touche le centre de la cible, on gagne une petite tarte. 
+En cas de résultat moins brillant, on gagne des prix de moins en moins coûteux, jusqu’à... rien du tout en cas d’échec. 
 
-Il faut toucher une CA de 20 pour arriver au centre de la cible. Les autres cercles correspondent respectivement à des CA de 18, 16, 14 et 12.
+Il faut toucher une CA de 20 pour arriver au centre de la cible. Les autres cercles correspondent respectivement à des CA de 18, 16, 14 et 12. 
 
 C’est Jodar Provolost (humain m, CB, expert 1/rôdeur 3) qui s’occupe de ce jeu, un vieux Varisien dégarni avec quelques cheveux noirs, une épaisse moustache noire et un ventre bien rebondi. C’est un charpentier assez médiocre, mais il est considéré comme l’un des meilleurs chasseurs de Sandpoint. Il se montre amical, mais il aime raconter de nombreuses blagues qui ne font rire que lui et les nombreux récits (faux) où il aurait rencontré le Diable de Sandpoint. Les tartes proviennent de chez Alma Avertin. Ce ne sont pas ses meilleurs, mais elles sont assez bonnes. Le shérif Hemlock a demandé à Jodar de repérer discrètement ceux qui parviennent à toucher le centre de la cible ou qui mettent leurs deux flèches près du centre, afin qu’il puisse approcher ces personnes par la suite et les inviter à rejoindre la milice. Jodar demande le nom de chaque personne qui réussit son test et annonce d’une voix forte « Votre attention, mesdames et messieurs ! <Nom> a rendu un grand service à Sandpoint : <il/elle> a tué le Diable de Sandpoint, et a bien mérité cette bonne tarte ! »
 
 
 **Viser la cible (Kingmaker) FP 12**
-Les archers sont fournis en arcs de maître fournis par l'organisateur.
+Les archers sont fournis en arcs de maître fournis par l'organisateur. 
 Les participants se tiennent à l’extrémité est du colisée et tirent sur des cibles placées à diverses
 distances à l’ouest. (Les spectateurs les plus fous ou les plus téméraires aiment s’asseoir sur les bancs ouest, dans la ligne de tir.)
 Les règles de l’épreuve. Chaque concurrent reçoit six  flèches à tirer sur trois cibles différentes : une cible bleue  à 9 mètres, une verte à 70 mètres (malus de -4 à cause de la distance) et une rouge à 170 mètres (malus de -10 à cause de la distance).
-Pour obtenir des points, le concurrent doitnon seulement toucher la cible mais sa flèche doit rester plantée dedans (un tir qui ne fait pas assez de dégâts pour vaincre la solidité de la cible rebondit dessus). Si le personnage réussit un coup critique, il tire au centre de la cible.
+Pour obtenir des points, le concurrent doitnon seulement toucher la cible mais sa flèche doit rester plantée dedans (un tir qui ne fait pas assez de dégâts pour vaincre la solidité de la cible rebondit dessus). Si le personnage réussit un coup critique, il tire au centre de la cible. 
 Le personnage doit faire tous ses tirs en l’espace de 6 rounds sinon, il est disqualifié. Si l’archer tire toutes ses flèches en moins de 6 rounds, il gagne 2 points de bonus par round restant.
 
 La cible bleue (distance 9m ; CA 5 ; solidité 0). Cette petite cible est recouverte d’un dessin de kobold. Elle est faite de toile tendue sur de la paille. Un tir réussi donne 1 point et un coup critique 3.
 
-La cible verte (distance 70m ; CA 7 ; solidité 2). Cette cible minuscule est couverte d’une peinture qui représente un ours-hibou. Elle est faite de plusieurs couches de cuir épais.
+La cible verte (distance 70m ; CA 7 ; solidité 2). Cette cible minuscule est couverte d’une peinture qui représente un ours-hibou. Elle est faite de plusieurs couches de cuir épais. 
 Un tir réussi donne 3 points et un coup critique 9.
 
 La cible rouge (distance 170m ; CA 11 ; solidité 4). Cette cible infime est couverte d’une peinture qui représente un dragon. Elle est faite de bois tendre. Un tir réussi donne 5 points et un coup critique 15.
@@ -79,7 +79,7 @@ La cible rouge (distance 170m ; CA 11 ; solidité 4). Cette cible infime est cou
 **Ilraith Valadhkani**
 Humain roublard 12
 À distance arc long de maître, +16/+11 (1d8/×3)
-Stratégie.: Ilraith vise en majorité la cible rouge et passe sur la verte pour son attaque secondaire. Il dispose de Tir de loin (ce qui réduit son malus de distance de moitié). Il utilise également son talent de roublard majeur pour lancer coup au but juste avant le début de l’épreuve puis au deuxième round de tir, afin d’en profiter au troisième. Il fait ensuite des attaques à outrance aussi vite que possible pendant les rounds qui lui restent. Même si sa stratégie est très limite, ce n’est pas de la triche, il n’y a que les flèches en adamantium qu’il utilise discrètement qui comptent comme une tricherie. Quand il prend ses flèches au début de la compétition, il utilise Escamotage (+22) pour remplacer les flèches ordinaires par six flèches issues de son havresac et qui possèdent une pointe en adamantium peinte couleur acier, pour parfaire la supercherie.
+Stratégie.: Ilraith vise en majorité la cible rouge et passe sur la verte pour son attaque secondaire. Il dispose de Tir de loin (ce qui réduit son malus de distance de moitié). Il utilise également son talent de roublard majeur pour lancer coup au but juste avant le début de l’épreuve puis au deuxième round de tir, afin d’en profiter au troisième. Il fait ensuite des attaques à outrance aussi vite que possible pendant les rounds qui lui restent. Même si sa stratégie est très limite, ce n’est pas de la triche, il n’y a que les flèches en adamantium qu’il utilise discrètement qui comptent comme une tricherie. Quand il prend ses flèches au début de la compétition, il utilise Escamotage (+22) pour remplacer les flèches ordinaires par six flèches issues de son havresac et qui possèdent une pointe en adamantium peinte couleur acier, pour parfaire la supercherie. 
 Pour réussir son coup, il doit faire un test DD 20 donc il peut le faire automatiquement. Personne ne remarque l’échange, sauf si un PJ fait un test de Perception qui dépasse le résultat du DD  d’Escamotage. Si le PJ accuse Ilraith d’avoir échangé ses flèches et de tricher, il doit réussir un test de Diplomatie DD 15 auprès du maître de cérémonie pour le convaincre d’inspecter les projectiles. Si Ilraith est reconnu coupable de tricherie, il est disqualifié, à la grande honte de Dague.
 Si personne ne remarque l’échange, quelqu’un finit par voir qu’il y a eu tricherie une fois l’épreuve terminée, au moment de ramasser les flèches mais, à ce stade, il est trop tard pour accuser Ilraith.
 
@@ -115,7 +115,7 @@ Stratégie. Damanjot prend le temps de viser et attaque la cible rouge avec des 
 **Règles de l'épreuve.**Deux équipes de 10 joueurs s'affrontent dans une lutte acharnée de tir à la corde.
 La corde est marquée en son centre d'un ruban rouge. On trace au sol deux lignes à 2m de part et d'autre du milieu de la corde. C'est là que les premiers de chaque groupe doivent se placer. Si le ruban franchit la ligne, l'équipe remporte la victoire.
 
-A chaque round, on fait un teste de force des deux équipes.
+A chaque round, on fait un teste de force des deux équipes.  
 Vous pouvez lancer 10d10, ou 1d10x10, ou encore 1d100 (mais dans ce cas faites attention à ne pas tomber en dessous de 10) ajoutez entre 20 et 40 Points (modificateurs de force de l'équipe) en fonction de la difficulté que vous voulez mettre.
 Pour l'équipe alliée de vos PJ, calculez au départ les modificateurs de force de tout le monde, puis lancez le nombre de D10 complémentaires (ou multipliez 1d10 par le nombre manquant).
 
@@ -129,7 +129,7 @@ Les participants sont dans une même barque avec maximum 4 participants : l'équ
 
 On apporte six bûches que l’on aligne dans le colisée. L’épreuve consiste à voir combien de bûches les participants arrivent àcouper en 1 minute.
 
-**Les règles de l’épreuve.** Au début de l’épreuve, chaque participant reçoit une hache à deux mains de maître ou deux haches à une main de maître (au choix du concurrent) et ils ont tous 1 minute (10 rounds) pour débiter autant de bûches que possible. Elles sont toutes espacées de 3 mètres : quand un personnage a fini d’en couper une, il doit donc se déplacer avant de passer à la suivante. Il faut évidemment faire un jet d’attaque car même si les bûches ont une CA de 3, un 1 naturel est synonyme d’échec. Si un participant coupe une bûche avec autre chose que les haches fournies, il est disqualifié. La magie est autorisée une fois seulement que la clepsydre a été retournée.
+**Les règles de l’épreuve.** Au début de l’épreuve, chaque participant reçoit une hache à deux mains de maître ou deux haches à une main de maître (au choix du concurrent) et ils ont tous 1 minute (10 rounds) pour débiter autant de bûches que possible. Elles sont toutes espacées de 3 mètres : quand un personnage a fini d’en couper une, il doit donc se déplacer avant de passer à la suivante. Il faut évidemment faire un jet d’attaque car même si les bûches ont une CA de 3, un 1 naturel est synonyme d’échec. Si un participant coupe une bûche avec autre chose que les haches fournies, il est disqualifié. La magie est autorisée une fois seulement que la clepsydre a été retournée. 
 Bûche de 30 centimètres d’épaisseur (CA 3 ; solidité 5 ; pv 120). Chaque bûche entièrement détruite donne 5 points au concurrent. Chaque bûche endommagée donne 2 points.
 Les participants. L’ordre de passage n’a aucune importance et se détermine aléatoirement. Si vous ne voulez pas faire de jet d’attaque ni de dégâts, vous pouvez simplement décider que le 20e coup rate à chaque fois et que chaque concurrent inflige des dégâts moyens. Si vous voulez utiliser cette méthode rapide pour connaître les résultats des PNJ, vous trouverez le nombre de bûches débitées après les dégâts de chaque participant (et le nombre de points reçus).
 
@@ -213,22 +213,22 @@ Stratégie. Mialolessa est une belle elfe très connue et très appréciée dans
 ### **Le plus grand mangeur de saucisses :**
 
 Chaque participant dispose de 30 saucisses à avaler le plus rapidement possible. Un jet d'Endurance (DD5) vous indique si le PJ réussi à avaler sa première saucisse pendant le round.
-Toutes les 2 saucisses, la difficulté est augmentée de 1.
-Si le joueur réussi : il mange sa saucisse, les points en excès au delà de 5 seront ajoutés au lancé suivant,
-Si le joueur échoue : il n'arrive pas au bout de la saucisse dans les 6 secondes, au tour suivant il devra retenter avec un DD égal à la difficulté des points manquants pour terminer sa saucisse et s'il veut en prendre une autre pour le tour, retenter avec cette fois-ci le DD augmenté des points manquants.
+Toutes les 2 saucisses, la difficulté est augmentée de 1. 
+Si le joueur réussi : il mange sa saucisse, les points en excès au delà de 5 seront ajoutés au lancé suivant, 
+Si le joueur échoue : il n'arrive pas au bout de la saucisse dans les 6 secondes, au tour suivant il devra retenter avec un DD égal à la difficulté des points manquants pour terminer sa saucisse et s'il veut en prendre une autre pour le tour, retenter avec cette fois-ci le DD augmenté des points manquants. 
 
-Exemple :
+Exemple : 
 Alf (Endurance 14, mod+2) contre Homer (Endurance 16, mod+3)
 
-Pour leur 10ieme saucisse, on a une difficulté de 10.
-Alf fait 7 :  il ne finit donc pas sa saucisse car il lui manque 3 points pour poursuivre. Au round suivant il devra faire un teste DD3 (qu'il réussira avec un 7). Il choisit non pas d'attendre le round suivant pour prendre une nouvelle saucisse et retenter un dd10, mais de prendre tout de suite une autre saucisse :  ça lui fait donc une difficulté de 13.
+Pour leur 10ieme saucisse, on a une difficulté de 10. 
+Alf fait 7 :  il ne finit donc pas sa saucisse car il lui manque 3 points pour poursuivre. Au round suivant il devra faire un teste DD3 (qu'il réussira avec un 7). Il choisit non pas d'attendre le round suivant pour prendre une nouvelle saucisse et retenter un dd10, mais de prendre tout de suite une autre saucisse :  ça lui fait donc une difficulté de 13. 
 Homer risque à ce rythme-là de tout engloutir !
 
 
 
 ### **Bras de fer**
 
-Deux adversaires s'affrontent main dans la main !
+Deux adversaires s'affrontent main dans la main ! 
 
 **Partie rapide : **
 Les deux joueurs doivent faire un teste de force, celui qui a le plus grand nombre remporte la victoire.
@@ -244,11 +244,11 @@ Entre 20 et 30 : le potentiel gagnant a un bonus de +5 et le perdant un malus de
 
 *Trois gobelins sont parvenus à rentrer dans votre demeure et sont occupés à tout mettre sens dessus dessous ! Attrapez-les et lancez- les dans le feu ouvert avant qu’ils ne détruisent tout !*
 
-C’est un simple jeu de lancer de sac de haricots installé au centre du Marché de Sandpoint. À trois mètres de la ligne de lancer, on a installé une planche avec trois trous.
-Le trou le plus proche est le plus grand, alors que le plus éloigné est le plus petit. Il y a des poches de haricots cousues pour ressembler à des gobelins et chacune d’eux est marqué d’un nom de gobelin. Une pièce de cuivre par tentative. Prenez trois gobelins et tentez de les lancer dans le feu.
+C’est un simple jeu de lancer de sac de haricots installé au centre du Marché de Sandpoint. À trois mètres de la ligne de lancer, on a installé une planche avec trois trous. 
+Le trou le plus proche est le plus grand, alors que le plus éloigné est le plus petit. Il y a des poches de haricots cousues pour ressembler à des gobelins et chacune d’eux est marqué d’un nom de gobelin. Une pièce de cuivre par tentative. Prenez trois gobelins et tentez de les lancer dans le feu. 
 
-Les enfants doivent tenter de viser le trou le plus proche et le plus grand (CA 10). Les femmes utilisent le trou du milieu (CA 12) et les hommes adultes, le trou le plus éloigné et le plus petit (CA 15).
-Les sacs de haricots ont un facteur de portée de 3 mètres et il n’y a aucun malus pour le manque de formation à l’utilisation de ces « armes ». Mettez les trois sacs dans les trous et vous gagnez de la venaison séchée. Des résultats moins bons donnent droit à des babioles moins chères. Et on ne gagne rien si on ne réussit à lancer aucun gobelin dans le feu ouvert.
+Les enfants doivent tenter de viser le trou le plus proche et le plus grand (CA 10). Les femmes utilisent le trou du milieu (CA 12) et les hommes adultes, le trou le plus éloigné et le plus petit (CA 15). 
+Les sacs de haricots ont un facteur de portée de 3 mètres et il n’y a aucun malus pour le manque de formation à l’utilisation de ces « armes ». Mettez les trois sacs dans les trous et vous gagnez de la venaison séchée. Des résultats moins bons donnent droit à des babioles moins chères. Et on ne gagne rien si on ne réussit à lancer aucun gobelin dans le feu ouvert. 
 C’est Daverin Hosk des étables du Gobelin Écrasé qui se charge de ce jeu. Il prend un plaisir pervers à l’idée de lancer des gobelins dans le feu. C’est pour cette raison qu’il a inscrit un nom de gobelin sur chaque poche de haricots, de sorte qu’il puisse imaginer de vrais gobelins en train de brûler. Sa haine des gobelins est bien connue et personne n’est surpris de le voir s’occuper de ce jeu. Chod  Bévuk du Marché de la Viande de Pointesable a offert la viande. Elle a très bon goût et, avec le saumon préparé par Améiko, ce sont les deux mets dont tout le monde parle. De nombreux enfants demandent à leur parent si la viande vient bien des gobelins qui ont été jetés dans le feu, comme Daverin le prétend. Et même certains des adultes qui ont entendu cette rumeur y croient !
 
 
@@ -257,23 +257,23 @@ C’est Daverin Hosk des étables du Gobelin Écrasé qui se charge de ce jeu. I
 *Qui a besoin d’un phare qui n’éclaire pas ? Le vieux phare gâche le paysage. Détruisons-le pour que nous puissions réutiliser la pierre et construire quelque chose de nouveau ! *
 
 Ce jeu est situé au bout du Chemin des Déchets ( Junker’s Way), près de la Lumière.
-On y a installé une table avec six pierres carrées placées pour former une pyramide : trois en bas, deux au milieu et une au sommet. La ligne de tir est située à 6 mètres de là. En utilisant la mini-catapulte, il faut tenter de faire tomber le tas de pierre en au plus trois coups. Deux pièces de cuivre par tentative. Vous pouvez tirer trois fois. Il fois trois touchers pour faire tomber toutes les pierres. Plus la CA touchée par le jet d’attaque est élevée, plus cette attaque compte pour un grand nombre de touchers (il est donc possible de les faire toutes tomber en un seul lancer). Si on touche une CA de 12, l’attaque compte pour un toucher. Avec une CA de 16, elle compte pour deux toucher. Et une CA de 20 compte pour trois toucher. Les catapultes ont un facteur de portée de 10 cases, donc il n’y a aucun malus de portée, mais la pénalité habituelle de -4 pour manque de formation à l’utilisation de cette arme doit être prise en compte, si le personnage n’est pas formé au maniement des armes de sièges. Ceux qui parviennent à faire tomber toutes les pierres gagnent une catapulte miniature (une fronde en fait). Des prix moins coûteux sont off erts pour des réussites partielles, et on ne gagne rien si on ne fait tomber aucune pierre.
+On y a installé une table avec six pierres carrées placées pour former une pyramide : trois en bas, deux au milieu et une au sommet. La ligne de tir est située à 6 mètres de là. En utilisant la mini-catapulte, il faut tenter de faire tomber le tas de pierre en au plus trois coups. Deux pièces de cuivre par tentative. Vous pouvez tirer trois fois. Il fois trois touchers pour faire tomber toutes les pierres. Plus la CA touchée par le jet d’attaque est élevée, plus cette attaque compte pour un grand nombre de touchers (il est donc possible de les faire toutes tomber en un seul lancer). Si on touche une CA de 12, l’attaque compte pour un toucher. Avec une CA de 16, elle compte pour deux toucher. Et une CA de 20 compte pour trois toucher. Les catapultes ont un facteur de portée de 10 cases, donc il n’y a aucun malus de portée, mais la pénalité habituelle de -4 pour manque de formation à l’utilisation de cette arme doit être prise en compte, si le personnage n’est pas formé au maniement des armes de sièges. Ceux qui parviennent à faire tomber toutes les pierres gagnent une catapulte miniature (une fronde en fait). Des prix moins coûteux sont off erts pour des réussites partielles, et on ne gagne rien si on ne fait tomber aucune pierre. 
 
 C’est Aesrick Battlehorn qui s’occupe de ce jeu. Il a travaillé sur la mini-catapulte et ses catapultes miniatures pendant son temps libre pendant toute la dernière année, en prévision du festival. La mini-catapulte est une véritable oeuvre d’art. Il l’a façonnée pour qu’elle ressemble à un géant qui lancerait les pierres avec ses bras. Il compte bien pouvoir la revendre à Magnimar pour une belle somme, une fois le festival terminé. Elle mesure quelque 60 cm de hauteur mais fonctionne comme une véritable catapulte, bien que sa portée soit plus petite et qu’elle cause moins de dégâts. Il a fait de son mieux pour travailler en secret pendant toute l’année, afi n de pouvoir faire la surprise à tout le monde. Il aime bien les enfants et il les aide à viser pour qu’ils puissent gagner des catapultes miniatures (ce qui annule la pénalité causée par le manque de formation à l’utilisation de ces armes), pour le plus grand déplaisir de leurs mères. Selon ces dernières, « elles sont juste de la bonne taille pour que les petits garçons se crèvent un oeil ! » Mais même celles qui se plaignent donnent quelques pièces de cuivre à leurs enfants pour qu’ils puissent participer à ce jeu. Et on voit ici et là au cours du festival plusieurs enfants qui pleurent parce qu’ils ont été touchés par une pierre.
 
 
 ### **La course de dragons **
 
-''Certains ont évoqué la possibilité d’élever des dragons à Pointesable. Mais, avant que cela ne puisse se faire, il faut vérifi er lesquels sont les plus rapides. Choisissez votre dragon et faites la course avec vos amis !
+''Certains ont évoqué la possibilité d’élever des dragons à Pointesable. Mais, avant que cela ne puisse se faire, il faut vérifi er lesquels sont les plus rapides. Choisissez votre dragon et faites la course avec vos amis ! 
 ''
-Ce jeu est situé dans la partie sud du Marché de Sandpoint, près des quais, juste au début de la rue du Marché. On y a construit deux doubles couloirs de course séparés d’un peu moins d’un mètre. Chacune des pistes fait 9 mètres de long. Près de la ligne de départ, on peut voir une grande cage contenant 12 lézards. Dans le dos de chacun d’eux, on a attaché des bâtonnets et des ailes en tissu, et ils sont tous peints dans des couleurs différentes, de sorte qu’ils ressemblent à des dragons miniatures.
+Ce jeu est situé dans la partie sud du Marché de Sandpoint, près des quais, juste au début de la rue du Marché. On y a construit deux doubles couloirs de course séparés d’un peu moins d’un mètre. Chacune des pistes fait 9 mètres de long. Près de la ligne de départ, on peut voir une grande cage contenant 12 lézards. Dans le dos de chacun d’eux, on a attaché des bâtonnets et des ailes en tissu, et ils sont tous peints dans des couleurs différentes, de sorte qu’ils ressemblent à des dragons miniatures. 
 
-**Règles de l'épreuve** : Sans toucher le lézard que vous avez choisi, vous devez le mener jusqu’à la fin de la piste. S’il traverse la ligne d’arrivée avant vos adversaires, vous gagnez un prix !
-Une pièce de cuivre la partie.
-Dès que quatre personnes ont choisi un dragon, on les place dans les pistes. Dès que le sifflet retentit, les grilles sont levées et les joueurs doivent faire avancer leurs dragons sans les toucher. Pour ce faire, chacun d’eux réalise un jet d’Initiative et tente d’inciter son dragon à avancer lorsque son tour vient. Les lézards sont difficiles à commander, c’est bien connu, de sorte qu’un test de Dressage de DD 14 soit nécessaire pour qu’ils avancent. En cas de réussite, ils progressent d’1,50 mètre. En cas d’échec, ils n’avancent pas.
-En cas d’échec de 10 points ou plus, le lézard recule !
-Le premier lézard qui traverse la ligne d’arrivée gagne, et son joueur reçoit une grosse médaille (sans grande valeur) marquée « 1ère place aux courses de dragons » et 2 pièces de cuivre.
-Les autres joueurs ne remportent rien.
+**Règles de l'épreuve** : Sans toucher le lézard que vous avez choisi, vous devez le mener jusqu’à la fin de la piste. S’il traverse la ligne d’arrivée avant vos adversaires, vous gagnez un prix ! 
+Une pièce de cuivre la partie. 
+Dès que quatre personnes ont choisi un dragon, on les place dans les pistes. Dès que le sifflet retentit, les grilles sont levées et les joueurs doivent faire avancer leurs dragons sans les toucher. Pour ce faire, chacun d’eux réalise un jet d’Initiative et tente d’inciter son dragon à avancer lorsque son tour vient. Les lézards sont difficiles à commander, c’est bien connu, de sorte qu’un test de Dressage de DD 14 soit nécessaire pour qu’ils avancent. En cas de réussite, ils progressent d’1,50 mètre. En cas d’échec, ils n’avancent pas. 
+En cas d’échec de 10 points ou plus, le lézard recule ! 
+Le premier lézard qui traverse la ligne d’arrivée gagne, et son joueur reçoit une grosse médaille (sans grande valeur) marquée « 1ère place aux courses de dragons » et 2 pièces de cuivre. 
+Les autres joueurs ne remportent rien. 
 
 C’est Gressel Teeniwar qui mène ce jeu, obéissant ainsi aux ordres de Jubrayl Vhiski (ce qui n’est pas de notoriété publique). Jubrayl utilise ce jeu pour faire des paris sur les courses. Personne ne le sait mais 9 des 12 lézards ont été gavés en secret la nuit précédente, et sont plus fatigués et moins rapides que les autres. Ces neuf dragons-là requièrent un DD de 16 pour avancer. Les trois autres dragons sont très affamés et n’ont pas mangé depuis une semaine. Un DD de 14 suffit pour les faire avancer mais, si on leur offre de la viande fraîche ou si on tient un petit rongeur en face d’eux, le DD tombe à 12. Jubrayl et ses homes savent quels sont les trois lézards qui sont affamés et ils utilisent ce savoir pour tourner les paris à leur avantage. Jubrayl a également ordonné qu’il y ait un de ses hommes dans chacune des courses et qu’il choisisse un lézard affamé pour améliorer les revenus de son groupe, sans toutefois en faire toute une affaire si un groupe de quatre personnes étrangères veulent jouer ensemble. Le MJ devrait choisir quels sont les 9 lézards qui ont été gavés. Toute personne qui assiste à au moins 5 courses dans lesquelles un lézard affamé participe peut tenter un test de Psychologie de DD 20 pour s’apercevoir que certains des lézards semblent plus motivés que les autres. Jubrayl et ses hommes s’en vont s’ils ont l’impression que quelqu’un a repéré leur manège. Gressel prétendra ne rien en savoir et l’une de ses servantes confirmera ses dires lorsqu’il affirmera que tous les lézards ont été bien nourris.
 
@@ -288,16 +288,16 @@ On libère un cochon dans un large enclos après l’avoir copieusement enduit d
 ### **Le Mât de cocagne**
 Un grand mât enduit de graisse est planté verticalement. Tout en haut, une roue avec des lots accrochés dessus.
 
-**Règles de l'épreuve **: Grimper et attraper un lot !
-L'escalade a une difficulté de 30.
-Un jet réussi permet de grimper de 1,5 m, le mat fait 4,5m.
+**Règles de l'épreuve **: Grimper et attraper un lot ! 
+L'escalade a une difficulté de 30. 
+Un jet réussi permet de grimper de 1,5 m, le mat fait 4,5m. 
 Tout échec fait redescendre la personne de 1,5m, un échec de plus de 10 le fait tomber.
 
 Arrivé au sommet, le joueur doit faire un dernier jet d'Escalade (pour savoir s'il tient) et de dextérité pour voir s'il obtient l'objet qu'il souhaite.
 
 
 ### **Election d'une reine de beauté**
-Plusieurs candidates (oui c'est très sexiste car les prêtres d'Erastil ne sont pas pour l'émancipation des femmes), sont disposées sur une estrade. On présente chacune d'entre elles qui doivent faire un jet de Charisme pour l'allure générale, la démarche, la prestance.
+Plusieurs candidates (oui c'est très sexiste car les prêtres d'Erastil ne sont pas pour l'émancipation des femmes), sont disposées sur une estrade. On présente chacune d'entre elles qui doivent faire un jet de Charisme pour l'allure générale, la démarche, la prestance. 
 Elle doit ensuite répondre à quelques questions et faire au choix un jet de Diplomatie, Bluff ou Intimidation.
 On peut imaginer que le  Jury a ses préférences si on veut pimenter la chose.
 Que la meilleure gagne !
@@ -309,26 +309,26 @@ On donne à chacun d'eux un gant magique. Au milieu, sur un piédestal, une orbe
 Par la force mentale, il est possible de déplacer l'orbe vers le gant.
 
 Règles du jeu : Chaque duelliste fait un jet de volonté. L'orbe se rapproche de celui qui a fait le plus grand jet.
-Il y a 20 (30 ou 40 selon la durée de votre épreuve) "points" pour arriver de l'orbe au gant.
+Il y a 20 (30 ou 40 selon la durée de votre épreuve) "points" pour arriver de l'orbe au gant. 
 Un jet d'initiative sera nécessaire à la fin pour savoir si l'orbe arrive bien dans le gant.
 
 
 
 ### **Duel de chant**
-On lance une pièce pour savoir qui commence PJ ou PNJ.
-Le premier annonce une difficulté de chant à atteindre et tente de la réaliser.
+On lance une pièce pour savoir qui commence PJ ou PNJ. 
+Le premier annonce une difficulté de chant à atteindre et tente de la réaliser. 
 Le second réalise également à la même difficulté.
 
-Puis le second annonce une autre difficulté et tente de réussir.
-Le premier relève le défi.
+Puis le second annonce une autre difficulté et tente de réussir. 
+Le premier relève le défi. 
 
 On compte les points en fonction du DD : +1 point par tranche de 5 points de réussite.
-Exemple : un barde entame un chant facile (10) et fait 17 : il aura donc 2 points.
-Son adversaire fait 20, il a 3 points.
-Le premier arrivé à 10 a gagné.
+Exemple : un barde entame un chant facile (10) et fait 17 : il aura donc 2 points. 
+Son adversaire fait 20, il a 3 points. 
+Le premier arrivé à 10 a gagné. 
 
-Si un personnage échoue de plus de 5 points son estimation, il se fait huer
-De plus de 10 points, on lui jette des tomates, salades et autres fruits et légumes (si bons pour la santé pourtant) pourris.
+Si un personnage échoue de plus de 5 points son estimation, il se fait huer 
+De plus de 10 points, on lui jette des tomates, salades et autres fruits et légumes (si bons pour la santé pourtant) pourris. 
 
 
 
@@ -336,14 +336,14 @@ De plus de 10 points, on lui jette des tomates, salades et autres fruits et lég
 
 *Une jolie jeune fille déguisée avec une queue de poisson patiente sur une planche reliée à un mécanisme au dessus d'un petit bassin d'eau. Le bout du mécanisme se termine sur une sorte de levier dont le bout du manche est dissimulé par un sort de ténèbres autour duquel une grotte en bois peinte a été mise en place. *
 
-Le but : viser un endroit précis et l'atteindre avec un sac de haricots.
+Le but : viser un endroit précis et l'atteindre avec un sac de haricots. 
 
 La difficulté de l'épreuve est double : non seulement atteindre un objectif mais aussi deviner où il se trouve.
-On peut créer une fiche de bataille navale de A à J et de 1 à 10. Vous positionnez le bout du manche à un endroit, tout autre touché sera raté.
+On peut créer une fiche de bataille navale de A à J et de 1 à 10. Vous positionnez le bout du manche à un endroit, tout autre touché sera raté. 
 
-Pour lancer un poids, il faut faire un jet de dextérité opposé à un DD de 20. Tout échec de plus de 5 points fait aller le poids dans une direction aléatoire 1d8 pour déterminer si c'est trop bas, trop à gauche etc. Donc un joueur qui fait un 10 ratera de 2 cases par rapport à ce qu'il avait choisi, et un 1 sur le d8 indiquera que ce sera 2 cases plus bas.
+Pour lancer un poids, il faut faire un jet de dextérité opposé à un DD de 20. Tout échec de plus de 5 points fait aller le poids dans une direction aléatoire 1d8 pour déterminer si c'est trop bas, trop à gauche etc. Donc un joueur qui fait un 10 ratera de 2 cases par rapport à ce qu'il avait choisi, et un 1 sur le d8 indiquera que ce sera 2 cases plus bas. 
 
-On peut également faire en sorte que les sacs de haricots pèsent des poids différents et modifient également le lancé vers le haut (léger) ou vers le bas (lourd).
+On peut également faire en sorte que les sacs de haricots pèsent des poids différents et modifient également le lancé vers le haut (léger) ou vers le bas (lourd). 
 
 Dans tous les cas, la demoiselle mouillée devra sortir avec l'aide du PJ qui lui aura fait prendre un bain sous l'insistance du meneur de l'attraction et éventuellement lui donnera un baiser pour le féliciter.
 

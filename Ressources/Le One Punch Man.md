@@ -15,7 +15,7 @@ LastModified: 2017-01-31 14:57
 
 #### 1. Rôle du personnage
 
-Il s'agit d'un combattant dont l'objectif sera de venir à bout de ses adversaires en UN coup. Mais en un formidable coup par contre. Et surtout en un coup mais à main nue. Il s'agit d'un build de lutteur dont l'objectif est de tenir tête à un barbare se battant à l'arme à deux main en terme de dégâts (bref, briser l'idée selon laquelle les attaques à main nues sont des piqûres de mouche).
+Il s'agit d'un combattant dont l'objectif sera de venir à bout de ses adversaires en UN coup. Mais en un formidable coup par contre. Et surtout en un coup mais à main nue. Il s'agit d'un build de lutteur dont l'objectif est de tenir tête à un barbare se battant à l'arme à deux main en terme de dégâts (bref, briser l'idée selon laquelle les attaques à main nues sont des piqûres de mouche). 
 
 #### 2. Caractéristiques et race
 
@@ -27,7 +27,7 @@ Les incréments de niveaux (4, 8, ...) iront tous en force.
 
 ##### 2.2 Race
 
-Le demi orque est surement un des meilleurs choix. Nous avons un souci avec la volonté et il nous faut y remédier et le bonus de +2 bien connu chez les demis orques aux JdS y aide (sacred tatoos + fate favored). Son +2 flottant ira bien sur en force. De plus, bien que les premiers niveaux soit bien remplis avec les dons, l'humain ne s'impose pas (la majorité des dons nécessitant des prérequis inatteignables au niveau 1).
+Le demi orque est surement un des meilleurs choix. Nous avons un souci avec la volonté et il nous faut y remédier et le bonus de +2 bien connu chez les demis orques aux JdS y aide (sacred tatoos + fate favored). Son +2 flottant ira bien sur en force. De plus, bien que les premiers niveaux soit bien remplis avec les dons, l'humain ne s'impose pas (la majorité des dons nécessitant des prérequis inatteignables au niveau 1). 
 
 Notons que le demi elfe avec son +2 en volonté n'est pas mauvais non plus mais c'est vraiment tout ce qu'il apporte.
 
@@ -74,7 +74,7 @@ Notons que si on prend  l’archétype lutteur mutagénique, il y a d'autres cho
 
 #### 4. Équipement
 
-Pour les objets, pas grand chose à conseiller à part les basiques : cape de protection, amulette des poings invincibles, ... Mis à part deux choses : essayez de mettre la main sur un bandeau d'inspiration au plus vite pour vos JdS mais aussi pour vos tests de sagesse de "exploiter les faiblesse" ainsi que pour atteindre le 13 qui vous permettra d'utiliser le poing élémentaire à son plein potentielle (grâce à la férocité du dragon, vous l'utiliserez comme un moine des quatre vents donc avec une progression des dégâts et pour un nombre de fois par jour égale à votre niveau). Vous aurez aussi besoin d'un ceinturon de dextérité du chat à un moment (au niveau 12). En effet, je rappelle que l'on a choisit la chaîne de dons permettant l’accès à la contre droite. Cependant, ce don nécessite une dextérité de 18 aussi il faudra débourser un peu. (mais quel profit on y gagne... une attaque bonus/round, c'est bonheur et cela vient avec les avantages d'une haute dextérité comme l'initiative). Enfin, une robe de moine nous permettra de rattraper notre retard de 1 niveau dans la classe pour ce qui est des statistiques (dégâts des mains nus et CA pour être précis)
+Pour les objets, pas grand chose à conseiller à part les basiques : cape de protection, amulette des poings invincibles, ... Mis à part deux choses : essayez de mettre la main sur un bandeau d'inspiration au plus vite pour vos JdS mais aussi pour vos tests de sagesse de "exploiter les faiblesse" ainsi que pour atteindre le 13 qui vous permettra d'utiliser le poing élémentaire à son plein potentielle (grâce à la férocité du dragon, vous l'utiliserez comme un moine des quatre vents donc avec une progression des dégâts et pour un nombre de fois par jour égale à votre niveau). Vous aurez aussi besoin d'un ceinturon de dextérité du chat à un moment (au niveau 12). En effet, je rappelle que l'on a choisit la chaîne de dons permettant l’accès à la contre droite. Cependant, ce don nécessite une dextérité de 18 aussi il faudra débourser un peu. (mais quel profit on y gagne... une attaque bonus/round, c'est bonheur et cela vient avec les avantages d'une haute dextérité comme l'initiative). Enfin, une robe de moine nous permettra de rattraper notre retard de 1 niveau dans la classe pour ce qui est des statistiques (dégâts des mains nus et CA pour être précis) 
 
 ### Évolution proposée
 

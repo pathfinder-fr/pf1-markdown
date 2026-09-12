@@ -6,8 +6,8 @@ LastModified: 2013-02-11 17:12
 
 {s:TitreSectionRessources|/ADJ/Ressources/titre wiki BG 2.png}
 
-<table class="page espace-col deuxcol">
-<tr>
+<table class="page espace-col deuxcol"> 
+<tr> 
 <td>
 ### PJ et backgound
 - [[Liste des traits]]

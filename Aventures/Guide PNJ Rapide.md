@@ -6,11 +6,11 @@ LastModified: 2011-09-02 11:18
 
 ### Guide de création rapide de PNJ
 
-Qui n'a rêvé de pouvoir obtenir en moins de quelques minutes les caractéristiques d'un PNJ, par exemple parce qu'un combat s'engage là où il n'était pas prévu ?
+Qui n'a rêvé de pouvoir obtenir en moins de quelques minutes les caractéristiques d'un PNJ, par exemple parce qu'un combat s'engage là où il n'était pas prévu ? 
 Voici quelques règles simplifiées permettant de donner à tout PNJ l'apparence d'un personnage fini, tout en pifométrant au maximum la procédure.
 
 **Caractéristiques**
-Les PNJ simplifiés ont
+Les PNJ simplifiés ont 
 1 caractéristique principale, à 16+1/4niveaux +2 aux niveaux 12,16,20
 2 caractéristiques fortes, à 14
 3 caractéristiques non développées, à 10

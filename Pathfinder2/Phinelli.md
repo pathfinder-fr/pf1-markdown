@@ -40,11 +40,11 @@ Charlatan demi-elfe de sexe M
 **Équipement** kit de déguisement, luth, gourdin, épée courte, outils de voleurs
 
 **Représentation polyvalente** Édolpho peut utiliser Représentation au lieu de Diplomatie pour Faire bonne impression et au lieu d'Intimidation pour Démoraliser. Il peut également utiliser une Représentation de type jouer un rôle au lieu de Tromperie pour Se faire passer pour quelqu'un d'autre.
----
+<hr />
 **CA** 18 ; **Réf** +8, **Vig** +5, **Vol** +10
 
 **PV** 40
----
+<hr />
 **Vitesse** 6 cases
 
 **Càc** {s:PF2a|1a} épée courte +10 (agile, polyvalente T) ; **Dégâts** 1d6+2 P
@@ -90,5 +90,5 @@ Voir *Guide du maître*
 </center>
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shlb](https://paizo.com/community/blog/v5748dyo6shlb).

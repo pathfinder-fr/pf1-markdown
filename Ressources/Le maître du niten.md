@@ -52,7 +52,7 @@ Un maître du niten dispose d'une valeur d'honneur maximum égale à la moitié 
 Au niveau 2, le maître du niten gagne la capacité de rôdeur « Style de combat », doit obligatoirement choisir le style « combat à deux armes » et doit prendre le don « Combat à deux armes » comme premier don.
 Le maître du niten considère son niveau de rôdeur égal à son niveau de samouraï pour cette capacité, ce qui signifie qu'aux niveau 6, 10, 14 et18 il peut choisir un don dans la liste du style de combat à deux armes.
 
-Cette capacité remplace les « dons supplémentaires ».
+Cette capacité remplace les « dons supplémentaires ». 
 
 
 - **Expertise martiale** (ext) (niveau 3)

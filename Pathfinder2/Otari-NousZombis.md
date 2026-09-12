@@ -30,13 +30,13 @@ Cette rencontre se déroule dans ou près d'une cabane abandonnée située à pr
 **For** +3, **Dex** +2, **Con** +0, **Int** -5, **Sag** +0, **Cha** -2
 
 **Lent** Un zombi gobelin est ralenti 1 de manière permanente et ne peut pas utiliser de réactions.
----
+<hr />
 **CA** 12 ; **Réf** +5, **Vig** +5, **Vol** +3
 
 **PV** 20 ; guéri par l'énergie négative ; **Immunités** effets de mort, maladie, mental, paralysé, poison, inconscient ; **Faiblesses** positif 5, tranchant 5
 
 **Éventration alchimique** Quand le zombi gobelin est réduit à 0 PV, un engin alchimique fourré dans son ventre se brise. Lancez 1d4 et consultez le texte suivant pour déterminer les effets : 1 — les créatures situées dans une émanation de 1 case de rayon subissent 1d3 points de dégâts persistants d'acide ; 2 — les créatures situées dans une émanation de 1 case de rayon subissent 1d4 points de dégâts de feu (Réflexes DD 16 basique) ; 3 — les créatures situées dans une émanation de 1 case de rayon subissent 1d4 points de dégâts de poison (Vigueur DD 16 basique) ; 4 — de la fumée sort du corps du gobelin, remplissant une émanation de 1 case de rayon pendant 1 round (les créatures qui se trouvent dans cette zone sont camouflées et toutes les autres créatures sont camouflées pour elles)
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} poing +7 ; **Dégâts** 1d6+3 contondant plus Agripper
@@ -49,5 +49,5 @@ Il s'agit d'une rencontre modérée pour des personnages de niveau 1, ou d'une r
 **Intuable** Le zombi est quasiment impossible à tuer. Il perd sa faiblesse aux dégâts tranchants et gagne une résistance contre les tous les dégâts égale à son niveau (minimum 3) ainsi qu'une faiblesse égale au double de son niveau (minimum 6) aux coups critiques. Augmentez le niveau du zombi de 1 si vous lui donnez cette capacité.
 </div>
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shhj](https://paizo.com/community/blog/v5748dyo6shhj) et écrit par Ron Lundeen.

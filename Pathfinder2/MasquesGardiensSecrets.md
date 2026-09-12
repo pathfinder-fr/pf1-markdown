@@ -27,25 +27,25 @@ Les suivants de Norgorber prennent plaisir à se montrer aussi rusés que cruels
 **Utilisation** porté ; **Encombrement** —
 
 Chacun de ces masques recouvrant tout le visage est composé de pièces cousues ensemble (y compris, bien souvent, de la peau humaine) et possède un unique oeil saillant. En portant ce masque, vous gagnez un bonus d'équipement de +1 aux tests de Tromperie pour Mentir et le masque ne bloque pas votre vision. Le masque peut également être activé, avec une capacité dépendant de son type.
----
+<hr />
 **Type** Doigts-Noirs ; **Niveau** 3 ; **Prix** 60 po
 
 Ce masque sans trait remarquable est fabriqué en peau fine et parcheminée. Son oeil unique est une bulle fragile en verre remplie de venin.
 
 **Activation** {s:PF2a|2a} Intéraction (divination) ; **Fréquence** une fois par jour ; **Effet** Vous faites tourner l'oeil du masque et observez un objet. Vous savez si l'objet est du poison ou a été empoisonné, mais vous n'apprenez pas le nombre ni le type des poisons présents dans l'objet.
----
+<hr />
 **Type** Maître gris ; **Niveau** 5 ; **Prix** 150 po
 
 Ce masque monochrome est fait de tissus déchirés gris et noir et de fragments de peau blanchis.
 
 **Activation** {s:PF2a|ra} Intéraction (illusion, visuelle) ; **Déclencheur** Vous réussissez un test d'Art du voleur pour Dérober un objet d'Encombrement négligeable ; **Fréquence** une fois par jour ; **Effet** Vous créez un double illusoire de l'objet que vous venez de dérober. Ce double possède l'apparence et le poids appropriés mais il ne produit pas de sons ni d'odeur. L'illusion disparaît après 10 minutes ou dès que quelqu'un examine ou manipule (tente d'utiliser par exemple) le double illusoire.
----
+<hr />
 **Type** Père Écorcheur ; **Niveau** 6 ; **Prix** 250 po
 
 Ce masque est un patchwork de peaux tannées, chacune portant une cicatrice distincte. Il est façonné pour ressembler à une caricature de visage avec un oeil observateur.
 
 **Activation** {s:PF2a|ra} Intéraction ; **Déclencheur** Vous infligez des dégâts de saignement persistants à une créature ; **Fréquence** une fois par jour ; **Effet** La blessure saignante que vous infligez est spécialement profonde. Le DD des tests purs pour faire arrêter les dégâts de saignement persistants est augmenté de 2, et la créature-cible a un malus de statut de -2 aux tests de Tromperie, Diplomatie et Représentation pendant qu'elle saigne et pour 1 minute après l'arrêt des saignements.
----
+<hr />
 **Type** Faucheur de réputation ; **Niveau** 3 ; **Prix** 60 po
 
 Ce masque est fait de morceaux gris et noirs cousus ensemble. Il possède une spirale d'encre mal dessinée au-dessus de la bouche.
@@ -53,5 +53,5 @@ Ce masque est fait de morceaux gris et noirs cousus ensemble. Il possède une sp
 **Activation** {s:PF2a|1a} Intéraction (auditif, linguistique) ; **Fréquence** une fois par jour ; **Effet** Vous touchez la spirale du masque et identifiez une créature-cible située à 6 cases ou moins. Pendant les 10 prochaines minutes, toute parole normale que vous prononcez peut, si vous le désirez, être inaudibles pour toutes les créatures sauf la créature-cible, qui peut vous entendre clairement malgré le bruit ambiant pour autant qu'elle se trouve à au plus 1,5 km de vous. Cette capacité ne réduit pas au silence les paroles magiques comme les composantes verbales d'un sort ou les commandes pour activer un objet magique.
 </div>
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shjj](https://paizo.com/community/blog/v5748dyo6shjj) et écrit par Ron Lundeen.

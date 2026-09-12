@@ -33,7 +33,7 @@ Humaine bestiale (crocodile) étudiante de la perfection
 **For** +3, **Dex** +4, **Con** +3, **Int** +0, **Sag** +2, **Cha** +0
 
 **Équipement** *bandelettes des coups puissants de frappe +1*
----
+<hr />
 **CA** 27 ; **Réf** +21, **Vig** +18, **Vol** +15
 
 **PV** 155
@@ -41,7 +41,7 @@ Humaine bestiale (crocodile) étudiante de la perfection
 **Résistance animalistique** Chéa gagne un bonus de circonstances de +2 aux jets de sauvegarde pour résister aux poisons et aux maladies
 
 **Changement rapide** {s:PF2a|0a} **Déclencheur** Chéa lance l'initiative ; **Effet** Les instincts de Chéa prennent le dessus et elle adopte une posture agressive. Elle utilise Changement de forme pour prendre sa forme hybride.
----
+<hr />
 **Vitesse** 8 cases
 
 **Càc** {s:PF2a|1a} poing +19 (agile, finesse, magique, non létal, sans arme), **Dégâts** 2d6+11 C
@@ -76,5 +76,5 @@ Les MJ pourraient considérer les idées suivantes pour intégrer Chéa dans leu
 ### Au sujet des bestiaux
 Bestial est un terme générique pour toutes les personnes qui ont gagné, d'une manière ou d'une autre, la capacité de se transformer partiellement ou intégralement en un animal tout en conservant un certain équilibre avec leur côté humanoïde. Un bestial pourrait avoir des parents lycanthropes dans son arbre généalogique, ou avoir reçu cette capacité d'une divinité ou suite à l'application d'une magie de métamorphose. Quelle que soit l'origine de ses capacités, un bestial est lié à un type d'animal spécifique, comme une chauve-souris, un aigle, un requin, une araignée, un tyrannosaure, une guêpe ou un loup. Cet animal est appelé l'animal inhérent du bestial. Les dons des bestiaux leur permettent de puiser d'autres pouvoirs dans leur connexion animalistique et d'acquérir de nouveaux sens, la capacité de voler ou de nager comme leur animal inhérent ou encore de se transformer entièrement au cours des combat. Bestial est un héritage polyvalent rare qui est décrit dans *Lost Omens: Ancestry Guide*.
 
----
+<hr />
 Il s'agit d'un "personnage prêt à l'emploi" présenté sur le blog de Paizo. L'article source en VO, écrit par Luis Loza et Eleanor Ferron, est disponible à l'adresse [https://paizo.com/community/blog/v5748dyo6shl0](https://paizo.com/community/blog/v5748dyo6shl0).

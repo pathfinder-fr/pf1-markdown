@@ -31,11 +31,11 @@ Prêtresse humaine
 **For** +0, **Dex** +1, **Con** +0, **Int** +3, **Sag** +4, **Cha** +1
 
 **Équipement** *potion de guérison mineure* (3), symbole religieux de Sarenrae, bâton, cuir clouté
----
+<hr />
 **CA** 17 ; **Réf** +9, **Vig** +7, **Vol** +11
 
 **PV** 30
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} bâton +8 (deux-mains d8) ; **Dégâts** 1d4 C
@@ -60,5 +60,5 @@ Les MJ pourraient vouloir considérer les idées suivantes pour intégrer Lisave
 
 - En lisant un ancien tome, Lisavet découvre une carte menant à un ancien autel dédié à Sarenrae, dans une région sauvage oubliée. Elle a besoin d'aide pour atteindre sa destination et rendre à l'autel sa gloire d'antan.
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adresse [https://paizo.com/community/blog/v5748dyo6shk1](https://paizo.com/community/blog/v5748dyo6shk1) et écrit par Ron Lundeen.

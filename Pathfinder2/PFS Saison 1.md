@@ -15,7 +15,7 @@ LastModified: 2023-03-06 20:21
 **Tag** Intrigue principale  
 **Lieu** Nex  
   
-Au cours des dernières décennies, de nombreux incidents survenus à la Grande Loge de la Société des Éclaireurs à Absalom ont endommagé ses collections inestimables, détruisant irrémédiablement de nombreux documents. La Société a envoyé les PJ à Maison du Nexus, dans la métropole arcanique de Quantium, en espérant que la deuxième plus ancienne loge de la Société puisse contenir des copies des textes perdus, pour les copier et les étudier. Cependant, les PJ ne sont pas les seuls à s'intéresser aux secrets conservés dans la Maison du Nexus, et les PC se retrouvent sur la piste d'improbables criminels. Cette aventure utilise les personnages prétirés de 5ème niveau disponibles en téléchargement gratuit.
+Au cours des dernières décennies, de nombreux incidents survenus à la Grande Loge de la Société des Éclaireurs à Absalom ont endommagé ses collections inestimables, détruisant irrémédiablement de nombreux documents. La Société a envoyé les PJ à Maison du Nexus, dans la métropole arcanique de Quantium, en espérant que la deuxième plus ancienne loge de la Société puisse contenir des copies des textes perdus, pour les copier et les étudier. Cependant, les PJ ne sont pas les seuls à s'intéresser aux secrets conservés dans la Maison du Nexus, et les PC se retrouvent sur la piste d'improbables criminels. Cette aventure utilise les personnages prétirés de 5ème niveau disponibles en téléchargement gratuit. 
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0101E_180.jpeg|1-01 - The Absalom Initiation}
 **Titre VF** Initiation à Absalom  

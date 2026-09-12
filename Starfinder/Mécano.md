@@ -230,7 +230,7 @@ suivantes : un drone ou un exocortex. Vous devez choisir une de ces formes dès 
 
 - [[Les drones|Drone]]
 Vous commencez le jeu avec un puissant drone robotique qui abrite votre IA. Vous construisez et contrôlez le drone qui vous accompagne au cours de vos aventures et qui est capable de combattre, d’espionner ou d’effectuer d’autres tâches spécialisées. En gagnant des niveaux, votre drone devient plus sophistiqué et obtient de nouveaux pouvoirs.
-Bien que votre drone ait une immense valeur, vous êtes le seul qui ait les connaissances suffisantes de ses particularités et des mesures de sécurité qui le protègent pour pouvoir vous en servir ou pour le réparer.
+Bien que votre drone ait une immense valeur, vous êtes le seul qui ait les connaissances suffisantes de ses particularités et des mesures de sécurité qui le protègent pour pouvoir vous en servir ou pour le réparer. 
 
 - [[Les Exocortex|Exocortex]]
 Vous commencez le jeu avec un exocortex, un processeur artificiel qui interagit avec les fonctions cognitives de votre cerveau biologique et les amplifie. Ceci vous aide dans différents domaines, allant du combat à l’infiltration numérique. À l’instar d’un implant cybernétique, votre exocortex est implanté dans votre corps ou dans votre cerveau, ce qui permet à votre IA d’avoir accès à votre esprit et de vous transmettre des informations. En gagnant des niveaux, votre exocortex

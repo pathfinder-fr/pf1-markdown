@@ -14,7 +14,7 @@ Rolisteam fonctionne sur une architecture client/serveur. Un joueur héberge la 
 
 ### Fonctionnalités
 
-Qu'allez vous bien pouvoir faire de **Rolisteam**?
+Qu'allez vous bien pouvoir faire de **Rolisteam**? 
 
 **Rolisteam** va permettre au MJ de:
 
@@ -48,7 +48,7 @@ Nous avons ici l'interface coté MJ, elle est légèrement différente coté PJ.
 
 ### En conclusion
 
-Certainement bien moins complet que des grands nom du genre comme [[d20pro]], **Rolisteam** a le grand avantage d'être gratuit, open source, et en français !
+Certainement bien moins complet que des grands nom du genre comme [[d20pro]], **Rolisteam** a le grand avantage d'être gratuit, open source, et en français ! 
 Vous ne pourrez pas vous passer de vos feuilles de personnage (au d'une autre application comme [RoleDD](http://bonnarien.dyndns.org/programme/roleDD.php)) mais couplé avec un serveur de voix comme [TeamSpeak](http://www.teamspeak.com/) pour ne citer que lui, cela vous permettra largement de jouer avec des joueurs a l'autre bout du monde...
 **Rolisteam**, c'est simple, accessible, et pas cher...
 

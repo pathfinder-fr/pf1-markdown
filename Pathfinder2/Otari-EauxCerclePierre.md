@@ -30,7 +30,7 @@ Bon nombre d'habitants de l'étang du Cercle de pierre sont des suivants de Gozr
 **Test primaire** Nature ou Religion (maître, le test possède le trait secret) ; **Tests secondaires** Nature, Occultisme, Religion ou Survie
 
 **Portée** 4 cases ; **Cibles** de l'eau (flaque/étang)
----
+<hr />
 Vous et les lanceurs secondaires observez les eaux calmes d'un étang ou d'un lac naturel afin de réaliser une divination à propos de votre futur collectif. Au cours de la minute qui suit la fin du rituel, l'eau montre une scène représentant un futur éventuel concernant le lanceur primaire et autant de lanceurs secondaires que possible. La scène en question est généralement (mais pas toujours) située dans les quelques jours qui suivent. Comme le futur n'est jamais scellé, les lanceurs feraient bien de ne pas interpréter les visions cryptiques à la surface de l'eau comme des certitudes.
 
 **Réussite critique** La scène donne des indications quant à au moins un danger que les lanceurs risquent de rencontrer, ainsi qu'au moins une méthode d'y faire face de manière efficace (en montrant par exemple le groupe qui examine une section de mur contenant un passage secret qui permet d'éviter un piège).
@@ -43,5 +43,5 @@ Vous et les lanceurs secondaires observez les eaux calmes d'un étang ou d'un la
 
 </div>
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shi5](https://paizo.com/community/blog/v5748dyo6shi5) et écrit par Ron Lundeen.

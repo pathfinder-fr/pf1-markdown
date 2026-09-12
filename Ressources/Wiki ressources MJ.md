@@ -6,8 +6,8 @@ LastModified: 2024-03-05 13:59
 
 {s:TitreSectionRessources|/ADJ/Ressources/titre wiki MJ 2.png}
 
-<table class="page espace-col deuxcol">
-<tr>
+<table class="page espace-col deuxcol"> 
+<tr> 
 <td>
 ### Des outils pour le MJ
 

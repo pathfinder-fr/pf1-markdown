@@ -10,7 +10,7 @@ Les PNJ dont le nom est suivi d'une astérisque sont accompagnés d'une histoire
 
 Vous pouvez également consulter la [Galerie  des PNJ](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Galerie%20de%20PNJ.ashx) tirée du Guide du Maître qui pourra vous donner des idées de combinaisons de PNJ.
 
-<nav class="wiki-toc"></nav>
+<nav class="wiki-toc"></nav> 
 
 <table WIDTH="100%" style="font-size:100%">
 <tr style="vert-align: top;">

@@ -10,13 +10,13 @@ LastModified: 2012-01-21 17:12
 <ul>Voir aussi [[Pathfinder-RPG.Art de la magie|Art de la magie]] et [[Pathfinder-RPG.connaissances|connaissance des mystères]]</ul>
 </div>
 
-Art de la magie et connaissance des mystères sont deux compétences qui se partagent la gestion de la connaissance de la magie dans pathfinder. La justification de la répartition des différentes tâches réalisables entre ces deux compétences obéis à une logique ludique et non pas à une logique réaliste.
+Art de la magie et connaissance des mystères sont deux compétences qui se partagent la gestion de la connaissance de la magie dans pathfinder. La justification de la répartition des différentes tâches réalisables entre ces deux compétences obéis à une logique ludique et non pas à une logique réaliste. 
 Pour inverser cela, je propose la règle suivante.
 L'art de la magie représente la capacité du lanceur de sort à interagir avec la magie pure.
-Connaissance des mystères représente la connaissance du personnage des différentes tradition magiques et des manières de pratiquer la magie profane.
-Connaissance de la religion représente la connaissance du personnage des différentes tradition religieuses et des manières de pratiquer la magie divine.
+Connaissance des mystères représente la connaissance du personnage des différentes tradition magiques et des manières de pratiquer la magie profane. 
+Connaissance de la religion représente la connaissance du personnage des différentes tradition religieuses et des manières de pratiquer la magie divine. 
 
-Le tableau ci dessous reprend les différentes tâches relatives à ces deux compétences en se basant sur le principe ci-dessus.
+Le tableau ci dessous reprend les différentes tâches relatives à ces deux compétences en se basant sur le principe ci-dessus. 
 
 <center>
 

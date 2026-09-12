@@ -18,7 +18,7 @@ La version Player est gratuite, illimitée dans le temps, et permet de se connec
 
 La version Judge (MJ) est payante. Elle coute 30$ et contient deux slots pour des joueurs qui voudraient se connecter avec une version Player. En résumé, elle permet à un MJ d'assurer une partie avec deux joueurs.
 
-Ensuite, pour augmenter le nombre de joueurs, il suffit d'acheter des slots supplémentaires à 10$, cela pouvant être fait n'importe quand : il est possible de commencer avec deux slots puis, plus tard, d'en rajouter un si un joueur veut se joindre à la partie...
+Ensuite, pour augmenter le nombre de joueurs, il suffit d'acheter des slots supplémentaires à 10$, cela pouvant être fait n'importe quand : il est possible de commencer avec deux slots puis, plus tard, d'en rajouter un si un joueur veut se joindre à la partie... 
 
 Un point important : il est possible de se connecter en tant que joueur avec une licence Judge et de ne pas prendre de slot Player. Le slots sont uniquement destinés aux joueurs qui jouent avec la version gratuite du programme. En revanche, le MJ doit impérativement se connecter en mode Judge.
 
@@ -32,7 +32,7 @@ Actuellement il n'y a pas de limite au nombre de joueurs connectés sur une part
 La principale différence entre Judge et Player est que la première offre tous les outils pour gérer une partie : import de cartes, gestion des personnages, des effets, des attaques, validation des tirages de dés, brouillard de guerre.... la seconde ne comporte que les options nécessaires pour jouer (déplacer son personnage, lancer des dés, faire des tests ou des attaques...).
 
 
-Il ne évidemment peut y avoir qu'un seul Judge par partie. Si un joueur se connecte en mode Judge pour ne pas utiliser un slot, il n'aura à l'écran que les options Player.
+Il ne évidemment peut y avoir qu'un seul Judge par partie. Si un joueur se connecte en mode Judge pour ne pas utiliser un slot, il n'aura à l'écran que les options Player. 
 
 Pour se connecter en tant que Judge, il est nécessaire de créer une partie en indiquant le port de son routeur qui sera ouvert. Il existe un tas de tutoriels sur le net pour réussir à router correctement un port afin que les joueurs puissent se connecter au serveur. Par défaut, le port est le 10101 mais il est possible d'en choisir un autre et d'ajouter un mot de passe.
 
@@ -60,7 +60,7 @@ C'est grâce à ces options que le MJ va pouvoir importer les cartes, les person
 
 L'interface du MJ se décompose de cette manière :
 
-En haut de l'écran, on trouve une série de boutons qui permettent d'accéder rapidement aux fonctions de base. Dans l'ordre :
+En haut de l'écran, on trouve une série de boutons qui permettent d'accéder rapidement aux fonctions de base. Dans l'ordre : 
 
 - le Broadcast qui force le rafraîchissement des données sur les écrans des joueurs.
 - le switch entre le mode Combat et le mode Exploration
@@ -109,7 +109,7 @@ L'onglet Attacks est certainement le plus important pour faciliter la vie du MJ.
 
 Le jeu prend en compte le BBA, les attaques multiples, les armes à une ou deux mains, les types de dégâts, la classe d'armure visée (bien pratique pour entrer les attaques magiques qui sont basées sur des attaques de contact)... tout se fait à l'aide de menus déroulants, c'est une véritable réussite.
 
-Ainsi, quand un joueur décide d'attaquer, il lui suffit d'appuyer sur la touche "A". Une liste de choix s'affiche, avec toutes les attaques enregistrées et la possibilité de faire d'ultimes petits réglages (par exemple, viser la CA Pris au Dépourvu lors d'un round de surprise).
+Ainsi, quand un joueur décide d'attaquer, il lui suffit d'appuyer sur la touche "A". Une liste de choix s'affiche, avec toutes les attaques enregistrées et la possibilité de faire d'ultimes petits réglages (par exemple, viser la CA Pris au Dépourvu lors d'un round de surprise). 
 
 Ce système fonctionne bien entendu aussi avec les créatures et le jeu est fourni avec un nombre impressionnant de monstres tirés des bestiaires OGL.
 
@@ -126,7 +126,7 @@ Enfin, l'onglet Skill est lui aussi très pratique car il permet aux joueurs de 
 Les autres onglets me semblent moins utiles. Ils regroupent les descriptions, les dons et un gestionnaire d'effets assez complexe à utiliser.
 Pour ma part, dès que le moteur de d20pro devient trop compliqué à mettre en oeuvre, je préfère utiliser le Gestionnaire de Dés, accessible immédiatement et permettant de résoudre toutes les situations.
 
-Le gestionnaire d'effets propose de prendre en compte les effets magiques qui s'étalent sur plusieurs rounds ou affectent une zone de jeu, en appliquant automatiquement les modifs sur les tokens concernés.
+Le gestionnaire d'effets propose de prendre en compte les effets magiques qui s'étalent sur plusieurs rounds ou affectent une zone de jeu, en appliquant automatiquement les modifs sur les tokens concernés. 
 
 Le plus gros défaut actuel de d20pro est de ne pas autoriser les joueurs à modifier leur feuille de personnage, ce qui demande pas mal de travail au MJ lorsqu'il doit appliquer des changements sur l'ensemble du groupe. Mais les développeurs travaillent à changer ça et on peut penser que cette possibilité sera prochainement disponible.
 

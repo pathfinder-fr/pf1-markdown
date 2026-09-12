@@ -28,7 +28,7 @@ Choisissez tout d'abord la race de votre personnage. Dans le cas de certaines ra
 <option value="4">Sag +2</option>
 <option value="5">Cha +2</option>
 </select>
-</p>
+</p>   
 </div>
 <div id="descRace">
 <h3>Description des races</h3>

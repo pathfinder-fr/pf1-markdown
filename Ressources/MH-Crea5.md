@@ -29,5 +29,5 @@ LastModified: 2014-07-06 02:03
 <LI>Définition de la ou des classe(s) de prédilection.
 <LI>Définition du ou des archétype(s). Ce choix ne vous sera proposé que si votre version est dotée d’archétypes de cette classe. Notez que les archétypes ont fait leur apparition dans le Manuel des Joueurs : Règles Avancées. Cochez la case devant le nom de l’archétype sélectionné si vous voulez qu’il soit pris en compte. Notez que les archétypes proposés dans la deuxième liste sont ceux qui ne sont pas en conflit avec celui de sélectionné dans la première.
 <LI>Retour vers [[MH-Crea4|Traits]].
-<LI>Validation des choix. Vers [[MH-Crea6|Options de classe]].
+<LI>Validation des choix. Vers [[MH-Crea6|Options de classe]]. 
 </OL></td></tr></table>

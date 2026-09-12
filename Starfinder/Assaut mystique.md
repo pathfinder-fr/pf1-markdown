@@ -8,6 +8,6 @@ LastModified: 2019-08-23 13:29
 
 **Catégorie :** combat
 
-**Conditions :** aptitude d’incantation de sorts.
+**Conditions :** aptitude d’incantation de sorts. 
 
 ** Avantage :**  vos attaques au corps à corps et à distance sont considérées comme magiques lorsqu’il s’agit d’ignorer la réduction des dégâts et autres situations telles que l’attaque de créatures intangibles.

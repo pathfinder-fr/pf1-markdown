@@ -21,7 +21,7 @@ Il y a 6 arcs qui composent le Metaplot de l'année 3 :
 **Titre VF** Introduction à Pathfinder Society : L'année des sanctuaires brisés   
 **Niveau** 1-4, par Mike Kimmel  
 **Tag** Intrigue principale, Répétable  
-**Lieu** Absalom
+**Lieu** Absalom 
 
 A recently inducted Pathfinder field agent makes a startling discovery as pleas for assistance flock to the Society’s Grand Lodge from across the Inner Sea. A group of Pathfinders come to assist in parsing the ongoing damage to the Society when a staunch ally requests their assistance. Stepping into a problem close to home, the agents quickly uncover a larger plot set to tear the Society apart and that it’s up to them to raise the alarm!
 

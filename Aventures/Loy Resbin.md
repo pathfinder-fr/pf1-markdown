@@ -11,7 +11,7 @@ Latricia, jeune femme honnête et dévouée, n'envisageait pas de décevoir ses 
 
 Suivant la prédiction d'un prêtre de Shelyn, il s'installa dans les terres volées ou il devint un trappeur plutôt compétent. Cela fait maintenant trois ans que Loy à quitter sa bien-aimée et qu'il attend l'opportunité promise.
 
-Quand il apprend l'arrivée des compagnons de la charte.
+Quand il apprend l'arrivée des compagnons de la charte. 
 
 
 <div class="BD">

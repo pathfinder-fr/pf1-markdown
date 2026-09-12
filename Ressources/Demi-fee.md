@@ -49,7 +49,7 @@ Categories:
 </div>
 </td><td><div>*A première vue, ce musicien ressemble à un elfe d'une beauté stupéfiante, mais un examen plus attentif révèle un éclat vert surnaturel dans son regard. *
 
-Un demi fée est le fruit de l'union d'une fée avec un humanoïde, généralement un elfe ou un humain. Leur apparence peut varier grandement en fonction de la nature de ses parents, mais tous sont gracieux et agiles, mais également de santé fragile.
+Un demi fée est le fruit de l'union d'une fée avec un humanoïde, généralement un elfe ou un humain. Leur apparence peut varier grandement en fonction de la nature de ses parents, mais tous sont gracieux et agiles, mais également de santé fragile. 
 
 
 #### Les demi-fées en tant que PJ

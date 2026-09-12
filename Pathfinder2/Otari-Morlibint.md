@@ -27,11 +27,11 @@ Magicien humain homme
 **For** 10, **Dex** 12, **Con** 12, **Int** 18, **Sag** 12, **Cha** 14
 
 **Équipement** *potion de guérison mineure*, journal d’érudit (compendium des œuvres littéraires de fiction), *parchemin d'invisibilité*, *parchemin d'ouverture (knock)*, grimoire, *bâton +1*
----
+<hr />
 **CA** 21 ; **Réf** 9, **Vig** +11, **Vol** +9
 
 **PV** 60
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} *bâton*, +9 (deux mains d8) ; **Dégâts** 1d4 C
@@ -55,5 +55,5 @@ Les MJ pourraient vouloir considérer les idées suivantes pour intégrer le ven
 - Morlibint a appris l'emplacement d'un tome tout particulièrement précieux et il offre aux PJ l'occasion de le récupérer (il désire simplement pouvoir en copier certaines pages) tout en leur promettant de leur donner des informations quant à la malédiction que le tome inflige à ceux qui le transportent si on en croit les légendes.
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shgl](https://paizo.com/community/blog/v5748dyo6shgl) et écrit par Ron Lundeen.

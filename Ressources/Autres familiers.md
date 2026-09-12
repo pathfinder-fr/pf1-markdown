@@ -15,7 +15,7 @@ Categories:
 
 Selon l'interprétation de MJ, un familier est soit une créature directement appelée des autres plans, soit un animal normal auquel le mage a décidé de lier une partie de son âme.
 
-Si vous êtes dans les tenants de la seconde explication, rien ne vous empêche de concevoir de nouveaux familiers sur base d'animaux inoffensifs.
+Si vous êtes dans les tenants de la seconde explication, rien ne vous empêche de concevoir de nouveaux familiers sur base d'animaux inoffensifs. 
 
 
 <center>

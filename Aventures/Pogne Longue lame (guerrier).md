@@ -21,7 +21,7 @@ Categories:
 {s:BDTexte|<b>Distance</b>      lamétoile +9 (1d4+5, x3)  (facteur de portée 6 m)}
 {s:BDTexte|<b>Attaque spéciale</b> attaque en puissance +13/+7 (1d10+15, 15/20x2)}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|<b>Avant le combat.</b> Il évite d'attaquer seul et prend une potion de force du taureau ou d'agilité du chat}
+{s:BDTexte|<b>Avant le combat.</b> Il évite d'attaquer seul et prend une potion de force du taureau ou d'agilité du chat} 
 {s:BDTexte|<b>Pendant le combat.</b> Il essaie de désarmer ses adversaires puis frappe.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 18, <b>Dex</b> 13, <b>Con</b> 14, <b>Int</b> 13, <b>Sag</b> 10, <b>Cha</b> 7}

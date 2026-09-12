@@ -25,7 +25,7 @@ Vous êtes un vampire qui s’est relevé récemment. Vous gagnez les traits Mor
 
 <div class="blocPF2">
 {s:titrePF2|Grimpeur bien ancré (Clinging Climber)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de vampire, entraîné en Athlétisme
 
@@ -44,7 +44,7 @@ Une fois par jour, vous pouvez lancer *charme* en tant que sort inné divin en u
 
 <div class="blocPF2">
 {s:titrePF2|Familiarité avec les créatures de la nuit (Norcturnal Kindred)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de vampire, entraîné en Nature
 
@@ -64,7 +64,7 @@ Grâce à un pacte occulte ou une particularité dans votre lignage, vous pouvez
 
 <div class="blocPF2">
 {s:titrePF2|Griffes de prédateur (Predatory Claws)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de vampire
 
@@ -75,7 +75,7 @@ Si vous touchez le même ennemi avec deux Frappes consécutives de griffes au co
 
 <div class="blocPF2">
 {s:titrePF2|Crocs vicieux (Vicious Fangs)|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de vampire
 
@@ -119,7 +119,7 @@ Votre cercueil ne peut pas vous soigner si un pieu transperce votre cœur. On ne
 
 <div class="blocPF2">
 {s:titrePF2|Sauvé par la brume (Mist Escape) {s:PF2a|inv0a}|Don 14}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Cercueil lié, Transformation en brume
 
@@ -130,7 +130,7 @@ Lorsque vous tombez au combat, votre corps réagit pour se défendre de lui-mêm
 
 <div class="blocPF2">
 {s:titrePF2|Regard de domination (Dominating Gaze)|Don 16}
-{s:traitRareté|Peu commun} {s:trait|Archétype}
+{s:traitRareté|Peu commun} {s:trait|Archétype} 
 
 **Prérequis** Charme manipulateur
 

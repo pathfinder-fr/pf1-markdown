@@ -214,7 +214,7 @@ _
 Jamais sans bruit
 
 Je viens sans qu'on y pense
-Je meurs en ma naissance
+Je meurs en ma naissance 
 et celui qui me suis ne vient jamais sans bruit.
 
 {s:spoiler|Réponse|Un éclair}
@@ -223,8 +223,8 @@ _
 
 Une armée
 
-J'ai croisé une armée qui rassemblait des vivres
-et battait la campagne mais ces troupes ne pillaient aucun village
+J'ai croisé une armée qui rassemblait des vivres 
+et battait la campagne mais ces troupes ne pillaient aucun village 
 et ne foulait pas un brin d'herbe sur son sillage.
 
 {s:spoiler|Réponse|Des fourmis}
@@ -233,9 +233,9 @@ _
 
 Les 4 frères
 
-Le premier cours sans cesse et ne se fatigue jamais,
-Le deuxième mange sans jamais être rassasier.
-Le troisième boit et a toujours soif,
+Le premier cours sans cesse et ne se fatigue jamais, 
+Le deuxième mange sans jamais être rassasier. 
+Le troisième boit et a toujours soif, 
 Et le quatrième chante une chanson sans jamais s'essouffler.
 Qui sommes-nous?
 
@@ -297,7 +297,7 @@ Quel est cet objet ?
 _
 Une invention
 
-Il existe une vieille invention dont on se sert encore dans certaines régions
+Il existe une vieille invention dont on se sert encore dans certaines régions 
 du monde,
 et qui permet aux gens de voir à travers les murs,
 quelle est elle?
@@ -356,10 +356,10 @@ Bien plus haut je puis m'élever.
 
 _
 
-L'homme me marche dessus
+L'homme me marche dessus 
 mais les animaux  jamais
 Qu'on m'use ou m'utilise trop
-Je pourrais bien sentir mauvais
+Je pourrais bien sentir mauvais 
 
 {s:spoiler|Réponse|Les pieds}
 
@@ -368,62 +368,62 @@ Je pourrais bien sentir mauvais
 
 ### Enigmes de situation
 
-On dispose de 2 verres identiques dont l'un est rempli d'eau et l'autre de vin dans les mêmes quantités.
-ON prend une cuillère à soupe dans le verre de vin et on la transvase dans le verre d'eau.
-On mélange.
-Ensuite on prend une cuillère du mélange qu'on retransvase dans le verre de vin.
-Est-ce qu'il y a plus d'eau dans le verre de vin ou plus de vin dans celui d'eau?
+On dispose de 2 verres identiques dont l'un est rempli d'eau et l'autre de vin dans les mêmes quantités. 
+ON prend une cuillère à soupe dans le verre de vin et on la transvase dans le verre d'eau. 
+On mélange. 
+Ensuite on prend une cuillère du mélange qu'on retransvase dans le verre de vin. 
+Est-ce qu'il y a plus d'eau dans le verre de vin ou plus de vin dans celui d'eau? 
 
 
 {s:spoiler|Réponse|Il y en a autant}
 
 _
 
-Comment pouvez-vous vous tenir derrière votre père, tandis qu'il se tient aussi derrière vous?
+Comment pouvez-vous vous tenir derrière votre père, tandis qu'il se tient aussi derrière vous? 
 
 {s:spoiler|Réponse|En se tenant dos à dos}
 
 _
 
-Au début du Siècle, EuGenie SansFrotter se trouva confrontée à un grave problème :
-Distraite, elle avait laissé son crayon à papier glisser dans un prototype de bouteille de Soda...
-C'était son dernier crayon, impossible de briser une bouteille si précieuse et impossible même de la retourner :
-un petit malin l'avait collée sur une table pour l'empecher de tomber...
-l'ouverture était bien trop étroite pour y glisser une pince ou même un doigt.
-Après une intense réflexion et quelques cafés bien tassés... Eureka !!
-Comment a-t-elle fait?
+Au début du Siècle, EuGenie SansFrotter se trouva confrontée à un grave problème : 
+Distraite, elle avait laissé son crayon à papier glisser dans un prototype de bouteille de Soda... 
+C'était son dernier crayon, impossible de briser une bouteille si précieuse et impossible même de la retourner : 
+un petit malin l'avait collée sur une table pour l'empecher de tomber... 
+l'ouverture était bien trop étroite pour y glisser une pince ou même un doigt. 
+Après une intense réflexion et quelques cafés bien tassés... Eureka !! 
+Comment a-t-elle fait? 
 
 {s:spoiler|Réponse|Elle a remplie la bouteille d'eau}
 
 _
 
-Vous êtes devant deux barils.
-Ils ont la même hauteur, la même largeur, le même volume intérieur et ils sont fait du même matériel.
-Le premier est vide, il pèse 50 livres.
-Le deuxième est plein, mais celui-ci pèse 30 livres....
+Vous êtes devant deux barils. 
+Ils ont la même hauteur, la même largeur, le même volume intérieur et ils sont fait du même matériel. 
+Le premier est vide, il pèse 50 livres. 
+Le deuxième est plein, mais celui-ci pèse 30 livres.... 
 De QUOI est-il plein?
 
 {s:spoiler|Réponse|De gaz}
 _
 
-Simon et Mathieu
+Simon et Mathieu 
 
 Simon et mathieu sont nés le même jour,
-Ils ont le même père et la même mère.
-Pourtant ils ne sont pas jumeaux.
-Comment est-ce possible?
+Ils ont le même père et la même mère. 
+Pourtant ils ne sont pas jumeaux. 
+Comment est-ce possible? 
 
 {s:spoiler|Réponse|Ils ne sont pas nés la même année}
 
 _
 
-Le forgeron
+Le forgeron 
 
 Un forgeron jonglait avec un morceau de fer incandescent. Un magicien dit au forgeron, en regardant le fer brûlant :
 " Si tu me donnes un écu d'or, je le lèche !"
 Le forgeron, incrédule, se mit à rire mais sortit néanmoins l'écu de sa poche et le donna au magicien en disant :
 " J'aimerais bien voir cela."
-Et en effet, le magicien le lécha vraiment, et sans se brûler la langue. Comment est ce possible ?
+Et en effet, le magicien le lécha vraiment, et sans se brûler la langue. Comment est ce possible ? 
 
 {s:spoiler|Réponse|Il lécha l'écu}
 _
@@ -440,26 +440,26 @@ Qui suis-je ?
 
 ### Enigmes mathématiques
 
-Trouvez un nombre de 6 chiffres dont :
+Trouvez un nombre de 6 chiffres dont : 
 Le premier et le dernier chiffre sont les mêmes.
-Le premier chiffre multiplié par 2 produit un nombre à 2 chiffres.
+Le premier chiffre multiplié par 2 produit un nombre à 2 chiffres. 
 Ce nombre vient après le premier chiffre
-Le dernier chiffre multiplié par 3 donne un nombre à 2 chiffres.
+Le dernier chiffre multiplié par 3 donne un nombre à 2 chiffres. 
 Ce nombre vient avant le dernier chiffre
-Le total de tous les 6 chiffres = 22
+Le total de tous les 6 chiffres = 22 
 
 {s:spoiler|Réponse|714217}
 _
 
-En utilisant les symboles mathématiques +,   -,   /,   x
+En utilisant les symboles mathématiques +,   -,   /,   x  
 
-Complétez le problème suivant : 5 5 5 5 5 5 = 55
+Complétez le problème suivant : 5 5 5 5 5 5 = 55 
 
 {s:spoiler|Réponse|55+5x5/5-5=55}
 _
 
-Androsius a maintenant un sixième l'âge de Genovia.
-Dans quatre ans, il aura trois huitième l'âge de Genovia.
+Androsius a maintenant un sixième l'âge de Genovia. 
+Dans quatre ans, il aura trois huitième l'âge de Genovia. 
 Dans huit ans, il aura la moitié l'âge de Genovia.
 
 Quel âge ont Androsius et Genovia?

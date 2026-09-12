@@ -41,8 +41,8 @@ Categories:
 *Maranse Delaskru, héros spadassin originaire de Kénabres qui a disparu depuis deux ans (histoire ou folklore local DD 20) est l'aspect actuel de Kiranda. L'homme parait dérangé dans son harnois cabossé. Il est attaché  sur le lit, et hurle des menaces.*
 
 ### Tactique
-**Pendant le combat**
-Kiranda adore appliquer son style de combat leste et acrobatique contre des adversaires protégés par de lourde armures, mais s'ils s'avèrent dificiles à toucher, elle s'écarte et utilise divers sorts de contrôle mental pour les pousser à ôter leurs armures. Si elle parvient à controler plusieurs adversaires, elle peut même ordonner à une partie dentre eux d'aider leurs alliés à se défaire de leurs armures. Elle préfère garder ses victimes en vie, afin de les contrôler et d'en faire ses séides, mais elle n'hésitera pas à frapper pour tuer un individu difficile à contrôler mentalement.
-**Moral.**
+**Pendant le combat**   
+Kiranda adore appliquer son style de combat leste et acrobatique contre des adversaires protégés par de lourde armures, mais s'ils s'avèrent dificiles à toucher, elle s'écarte et utilise divers sorts de contrôle mental pour les pousser à ôter leurs armures. Si elle parvient à controler plusieurs adversaires, elle peut même ordonner à une partie dentre eux d'aider leurs alliés à se défaire de leurs armures. Elle préfère garder ses victimes en vie, afin de les contrôler et d'en faire ses séides, mais elle n'hésitera pas à frapper pour tuer un individu difficile à contrôler mentalement.  
+**Moral.**   
 S'il lui reste moins de 40 points de vie, Kiranda se téléporte au coté de [[AP13-Chorussine Domal|Chorussine]].
 </div></td></tr></table>

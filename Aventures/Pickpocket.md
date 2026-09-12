@@ -21,7 +21,7 @@ Categories:
 {s:BDTexte|<b>Distance</b>      fronde +3 (1d4)  (facteur de portée 15 m)}
 {s:BDTexte|<b>Attaque spéciale</b> Attaque sournoise +1d6}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|<b>Avant le combat.</b> Le pickpocket essaye toujours de se fondre dans la masse.}
+{s:BDTexte|<b>Avant le combat.</b> Le pickpocket essaye toujours de se fondre dans la masse.} 
 {s:BDTexte|<b>Pendant le combat.</b> Pas très courageux, le pickpocket s'enfuit en courant dans la direction opposée aux PJs dès qu’il a reçu un coup ou qu’il voit deux personnes se faire blesser sous ses yeux.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 10, <b>Dex</b> 17, <b>Con</b> 12, <b>Int</b> 13, <b>Sag</b> 8, <b>Cha</b> 14}

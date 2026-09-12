@@ -38,7 +38,7 @@ agonisante peut dépenser 3 PP pour se stabiliser et peut ensuite dépenser
 d’autres PP lors d’un round ultérieur pour gagner 1 point de
 vie et poursuivre le combat. Se stabiliser ou bénéficier de soins qui
 remontent les points de vie au-dessus de 0 met fin à l’état agonisant,
-tout comme la mort.
+tout comme la mort. 
 
 #### Agrippé
 Vous êtes entravé par une créature, un effet ou un piège. Vous ne
@@ -200,7 +200,7 @@ dépourvu et subissez un malus de -2 aux jets d’attaque.
 Vous devez utiliser un moyen de propulsion pour vous redresser
 ou pour vous agripper à un objet stable tel qu’un mur ou une
 échelle (généralement par une action de mouvement) afin de mettre
-un terme à cet état.
+un terme à cet état. 
 
 #### Enchevêtré
 Vous êtes empêtré. Se retrouver enchevêtré réduit vos mouvements

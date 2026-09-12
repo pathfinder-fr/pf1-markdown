@@ -5,7 +5,7 @@ LastModified: 2018-04-05 10:11
 ---
 
 Parfois, on n'a pas d'idée sur les PNJ qu'on peut inclure dans nos parties.
-Voici donc quelques idées avec des archétypes créés par la communauté.
+Voici donc quelques idées avec des archétypes créés par la communauté. 
 
 
 <center>

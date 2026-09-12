@@ -31,13 +31,13 @@ Infiltrateur kobold aphorite, homme
 **For** +0, **Dex** +4, **Con** +0, **Int** +4, **Sag** +2, **Cha** +2
 
 **Équipement** *dague de frappe +1, de retour*
----
+<hr />
 **CA** 27 ; **Réf** +21, **Vig** +15, **Vol** +18
 
 **PV** 140
 
 **Reconfiguration préemptive** {s:PF2a|ra} **Fréquence** 1/jour ; **Déclencheur** Urok est sur le point de subir des dégâts contondants, perforants ou tranchants ; **Effet** Le corps d'Urok anticipe le coup et la zone d'impact se réorganise temporairement en un réseau de chair renforcé qui atténue l'attaque. Il gagne une résistance de 9 contre le type de dégâts déclencheur, résistance qui s'applique contre les dégâts déclencheurs. Urok peut sacrifier son utilisation quotidienne de Poussière cristalline lorsqu'il utilise cette réaction. Dans ce cas, son utilisation quotidienne de Reconfiguration préemptive n'est pas dépensée et il peut donc y faire appel une seconde fois.
----
+<hr />
 **Vitesse** 5 cases
 
 **Càc** {s:PF2a|1a} dague +19 (agile, finesse, polyvalent T), **Dégâts** 2d4+8 P
@@ -69,5 +69,5 @@ Les MJ pourraient considérer les idées suivantes pour intégrer Urok dans leur
 ### Au sujet des aphorites
 Les premiers aphorites ont été forgés par les axiomites afin de servir en tant que liaisons entre leurs progéniteurs loyaux et des alliés mortels dont l'imprévisibilité pouvait être frustrante. Avec le temps, les apparences et les personnalités des aphorites ont évolué pour ressembler à celles de leurs camarades mortels alors que de plus en plus d'aphorites naissaient au sein des mortels. Le lien entre les aphorites et Axis reste visible dans l'aspect métallique de leur peau qui se recouvre de poussière cristalline, leurs aptitudes logiques, leurs talents artisanaux et leur propension pour l'ordre et la coopération. Les dons des aphorites leur permettent d'utiliser leur poussière cristalline, d'analyser une situation sur le champ de bataille afin de maximiser leur efficacité, ou même de faire appel à l'Ordre pour renverser un échec quasi catastrophique en une réussite. Aphorite est un héritage polyvalent peu commun qui est décrit dans *Lost Omens: Ancestry Guide*.
 
----
+<hr />
 Il s'agit d'un "personnage prêt à l'emploi" présenté sur le blog de Paizo. L'article source en VO, écrit par Luis Loza et Eleanor Ferron, est disponible à l'adresse [https://paizo.com/community/blog/v5748dyo6shkp](https://paizo.com/community/blog/v5748dyo6shkp).

@@ -6,7 +6,7 @@ Categories:
 - PNJ
 ---
 
-Selon l'avis de certains nains, les civilisations du monde de la surface érodent peu à peu la culture et les valeurs naines et détruisent cet héritage comme la pluie défigure les grands monuments de pierre. Les elfes se concentrent sur des choses insignifiantes et inefficaces pendant que les humains renversent l'ordre social, et moins on en dit à propos des halfelins et des gnomes et mieux on se porte. Ces membres traditionnels et xénophobes de la société naine n'ont qu'un seul but : une isolation totale par rapport aux autres cultures, et peut-être même un retour vers les profondeurs des Terres Sombres. La plupart du temps, cela ne dépasse guère le stade des paroles, mais le nombre de ces conservateurs radicaux grandit de temps en temps, jusqu'à former des groupes politiques et des gangs potentiellement dangereux.
+Selon l'avis de certains nains, les civilisations du monde de la surface érodent peu à peu la culture et les valeurs naines et détruisent cet héritage comme la pluie défigure les grands monuments de pierre. Les elfes se concentrent sur des choses insignifiantes et inefficaces pendant que les humains renversent l'ordre social, et moins on en dit à propos des halfelins et des gnomes et mieux on se porte. Ces membres traditionnels et xénophobes de la société naine n'ont qu'un seul but : une isolation totale par rapport aux autres cultures, et peut-être même un retour vers les profondeurs des Terres Sombres. La plupart du temps, cela ne dépasse guère le stade des paroles, mais le nombre de ces conservateurs radicaux grandit de temps en temps, jusqu'à former des groupes politiques et des gangs potentiellement dangereux. 
 
 <div class="BD">
 {s:BDTitre|Nain traditionaliste des montagnes des Cinq Rois|FP 2}

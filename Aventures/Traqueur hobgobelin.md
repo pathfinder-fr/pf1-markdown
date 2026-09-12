@@ -8,7 +8,7 @@ Categories:
 
 Les traqueurs hobgobelins sont les éclaireurs et les guides **des forces d'infiltrations hobgobelines**.
 
-Il repère les mouvements adverses, traques les fuyards, et abattent à distances les cibles.
+Il repère les mouvements adverses, traques les fuyards, et abattent à distances les cibles. 
 
 <div class="BD">
 {s:BDTitre|Hobgobelin|FP 3}

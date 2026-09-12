@@ -5,7 +5,7 @@ LastModified: 2019-08-31 23:25
 ---
 
 <div class="presentation arrondi recentre ombre"><center>**ABADARCORP**
-</br>**Immense corporation basée sur la foi**
+</br>**Immense corporation basée sur la foi** 
 </br></br>**Dirigeant** : Archidirecteur général Gévrant Iséki-Okaïbo
 </br>**Quartier général** : Le Coffre d’or, Station Absalom</center></div>
 

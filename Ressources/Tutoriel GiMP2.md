@@ -176,7 +176,7 @@ Ouvrez le menu **Filtre->Carte->Repoussage d’après une carte...**
 
 <img src="{UP}/tutogimp/image25.jpg" class="imageright" alt="">
 
-La fenêtre d’aperçu à droite affiche par défaut le coin supérieur gauche de l’image. Seulement, le calque Sol Donjon est transparent à cet endroit. Il convient donc de déplacer l’Aperçu en le glissant à l’aide de la souris jusqu’à avoir une zone remplie avec la texture de sol.
+La fenêtre d’aperçu à droite affiche par défaut le coin supérieur gauche de l’image. Seulement, le calque Sol Donjon est transparent à cet endroit. Il convient donc de déplacer l’Aperçu en le glissant à l’aide de la souris jusqu’à avoir une zone remplie avec la texture de sol. 
 Cela permet de contrôler l’effet du filtre lorsqu’on change les paramètres.
 
 Ensuite, s’assurer que le calque utilisé pour le repoussage est bien le calque Grille. On le sélectionne en utilisant le menu déroulant en haut de la fenêtre de filtre.
@@ -220,7 +220,7 @@ Pour avoir des traits plus fins, il faut refaire le pattern de l’étape 1 en u
 
 
 
-Une autre variante consiste à appliquer un filtre *Flou Gaussien* d’une vingtaine de pixels sur le calque de Grille avant de lancer le filtre de Repoussage. Cette méthode donne un bel aspect arrondi aux cases comme sur cette image.
+Une autre variante consiste à appliquer un filtre *Flou Gaussien* d’une vingtaine de pixels sur le calque de Grille avant de lancer le filtre de Repoussage. Cette méthode donne un bel aspect arrondi aux cases comme sur cette image. 
 
 
 

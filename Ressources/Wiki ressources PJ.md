@@ -5,8 +5,8 @@ Title: La taverne des PJ
 
 {s:TitreSectionRessources|/ADJ/Ressources/titre wiki PJ 2.png}
 
-<table class="page espace-col deuxcol">
-<tr>
+<table class="page espace-col deuxcol"> 
+<tr> 
 <td>
 ### Outils et aides
 - [[Gestionnaire de sorts]] : Excellent outil réalisé par Lasombras permettant de réaliser des cartes de sorts en haute qualité.

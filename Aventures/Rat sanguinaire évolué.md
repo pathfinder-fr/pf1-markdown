@@ -26,27 +26,27 @@ Categories:
 {s:BDTexte|**For** 14, **Dex** 21, **Con** 17, **Int** 2, **Sag** 17, **Cha** 8}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 14 (18 contre [[Pathfinder-RPG.croc-en-jambe|croc-en-jambe]])}
 {s:BDTexte|**Dons** [[Pathfinder-RPG.Talent|Talent]] ([[Pathfinder-RPG.Perception|Perception]])}
-{s:BDTexte|**Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +13, [[Pathfinder-RPG.Escalade|Escalade]] +13, [[Pathfinder-RPG.Natation|Natation]] +13, [[Pathfinder-RPG.Perception|Perception]] +6 ; **Modificateurs raciaux** [[Pathfinder-RPG.Escalade|Escalade]] et [[Pathfinder-RPG.Natation|Natation]] dépendent de la [[Pathfinder-RPG.Dextérité|Dextérité]]}
-{s:BDSousTitre|Écologie}
-{s:BDTexte|**Environnement** ville}
-{s:BDTexte|**Organisation sociale** solitaire ou meute (2-20)}
-{s:BDTexte|**Trésor** aucun}
-{s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Maladie : fièvre des marais (Ext).** Morsure - blessure ; *JS* [[Pathfinder-RPG.Vigueur|Vigueur]] [[Pathfinder-RPG.DD|DD]] 11 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [[Pathfinder-RPG.affaiblissement temporaire|affaiblissement temporaire]] 1d3 [[Pathfinder-RPG.dextérité|Dex]] et 1d3 [[Pathfinder-RPG.Constitution|Con]] ; *guérison* 2 réussites consécutives. Le [[Pathfinder-RPG.DD|DD]] dépend de la Constitution.}
-</div>
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +13, [[Pathfinder-RPG.Escalade|Escalade]] +13, [[Pathfinder-RPG.Natation|Natation]] +13, [[Pathfinder-RPG.Perception|Perception]] +6 ; **Modificateurs raciaux** [[Pathfinder-RPG.Escalade|Escalade]] et [[Pathfinder-RPG.Natation|Natation]] dépendent de la [[Pathfinder-RPG.Dextérité|Dextérité]]} 
+{s:BDSousTitre|Écologie} 
+{s:BDTexte|**Environnement** ville} 
+{s:BDTexte|**Organisation sociale** solitaire ou meute (2-20)} 
+{s:BDTexte|**Trésor** aucun} 
+{s:BDSousTitre|Capacités spéciales} 
+{s:BDTexte|**Maladie : fièvre des marais (Ext).** Morsure - blessure ; *JS* [[Pathfinder-RPG.Vigueur|Vigueur]] [[Pathfinder-RPG.DD|DD]] 11 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [[Pathfinder-RPG.affaiblissement temporaire|affaiblissement temporaire]] 1d3 [[Pathfinder-RPG.dextérité|Dex]] et 1d3 [[Pathfinder-RPG.Constitution|Con]] ; *guérison* 2 réussites consécutives. Le [[Pathfinder-RPG.DD|DD]] dépend de la Constitution.} 
+</div> 
 
 
 {s:ImageCentre|Bestiaire/Rat sanguinaire.jpg|95%}
 
-</td><td><div>''Ce rat crasseux de la taille d’un chien possède une fourrure épaisse, une
+</td><td><div>''Ce rat crasseux de la taille d’un chien possède une fourrure épaisse, une 
 longue queue couverte de croûtes et deux yeux brillants.''
 
 
-Les rats sanguinaires peuvent
-atteindre une longueur de 60 cm
-et peser jusqu’à 12,5 kg. On en
-trouve souvent dans les souterrains
-ainsi que dans les égouts des villes.
+Les rats sanguinaires peuvent 
+atteindre une longueur de 60 cm 
+et peser jusqu’à 12,5 kg. On en 
+trouve souvent dans les souterrains 
+ainsi que dans les égouts des villes. 
 
 
 #### Créature évoluée

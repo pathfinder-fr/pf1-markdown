@@ -19,7 +19,7 @@ J'aimerai donc créer une campagne de la taille d'une AP avec en toile de fond l
 - Catastrophe imminente, prophétie apocalyptique ...
 
 ### Découpage des chapitres
-Chaque chapitre  de la campagne sera basé sur une zone géographique :
+Chaque chapitre  de la campagne sera basé sur une zone géographique : 
 1. Royaumes fluviaux
 1. Ustalav
 1. Varisie
@@ -64,7 +64,7 @@ Les traits présentés ci-dessous sont destinés à vous aider à particulariser
 Très librement inspiré des nouvelles de HP Lovecraft, des univers de Silent Hill (1), Angel Heart, l’échelle de Jacob, The Mist, Hellraiser, l’hôpital et ses fantômes, Kingdom Hospitol, American Horror Story (saison 1 & 2) et Sucker Punch.
 
 **Gameplay **:{br}
-Psychologie individuelle et collective. Peur, péché, lutte contre soi-même. Faire découvrir aux joueurs un aspect caché de leur personnage. Les joueurs devront accepter qu'ils ne maîtrisent pas complétement le passé de leur personnage. Découverte d'habitants, de créature et de divinités d'un autre monde (Hastur, Yog Sothoth, Shub Niggurath, etc.)
+Psychologie individuelle et collective. Peur, péché, lutte contre soi-même. Faire découvrir aux joueurs un aspect caché de leur personnage. Les joueurs devront accepter qu'ils ne maîtrisent pas complétement le passé de leur personnage. Découverte d'habitants, de créature et de divinités d'un autre monde (Hastur, Yog Sothoth, Shub Niggurath, etc.) 
 
 **Synopsis** :{br}
 Les PJs découvrent qu'ils ont tous été les patients du docteur Sigmund Reud, un elfe occultiste et soigneur de maladies mentales qui habitait Dague, dans les royaumes fluviaux. A sa mort, ils sont convoqués et chacun reçoit [[{UP(Informations.campagneYogSothoth)}Lettre du Dr Sigmund Reud.pdf|une lettre]] dans laquelle le professeur s’excuse du « mal » qu’il leur à fait. La lettre explique à chacun que leur mémoire a été altérée pour leur bien mais que leur rédemption, et leur guérison (ce qu’y sous-entend qu’ils ne sont pas guéris mais aussi qu'ils doivent se repentir) sera possible en allant au village de Waterfall près du bois de l'écho dans le nord-ouest des Royaumes fluviaux. La lettre reste silencieuse sur le pourquoi et le comment.{br}

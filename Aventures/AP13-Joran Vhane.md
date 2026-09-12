@@ -43,10 +43,10 @@ Categories:
 *On peut trouver Joran, assis à une table. Il étudie un livre de prières dédié à [[Golarion.Droskar|Droskar]]*
 
 ### Tactique
-**Avant le combat.**
-Joran se lance *[[Pathfinder-RPG.restauration partielle|restauration partielle]]* chaque jour pour combattre son manque de sommeil. Avant le combat, il se lance *[[Pathfinder-RPG.endurance de lours|endurance de l'ours]]*.
-**Pendant le combat**
-Joran n'engage pas aussitôt le comabt. Il reste en retrait et lance des sorts sur les PJ en leur suggerant de quitter Drézen ou en tentant de les aveugler ou de les étourdir pour que les babaus puissent placer leurs attaques sournoises. Dès qu'un babau tombe, il rejoint la mêlée mais combat tout le temps sur la défensive. Il se lance des sorts de soins dès qu'il lui reste moins de 45 points de vie.
-**Moral**
+**Avant le combat.**   
+Joran se lance *[[Pathfinder-RPG.restauration partielle|restauration partielle]]* chaque jour pour combattre son manque de sommeil. Avant le combat, il se lance *[[Pathfinder-RPG.endurance de lours|endurance de l'ours]]*.  
+**Pendant le combat**   
+Joran n'engage pas aussitôt le comabt. Il reste en retrait et lance des sorts sur les PJ en leur suggerant de quitter Drézen ou en tentant de les aveugler ou de les étourdir pour que les babaus puissent placer leurs attaques sournoises. Dès qu'un babau tombe, il rejoint la mêlée mais combat tout le temps sur la défensive. Il se lance des sorts de soins dès qu'il lui reste moins de 45 points de vie.   
+**Moral**    
 Joran est foncièrement lâche. S'il lui reste moins de 20 points de vie, il tombe à genoux et demande grâce. Les babaus encore en vie hurlent avec délectation en voyant cela et se précipitent sur le nain dès que possible.
 </div></td></tr></table>

@@ -37,10 +37,10 @@ Categories:
 *Le chef des ingénieurs de sièges kellides est une berserker kellide appelée Jestak. Elle reste ici et rumine sur l'incapacité des armées de Drézen à repousser celle des PJ.*
 
 ### Tactique
-**Avant le combat**
-Jestak boit une potion d'eau d'écorce +5 dès qu'elle entend qu'on tente d'ouvrir l'une des portes verrouillées.
-**Pendant le combat**
-Jestak entre en rage et attaque le PJ le plus proche en concentrant toutes ses attaques sur cete adversaire jusqu'à ce qu'il tombe, auquel cas elle passe au suivant.
-**Moral**
+**Avant le combat**   
+Jestak boit une potion d'eau d'écorce +5 dès qu'elle entend qu'on tente d'ouvrir l'une des portes verrouillées.  
+**Pendant le combat**    
+Jestak entre en rage et attaque le PJ le plus proche en concentrant toutes ses attaques sur cete adversaire jusqu'à ce qu'il tombe, auquel cas elle passe au suivant.  
+**Moral**   
 Jestak combat jusqu'à la mort ou devient étonnement docile, si les PJ arrivent à la vaincre sans la tuer (ce qui n'est pas facile, vu les points de vie qu'elle perd lorsqu'elle met fin à sa rage).
 </div></td></tr></table>

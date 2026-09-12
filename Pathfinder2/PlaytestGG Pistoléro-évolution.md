@@ -67,7 +67,7 @@ de votre historique.
 Au niveau 1, vous obtenez un certain nombre de maîtrises qui représentent votre entraînement de base. Elles sont indiquées au début de cette classe.
 
 #### Dons de pistoléro
-Au niveau 1, puis tous les niveaux pairs, vous gagnez un don de classe de pistoléro.
+Au niveau 1, puis tous les niveaux pairs, vous gagnez un don de classe de pistoléro. 
 
 #### Voie du pistoléro
 Tous les pistoléros suivent une certaine voie, une combinaison de philosophie et de style de combat qui définit comment ils se battent et les armes dans lesquelles ils se spécialisent. Votre voie vous donne un rang de maîtrise avec une certaine compétence ainsi que des actions spécifiques, comme un acte initial gagné au niveau 1 (voir la description des voies).
@@ -162,7 +162,7 @@ Vous êtes un nomade qui passe de contrée en contrée avec son arme à feu et s
 {s:trait|Pistoléro}
 
 **Déclencheur** Vous lancez l'initiative
----
+<hr />
 Vous savez que le danger peut survenir n'importe où et vos mains ne s'éloignent jamais de vos étuis à revolvers. Vous pouvez Intéragir pour dégainer une arme à distance et puis Intéragir pour dégainer une arme de corps à corps à une main. Au début de votre prochain tour, votre première action peut être une action libre vous permettant de Vous avancer vers un ennemi que vous pouvez percevoir. Si vous ne percevez aucun ennemi ou que vous ne pouvez pas terminer votre mouvement en vous rapprochant d'un ennemi, vous ne pouvez pas Vous avancer de cette manière.
 </div>
 
@@ -173,7 +173,7 @@ Vous savez que le danger peut survenir n'importe où et vos mains ne s'éloignen
 {s:trait|Pistoléro}
 
 **Conditions** Vous tenez à la fois une arme à feu chargée ou une arbalète, et une arme de corps à corps à une main.
----
+<hr />
 Vous lancez votre arme de corps à corps vers un adversaire puis tirez un projectile dans l'arme, de manière à ce qu'elle inflige des dégâts supplémentaires et rebondisse vers votre main. Effectuez une Frappe de lancer à distance avec l'arme de corps à corps, puis une Frappe à distance avec votre arme à feu. Les deux Frappes utilisent le même malus d'attaque multiple. Si l'arme de corps à corps ne possède pas le trait Lancer, elle acquiert le trait Jet 3 m pendant l'Assaut rebondissant.
 
 Si les deux attaques réussissent, la balle touche l'arme de corps à corps lancée au lieu de votre cible et ajoute sa force pour ne faire qu'une seule attaque. Combinez les dégâts des deux Frappes en utilisant le type de dégâts de l'arme lancée et ajoutez 1d6 points de dégâts de précision supplémentaires. Grâce au rebondissement, l'arme de corps à corps revient dans votre main.
@@ -203,7 +203,7 @@ Vous êtes peut-être un duelliste professionnel, ou un amuseur public habitué 
 {s:trait|Pistoléro}
 
 **Déclencheur** Vous faites votre jet d'initiative
----
+<hr />
 Vous réagissez aux problèmes plus vite que l'éclair et vous vous positionnez pile-poil au bon endroit. Vous gagnez un bonus de circonstances de +2 à votre jet d'initiative et vous pouvez Intéragir pour dégainer une arbalète, une arme à feu ou une arme de corps à corps à une main. Votre première action lors de votre tour suivant peut être une action libre vous permettant de Faire un pas de placement d'au plus 3 m de distance.
 </div>
 
@@ -214,7 +214,7 @@ Vous réagissez aux problèmes plus vite que l'éclair et vous vous positionnez 
 {s:trait|Pistoléro}
 
 **Déclencheur** Une ennemi situé dans votre allonge ou dans le premier facteur de portée de votre arme obtient un échec critique lors d'une attaque à votre encontre.
----
+<hr />
 Vous profitez de l'erreur de votre ennemi. Effectuez une Frappe contre l'ennemi déclencheur avec une arme à feu, une arbalète, une arme de corps à corps à une main ou une attaque sans arme. Si vous effectuez une Frappe à distance, l'ennemi doit se trouver dans le premier facteur de portée de votre arme.
 </div>
 
@@ -225,7 +225,7 @@ Vous profitez de l'erreur de votre ennemi. Effectuez une Frappe contre l'ennemi 
 {s:trait|Pistoléro}
 
 **Conditions** Votre dernière action était une Frappe qui a échoué et utilisait une arme à feu ou une arbalète que vous tenez dans une main.
----
+<hr />
 Même si votre dernière attaque a échoué, elle vous a permis de vous positionner pour une autre tentative. Effectuez une Frappe avec votre autre main, utilisant une deuxième arme à feu chargée ou une arbalète, une arme de corps à corps à une main ou une attaque sans arme. Votre malus d'attaques multiples ne s'applique pas à cette Frappe. Vous ne pouvez pas porter cette Frappe si vous tenez dans votre autre main quelque chose d'autre que les options citées ci-dessus.
 </div>
 
@@ -242,7 +242,7 @@ Le style de tir que vous pratiquez consiste à s'assurer que le premier tir est 
 {s:trait|Pistoléro}
 
 **Déclencheur** Vous utilisez Discrétion pour lancer votre initiative.
----
+<hr />
 Votre premier tir est le plus mortel. Vous Intéragissez pour dégainer une arme à feu ou une arbalète. Lors de votre premier tour pour la rencontre, la première Frappe que vous effectuez avec cette arme et qui touche inflige 1d6 points de dégâts de précision supplémentaires. Ce bonus passe à 2d6 au niveau 9 et à 3d6 au niveau 15.
 </div>
 
@@ -265,7 +265,7 @@ Vous effectuez une Frappe avec une arme à feu ou une arbalète. Si vous êtes c
 </div>
 
 ### Règles concernant les armes à feu
-<div class="PF2FloatRight" style="width:40%">
+<div class="PF2FloatRight" style="width:40%"> 
 **Enrayable (misfire).** Les armes à feu dont on n'a pas soigneusement pris soin ou qui sont soumises à certaines utilisations intensives peuvent s'enrayer. Si vous tentez de tirer avec une arme à feu qui a été utilisée la veille et qui n'a pas été nettoyée et entretenue depuis lors, effectuez un test nu de DD 5 avant votre jet d'attaque. Si ce test d'enrayage échoue, l'arme s'enraye et se bloque. L'attaque devient également un échec critique et vous devez utiliser une action d'Interaction pour la débloquer avant de pouvoir recharger et tirer à nouveau avec cette arme. Une fois que vous avez passé au moins une heure à nettoyer et à entretenir une arme, vous n'avez plus besoin de lancer ce test d'enrayage avant le jour suivant, à moins qu'un effet n'indique explicitement le contraire. Une arme peut également s'enrayer lors de l'utilisation de certaines capacités spécifiques.
 </div>
 Les règles suivantes concernent l'utilisation d'armes à feu et présentent les armes à feu et les munitions disponibles. Toutes les armes à feu peuvent s'enrayer (voir ci-contre).

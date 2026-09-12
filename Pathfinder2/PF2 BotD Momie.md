@@ -34,7 +34,7 @@ Finalement, vous développez un lien surnaturel avec le terrain principal de l�
 
 <div class="blocPF2">
 {s:titrePF2|Uni avec le terrain (One with the Land)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de momie
 
@@ -54,7 +54,7 @@ Vous redirigez l’humidité que vous avez drainée hors d’autres créatures v
 
 <div class="blocPF2">
 {s:titrePF2|Momification profonde (Grave Mummification)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de momie
 
@@ -76,7 +76,7 @@ Vous projetez vos angoisses mentales vers l’extérieur, vers ceux qui vous ent
 
 <div class="blocPF2">
 {s:titrePF2|Toucher maudit (Accursed Touch)|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de momie
 
@@ -96,7 +96,7 @@ Vous vous entourez d’une tempête tourbillonnante de pluie, de sable, de neige
 
 <div class="blocPF2">
 {s:titrePF2|Canalisation de la putréfaction (Channel Rot)|Don 10}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Toucher maudit
 
@@ -105,7 +105,7 @@ Vous avez appris à canaliser votre malédiction à travers les armes que vous m
 
 <div class="blocPF2">
 {s:titrePF2|Bandelettes agrippantes (Ensnaring Wrappings) {s:PF2a|invra}|Don 10}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de momie, expert en Athlétisme
 
@@ -137,7 +137,7 @@ Au niveau 14 et tous les 2 niveaux par la suite, les dégâts augmentent de 1d8.
 
 <div class="blocPF2">
 {s:titrePF2|Désespoir supérieur (Greater Despair)|Don 12}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Désespoir de la momie
 

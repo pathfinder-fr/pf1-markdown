@@ -26,7 +26,7 @@ Categories:
 {s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 18}
 {s:BDTexte|**Dons**  Combat monté, Talent (équitation),Attaque au galop, Charge dévastatrice, Tir monté}
 {s:BDTexte|**Compétences** Acrobaties +4, Discrétion +0, Equitation +13, Dressage +11}
-{s:BDTexte|**Équipement** Targe, Lance d'arçon, bâton de jet halfelin, billes (20), Armure d'écailles, Sac à dos, Bourse, rations (6 jours) 15 Po,
+{s:BDTexte|**Équipement** Targe, Lance d'arçon, bâton de jet halfelin, billes (20), Armure d'écailles, Sac à dos, Bourse, rations (6 jours) 15 Po, 
 - **Equipement monture** : Mors et bride, selle de guerre, barde de cuir, nourriture (6 jours)}
 {s:BDTexte|**Langues** Commun, Halfelin}
 </div>

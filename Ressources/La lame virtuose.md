@@ -10,7 +10,7 @@ source : Pathfinder Player Companion: Martial Arts Handbook
 
 
 
-*Bien que certaines traditions d'arts martiaux se concentrent sur la force du corps, la plupart des écoles de combat et d'autodéfense savent également qu'il est important d'utiliser des armes. Les samouraïs maîtres bagarreurs utilisent des frappes à l'arme et des attaques non armées à parts égales - les ennemis qui s'attendent à se défendre contre un poignard ou une épée sont souvent pris au dépourvu par les coups de poing ou de coups brutaux du maître lame.*
+*Bien que certaines traditions d'arts martiaux se concentrent sur la force du corps, la plupart des écoles de combat et d'autodéfense savent également qu'il est important d'utiliser des armes. Les samouraïs maîtres bagarreurs utilisent des frappes à l'arme et des attaques non armées à parts égales - les ennemis qui s'attendent à se défendre contre un poignard ou une épée sont souvent pris au dépourvu par les coups de poing ou de coups brutaux du maître lame.* 
 
 
 **Armes et armures**

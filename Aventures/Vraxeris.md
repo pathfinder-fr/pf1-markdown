@@ -42,7 +42,7 @@ LastModified: 2016-07-22 21:36
 </div>
 </td><td align=left><div>''Avant que Vraxeris ne perfectionne et n’améliore son sort de clone, il a mené de nombreuses expériences avec des
 simulacres. Aujourd’hui, il ne reste plus que quatre de ces clones.
-Dépourvues de la possibilité de devenir plus puissantes ou même de l’envie de progresser, ces copies immortelles faisaient office d’assistants pour Vraxeris. Maintenant qu'il est mort, les quatre simulacres continuent d'exéciter ses derniers ordres : empêcher quiconque d’interrompre ses études dans la salle I4.
+Dépourvues de la possibilité de devenir plus puissantes ou même de l’envie de progresser, ces copies immortelles faisaient office d’assistants pour Vraxeris. Maintenant qu'il est mort, les quatre simulacres continuent d'exéciter ses derniers ordres : empêcher quiconque d’interrompre ses études dans la salle I4. 
 
 Tous simulacres sont identiques : des humains de vêtements immaculés, des cheveux blonds jusqu’aux épaules, de riches robes et une cape en plumes de paon. Quand ils repèrent intrus, ils parlent à l’unisson, en thassilonien,
 d’une seule voie retentissante : « Le maître étudie,

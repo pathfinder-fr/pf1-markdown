@@ -10,10 +10,10 @@ Voir aussi : [[Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes]], [[Gol
 <div class="BD">
 {s:BDTitre|Les Terres Blessées|}
 {s:BDTexte|*Source : Guide de la Plaie du Monde, p.74*}
-**Alignement** CM
-**Influence démoniaques** Baphomet, Deskari, Pazuzu, Shax, Sifkesh, Xevéron
+**Alignement** CM  
+**Influence démoniaques** Baphomet, Deskari, Pazuzu, Shax, Sifkesh, Xevéron  
 (((Démographie)))
-**Habitants connus** : Aponavicius, Belsféreck, Eiandre, Firadreal, Isilda, Jaalika, Khorramazadeth le Roi des Tempêtes, Xanthir Vang, Yracandra, Zelmisdria et Azrivauxus
+**Habitants connus** : Aponavicius, Belsféreck, Eiandre, Firadreal, Isilda, Jaalika, Khorramazadeth le Roi des Tempêtes, Xanthir Vang, Yracandra, Zelmisdria et Azrivauxus  
 **Monstres et dangers** : [[Pathfinder-RPG.Dangers#GEYSERABYSSAL|Geysers abyssaux]], [[Pathfinder-RPG.Dangers#FAILLEABYSSALE|failles abyssales]], [[Pathfinder-RPG.Bébilith|Bébiliths]], fanatiques, [[Pathfinder-RPG.Vermine démoniaque, archétype|Vermine démoniaque]], [[Pathfinder-RPG.dwiergeth|dwiergeths]], [[Pathfinder-RPG.âpresoif|apresoifs]], [[Pathfinder-RPG.Dangers#HERBE-SANGSUE|herbes sangsues]], [[Pathfinder-RPG.Dangers#NUEEDENEOLARVES|nuées de néo-larves]], [[Pathfinder-RPG.horreur chasseresse|horreurs chasseresses]], [[Pathfinder-RPG.rampant des failles|rampants des failles]], [[Pathfinder-RPG.Dangers#BARBEDUMARQUISSANGLANT|barbes de Shax]], [[Pathfinder-RPG.Nuée de vescavores|Nuées de vescavores]], [[Pathfinder-RPG.Guêpe belliciste|Guêpes bellicistes]], [[Pathfinder-RPG.Distordu|Distordus]], [[Pathfinder-RPG.Dragon de la Plaie|Dragons de la Plaie]]
 
 <table CLASS="tablo">
@@ -40,10 +40,10 @@ Voir aussi : [[Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes]], [[Gol
 {s:BDTexte|**Patrouille de croisés (FP 11)** : 7 croisés mendéviens (humain, chevalier 5, LB), commandant (humain, paladin 9, LB)}
 
 (((Géographie)))
-**Villes connues** : [[Drézen]] (7489), Iz (abandonnée)
-**Climat** : Venteux modéré
-**Précipitations moyennes** : Pluie
-**Survie** : DD 30 (75%)
+**Villes connues** : [[Drézen]] (7489), Iz (abandonnée)  
+**Climat** : Venteux modéré  
+**Précipitations moyennes** : Pluie  
+**Survie** : DD 30 (75%)  
 </div>
 </td><td><div class="BD">
 

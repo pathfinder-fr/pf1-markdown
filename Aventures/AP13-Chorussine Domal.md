@@ -48,10 +48,10 @@ Categories:
 </td><td><div class="BD">
 *Chorussine Domal est la sénéchale de Drezen et, au lieu de fuir la région, elle a décidé qu'il valait mieux détruire Drésen. Elle et ses séides démons se sont rassemblés pour accomplir , sous ses directives, un rituel long et épuisant conçu pour manipuler les énergies des nombreuses failles disséminées dans les Terres Blessées pour en créer une ici.*
 ### Tactiques
-**Avant le combat**
-Le rituel exige une concentration extrême et Chorussine et ses 3 démons [[Pathfinder-RPG.Ariès|Ariès]] subissent un malus de -4 aux tests de perception.
-**Pendant le combat**
-Dès le début du combat, Chorussine arrête de se contencter sur le rituel, et se replie dans un coin et lance *[[Pathfinder-RPG.mur de force|mur de force]]* pour se protéger des PJ. Pendants que ses séides attaquent elle prend le temps de lancer *[[Pathfinder-RPG.bouclier de feu|bouclier de feu]]*, *[[Pathfinder-RPG.déplacement|déplacement]]*, *[[Pathfinder-RPG.endurance de lours|endurance de l'ours]]*, *[[Pathfinder-RPG.grâce féline|grâce féline]]*,*[[Pathfinder-RPG.simulacre de vie|simulacre de vie]]*, *[[Pathfinder-RPG.image miroir|image miroir]]*, *[[Pathfinder-RPG.armure de mage|armure de mage]]*, *[[Pathfinder-RPG.bouclier|bouclier]]*. Elle utilise [[Pathfinder-RPG.Adepte démoniaque#ESPRITDEMONIAQUE|esprit démoniaque]] pour gagner un +2 à sa constitution, puis dissipe le *mur de force* pour passer à l'attaque. Les effets des sorts et l'esprit démoniaque sont déjà intégrés dans son profil. Lorsqu'elle passe à l'attaque elle lance tous ses sorts offensifs sur les PJ tant que dure l'esprit démoniaque et continue à moins de devenir confuse.
-**Moral.**
+**Avant le combat**   
+Le rituel exige une concentration extrême et Chorussine et ses 3 démons [[Pathfinder-RPG.Ariès|Ariès]] subissent un malus de -4 aux tests de perception.  
+**Pendant le combat**   
+Dès le début du combat, Chorussine arrête de se contencter sur le rituel, et se replie dans un coin et lance *[[Pathfinder-RPG.mur de force|mur de force]]* pour se protéger des PJ. Pendants que ses séides attaquent elle prend le temps de lancer *[[Pathfinder-RPG.bouclier de feu|bouclier de feu]]*, *[[Pathfinder-RPG.déplacement|déplacement]]*, *[[Pathfinder-RPG.endurance de lours|endurance de l'ours]]*, *[[Pathfinder-RPG.grâce féline|grâce féline]]*,*[[Pathfinder-RPG.simulacre de vie|simulacre de vie]]*, *[[Pathfinder-RPG.image miroir|image miroir]]*, *[[Pathfinder-RPG.armure de mage|armure de mage]]*, *[[Pathfinder-RPG.bouclier|bouclier]]*. Elle utilise [[Pathfinder-RPG.Adepte démoniaque#ESPRITDEMONIAQUE|esprit démoniaque]] pour gagner un +2 à sa constitution, puis dissipe le *mur de force* pour passer à l'attaque. Les effets des sorts et l'esprit démoniaque sont déjà intégrés dans son profil. Lorsqu'elle passe à l'attaque elle lance tous ses sorts offensifs sur les PJ tant que dure l'esprit démoniaque et continue à moins de devenir confuse.  
+**Moral.**   
 Chorussine se bat jusqu'à la mort.
 </div></td></tr></table>

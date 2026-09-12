@@ -145,11 +145,11 @@ cours desquels les personnages disposent chacun d’un tour.
 
 {s:Reference|ECHELLEDEVOLUTION}**Échelle d’évolution.** Représente la progression de l’effet d’une affliction telle qu’une malédiction, une maladie, une drogue ou un poison.
 
-{s:Reference|ECHELON}**Échelon.** Terme mesurant la puissance d’un ordinateur, d’un vaisseau spatial et d’autres éléments.
+{s:Reference|ECHELON}**Échelon.** Terme mesurant la puissance d’un ordinateur, d’un vaisseau spatial et d’autres éléments. 
 
 {s:Reference|EFFETDECOUPCRITIQUE}**Effet de coup critique.** C’est un effet d’arme qui s’applique lorsque vous infligez des dégâts avec un coup critique.
 
-{s:Reference|EFFRAYE}**Effrayé.** Cet état applique un effet néfaste à votre personnage.
+{s:Reference|EFFRAYE}**Effrayé.** Cet état applique un effet néfaste à votre personnage. 
 
 {s:Reference|EMISSAIRE}**Émissaire.** Classe dans laquelle votre personnage peut s’entraîner.
 
@@ -241,7 +241,7 @@ cours desquels les personnages disposent chacun d’un tour.
 
 {s:Reference|MODIFICATEUR}**Modificateur.** Cette valeur numérique s’ajoute à un jet de d20, comme un jet d’attaque ou de sauvegarde ou un test de compétence. Un modificateur peut être positif (bonus) ou négatif (malus).
 
-{s:Reference|MONSTRE}**Monstre.** Un monstre est un PNJ, en général trop étrange ou pas assez intelligent pour être un personnage joueur ou qui ne peut pas devenir PNJ à cause d’autres qualifications. Il peut être un allié ou un ennemi ou jouer un autre rôle.
+{s:Reference|MONSTRE}**Monstre.** Un monstre est un PNJ, en général trop étrange ou pas assez intelligent pour être un personnage joueur ou qui ne peut pas devenir PNJ à cause d’autres qualifications. Il peut être un allié ou un ennemi ou jouer un autre rôle. 
 
 {s:Reference|MORT}**Mort.** Cet état s’applique une fois votre personnage décédé.
 
@@ -261,7 +261,7 @@ cours desquels les personnages disposent chacun d’un tour.
 
 {s:Reference|NIVEAU}**Niveau.** Selon le contexte, cela peut désigner votre niveau de lanceur de sorts, de personnage, de classe ou celui d’un sort ou d’un objet ou encore un autre mécanisme de classement défini dans le cadre des règles.
 
-{s:Reference|OBJETHYBRIDE}**Objet hybride.** Pièce d’équipement qui utilise la magie et la technologie pour fonctionner.
+{s:Reference|OBJETHYBRIDE}**Objet hybride.** Pièce d’équipement qui utilise la magie et la technologie pour fonctionner. 
 
 {s:Reference|OBJETMAGIQUE}**Objet magique.** Pièce d’équipement qui fonctionne grâce à la magie.
 

@@ -12,49 +12,49 @@ Voir aussi : [[Kénabres|Kénabres avant destruction]]
 <div class="BD">
 {s:BDTitre|Ruines de Kénabres|}
 {s:BDTexte|*Source : [[Aides de jeu AP13#CHAMPSDERUINES|La Colère des Justes]], p.74*}
-[[Pathfinder-RPG.Villes#Le_profil_d’une_communauté_1|Grande Ville]], LB
-**Corruption** +2 ; **Criminalité** -3 ; **Economie** -3; **Loi** +6 ; **Folklore** +2 ; **Société** -3
-**Avantage de ville** :
+[[Pathfinder-RPG.Villes#Le_profil_d’une_communauté_1|Grande Ville]], LB  
+**Corruption** +2 ; **Criminalité** -3 ; **Economie** -3; **Loi** +6 ; **Folklore** +2 ; **Société** -3  
+**Avantage de ville** : 
 [[Pathfinder-RPG.Villes#AVANTAGES|déchiré par la guerre]],
 [[Pathfinder-RPG.Villes#AVANTAGES|Emplacement stratégique]],
-[[Pathfinder-RPG.Villes#AVANTAGES|Insulaire]],
-[[Pathfinder-RPG.Villes#AVANTAGES|Tenace]],
-[[Pathfinder-RPG.Villes#AVANTAGES|Raciste (Tieffelins)]]
-**Inconvénient de ville** : [[Pathfinder-RPG.Villes#INCONVENIENTS|Dévastée]]
+[[Pathfinder-RPG.Villes#AVANTAGES|Insulaire]], 
+[[Pathfinder-RPG.Villes#AVANTAGES|Tenace]], 
+[[Pathfinder-RPG.Villes#AVANTAGES|Raciste (Tieffelins)]]  
+**Inconvénient de ville** : [[Pathfinder-RPG.Villes#INCONVENIENTS|Dévastée]]  
 **Danger** +20\
 (((Démographie)))
-**Gouvernement** : seigneur (reine Galfrey)
-**Population** : 6520 (6061 humains, 312 halfelins, 66 demi-elfes, 81 autres)
+**Gouvernement** : seigneur (reine Galfrey)  
+**Population** : 6520 (6061 humains, 312 halfelins, 66 demi-elfes, 81 autres)  
 (((PNJ Importants)))
-**Reine** [[AP13-Galfrey|Galfrey]] : humain (f) paladin de Iomédae 15, LB
-**Capitaine** [[AP13-Irabeth Tirabade|Irabeth Tirabade]] : demi-orc (f) paladin de Iomédae 5, LB
-**Maître** [[Kénabres-Quednys Orlun|Quednys Orlun]] : vieil humain (m) magicien 6, LB
-[[Kénabres-Kimroth Otai|Kimroth Otai]], propriétaire du Cœur du Défenseur : humain agé (m) expert 2/guerrier 3, LB
+**Reine** [[AP13-Galfrey|Galfrey]] : humain (f) paladin de Iomédae 15, LB  
+**Capitaine** [[AP13-Irabeth Tirabade|Irabeth Tirabade]] : demi-orc (f) paladin de Iomédae 5, LB  
+**Maître** [[Kénabres-Quednys Orlun|Quednys Orlun]] : vieil humain (m) magicien 6, LB  
+[[Kénabres-Kimroth Otai|Kimroth Otai]], propriétaire du Cœur du Défenseur : humain agé (m) expert 2/guerrier 3, LB  
 (((Place du marché)))
-**Valeur de base** 4400 po ; **Limite d'achat** 10000 po ; **Incantation** 4
-**Objets faibles** :
-[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREDEUXMAINS|Hallebarde]] +1
-[[Pathfinder-RPG.Anneau de résistance aux énergies destructives|Anneau de résistance au feu mineur]]
-[[Pathfinder-RPG.Anneau de subsistance|Anneau de subsistance]]
-[[Pathfinder-RPG.Parchemins magiques|Parchemin]] de [[Pathfinder-RPG.rappel à la vie|rappel à la vie]] (NLS 9)
-[[Pathfinder-RPG.Parchemins magiques|Parchemin]] de [[Pathfinder-RPG.restauration|restauration]] (NLS 3)
-**Objets intermédiaires** :
-[[Pathfinder-RPG.Sceptre de métamagie#Quintessence|Sceptre de méta-magie mineure de quintessence de sorts]]
-[[Pathfinder-RPG.Pierre porte-bonheur|Pierre porte bonheur]]
+**Valeur de base** 4400 po ; **Limite d'achat** 10000 po ; **Incantation** 4  
+**Objets faibles** :    
+[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREDEUXMAINS|Hallebarde]] +1   
+[[Pathfinder-RPG.Anneau de résistance aux énergies destructives|Anneau de résistance au feu mineur]]   
+[[Pathfinder-RPG.Anneau de subsistance|Anneau de subsistance]]   
+[[Pathfinder-RPG.Parchemins magiques|Parchemin]] de [[Pathfinder-RPG.rappel à la vie|rappel à la vie]] (NLS 9)   
+[[Pathfinder-RPG.Parchemins magiques|Parchemin]] de [[Pathfinder-RPG.restauration|restauration]] (NLS 3)    
+**Objets intermédiaires** :   
+[[Pathfinder-RPG.Sceptre de métamagie#Quintessence|Sceptre de méta-magie mineure de quintessence de sorts]]  
+[[Pathfinder-RPG.Pierre porte-bonheur|Pierre porte bonheur]]   
 [[Pathfinder-RPG.Baguettes magiques|Baguette]] de [[Pathfinder-RPG.soins importants|soins importants]] (NLS 5; 48 charges)
 (((Remarques)))
 **Dévastée.** L'assaut démoniaque sur Kénabres a dévasté la cité. la moitié de la population (y compris la totalité de ses chefs les plus puissants) ont péri et nombre de ses bâtiments, notamment la cathédrale de Saint Clydwell et l'Ecu) ont été détruits. Economie -6, Société  -4, danger +10, réduction de la valeur de base et de la limite d'achat de 60%, réduction de l'incantation de 3 niveaux, disponibilité des objets magiques réduite à celle d'un village.
 (((Lieux Notables)))
-**Home Sweet Home**
-Repaire de l'Aile Noire (I, p. 42)
-Manoir Gwerm (J, p. 45)
-Maison des Tirabade (K, p. 45)
-**La traque**
-Solutions Topaze (L, p. 47)
-Manoir Nyserian (M p. 48)
-Tour d'Estrode (N, p.48)
-Cœur du Défenseur (O, p. 50)
-**L'héritage de la Pierre de Garde**
+**Home Sweet Home**  
+Repaire de l'Aile Noire (I, p. 42)  
+Manoir Gwerm (J, p. 45)  
+Maison des Tirabade (K, p. 45)  
+**La traque**  
+Solutions Topaze (L, p. 47)  
+Manoir Nyserian (M p. 48)  
+Tour d'Estrode (N, p.48)  
+Cœur du Défenseur (O, p. 50)  
+**L'héritage de la Pierre de Garde**  
 Garnison Grise (P, p. 54)
 </div>
 </td><td><div class="BD">

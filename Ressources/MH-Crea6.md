@@ -25,5 +25,5 @@ Cette vue est optionnelle : toutes les créations de personnages n'ont pas besoi
 <OL><LI>Retour vers [[MH-MesPersos|Mes Personnages]].
 <LI>Sélection des options de classe. Dans ce cas particulier, sélection du lignage d’un ensorceleur.
 <LI>Retour vers [[MH-Crea5|Classe]].
-<LI>Validation des choix. Vers [[MH-Crea7|Option de classe de prédilection]].
+<LI>Validation des choix. Vers [[MH-Crea7|Option de classe de prédilection]]. 
 </OL></td></tr></table>

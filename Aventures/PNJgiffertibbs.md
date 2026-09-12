@@ -22,7 +22,7 @@ Giffer est une gnomesse de la ville au centre du monde, Absalom. Elle n'aimait p
 {s:BDTexte|**Distance**      Fronde +3 (1d3-1/20X2) (Portée 10 cases/15 m)  }
 {s:BDTexte|**Spécial** Sous Domaine des Océans, Adaptation à l'eau (Druide Aquatique), +2 VS Illusions}
 {s:BDSousTitre|Sorts}
-{s:BDTexte|**Domaine** 6/Jour : Vague Géante (+5 BMO) Bousculade ou attraction à distance}
+{s:BDTexte|**Domaine** 6/Jour : Vague Géante (+5 BMO) Bousculade ou attraction à distance} 
 {s:BDTexte|**Niveau 0** "4"/Jour : Création d'eau, Détection du poison, Réparation, Repérage.}
 {s:BDTexte|**Niveau 1** 3/Jour : Bulle d'air, Caresse de la mer, Pierre Magique.}
 {s:BDSousTitre|Tactique}

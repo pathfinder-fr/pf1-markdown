@@ -11,9 +11,9 @@ Il sont chargés d'éliminer rapidement les patrouilles ou les unités isolés.
 
 Ils utilisent leurs compétences de Discrétion et de déguisement pour surprendre leurs adversaires.
 
-Une fois la surprise passées, ils utilises la feinte pour placer une attaque sournoise. Lors qu'ils sont en nombre ils tentent de faire tomber leurs adversaires avec leur serpe et don du croque-en-jambe pour provoquer des attaques sournoise et d'opportunités.
+Une fois la surprise passées, ils utilises la feinte pour placer une attaque sournoise. Lors qu'ils sont en nombre ils tentent de faire tomber leurs adversaires avec leur serpe et don du croque-en-jambe pour provoquer des attaques sournoise et d'opportunités. 
 
-Une partie de leurs victimes meurent seul des suites d'hémorragie.
+Une partie de leurs victimes meurent seul des suites d'hémorragie.  
 
 <div class="BD">
 {s:BDTitre|Hobgobelin|FP 3}
@@ -30,7 +30,7 @@ Une partie de leurs victimes meurent seul des suites d'hémorragie.
 {s:BDTexte|**VD** 6}
 {s:BDTexte|**Corps à corps** serpe +4 (1d6+1/20) (attaque sournoise +1d6 +1 de saignement)}
 {s:BDTexte|**Corps à corps** dague +4 (1d4+1/19-20) (attaque sournoise +1d6 +1 de saignement)}
-{s:BDTexte|**Corps à corps** Matraque +4 (1d6+1/19-20) (attaque sournoise +1d6) Dégat Non-létaux}
+{s:BDTexte|**Corps à corps** Matraque +4 (1d6+1/19-20) (attaque sournoise +1d6) Dégat Non-létaux} 
 {s:BDTexte|**Distance**      dague +4 (1d4+1/19-20) (attaque sournoise +1d6 +1 de saignement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 14, **Int** 9, **Sag** 8, **Cha** 10}

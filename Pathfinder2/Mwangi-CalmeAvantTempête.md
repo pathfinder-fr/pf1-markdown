@@ -49,5 +49,5 @@ Sa réponse captura l’attention des dragons, ainsi que l’attention des Guard
 
 
 
----
+<hr />
 Cette page est la traduction d'un récit publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shql?Tales-of-Lost-Omens-The-Calm-Before-the-Storm](https://paizo.com/community/blog/v5748dyo6shql?Tales-of-Lost-Omens-The-Calm-Before-the-Storm) et écrit par Mikhail Rekun.

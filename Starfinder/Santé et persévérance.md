@@ -6,7 +6,7 @@ Categories:
 - Règles officielles
 ---
 
-''Starfinder est un jeu d’aventures, ce qui signifie qu’il vous faut deux qualités essentielles pour augmenter vos chances de survie : le nombre de mauvais traitements que vous pouvez encaisser avant de mourir et votre capacité à rester fidèle à vos convictions en cas d’adversité.
+''Starfinder est un jeu d’aventures, ce qui signifie qu’il vous faut deux qualités essentielles pour augmenter vos chances de survie : le nombre de mauvais traitements que vous pouvez encaisser avant de mourir et votre capacité à rester fidèle à vos convictions en cas d’adversité. 
 
 Trois systèmes de points différents permettent de mesurer ces qualités : les points de vie (PV), les points d’endurance (PE) et les points de persévérance (PP).
 
@@ -15,9 +15,9 @@ Les points de vie et d’endurance sont étroitement liés : les points d’endu
 <nav class="wiki-toc"></nav>
 
 ### Points de vie et points d'endurance
-Les points de vie (PV) mesurent votre robustesse et votre santé physique- une réduction des points de vie représente des blessures, une maladie ou un affaiblissement physique important.
+Les points de vie (PV) mesurent votre robustesse et votre santé physique- une réduction des points de vie représente des blessures, une maladie ou un affaiblissement physique important. 
 
-Les points d’endurance (PE), par opposition, mesurent votre réactivité et votre énergie, et ils se récupèrent plus rapidement et plus facilement.
+Les points d’endurance (PE), par opposition, mesurent votre réactivité et votre énergie, et ils se récupèrent plus rapidement et plus facilement. 
 
 Quand vous encaissez des dégâts – infligés par une attaque, un sort, une maladie ou une autre source – ceux-ci réduisent d’abord votre réserve de points d’endurance ; les dégâts en excès, une fois vos points d’endurance réduits
 à zéro, sont défalqués de votre réserve de points de vie. Imaginez les points d’endurance comme votre capacité à résister aux coups ; le premier ne va probablement pas vous infliger des dégâts persistants mais les suivants pourraient venir à bout de votre résistance et commencer à vous faire réellement mal. Si vos points de vie tombent à 0, vous êtes agonisant et vous devez vous stabiliser sous peine de mourir pour de bon.
@@ -34,7 +34,7 @@ C’est votre valeur de Constitution et votre classe qui déterminent le nombre 
 Certaines formes de magie peuvent vous conférer des points de vie temporaires dont la durée est limitée. Ils peuvent même dépasser votre total maximum de points de vie. Si vous avez des points de vie temporaires, qu’ils dépassent ou non votre maximum autorisé, vous perdez ces points en premier avant de perdre vos points d’endurance. Les soins ne permettent pas de récupérer les points de vie temporaires.
 
 #### Exemple
-Disons que vous créez un tout nouveau personnage de niveau 1 : un soldat humain. Vous consultez la section sur les humains dans le chapitre consacré aux Races ( et découvrez qu’un humain reçoit 4 points de vie au niveau 1. Vous regardez ensuite la section sur le soldat dans le chapitre consacré aux Classes qui vous indique qu’un soldat obtient 7 points de vie à chaque niveau, ce qui confère à votre personnage un total de 11 points de vie au niveau 1. La section sur la classe vous indique également qu’un soldat obtient un nombre de points d’endurance égal à 7 + son modificateur de Constitution à chaque niveau. Vous consultez alors vos caractéristiques.
+Disons que vous créez un tout nouveau personnage de niveau 1 : un soldat humain. Vous consultez la section sur les humains dans le chapitre consacré aux Races ( et découvrez qu’un humain reçoit 4 points de vie au niveau 1. Vous regardez ensuite la section sur le soldat dans le chapitre consacré aux Classes qui vous indique qu’un soldat obtient 7 points de vie à chaque niveau, ce qui confère à votre personnage un total de 11 points de vie au niveau 1. La section sur la classe vous indique également qu’un soldat obtient un nombre de points d’endurance égal à 7 + son modificateur de Constitution à chaque niveau. Vous consultez alors vos caractéristiques. 
 
 Disons qu’après les avoir déterminées au hasard et après l’application des traits raciaux de votre soldat, il a une valeur de Constitution de 14, ce qui lui donne un modificateur de Constitution de +2. Ainsi, votre soldat a 9 points d’endurance (7+2) au niveau 1. N’oubliez pas d’ajouter son modificateur de caractéristique seulement (+2), et non pas sa valeur de caractéristique !
 

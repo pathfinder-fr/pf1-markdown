@@ -7,7 +7,7 @@ LastModified: 2013-02-28 07:59
 <table class="page espace-col deuxcol"><tr><td>
 *Idée originale : ROBERT WIESE*
 
-En raison de l’étendue des Terres Sombres sous Golarion, cette petite aventure peut se jouer n’importe où. Il est préférable de la placer près de quelques montagnes volcaniques, mais ce n’est pas obligatoire étant donné que les coulées de lave peuvent exister presque n’importe où sous la surface. Elle peut même se jouer sous l’eau, bien que certaines modifications des créatures présentées ci-dessous soient nécessaires. Le texte suppose que l’endroit est situé dans une plaine ou une zone de contreforts, aussi modifiez-le si nécessaire.
+En raison de l’étendue des Terres Sombres sous Golarion, cette petite aventure peut se jouer n’importe où. Il est préférable de la placer près de quelques montagnes volcaniques, mais ce n’est pas obligatoire étant donné que les coulées de lave peuvent exister presque n’importe où sous la surface. Elle peut même se jouer sous l’eau, bien que certaines modifications des créatures présentées ci-dessous soient nécessaires. Le texte suppose que l’endroit est situé dans une plaine ou une zone de contreforts, aussi modifiez-le si nécessaire. 
 
 Ce lieu d’aventure est prévu pour des personnages de niveau 7.
 

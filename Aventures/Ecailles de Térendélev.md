@@ -10,7 +10,7 @@ LastModified: 2021-07-31 12:43
 **Aura** variable  puissante ; **NLS** 19 ; **Emplacement** Aucun ; **Artefact Mineur** ; **Poids** - kg
 (((Description)))
 Ces écailles de dragon d’argent de la taille d’une paume sont des objets uniques et des artefacts mineurs résultant de la mort de Térendélev sous la lame du Roi des tempêtes.\
-Chacune des écailles de Térendélev confère un pouvoir différent à la personne qui le transporte. Les pouvoirs ne s’activent pas si la personne transporte plus d’une écaille.
+Chacune des écailles de Térendélev confère un pouvoir différent à la personne qui le transporte. Les pouvoirs ne s’activent pas si la personne transporte plus d’une écaille. 
 (((Capacités)))
 Les pouvoirs des quatre écailles sont décrits ci-dessous ; une créature autre que Mauvaise qui prend en main une écaille comprend immédiatement comment l’utiliser.
 
@@ -18,7 +18,7 @@ Les pouvoirs des quatre écailles sont décrits ci-dessous ; une créature autre
 
 **Déguisement.** Trois fois par jour par une action simple, une écaille peut être utilisée pour lancer [[Pathfinder-RPG.modification dapparence|modification d’apparence]]. Une fois déguisée, la cible gagne un bonus de +4 aux tests de Bluff contre les créatures Mauvaises.
 
-**Résistance.** Trois fois par jour par une action simple, une écaille peut être utilisée pour lancer [[Pathfinder-RPG.Résistance aux énergies destructives|Résistance aux énergies destructives]], mais uniquement pour résister à l’électricité ou au froid.
+**Résistance.** Trois fois par jour par une action simple, une écaille peut être utilisée pour lancer [[Pathfinder-RPG.Résistance aux énergies destructives|Résistance aux énergies destructives]], mais uniquement pour résister à l’électricité ou au froid. 
 
 **Arme sacrée.** Trois fois par jour par une action simple, une écaille peut être utilisée pour lancer [[Pathfinder-RPG.Arme alignée|Arme alignée]], mais uniquement pour aligner une arme sur la Loi ou le Bien. À la différence d’un sort normal d’arme alignée, cet effet peut être produit sur des mains nues ou des armes naturelles.
 (((Destruction)))

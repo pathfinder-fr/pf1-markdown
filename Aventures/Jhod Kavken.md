@@ -5,7 +5,7 @@ LastModified: 2013-10-04 14:15
 ---
 
 <div class="BD">
-A quarante ans passé, jhod est un des rares exemple de prêtre itinérant d'Erastil. Il sillonnait les nombreuses communautés isolées et dépourvues de prêtre qui parsèment le Brevoy et l'Issie.
+A quarante ans passé, jhod est un des rares exemple de prêtre itinérant d'Erastil. Il sillonnait les nombreuses communautés isolées et dépourvues de prêtre qui parsèment le Brevoy et l'Issie.  
 
 <div class="BD">
 {s:BDTitre|Jhod Kavken, prêtre déchu | FP 4}

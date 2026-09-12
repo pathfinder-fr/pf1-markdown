@@ -8,17 +8,17 @@ LastModified: 2020-02-27 03:22
 ''Kharig était un transmutateur émérite du temps des Seigneurs des Runes. Il vivait dans une demeure magnifique entouré de ses créations merveilleuses ainsi que de sa bien aimée Léora. C'était un créateur ingénieux, un amant passionné et un talentueux commerçant.
 Enfin... ça, c'est l'histoire officielle. ''
 
-Des érudits ont retrouvé des fragments de parchemin indiquant l'endroit où serait sa maison. Sans doute que les trésors qui s'y trouvent y reposent encore...
+Des érudits ont retrouvé des fragments de parchemin indiquant l'endroit où serait sa maison. Sans doute que les trésors qui s'y trouvent y reposent encore... 
 Une expédition a été menée, des trous ont été creusés et l'entré de la maison a été découverte !
 
-Malheureusement pour ceux qui ont fait cette découverte, ils ne sont pas revenus de leur excursion. Après tout, les sbires des Seigneurs des Runes pourraient avoir mis chez eux des pièges ou des créatures qui auraient pu survivre au cataclysme... ?
+Malheureusement pour ceux qui ont fait cette découverte, ils ne sont pas revenus de leur excursion. Après tout, les sbires des Seigneurs des Runes pourraient avoir mis chez eux des pièges ou des créatures qui auraient pu survivre au cataclysme... ? 
 
-Tout compte fait, il vaut mieux que ce soit un groupe d'aventuriers qui se donne la peine d'entrer... si vous voulez bien me suivre...
+Tout compte fait, il vaut mieux que ce soit un groupe d'aventuriers qui se donne la peine d'entrer... si vous voulez bien me suivre... 
 
 
 **Préambule :**{br}
-Ce donjon se déroule en quatre ailes (pas la voiture hein !) et deux jardins. Il est de FP6.
-Kharig avait fait construire sa maison principale qui est devenue l'aile des invités, il en a rajouté une autre pour les serviteurs et a créé dans un demi-plan une aile pour sa bien-aimée et une autre pour lui.
+Ce donjon se déroule en quatre ailes (pas la voiture hein !) et deux jardins. Il est de FP6. 
+Kharig avait fait construire sa maison principale qui est devenue l'aile des invités, il en a rajouté une autre pour les serviteurs et a créé dans un demi-plan une aile pour sa bien-aimée et une autre pour lui. 
 Il a créé de nombreux serviteurs (homoncules, objets animés, golems) pour son confort, se protéger et protéger ses biens. Après tout, personne n'aime les intrus chez soi... et les PJ pourraient bien avoir quelques soucis en s'aventurant chez lui...{br}
 
 <nav class="wiki-toc"></nav>
@@ -26,11 +26,11 @@ Il a créé de nombreux serviteurs (homoncules, objets animés, golems) pour son
 
 ### L'Aile des Invités
 
-Carte simplifiée :
+Carte simplifiée : 
 <img src="http://img15.hostingpics.net/pics/458329DTransmut21a.png" class="imageauto" alt="">
 
 
-Carte détaillée :
+Carte détaillée : 
 
 
 [Cliquez ici](http://img15.hostingpics.net/pics/566759VK14final1.png)
@@ -46,25 +46,25 @@ Autrefois, ces pièces servaient à vendre potions, poudres, matériel d'alchimi
 L'entré est au sud, après un couloir de 4,5m , on débouche sur une pièce éclairée par une [[Lampe thassilonienne animée (fanmade)|Lampe animée]] dans un coin, les autres torches s'allument dès qu'elles perçoivent une présence (Discrétion DD 18 si un joueur veut ne pas l'allumer).  Au milieu de cette pièce, une immense colonne de terre et de rochers de 6x6m a semble-t-il perforé le plafond bien qu'aucun débris ne soit trouvable au sol. Les murs autour sont faits de grès propre, tout comme le sol dont les dalles sont étrangement bien entretenues. Sur la droite en entrant on peut remarquer un autel avec une statuette en or d'une femme serpent avec une pièce étrange au lieu du visage et six ailes. Un jet de Connaissance Religion (DD 25) indique qu'il s'agit de la déesse Lissala. Il y a des runes gravées sur l'autel autour de la statuette. Toute tentative de prendre celle-ci déclenche un piège de métamorphose funeste (Blaireau, Crapaud, Ecureuil volant, Lézard, Rat ou Tortue). Un jet de Vigueur DD 20 annule, Volonté DD 20 partiel (transformé, mais capacités ext. sur gardées).
 Sur la gauche, il y a un râtelier en bois vermoulu et un peu plus haut un lit de jour en bois qui s'écroulera si quiconque tente de s'y installer.{br}
 Le piédestal à l'opposé ne comporte rien de spécial.
-Les portes en bois qui donnent accès aux chambres sont fragiles et peuvent se briser au moindre contacte trop brusque. Les rideaux au nord sont en lambeaux.
+Les portes en bois qui donnent accès aux chambres sont fragiles et peuvent se briser au moindre contacte trop brusque. Les rideaux au nord sont en lambeaux. 
 
-Un [[Balai animé (fanmade)|Balai animé]] passe de temps à autres quand il n'est pas dans la cuisine (salle 6).
+Un [[Balai animé (fanmade)|Balai animé]] passe de temps à autres quand il n'est pas dans la cuisine (salle 6). 
 A l'origine, il s'agissait de la pièce d'entré principale : au centre se trouvait l'impluvium (bassin recevant les eaux de pluies). Lors du cataclysme, la terre s'est engouffrée par cette ouverture. Les serviteurs de la villa ont agit selon leurs ordres : garder le sol propre. Ainsi, ils ont retiré toute la terre gênante. Celui qui était responsable de l'eau s'est fait par contre écrasé et n'a pas pu communiquer qu'il fallait retirer la terre du bassin, créant ainsi cette immense structure centrale.{br}
-A la vue des PJ, la lanterne qui est au coin sud s'anime et vient vers les PJ. Elle a une bouche magique et a été enchantée pour dire les discours de bienvenue, décrire les pièces et avertir de certains endroits à ne pas franchir en thassilonien.
-Elle ne pourra suivre qu'un seul PJ et demandera à ce qu'ils restent groupés.  Elle se défendra si on l'attaque ou préviendra des serviteurs si les PJ entrent dans des zones défendues aux invités.
+A la vue des PJ, la lanterne qui est au coin sud s'anime et vient vers les PJ. Elle a une bouche magique et a été enchantée pour dire les discours de bienvenue, décrire les pièces et avertir de certains endroits à ne pas franchir en thassilonien. 
+Elle ne pourra suivre qu'un seul PJ et demandera à ce qu'ils restent groupés.  Elle se défendra si on l'attaque ou préviendra des serviteurs si les PJ entrent dans des zones défendues aux invités. 
 
 Si les PJ détériorent de manière involontaire du matériel, un [[Colibri mécanique(fanmade)|Colibri mécanique]] viendra et réparera ce qui est cassé en touchant du bec l'objet et le réparant de manière instantanée et restera dans la pièce au cas où il soit nécessaire d'intervenir à nouveau. Le [[Balai animé (fanmade)|Balai animé]] pourra également nettoyer les débris.
 Si les PJ détériorent de manière volontaire les alentours, des serviteurs de garde ([[Gorille métallique(fanmade)|Garde animé]] ) viendront repousser vers la sortie les invités : ils n'ont cependant pas la notion que la sortie est "bloquée"  et par conséquent considéreront leur volonté de rester comme une intrusion légitime à attaquer.{br}
 Si les PJ réussissent un jet de Perception 20, ils pourront remarquer qu'à la base de la colonne de terre, il y a une sorte de poisson métallique pris dans la terre immobile. {br}
-A l'origine, il s'agissait de l'homoncule qui nettoyait l'impluvium mais celui-ci a été écrasé par la terre et ne fonctionne plus. Il est assez aplati, mais peut être vendu comme objet d'art pour 100po.
+A l'origine, il s'agissait de l'homoncule qui nettoyait l'impluvium mais celui-ci a été écrasé par la terre et ne fonctionne plus. Il est assez aplati, mais peut être vendu comme objet d'art pour 100po. 
 Les colibris, gorilles et poisson possèdent tous une pièce ronde métallique agissant comme une clef pour débloquer le corridor (en 12){br}
 
 
 #### **3. Chambres des invités**
-Ces quatre pièces sont toutes identiques : il y a un grand lit au cadre sculpté de motifs floraux à la couverture de laine autrefois sans doute agréable, elle est desséchée et rugueuse.
+Ces quatre pièces sont toutes identiques : il y a un grand lit au cadre sculpté de motifs floraux à la couverture de laine autrefois sans doute agréable, elle est desséchée et rugueuse. 
 Il y a également une armoire en bois, une petite vasque en porcelaine avec un miroir, un tabouret et un brasier.
 
-A l'entré d'un PJ, le [[Brasier animé(fanmade)|Brasier animé]] se met à bouger : les quatre pieds déplacent la structure dans la chambre. Il demande "Qui êtes-vous ? Que faites-vous là ?" en thassilonien.
+A l'entré d'un PJ, le [[Brasier animé(fanmade)|Brasier animé]] se met à bouger : les quatre pieds déplacent la structure dans la chambre. Il demande "Qui êtes-vous ? Que faites-vous là ?" en thassilonien. 
 Un teste de Diplomatie, Bluff ou Intimidation (DD 15, ou 20 si aucun PJ ne comprend le thassilonien) vous assurera la coopération du brasier ! Une réussite de plus de 5 le rendra même chaleureux et il pourra donner quelques informations. En cas d'échec, il se donne pour mission de repousser hors de la chambre l'invité quite à le combattre. {br}
 
 
@@ -77,7 +77,7 @@ Le Trône : toute personne s'asseyant dessus bénéficie du sort "adoration" (+2
 
 #### **5. Le Trinclinium**
 Cette salle a de larges bancs de pierre placés en U avec des matelas moelleux. {br}
-A l'origine c'était une salle de banquet. Pour que les convives passent un agréable moment, une panacée universelle avait été lancée sur la salle. Malheureusement, avec le temps, celle-ci  s'est altérée, augmentant l'intensité du résultat ou le dégradant.
+A l'origine c'était une salle de banquet. Pour que les convives passent un agréable moment, une panacée universelle avait été lancée sur la salle. Malheureusement, avec le temps, celle-ci  s'est altérée, augmentant l'intensité du résultat ou le dégradant. 
 
 En entrant dans cette salle, les PJ doivent faire un jet de Volonté (DD 16) ou succombé à l'effet de panacée universelle altérée par le temp ( 1d6 pour connaître les effets) : {br}
 1. *Analgésique* : le personnage ne ressent pas la douleur pendant 1h (le MJ ne lui indique pas qu'il perd des points de vie mais peut lui décrire qu'il a des plaies) {br}
@@ -89,7 +89,7 @@ En entrant dans cette salle, les PJ doivent faire un jet de Volonté (DD 16) ou 
 
 
 #### **6 Cuisine secondaire.**
-Cette salle regroupe des vases, quelques tables et des aliments séchés, des sacs contenant de la terre (autrefois fruits secs), des jarres vides, un plateau en métal finement ouvragé (50po).
+Cette salle regroupe des vases, quelques tables et des aliments séchés, des sacs contenant de la terre (autrefois fruits secs), des jarres vides, un plateau en métal finement ouvragé (50po). 
 Tout est très propre grâce au [[Balai animé (fanmade)|Balai animé]]. {br}
 
 
@@ -102,9 +102,9 @@ Cette salle est très colorée : six urnes de pierres peintes de couleurs vives 
 Chaque urne a une couleur différente : une rouge, une orange et une jaune d'un côté ; une verte, une bleue et une violette de l'autre.
 
 A l'origine, cette pièce était celle de méditation religieuse et de donations au culte de Lissala.  Ceux qui souhaitaient obtenir ses faveur y glissaient des gemmes aux couleurs de ce qu'ils désiraient : (rouge) force / courage / colère, (orange) constitution / bonnes récolte / gourmandise, (jaune) dextérité /propriété / envie , (vert) intelligence / fierté / orgueil, (bleu) sagesse / repos /paresse, (violet) charisme / amour / luxure.
-Régulièrement, les prêtres de Lissala venaient et récupéraient ces offrandes pour la Déesse.
-De nombreuses runes colorées sont gravées sur les urnes : ce sont les souhaits de ceux qui ont fait une offrande.
-On peut encore y trouver des gemmes (à votre bon plaisir), notez toutefois que si on prend quelque chose, une malédiction sur le long terme pourrait avoir lieu : perte de cheveux ou de dents, éternuements à répétition, problèmes de contrôle de la vessie, faim persistante, maladresses à répétition, insomnies... etc.
+Régulièrement, les prêtres de Lissala venaient et récupéraient ces offrandes pour la Déesse. 
+De nombreuses runes colorées sont gravées sur les urnes : ce sont les souhaits de ceux qui ont fait une offrande. 
+On peut encore y trouver des gemmes (à votre bon plaisir), notez toutefois que si on prend quelque chose, une malédiction sur le long terme pourrait avoir lieu : perte de cheveux ou de dents, éternuements à répétition, problèmes de contrôle de la vessie, faim persistante, maladresses à répétition, insomnies... etc. 
 
 En rendant ce qui a été volé et rajoutant la même valeur en dédommagement, le joueur pourrait obtenir le pardon de la Déesse et ne plus avoir ces malédictions.{br}
 
@@ -114,24 +114,24 @@ Cette pièce est composée d'un péristyle qui entoure les restes de ce qui deva
 Si un joueur se trouve à 6m  d'un champignon, il doit faire un jet de discrétion (DD 12) raté entraine une émission de spores dans un rayon de 4,5m autour du champignon. Ce nuage de spore reste pendant 1d6 rounds. Si un PJ est dedans il doit réussir un jet de vigueur (DD 15) ou être fiévreux. S'il reste dans les spores et rate une seconde fois son jet, il devient nauséeux. Au troisième échec, le PJ se prend 1d4 points de dégâts dû à des problèmes respiratoires.{br}
 Trois colibris survolent cet endroit s'ils ne sont pas intervenus avant.  Deux gorilles sont soit immobiles en veille sur leur socle de régénération (à placer selon vos choix), soit patrouillent.
 
-La porte qui mène en 12 à l'Ouest est en fer et  fermées (verrou magique) (Force DD 24, Sabotage DD 20). Les "clefs" (pièce ronde avec un symbole ressemblant à une clef) peuvent être récupérées sur un serviteur (réparateur ou gardien, mais pas la lampe magique).
+La porte qui mène en 12 à l'Ouest est en fer et  fermées (verrou magique) (Force DD 24, Sabotage DD 20). Les "clefs" (pièce ronde avec un symbole ressemblant à une clef) peuvent être récupérées sur un serviteur (réparateur ou gardien, mais pas la lampe magique). 
 La porte qui mène en 12 à l'Est est une porte en pierre peinte qui représente une femme élégante. Questionner la lampe animée à ce sujet indiquera qu'il s'agit d'une peinture de Léora, la bien-aimée de Kharig. Un teste de Perception (DD 20) révélera les contours de la porte à droite et à gauche ainsi qu'un espace en bas. Cette porte s'active sous un sort de lévitation (vers le haut), lorsque la personne en face "veut" que la porte se lève (et non qu'elle s'ouvre)(Volonté DD 10). Enfoncer la porte requiert un teste de Force (DD 28). {br}
 
 
 #### **9. Sudatorium **
 Après avoir ouvert les portes, un mur de séparation empêche la visibilité de la salle et oblige à passer à droite ou à gauche. Une fois dans la pièce, une chaleur étouffante assaillent les PJ. Une rangée de banc se tient dans le fond et une torche éclair le mur de séparation sur lequel il y a des inscriptions et en haut, une énorme gemme blanche (Estimation DD 15 : un diamant 7000 po).{br}
-Sur tous les murs il y a des runes.
+Sur tous les murs il y a des runes. 
 
-A l'origine, cette pièce servait à transpirer. Elle est maintenue magiquement à 80°.  Un personnage entrant en armure doit faire un jet de Vigueur toutes les 10 minutes (DD 15+1 par jet effectué au préalable) sous peine de prendre 1d4 dégât non létal.
+A l'origine, cette pièce servait à transpirer. Elle est maintenue magiquement à 80°.  Un personnage entrant en armure doit faire un jet de Vigueur toutes les 10 minutes (DD 15+1 par jet effectué au préalable) sous peine de prendre 1d4 dégât non létal. 
 
 Sur le mur il est écrit : "Quiconque trouve la réponse à l'énigme, remporte ce diamant."{br}
-L'énigme en thassilonien :
+L'énigme en thassilonien : 
 ''"J'ai des yeux qui vous regardent sans jamais vous voir{br}
 et suis vêtu d'un ciel sans étoiles et sans nuage.{br}
 Beauté parfaite si toutefois elle reste silencieuse."''
 
 Les runes sur les murs sont pour la plupart inoffensives. Néanmoins, si dans un délai d'une heure 3 runes sont touchées, la troisième libère une décharge de feu de 2d6 points de dégâts sur la personne.
-Chaque rune représente un mot différent : tous les mots du dictionnaire ou presque (en tout cas toutes les réponses que les PJ peuvent vous donner).
+Chaque rune représente un mot différent : tous les mots du dictionnaire ou presque (en tout cas toutes les réponses que les PJ peuvent vous donner). 
 Un jet de Perception (DD 20) permet de retrouver la rune en moins de 10 minutes. Pour tout échec, 10 minutes supplémentaires par tranche de 5 niveau sera nécessaire.
 Sachant que la rune cherchée n'est pas forcément la bonne réponse... car la réponse attendue est "le paon".
 Si vos joueurs ont trop de mal, vous pouvez faire un teste d'Intelligence (DD 20) pour leur accorder une réussite. En cas d'échec, ils ne trouvent pas la rune et peuvent continuer à chercher. La difficulté diminue de 1 toutes les 10 minutes en imaginant qu'ils réussissent à déchiffrer la plupart des runes. {br}
@@ -141,25 +141,25 @@ Si vos joueurs ont trop de mal, vous pouvez faire un teste d'Intelligence (DD 20
 A l'origine, cette pièce permettait "d'accueillir" des invités ... pas très désirables. Ils entraient dans cette pièce et... n'en ressortaient souvent jamais. La salle de 9x6m (6x4 cases) a trois fresques (une sur chaque mur) faisant 1x2m  représentant un village au milieu de sapins, un autre au milieu d'un désert,  ainsi qu'un dernier sur le bord de mer. Une grande mosaïque d'une femme avec une licorne orne le sol. La lumière est apportée par deux braseros au plafond suspendu par des chaînes.
 
 Lorsque les PJ entrent, la lampe qui leur sert de guide indique juste qu'il s'agit d'une salle d'attente. S'ils se sont montrés jusque là respectables, elle les invites à ne pas y rester. S'ils ont été désagréables, elle les laisse y entrer sans autre avertissement. Une fois qu'ils sont tous rentrés, la porte en bois épais se ferme. (Réflexe DD 20 pour la rattraper, Force 18 pour qu'elle ne se referme pas)
-Le sol a un sort de sables changeant trois rounds après que la porte soit fermée.
-Un joueur peut tenter de se raccrocher à un brasero mais subira 1d4 points de dégâts de feu par round où il s'y tient.
+Le sol a un sort de sables changeant trois rounds après que la porte soit fermée. 
+Un joueur peut tenter de se raccrocher à un brasero mais subira 1d4 points de dégâts de feu par round où il s'y tient. 
 Une autre salle de la même dimension est au dessous comprenant de la poussière et des os (restes des précédents invités). Cette salle n'a pas de lumière. Un teste de Perception DD 35 sans lumière, 25 avec, permet de remarquer un tout petit trou de 10cm au bas d'un des murs : c'est par là que peuvent arriver des serviteurs munis d'une baguette de rétrécissement d'objet : ils emportent avec eux les objets de valeur (métaux, armures) de taille réduite et les emmènent dans l'Aile des Serviteurs en 8.
 Les-dits serviteurs arrivent au bout de 1d10 round.{br}
 
 
 #### **11. Salle de bain**
-Le long  du mur Ouest trois vasques accueillent l'eau d'une fontaine de pierre, représentant des poissons la bouche ouverte.
-Au Nord, un bassin  de 3x3m est rempli d'une eau d'une température assez chaude mais agréable.
-A l'EST, trois petites alcôves de 2x1,5m  sont dissimulées par des portes en bois : derrière sont les latrines : un trou dans un siège de pierre.
+Le long  du mur Ouest trois vasques accueillent l'eau d'une fontaine de pierre, représentant des poissons la bouche ouverte. 
+Au Nord, un bassin  de 3x3m est rempli d'une eau d'une température assez chaude mais agréable. 
+A l'EST, trois petites alcôves de 2x1,5m  sont dissimulées par des portes en bois : derrière sont les latrines : un trou dans un siège de pierre. 
 Pour éviter les odeurs, tout ce qui touche le sol des latrines (dans le trou) se retrouve gelé. Si un PJ y met la main, il reçoit 2d6 dégâts de froid. {br}
 
 
 #### **12. Corridor**
-Ce passage permet l'accès aux ailes privées des serviteurs, du Maître et de la Dame.
+Ce passage permet l'accès aux ailes privées des serviteurs, du Maître et de la Dame. 
 Il est gardé par un [[Pathfinder-RPG.Golem de bois|golem de bois]] qui dans un premier temps ordonne de partir aux intrus sauf si le maître des lieux leur permet de passer. Dans un second temps, il indique qu'ils ont 5 secondes pour quitter les lieux auquel cas il attaquera. Passé ce délai, il attaque. Si les PJ sortent du couloir, il cesse le combat, se régénère et reprend sa ronde. {br}
 La porte des serviteurs est en bois épais (ouverte).{br}
 La porte du Maître est en métal doré (fermée non verrouillée). {br}
-La porte de la Dame est  en fer, fermée et verrouillée. (Force DD 28, Sabotage DD 20).
+La porte de la Dame est  en fer, fermée et verrouillée. (Force DD 28, Sabotage DD 20). 
 Un piège au niveau du couloir vers l'aile de la Dame est présent : sur trois mètres de long il y a une fosse de 18m de profondeur avec des piques. Au plafond il y a également des piques. Il y a surtout une zone de lévitation au milieu : un joueur qui saute sera emporté par son élan et se retrouvera dans les piques au plafond, recevant 3d6 points de dégâts. Pour passer ce piège, il suffit de marcher tout simplement. {br}
 La Lampe animée ne suit plus les aventuriers à partir de là, les ayant prévenus. Elle retourne à l'entré s'ils entrent dans le corridor.
 
@@ -180,7 +180,7 @@ La Lampe animée ne suit plus les aventuriers à partir de là, les ayant préve
 <img src="http://img11.hostingpics.net/pics/959771Plan2a1.png" class="imageauto" alt="">
 </center>
 
-Carte détaillée :
+Carte détaillée : 
 [Cliquez ici](http://img11.hostingpics.net/pics/230417DunVK21i.png)
 
 #### **1. La Galerie**
@@ -191,13 +191,13 @@ A l'origine la galerie donnait sur les jardins, mais lors du cataclysme, elle a 
 La porte au fond s'ouvrira avec la clef trouvée sur un serviteur, utilisée pour venir dans cette pièce.
 
 #### **2.Vestibule**
-A l'arrivée des aventuriers, la salle s'illumine : les torches murales s'enflamment et les brasiers s'activent, faisant flamboyer leurs braises.  Les murs sont de grès, sans fioriture hors mis un bas relief dans le fond de la salle représentant un homme en robe de haute stature (Kharig), les fenêtres sont obstruées par de la terre, et quatre [[Pathfinder-RPG.Caryatide|Caryatides]] sont aux angles de la pièce.
+A l'arrivée des aventuriers, la salle s'illumine : les torches murales s'enflamment et les brasiers s'activent, faisant flamboyer leurs braises.  Les murs sont de grès, sans fioriture hors mis un bas relief dans le fond de la salle représentant un homme en robe de haute stature (Kharig), les fenêtres sont obstruées par de la terre, et quatre [[Pathfinder-RPG.Caryatide|Caryatides]] sont aux angles de la pièce. 
 
 
 Les deux portes sur les côtés sont en bois et fermées.{br}
 Tout irait pour le mieux si l'un des brasiers n'avait quelques défauts et, au lieu de créer une chaleur agréable, ne cause une fumée pour le moins étouffante au bout de 1d3 round d'activation. La zone enfumée augmente à chaque round d'une case dans tous les sens. {br}
 Pour arrêter cela il est possible d'attaquer le brasero (Solidité 5, PV 30), soit de dissiper la magie.
-Malheureusement, toute tentative de toucher au brasier déclenchera l'hostilité des [[Pathfinder-RPG.Caryatide|Caryatides]] qui attaqueront les intrus.
+Malheureusement, toute tentative de toucher au brasier déclenchera l'hostilité des [[Pathfinder-RPG.Caryatide|Caryatides]] qui attaqueront les intrus. 
 
 
 En ce qui concerne les portes, elles sont sensées s'ouvrir quand on s'approche et se fermer quand on s'éloigne. Cependant,  celle du sud a également un mécanisme défaillant : elle s'ouvre lorsqu'on s'en éloigne et se ferme quand on est proche ! La priorité, bien sûr, est à la créature la plus proche (donc porte fermée si on a un personnage près et un autre loin).{br}
@@ -205,12 +205,12 @@ Pour aller dans la salle suivante, il faut soit utiliser la [[Pathfinder-RPG.Car
 Le bas-relief, comme la représentation de Kharig du tablinum, lui permet de voir et d'entendre ce qu'il se passe. {br}
 
 #### **3.Sas**
-Cette petite pièce étroite sent le renfermé et on peut voir des champignons pousser sur les murs. Elle comporte deux portes et un escalier.
+Cette petite pièce étroite sent le renfermé et on peut voir des champignons pousser sur les murs. Elle comporte deux portes et un escalier. 
 
 
 L'escalier est protégé magiquement, si celui qui veut l'emprunter ne dit pas le mot de passe, les marches s'inclinent et l'escalier devient toboggan. En réussissant un teste d'[[Pathfinder-RPG.Escalade|Escalade]] (DD 20) le personnage peut s'aider du pilier central de l'escalier et de la paroi pour grimper.{br}
 Le mot de passe est le nom de sa bien-aimée : Léora. {br}
-Son nom peut apparaître lors d'une discussion avec le brasero de l'aile des invités ou en indication de la lampe animée lorsqu'ils demandent des précisions sur la femme peinte sur la porte qui mène au corridor de l'Aile de la Dame.
+Son nom peut apparaître lors d'une discussion avec le brasero de l'aile des invités ou en indication de la lampe animée lorsqu'ils demandent des précisions sur la femme peinte sur la porte qui mène au corridor de l'Aile de la Dame. 
 
 
 Dans les airs flotte également une clef à l'état gazeux. {br}
@@ -224,22 +224,22 @@ Un teste de [[Pathfinder-RPG.Sabotage|Sabotage]] (DD 20), de [[Pathfinder-RPG.Ca
 Lorsque la porte s'ouvre, on ne perçoit que l'obscurité de la salle. Il n'y a pas de bruit, juste un amas grouillant sur les différentes tables qui se déplace rapidement en direction des aventuriers.
 
 
-Il s'agit en réalité d'une [[Pathfinder-RPG.Nuée de fourmis soldats|nuée de fourmis soldats]]. Une partie de la colonie a élue domicile dans la réserve, n'en sortant jamais puisque dune part la nourriture est ici abondante : la corne d'abondance offre l'opulence une fois par jour, et de jarres (une de vin une autre d'eau) sont toujours pleines ; et d'autres part, les champignons à l'extérieur de la salle ont tendance à les repousser.
+Il s'agit en réalité d'une [[Pathfinder-RPG.Nuée de fourmis soldats|nuée de fourmis soldats]]. Une partie de la colonie a élue domicile dans la réserve, n'en sortant jamais puisque dune part la nourriture est ici abondante : la corne d'abondance offre l'opulence une fois par jour, et de jarres (une de vin une autre d'eau) sont toujours pleines ; et d'autres part, les champignons à l'extérieur de la salle ont tendance à les repousser. 
 
 
 Un jet d'[[Pathfinder-RPG.Caractéristiques.ashx#LIntelligence_Int_4|Intelligence]]  (DD 15) permet de le savoir et en cas d'application du champignon sur un personnage, les fourmis accrochées s'en iront. {br}
 Si le combat se déroule dans le sas, seule une partie des fourmis attaqueront et les dégâts ainsi que les points de vie seront réduits de moitié. {br}
 
 #### **5.Cuisine principale**
-Kharig avait, comme tout thassilonien qui se respecte, des esclaves shoantis. Cependant, afin de s'assurer de leur loyauté, il en transforma certains en leur promettant que s'ils le servaient bien, ils retrouveraient leur apparence initiale.
+Kharig avait, comme tout thassilonien qui se respecte, des esclaves shoantis. Cependant, afin de s'assurer de leur loyauté, il en transforma certains en leur promettant que s'ils le servaient bien, ils retrouveraient leur apparence initiale. 
 
 
 En entendant les bruits de combat, une partie des serviteurs souhaite demander de l'aide à ces nouveaux venus. L'autre partie au contraire souhaite rester fidèle à Kharig. {br}
 Quand les aventuriers entreront dans la salle, ils se feront interpeler par une marmite et un rouleau à pâtisserie parlants. Peu d'instruments savent encore parler en réalité, beaucoup ne font que grogner ou balbutier et d'autres ont oublié comment s'exprimer.
 
 
-La marmite souhaite que les aventurier les aide à se libérer du joug de Kharig et retrouver leur apparence. Ils savent qu'il faisait des expériences et qu'il y a sans doute un moyen de leur rendre leur forme initiale.
-Le rouleau à pâtisserie, lui, souhaite au contraire que toute intrusion soit punie, comme leur maître l'exige, afin de retrouver sa véritable forme, car s'il suit bien les instructions, leur maître leur a promis de leur rendre leur apparence.
+La marmite souhaite que les aventurier les aide à se libérer du joug de Kharig et retrouver leur apparence. Ils savent qu'il faisait des expériences et qu'il y a sans doute un moyen de leur rendre leur forme initiale. 
+Le rouleau à pâtisserie, lui, souhaite au contraire que toute intrusion soit punie, comme leur maître l'exige, afin de retrouver sa véritable forme, car s'il suit bien les instructions, leur maître leur a promis de leur rendre leur apparence. 
 
 
 Un teste de [[Pathfinder-RPG.Diplomatie|Diplomatie]] (DD 28 ) permet de l'adoucir un peu : il demandera alors que les aventuriers partent. Dans le cas contraire un combat éclatera dans un grand fracas de poêles, casseroles, couteaux, planche à découper, louches, cuillères et piques à rôtir.{br}
@@ -262,12 +262,12 @@ Evolution possible en fonction de la participation des joueurs : {br}
 63 PV rebelles : défaite des rebelles (un seul survivant blessé){br}
 <70 PV : défaite des rebelles (3 survivants){br}
 71 PV : les deux camps déclarent forfait  (3 survivants de chaque côté){br}
->71 : Victoire des rebelles
+>71 : Victoire des rebelles  
 
 #### **6.Salle de démonstration**
 *Cette salle comporte quatre piédestaux sur lesquels sont posés des bustes à tête d'animal. Le mur du fond est totalement détruit, des blocs de pierre et de la terre bloque une partie de la salle. Un des quatre bustes est d'ailleurs au le sol.*
 
-En [[Pathfinder-RPG.Perception|fouillant]] dans les débris (DD 20) on peut également trouver une épée qui parle par télépathie lorsqu'on la tient.
+En [[Pathfinder-RPG.Perception|fouillant]] dans les débris (DD 20) on peut également trouver une épée qui parle par télépathie lorsqu'on la tient. 
 
 
 Les bustes discutent allègrement et feront des commentaires sur les aventuriers critiquant leur équipement, leurs cheveux, tout signe distinctif et même leur façon de combattre. {br}
@@ -277,8 +277,8 @@ Le taureau : Il représente la Force, caractère emporté et impulsif{br}
 Le renard  : Il représente l'intelligence, il est digne et sournois{br}
 Le hibou : Au sol, il est un fêlé et ne parle plus. Il représentait la sagesse. {br}
 
-L'épée quant à elle se nomme Zaracas.
-C'est un objet intelligent qui n'a qu'une seule envie : devenir humaine. Il fera croire aux joueurs qu'il est une âme enfermée dans l'épée et qu'il souhaite récupérer un corps pour pouvoir vivre "à nouveau".
+L'épée quant à elle se nomme Zaracas. 
+C'est un objet intelligent qui n'a qu'une seule envie : devenir humaine. Il fera croire aux joueurs qu'il est une âme enfermée dans l'épée et qu'il souhaite récupérer un corps pour pouvoir vivre "à nouveau". 
 En réalité, toute tentative de transférer la conscience de l'épée dans un corps mènera soit à un échec, soit attirera une âme errante, ce qui pourrait poser problème.
 
 Dans tous les cas, cette épée parlante est une option pour pimenter le reste de votre aventure. L'idée étant qu'elle est prête à tout pour trouver un soupçon de vie, même si elle doit pour cela tuer, voler ou faire d'autres choses peu recommandables.
@@ -294,22 +294,22 @@ Cependant, lorsqu'ils entrent dans la salle de démonstration, ils reprennent le
 Sur la gauche un bac rempli d'une eau claire avec une planche à laver le linge.''
 
 
-Le bac est enchanté de manière à ce que tout objet plongé dedans redevienne propre.
+Le bac est enchanté de manière à ce que tout objet plongé dedans redevienne propre. 
 
 
-L'autel dans le fond permet de réparer en trois minutes seulement tout objet posé dessus (y compris le buste du hibou par exemple).
+L'autel dans le fond permet de réparer en trois minutes seulement tout objet posé dessus (y compris le buste du hibou par exemple). 
 Il avait été fabriqué par des Nains et dérobé à ceux-ci. Le [[Madinn Minegarde|prêtre de Torag]] qui avait été capturé avec sa création a été suspendu aux chaînes murales, contraint de la voir pervertie, utilisée et souillée par les esclaves de Kharig. {br}
-Son fantôme erre encore et il apparaîtra à ceux qui entrent.
+Son fantôme erre encore et il apparaîtra à ceux qui entrent. 
 
 
 Un jet de diplomatie (DD 20) permettra l'accord du fantôme pour réparer un objet (un second par tranche de 5 niveaux de réussite). En dessous, il refusera et attaquera même les aventuriers récalcitrants. {br}
 Son âme étant liée à sa création, il ne peut mourir tant que celle-ci existe. {br}
-Pour libérer l'âme du fantôme, chose qu'il peut éventuellement demander si les aventuriers se sont montrés sympathiques, il "suffit" de détruire l'autel.  ( Solidité 8,  45PV ).{br}
-Les dégâts sont également infligés à l'arme si elle n'est pas contondante.( Les armes contondantes ne subissent que la moitié des dégâts).
+Pour libérer l'âme du fantôme, chose qu'il peut éventuellement demander si les aventuriers se sont montrés sympathiques, il "suffit" de détruire l'autel.  ( Solidité 8,  45PV ).{br} 
+Les dégâts sont également infligés à l'arme si elle n'est pas contondante.( Les armes contondantes ne subissent que la moitié des dégâts). 
 
 
 Le prêtre fantôme pourra proposer son aide pour enchanter les armes si on lui apporte de la poudre d'adamentium. L'arme sera protégée le temps du combat et gagnera un bonus de 20 en solidité et +1 en attaque.{br}
-L'autel récupère 10 PV par round grâce à son sort de réparation (une dissipation de la magie bloque pendant 1d4 round la réparation).
+L'autel récupère 10 PV par round grâce à son sort de réparation (une dissipation de la magie bloque pendant 1d4 round la réparation). 
 
 
 A 30 PV, l'autel libère 5 [[Pathfinder-RPG.Élémentaire de la Terre|Élémentaire de terre]] de taille P. {br}
@@ -420,18 +420,18 @@ Pour y accéder, les aventuriers peuvent passer par plusieurs pistes (cf image).
 Une fois arrivés en haut, il est possible d'ouvrir le coffret (de 10x20cm), de prendre la poudre et redescendre ou pousser le coffret pour qu'il fasse un chemin à emprunter.{br}
 
 #### **9. Couloir du 1er étage**
-Ce couloir est gardé par un [[Pathfinder-RPG.golem de glace|golem de glace]] qui est sur un socle au milieu.
+Ce couloir est gardé par un [[Pathfinder-RPG.golem de glace|golem de glace]] qui est sur un socle au milieu. 
 
 C'est un immense amas de glace cristalline qui renferme une clef bien visible au niveau de sa poitrine. Il s'anime en voyant les aventuriers et les attaque sans poser de question.
 
 
-Seule l'amulette du maître détenue par Kharig (dans l'Aile du Maître) permet de ne pas être attaqué et de prendre la clef sans combattre.
+Seule l'amulette du maître détenue par Kharig (dans l'Aile du Maître) permet de ne pas être attaqué et de prendre la clef sans combattre. 
 
 Si le golem meurt, la clef peut être prise : elle sert à ouvrir les salles 10, 11 et 12.{br}
 
 
 #### **10.Atelier de construction**
-Cette salle, comme au dessous, a été enchantée pour réduire toute personne qui y entre à 1/16ieme de sa taille.
+Cette salle, comme au dessous, a été enchantée pour réduire toute personne qui y entre à 1/16ieme de sa taille. 
 Les aventuriers peuvent donc constater que la salle semble être en deux parties : dans la première un bureau, une table de pierre détruite vers le Nord, et vers le sud une bibliothèque et un coffre. {br}
 Dans la seconde partie (où il y a un trou), il s'agit d'une sorte d'autel avec un bol. Un teste d'Art de la Magie (DD 20) permet de savoir que c'est un atelier de création d'homoncules.
 
@@ -439,7 +439,7 @@ Dans la seconde partie (où il y a un trou), il s'agit d'une sorte d'autel avec 
 Il est possible de grimper sur le bureau ou la bibliothèque, voire même de faire tomber des parchemins avec un teste de Force (DD 8).  Au 4ieme niveau de la bibliothèque se trouve la clef pour ouvrir le coffre. Un jet d'Escalade (DD 15) permet de s'élever d'un pallier. Toute chute se fait avec 1d6 points de dégâts par pallier.
 
 
-Dans la bibliothèque on peut trouver : un parchemin d'agrandissement, un parchemin de réduction, une potion de soins.
+Dans la bibliothèque on peut trouver : un parchemin d'agrandissement, un parchemin de réduction, une potion de soins. 
 Notez qu'il faudra pousser les objets en dehors de la salle pour pouvoir les prendre :ils sont insensibles au sort de miniaturisation actuel.
 
 
@@ -447,12 +447,12 @@ Pour monter sur le coffre, hisser la clef et ouvrir le coffre il y a plein de m�
 - poser des planchettes jusqu'en haut du coffre (Intelligence DD 5, Force DD 10) puis grimper jusqu'en haut (Acrobatie DD 10){br}
 - grimper en s'aidant des rebords du coffre (Escalade DD 15){br}
 - faire un système de treuil en faisant passer une corde par dessus le coffre et en attachant un personnage à un bout, les autres membres du groupe le tirant (Force DD 15){br}
-- faire un système de catapulte avec un caillou et une planche (Connaissance Ingénierie DD 15)... etc.
+- faire un système de catapulte avec un caillou et une planche (Connaissance Ingénierie DD 15)... etc. 
 
 
 Une fois la clef dans la serrure, il faut pouvoir la tourner (Force DD 12) et enfin ouvrir le coffre (Force DD 15 ou Connaissances Ingénierie DD 12).{br}
 
-''Dans la seconde partie de la pièce se trouve une structure avec quatre braseros allumés, un grand réceptacle en forme de bol avec une inscription gravée sur le pourtour au centre et une créature ressemblant à une belle femme aux dents pointues, dotée d'ailes de diablotins dedans.
+''Dans la seconde partie de la pièce se trouve une structure avec quatre braseros allumés, un grand réceptacle en forme de bol avec une inscription gravée sur le pourtour au centre et une créature ressemblant à une belle femme aux dents pointues, dotée d'ailes de diablotins dedans. 
 
 Une partie du mur Nord est effondré et un trou mène à la pièce inférieure et il y a également une brèche dans le mur Sud qui permet éventuellement d'accéder à la salle suivante.''
 
@@ -488,25 +488,25 @@ Il s'agit en réalité d'une salle de déconstruction afin de réparer les maté
 Le premier piédestal comporte un symbole d'arme dessus. Toute arme posée sera... cassée.  Si l'arme était magique, elle perdra son pouvoir magique. Une fois réparée elle restera une arme de maître cependant.
 
 
-Le second piédestal comporte un symbole de parchemin. Si un personnage pose un livre ou un parchemin dessus, le contenu sera... effacé.
-Il y a une chance sur 1d6 pour que  les composants du sorts soient restitués sur le papier vide.
+Le second piédestal comporte un symbole de parchemin. Si un personnage pose un livre ou un parchemin dessus, le contenu sera... effacé. 
+Il y a une chance sur 1d6 pour que  les composants du sorts soient restitués sur le papier vide. 
 
 
 Le marteau du maladroit. Un superbe marteau enchanté repose sur l'autel. La hampe est de corne, la tête de pierre et le tout gravé de runes. {br}
-Ce marteau était à l'origine utilisé pour détruire de lourds objets et bénéficie de l'amélioration magique "[[Pathfinder-RPG.ancrage dimensionnel (propriété)|Ancrage dimensionnel]]".
+Ce marteau était à l'origine utilisé pour détruire de lourds objets et bénéficie de l'amélioration magique "[[Pathfinder-RPG.ancrage dimensionnel (propriété)|Ancrage dimensionnel]]". 
 
 
 Malheureusement, à force de passer des siècles sur un autel de destruction, il a finit par être également porteur d'une grande "Maladresse" : le porteur perd en effet 1d6+4 point de dextérité et risque de tomber s'il se déplace plus qu'à la moitié de sa vitesse de base. {br}
 Il émane de l'autel une aura magique qui permet une plus grande facilité de destruction des objets dessus. (Solidité divisée par deux){br}
 
 #### **13.Bureau**
-*Cette pièce s'illumine à l'arrivée des aventuriers et dévoile des bibliothèques et un bureau.*
+*Cette pièce s'illumine à l'arrivée des aventuriers et dévoile des bibliothèques et un bureau.* 
 
 
-Dans les bibliothèques les rares parchemins en bon état parlent de traités sur la transmutation. Il y a éventuellement des parchemins magiques sur ce thème.
+Dans les bibliothèques les rares parchemins en bon état parlent de traités sur la transmutation. Il y a éventuellement des parchemins magiques sur ce thème. 
 
 
-Sur la table une paire de lunettes aux verres orangés dégage de la magie : il s'agit d'une paire de lunette enchantée pour agir comme "compréhension des langues" pour tout ce qui est écrit.
+Sur la table une paire de lunettes aux verres orangés dégage de la magie : il s'agit d'une paire de lunette enchantée pour agir comme "compréhension des langues" pour tout ce qui est écrit. 
 
 
 Le plus intéressant toutefois, reste un livre ouvert sur le bureau, la couverture est dorée, finement travaillée, les pages sont encore intactes. Le livre est assurément magique. {br}
@@ -516,7 +516,7 @@ Si les personnages viennent à mourir dans l'histoire réapparaissent en dehors 
 
 
 #### **14.Atelier des poudres**
-La porte en bois est un peu difficile à ouvrir (teste de Force DD 10) et derrière on peut découvrir deux tables d'alchimie.
+La porte en bois est un peu difficile à ouvrir (teste de Force DD 10) et derrière on peut découvrir deux tables d'alchimie. 
 
 
 C'est ici que Kharig préparait ses poudres spéciales qu'il revendait à des prix défiant toute concurrence.{br}
@@ -537,7 +537,7 @@ Dans le coffre il y a de petits vases avec gravé dessus des symboles d'animaux 
 
 
 #### **15.Salle de la sentinelle**
-Cette salle a en son fond une estrade à trois marches sur laquelle se tient un [[Pathfinder-RPG.Créatures mécaniques Soldat.ashx|soldat mécanique]] avec une hallebarde brillante.
+Cette salle a en son fond une estrade à trois marches sur laquelle se tient un [[Pathfinder-RPG.Créatures mécaniques Soldat.ashx|soldat mécanique]] avec une hallebarde brillante. 
 
 
 A l'arrivée des intrus, il se met en garde et attaque en lançant un "Vous n'avez rien à faire ici !"{br}
@@ -545,7 +545,7 @@ A l'arrivée des intrus, il se met en garde et attaque en lançant un "Vous n'av
 
 Cette création est cependant défaillante : sa "[[Pathfinder-RPG.Fuite aérienne|fuite aérienne]]" ne s'active plus correctement. {br}
 Tous les rounds, on lance 1d6 afin de savoir s'il est intangible ou non. {br}
-En dessous de 20 PV, il devient très instable et se met à bourdonner. A chaque action le teste devra être fait.
+En dessous de 20 PV, il devient très instable et se met à bourdonner. A chaque action le teste devra être fait. 
 
 
 Au moment de sa mort il libère une déflagration qui cause 2d6 dégâts à 6m (4cases) autour de lui (un jet de Réflexe DD 15 permet de ne prendre que la moitié des dégâts).
@@ -569,8 +569,8 @@ Les personnages libres peuvent déterrer leurs amis. Un personnage qui déblaye 
 
 
 
-''Kharig était un seigneur assez puissant financièrement parlant et à l'imagination tellement prolixe qu'on le laissa faire ses œuvres sans poser de question. Il fut cependant amené à épouser une jeune femme d'une condition supérieure dont il était totalement épris : Léora.
-Pour elle, il fit construire cette aile, pour qu'elle n'ait besoin de rien, que tout lui soit agréable. Il ralenti même ses propre créations pour ne se soucier que de sa bien-aimée.
+''Kharig était un seigneur assez puissant financièrement parlant et à l'imagination tellement prolixe qu'on le laissa faire ses œuvres sans poser de question. Il fut cependant amené à épouser une jeune femme d'une condition supérieure dont il était totalement épris : Léora. 
+Pour elle, il fit construire cette aile, pour qu'elle n'ait besoin de rien, que tout lui soit agréable. Il ralenti même ses propre créations pour ne se soucier que de sa bien-aimée. 
 Celle-ci fut émerveillée au départ par tant d'ingéniosité. Puis, vint l'habitude et pour finir, la lassitude. ''
 
 L'Aile de la Dame est en réalité dans un demi-plan : c'est pour cela que l'architecture n'est pas affectée par le cataclysme.
@@ -580,15 +580,15 @@ L'ambiance de ce couloir est raffinée : des tapisseries sur les murs, un long t
 Mais avant que les aventuriers n'aient eu le temps de contempler les lieux, deux [[Pathfinder-RPG.Créatures mécaniques Soldat|armures métalliques]] s'animent et les attaquent en arguant qu'ils ne sont pas autorisés à rendre visite à la Dame.{br}
 
 Au fond du couloir, près de la porte du fond, il y a un cadre qui comporte une roue en bois divisée en quatre segments sur lesquels sont gravés différentes images : un arbre fleuri avec un oiseau, un arbre feuillu avec le soleil, un arbre avec des feuilles qui tombent et un arbre dépourvu de feuille.{br}
-Il s'agit là en réalité du mécanisme qui permet au jardin de changer de saison lorsqu'on le tourne (le segment du haut donne la saison).
+Il s'agit là en réalité du mécanisme qui permet au jardin de changer de saison lorsqu'on le tourne (le segment du haut donne la saison). 
 
 
 #### 2. Le jardin
-D'une douceur et d'une beauté inégalée. Quelle que soit la saison choisie, le jardin garde une température agréable.
+D'une douceur et d'une beauté inégalée. Quelle que soit la saison choisie, le jardin garde une température agréable. 
 Le jardin se trouve sur un demi-plan (ce qui permet de  voir un joli ciel bleu alors que normalement on est sous terre) : changer la saison "fige" le plan en cours et n'anime que celui qui est sélectionné. Si un aventurier se trouve dans le jardin en hiver tandis qu'un autre change la saison : l'aventurier dans le jardin disparaîtrait des yeux de ses compagnons. Il se retrouvé figé dans le temps, pour lui plus rien ne bouge et il n'a plus conscience du temps qui passe.
 Le jardin est constitué de plusieurs endroits : [un jardin avec des statues](http://img15.hostingpics.net/pics/563746Salle42.png), un jardin potager et médicinal, un grand parc avec différents arbres, arbustes, et animaux, un lac au pied d'une cascade et une forêt en bordure.{br}
 
-<u>L'été :</u> c'est la saison qui est mise par défaut. La chaleur y est plus forte que pour les autres saisons tout en restant agréable avec une petite brise qui souffle de temps en temps. C'est une période agréable à l'ombre et idéale pour bronzer.
+<u>L'été :</u> c'est la saison qui est mise par défaut. La chaleur y est plus forte que pour les autres saisons tout en restant agréable avec une petite brise qui souffle de temps en temps. C'est une période agréable à l'ombre et idéale pour bronzer. 
 Malheureusement, puisque dix mille ans se sont écoulés bel et bien dans ce lieu, l'herbe y est sèche et jaunie, les potagers ne sont plus que terre, les animaux sont morts depuis bien longtemps et le lac n'est plus qu'une marre de boue. {br}
 Le jardin des statues comprend une statue de basilic et six statues d'humains (dont celle de Kharig) dans des poses nobles. Parmi celles-ci, il y en a une qui est en réalité un des [[Ennemis de Kharig(fanmade)|Ennemis de Kharig]] pétrifié. {br}
 Les aventuriers peuvent utiliser une sort de pierre en chair pour faire des rencontres !
@@ -599,13 +599,13 @@ Le jardin des statues comporte à peu près les mêmes représentations d'hommes
 
 
 <u>L'hiver :</u>  Le sol est enneigé, tout est blanc et gris. De temps à autres de petits flocons tombent. On peut suivre les traces de lapins et d'animaux mais lorsqu'on les trouve, quelle surprise de voir qu'ils sont en réalité faits de glace et animés. {br}
-Le lapin est le moins peureux et se laisse volontiers caresser, voire prendre si le teste de Dressage (DD 20) est réussi.
+Le lapin est le moins peureux et se laisse volontiers caresser, voire prendre si le teste de Dressage (DD 20) est réussi. 
 En allant vers le parc, les aventuriers pourront rencontrer des  cerfs de glace et même un pégase de glace.{br}
 Parmi les statues de pierre, certaines sont magnifiques, la plus impressionnante est sans doute celle d'un [[Pathfinder-RPG.dragon%20blanc|dragon (jeune)]] d'1m70 de hauteur, les ailes déployées qui semble être en train de cracher. Il y a également six statues d'hommes et femmes dans des positions mélancoliques.
 
 
 <u>Le printemps :</u>  Dans le parc les arbres sont en fleur et  des animaux adorables gambadent joyeusement : lapins, biches, oiseaux au chant mélodieux et même un pégase ! {br}
-Dans le jardin des statues on retrouve les six humanoïdes dans des positions dansantes ou joyeuses et une [[Pathfinder-RPG.hiéracosphinx|créature]] ressemblant à un lion à tête de faucon avec des ailes.
+Dans le jardin des statues on retrouve les six humanoïdes dans des positions dansantes ou joyeuses et une [[Pathfinder-RPG.hiéracosphinx|créature]] ressemblant à un lion à tête de faucon avec des ailes. 
 Dans la forêt, il est possible d'apercevoir une licorne, un dragon-féérique, et d'autres créatures comme des dryades, faunes, lutins, nymphes, pixies, satyres etc...
 #### 3. La salle de détente
 Cette salle comporte un petit salon, une table avec des chaises, une bibliothèque ainsi qu'une cheminée avec sur son manteau une statuette miniature de Kharig. {br}
@@ -661,7 +661,7 @@ Dans la chambre en elle-même une grande tapisserie, un miroir sur pied, des meu
 
 
 Il s'agit de Léora. {br}
-Kharig l'a maintenue en stase. Une baguette de dissipation de la magie (6 charges) est sur la table de chevet et permet de la réveiller (ainsi que de retirer les métamorphoses par exemple).
+Kharig l'a maintenue en stase. Une baguette de dissipation de la magie (6 charges) est sur la table de chevet et permet de la réveiller (ainsi que de retirer les métamorphoses par exemple).   
 
 
 Le miroir est finement sculpté. Il est gravé au dessus "Psychée". Si quelqu'un l'appelle,  le miroir devient noir et un masque blanchâtre apparaît. Il dit être Psychée et demandera pourquoi on l'a fait venir d'un ton courtois. {br}
@@ -674,15 +674,15 @@ Il tient une conversation agréable et parle la langue de celui qu'il a en face.
 - Il a assisté à certaines disputes entre Kharig et Léora, le sujet étant principalement son sentiment d'être délaissée ou isolée. 
 
 
-L'une des armoires est une [[Garde robe du corps(fanmade)|garde robe du corps]] et empêchera qu'on fasse du mal à Léora.
+L'une des armoires est une [[Garde robe du corps(fanmade)|garde robe du corps]] et empêchera qu'on fasse du mal à Léora. 
 #### 9a. La salle de bain
 Une pièce au sol de mosaïque avec un paravent , un baquet, deux seaux (l'un ayant de l'eau froide, l'autre de l'eau chaude), des linges propres pour se sécher et du savon.
 
 #### 10. Le hall souterrain
-Cette pièce, contrairement au reste de l'aile, n'a aucune décoration si ce n'est une immense statue dans un coin et un dais vers le mur Ouest. La pierre est terne et la porte métallique sur le mur Est ne peut être bougée ni par magie ni par sabotage.
+Cette pièce, contrairement au reste de l'aile, n'a aucune décoration si ce n'est une immense statue dans un coin et un dais vers le mur Ouest. La pierre est terne et la porte métallique sur le mur Est ne peut être bougée ni par magie ni par sabotage. 
 
 
-Dans le coin Nord-Ouest il y a un mur invisible qui masque l'arche d'un tunnel menant à l'aile du maître, salle 12. (Volonté DD 18 pour le voir).
+Dans le coin Nord-Ouest il y a un mur invisible qui masque l'arche d'un tunnel menant à l'aile du maître, salle 12. (Volonté DD 18 pour le voir). 
 
 
 La  statue est en bronze et représente un ours-hibou de grande taille. Elle pèse 2000kg et doit être déplacée sur le dais pour que le poids permette d'ouvrir la double porte. {br}
@@ -693,10 +693,10 @@ Autour de chaque sarcophage de verre, il y a  un anneau gravé des runes avec un
 
 
 Au fond de la salle, il y a également un mécanisme circulaire avec une gemme au milieu, quatre piédestaux et des chaines
-Il y a également sur un reposoir contre le mur une baguette en métal gravée de runes. Une identification par Art de la Magie (DD 22) ou Utilisation d'objets magiques (DD 27) permet de savoir qu'il s'agit d'une baguette de Transmutation de pierre en chair avec 8 charges.
+Il y a également sur un reposoir contre le mur une baguette en métal gravée de runes. Une identification par Art de la Magie (DD 22) ou Utilisation d'objets magiques (DD 27) permet de savoir qu'il s'agit d'une baguette de Transmutation de pierre en chair avec 8 charges. 
 
 
-Les femmes dans leur "bocal" sont en réalité des expériences de Kharig : des créations fidèles à la dame de ses rêves transformées de pierre en chair et maintenues dans un liquide qui évite la décomposition : ce qui a très bien fonctionné.
+Les femmes dans leur "bocal" sont en réalité des expériences de Kharig : des créations fidèles à la dame de ses rêves transformées de pierre en chair et maintenues dans un liquide qui évite la décomposition : ce qui a très bien fonctionné. 
 Ces créatures n'ont cependant pas de souvenir vu qu'elles sont créées. C'est à cela que sert la plateforme du fond. Il y a un mécanisme avec quatre piédestaux, sur chacun une rune différente : tellura, ignos, liquidia et pneuma (terre, feu, eau, air). Il faut utiliser un sort ou mettre l'élément en question sur le piédestal pour l'activer.
 
 
@@ -712,11 +712,11 @@ Que s'est-il réellement passé ? ... C'est un secret que Kharig détient... dan
 
 ===L'Aile du Maître ==={br}
 
-Carte simplifiée :
+Carte simplifiée : 
 <img src="http://img15.hostingpics.net/pics/560439Plan3.png" class="imageauto" alt="">
 
 
-Cartes détaillées :
+Cartes détaillées : 
 
 [Premier étage](http://img15.hostingpics.net/pics/758744DunVK31i.png)
 [Sous sol](http://img15.hostingpics.net/pics/929047DunVK32i.png)
@@ -725,41 +725,41 @@ Cartes détaillées :
 *Plus on découvre Kharig, plus on s'aperçoit qu'il était dérangé. Cet hôte si aimable avait une pièce dédiée au meurtre de ses invités. Ce marchand de créatures artificielles était également un créateur de drogues. Cet amant passionné était obsédé au point de réaliser différentes versions de sa bien-aimée.  Que s'est-il réellement passé ? Peut-être les réponses se trouveront ici dans ce demi-plan relié à celui de la Dame. *
 
 #### 1. Le couloir du Maître.
-Ce couloir n'a aucune lumière, toutefois, si on se donne la peine d'y voir mieux, on peut admirer les fresques qui ornent les murs. On peut y voir toutes les créations de Kharig : les colibris réparateurs, le balai animé, les braséros, les gorilles, les golems et en se rapprochant de la porte, on peut également admirer deux images de créatures imposantes : une femme qui semble être faite de cristal et un homme de métal.
-Deux gardes gorilles sont également présents et voudront chasser les intrus.
-Pour corser la chose, un sort de lenteur (pour que le visiteur puisse prendre le temps de contempler les murs)  est sur toute cette partie et n'affecte pas les gardes.
+Ce couloir n'a aucune lumière, toutefois, si on se donne la peine d'y voir mieux, on peut admirer les fresques qui ornent les murs. On peut y voir toutes les créations de Kharig : les colibris réparateurs, le balai animé, les braséros, les gorilles, les golems et en se rapprochant de la porte, on peut également admirer deux images de créatures imposantes : une femme qui semble être faite de cristal et un homme de métal. 
+Deux gardes gorilles sont également présents et voudront chasser les intrus. 
+Pour corser la chose, un sort de lenteur (pour que le visiteur puisse prendre le temps de contempler les murs)  est sur toute cette partie et n'affecte pas les gardes. 
 
 #### 2. Le Hall.
-Cette grande salle est haute de deux étages, elle respire le luxe et l'opulence : marbre fin, tapis vermeil brodé d'or, tableaux sur les murs, sculptures magnifiques, bannières.
-Au fond de la salle au bout du grand tapis rouge se dresse une imposante statue de Kharig mise en valeur par deux bannières rouges aux runes brodées d'or (signifiant Kharig) de part et d'autres de la statue. Au dessous, des fosses de 24m de profondeur. L'entré est également flanquée de deux statues : un mage avec un bâton et un guerrier avec une pique et une targe.
+Cette grande salle est haute de deux étages, elle respire le luxe et l'opulence : marbre fin, tapis vermeil brodé d'or, tableaux sur les murs, sculptures magnifiques, bannières. 
+Au fond de la salle au bout du grand tapis rouge se dresse une imposante statue de Kharig mise en valeur par deux bannières rouges aux runes brodées d'or (signifiant Kharig) de part et d'autres de la statue. Au dessous, des fosses de 24m de profondeur. L'entré est également flanquée de deux statues : un mage avec un bâton et un guerrier avec une pique et une targe.  
 
-Dès que les aventuriers sont entrés, la grande statue se met à leur parler.
+Dès que les aventuriers sont entrés, la grande statue se met à leur parler. 
 "Ô Etrangers ! Vous êtes venus dans ma demeure et avez détruit mes créations. Vous êtes à présent plus près de moi que vous ne l'avez jamais été. Je vous enjoint à repartir et ne plus revenir, où vous mourrez."
 
-Kharig daignera écouter les aventuriers s'ils font un jet de diplomatie (DD 20). Il peut hésiter entre plusieurs choix :
-- Il est resté dans cet endroit pendant plus de dix mille ans, il souhaiterait sortir de là où il est . Le souci c'est que sortir de sa chambre le réduirait en poussière. Il faudrait qu'il fasse un long rituel pour introduire son âme dans le corps d'un être vivant. Si les PJ acceptent, il pourra développer à nouveau ses œuvres.
-- Il a peur du changement et souhaite que les intrus s'en aillent le plus vite possible et pour cela, utilise tous les moyens pour se défendre.
+Kharig daignera écouter les aventuriers s'ils font un jet de diplomatie (DD 20). Il peut hésiter entre plusieurs choix : 
+- Il est resté dans cet endroit pendant plus de dix mille ans, il souhaiterait sortir de là où il est . Le souci c'est que sortir de sa chambre le réduirait en poussière. Il faudrait qu'il fasse un long rituel pour introduire son âme dans le corps d'un être vivant. Si les PJ acceptent, il pourra développer à nouveau ses œuvres. 
+- Il a peur du changement et souhaite que les intrus s'en aillent le plus vite possible et pour cela, utilise tous les moyens pour se défendre. 
 
 Dans tous les cas, que ce soit une épreuve pour les tester ou pour les empêcher d'avancer, les deux statues à l'entré se retransforment en créatures de chair et combattent.
 Ce sont en réalité d'anciens ennemis de Kharig qui avaient été transformés au cours d'une bataille. A leur réveil, ils pensent être encore dans le combat mais dans un environnement différent avec des serviteurs de Kharig en face d'eux. Ils continueront de se battre comme s'ils avaient à faire à un sale tour de Kharig.
 
-Une fois le combat contre les deux sbires terminés, la statue de Kharig s'animera pour "finir" les survivants.
+Une fois le combat contre les deux sbires terminés, la statue de Kharig s'animera pour "finir" les survivants. 
 
-De part et d'autre de la statue, il y a deux trous et derrière le mur, une barrière qui s'ouvre justement au niveau des fosses.
-Quand on s'approche des fosses, on sent une très légère brise émaner du sol.
+De part et d'autre de la statue, il y a deux trous et derrière le mur, une barrière qui s'ouvre justement au niveau des fosses. 
+Quand on s'approche des fosses, on sent une très légère brise émaner du sol. 
 
-Ces deux fosses sont en réalité des ascenseurs magiques : toute personne qui entrera dedans subira l'effet de "Vol". Un teste DD 10 permettra d'aller doucement vers l'étage supérieur ou inférieur.
-Malheureusement pour nos aventuriers, l'un des ascenseurs a quelques petits soucis : le sort est quelque peu erratique. A chaque round, lancez 1d4  ( 1-3 : le vol se passe correctement, 4 : le vol cesse subitement et le personnage fait une chute de 18m avant que le sort fonctionne à nouveau... ou pas). Une chute de 24 mètre, c'est 7d6 de dégâts.
-Si on veut être gentil, l'un des deux ascenseurs fonctionne correctement.
+Ces deux fosses sont en réalité des ascenseurs magiques : toute personne qui entrera dedans subira l'effet de "Vol". Un teste DD 10 permettra d'aller doucement vers l'étage supérieur ou inférieur. 
+Malheureusement pour nos aventuriers, l'un des ascenseurs a quelques petits soucis : le sort est quelque peu erratique. A chaque round, lancez 1d4  ( 1-3 : le vol se passe correctement, 4 : le vol cesse subitement et le personnage fait une chute de 18m avant que le sort fonctionne à nouveau... ou pas). Une chute de 24 mètre, c'est 7d6 de dégâts. 
+Si on veut être gentil, l'un des deux ascenseurs fonctionne correctement. 
 
 
 #### 3. La salle de méditation
 Après avoir pénétré dans le sas, une lourde porte métallique ouvre sur une salle circulaire faite de marbre vert. Des colonnes dépassant des murs ont une cavités en leur centre dans laquelle brûle des flammes d'un vert émeraude. Le tout semble très relaxant.
 
-A l'origine, c'était une salle de méditation : un sort de vol et une légère brise soufflait dans un calme serein, le sort de silence sur la zone (y compris le sas) aidant.
-Dans la colonne opposée à la porte d'entrée il y a une niche avec un coffret à l'intérieur. Ce coffret s'ouvre sans clef et dedans on peut y trouver un grimoire avec plusieurs sorts de transmutation.
+A l'origine, c'était une salle de méditation : un sort de vol et une légère brise soufflait dans un calme serein, le sort de silence sur la zone (y compris le sas) aidant. 
+Dans la colonne opposée à la porte d'entrée il y a une niche avec un coffret à l'intérieur. Ce coffret s'ouvre sans clef et dedans on peut y trouver un grimoire avec plusieurs sorts de transmutation. 
 
-Malheureusement, la petite brise s'est transformée en bourrasque erratique.
+Malheureusement, la petite brise s'est transformée en bourrasque erratique. 
 
 A chaque round lancez 1d8 pour connaître la direction et 1d6 pour la force du vent , la difficulté indique le jet à faire de Réflexe pour ne pas tomber, puis de Force si le personnage souhaite avancer :
 
@@ -770,181 +770,181 @@ A chaque round lancez 1d8 pour connaître la direction et 1d6 pour la force du v
 5 vent violent (DD10)
 6 bourrasque (DD 15)
 
-En cas d'échec, il tombe à terre et est repoussé dans le sens du vent. S'il heurte un mur, il se prendra 1d6 points de dégâts voire plus.
+En cas d'échec, il tombe à terre et est repoussé dans le sens du vent. S'il heurte un mur, il se prendra 1d6 points de dégâts voire plus. 
 
 
 #### 4. La bibliothèque
-De multiples étagères avec de nombreux livres entourent cette salle. Trois grandes étagères sont également au milieu, isolant un petit bureau.
+De multiples étagères avec de nombreux livres entourent cette salle. Trois grandes étagères sont également au milieu, isolant un petit bureau. 
 On peut entendre un faible raclement (Perception DD 15) et découvrir des petits moutons de poussière poussés "tout seuls", comme si une personne invisible les balayait de son chemin.
 
-Il s'agit en fait d'un balai animé... invisible. Tout dégât causé aux livres ou à la bibliothèque le rendra agressif et il n'hésitera pas à taper.
+Il s'agit en fait d'un balai animé... invisible. Tout dégât causé aux livres ou à la bibliothèque le rendra agressif et il n'hésitera pas à taper. 
 
-Un sort de silence forcé est sur toute cette pièce.
+Un sort de silence forcé est sur toute cette pièce. 
 Certains livres volent dans l'air comme des oiseaux. Les livres ont été très bien conservés. Certains parlent de légendes sur la transmutation, d'autres sur la construction de bâtiments, d'autres encore sur les broderies Azlantes et les motifs en vogue, d'autres encore de monstres légendaires.
-Toute personne prenant la peine de consulter les livres pendant une heure peut gagner de manière permanente +1 dans une connaissance de son choix.
-Tout livre qui se fait emporter voudra retourner à son emplacement en volant.
+Toute personne prenant la peine de consulter les livres pendant une heure peut gagner de manière permanente +1 dans une connaissance de son choix. 
+Tout livre qui se fait emporter voudra retourner à son emplacement en volant. 
 
-Les livres volants sont des thèses sur des sorts. En attraper un (Dextérité DD 19) permet d'obtenir un nouveau sort de transmutation.
+Les livres volants sont des thèses sur des sorts. En attraper un (Dextérité DD 19) permet d'obtenir un nouveau sort de transmutation. 
 
 Il est également possible de trouver un parchemin de "dialogue avec la pierre". Ce parchemin permet de parler avec une chose inanimée consciente (comme une arme intelligente, une personne statufiée etc.
 
 
 #### 5. L'arène miniature
-La porte s'ouvre sur un couloir vouté obscur qui ne semble pas avoir de fin.
-Dès que le groupe est entré dans le couloir, la porte se ferme brusquement et celle qui est à l'opposée et semble fort loin, s'ouvre sur une salle éclairée. Plus on avance dans le couloir, plus la salle semble être proche en réalité. Si les aventuriers hésitent à avancer, les murs se resserrent lentement.
-La salle est carrée, le sol de pierres grossières , de poussière et de sable. A l'autre bout de la pièce, ce qu'il semble être un autre couloir avec une grille.
+La porte s'ouvre sur un couloir vouté obscur qui ne semble pas avoir de fin. 
+Dès que le groupe est entré dans le couloir, la porte se ferme brusquement et celle qui est à l'opposée et semble fort loin, s'ouvre sur une salle éclairée. Plus on avance dans le couloir, plus la salle semble être proche en réalité. Si les aventuriers hésitent à avancer, les murs se resserrent lentement. 
+La salle est carrée, le sol de pierres grossières , de poussière et de sable. A l'autre bout de la pièce, ce qu'il semble être un autre couloir avec une grille. 
 
-En hauteur, il y a une coursive qui doit bien être à 6 mètres de haut, et un immense trône vide qui surplombe la scène.
+En hauteur, il y a une coursive qui doit bien être à 6 mètres de haut, et un immense trône vide qui surplombe la scène. 
 
-A l'entré des aventuriers, une voix résonne.
-"Bienvenue dans l'arène de Kharig. Si vous survivez, le Maître vous accordera peut-être sa grâce."
+A l'entré des aventuriers, une voix résonne. 
+"Bienvenue dans l'arène de Kharig. Si vous survivez, le Maître vous accordera peut-être sa grâce." 
 
-Cette salle n'est ni plus ni moins qu'une arène où les participants ont été miniaturisés. A l'origine, Kharig prenait plaisir à voir ces petites personnes s'entretuer, leur mettant de plus en plus de défis. Cela lui permettait de voir quels étaient ses serviteurs les plus capables et également de se distraire du sort de ses ennemis.
+Cette salle n'est ni plus ni moins qu'une arène où les participants ont été miniaturisés. A l'origine, Kharig prenait plaisir à voir ces petites personnes s'entretuer, leur mettant de plus en plus de défis. Cela lui permettait de voir quels étaient ses serviteurs les plus capables et également de se distraire du sort de ses ennemis. 
 
 Les adversaires arrivent du côté opposé des aventuriers.
 
-Dès que le combat est terminé, la voix indique qui est le champion de l'arène et Kharig intervient.
+Dès que le combat est terminé, la voix indique qui est le champion de l'arène et Kharig intervient. 
 "Vous m'avez bien divertis. Je vous laisse la vie sauve... pour l'instant."
 
-La grille par où les aventuriers sont entrés s'ouvre, le couloir est à nouveau accessible et la sortie également.
-Les personnages retrouvent leur taille normale.
+La grille par où les aventuriers sont entrés s'ouvre, le couloir est à nouveau accessible et la sortie également. 
+Les personnages retrouvent leur taille normale. 
 
 #### 6. La salle d'entrainement
-Un golem métallique est dans cette salle. A l'arrivé des PJ, il s'active et dit en pointant sa hallebarde vers le râtelier.
+Un golem métallique est dans cette salle. A l'arrivé des PJ, il s'active et dit en pointant sa hallebarde vers le râtelier. 
 "Bienvenue, apprenti  ! Choisissez  vos armes, l'entrainement va commencer !"
 
-Les armes sont toutes enchantées avec "arme infaillible" : cet enchantement n'est possible qu'à l'intérieur de cette pièce. L'arme redevient une simple arme de maître si on l'en sort.
-Il y a également au mur une grande épée en cristal rutilante (avec arme magique suprême). Cette arme peut être emportée en dehors et garde son enchantement.
+Les armes sont toutes enchantées avec "arme infaillible" : cet enchantement n'est possible qu'à l'intérieur de cette pièce. L'arme redevient une simple arme de maître si on l'en sort. 
+Il y a également au mur une grande épée en cristal rutilante (avec arme magique suprême). Cette arme peut être emportée en dehors et garde son enchantement. 
 
-Des colibris de réparation permettent au golem de se faire soigner. Si un colibri est détruit, le golem passe en mode enragé.
+Des colibris de réparation permettent au golem de se faire soigner. Si un colibri est détruit, le golem passe en mode enragé. 
 
 #### 7. Le passage secret
-Sous l'une des bannières au dessus d'une fosse, il y a une pierre qui peut s'enfoncer un peu. Un jet de Perception (DD 25) pour le trouver.
-A ce moment là, un mur pivote et permet d'accéder à la partie secrète derrière.
+Sous l'une des bannières au dessus d'une fosse, il y a une pierre qui peut s'enfoncer un peu. Un jet de Perception (DD 25) pour le trouver. 
+A ce moment là, un mur pivote et permet d'accéder à la partie secrète derrière.  
 
-Dans ce couloir, il y a juste un escalier menant plus profondément et une porte qui donne sur l'étage supérieur de l'arène avec le trône. C'était de là que Kharig observait les combats.
+Dans ce couloir, il y a juste un escalier menant plus profondément et une porte qui donne sur l'étage supérieur de l'arène avec le trône. C'était de là que Kharig observait les combats. 
 
 #### 8. Les couloirs.
-Une fois l'épreuve de l'ascenseur réussi, on arrive à un long couloir en U qui donne accès aux quatre chambres des appartements privés de Kharig.
-Si la rencontre du hall est trop facile, on peut rajouter des statues archères à cet étage.
+Une fois l'épreuve de l'ascenseur réussi, on arrive à un long couloir en U qui donne accès aux quatre chambres des appartements privés de Kharig. 
+Si la rencontre du hall est trop facile, on peut rajouter des statues archères à cet étage. 
 
 
 #### 9a. La chambre de la mère
 
-Dans une obscurité dérangeante, une statue de cristal rose représentant une femme trône au milieu de la salle. Des motifs au sol semblent être davantage décoratifs que de réels marques mystiques (un teste Art de la Magie ou Mystères DD 10 pour le confirmer).
-A chaque coin, des coffrets sur des piédestaux.
+Dans une obscurité dérangeante, une statue de cristal rose représentant une femme trône au milieu de la salle. Des motifs au sol semblent être davantage décoratifs que de réels marques mystiques (un teste Art de la Magie ou Mystères DD 10 pour le confirmer). 
+A chaque coin, des coffrets sur des piédestaux. 
 
-La femme est en réalité la mère de Kharig. Ce dernier ne voulant pas ce séparer d'elle par la mort la transforma contre son gré en cristal. Il venait souvent la voir et lui apposait un sort de dialogue avec la pierre afin qu'elle puisse communiquer. Malheureusement pour lui, sa mère au fil du temps n'eut que des reproches à lui faire et de mots durs à lui dire. Aussi, il décida de retirer la bouche magique.
+La femme est en réalité la mère de Kharig. Ce dernier ne voulant pas ce séparer d'elle par la mort la transforma contre son gré en cristal. Il venait souvent la voir et lui apposait un sort de dialogue avec la pierre afin qu'elle puisse communiquer. Malheureusement pour lui, sa mère au fil du temps n'eut que des reproches à lui faire et de mots durs à lui dire. Aussi, il décida de retirer la bouche magique. 
 
-Si les aventuriers détruisent la statue, l'âme de Redia les remerciera mais ne s'attardera pas avec eux. Si au contraire ils utilisent "dialogue avec la pierre" trouvé dans la bibliothèque, ils apprendront de nombreuses choses sur Kharig et cette femme.
-Elle sait que Kharig est devenu fou et qu'il a voulu transformer le monde au sens réel. Que son époux s'est rangé à ses côtés et qu'il est très puissant.
-Elle donnera aussi les codes pour les coffrets : ils contiennent des biens lui ayant appartenus dont Kharig ne voulait pas se défaire ni utiliser.
+Si les aventuriers détruisent la statue, l'âme de Redia les remerciera mais ne s'attardera pas avec eux. Si au contraire ils utilisent "dialogue avec la pierre" trouvé dans la bibliothèque, ils apprendront de nombreuses choses sur Kharig et cette femme. 
+Elle sait que Kharig est devenu fou et qu'il a voulu transformer le monde au sens réel. Que son époux s'est rangé à ses côtés et qu'il est très puissant. 
+Elle donnera aussi les codes pour les coffrets : ils contiennent des biens lui ayant appartenus dont Kharig ne voulait pas se défaire ni utiliser. 
 
-Les coffrets ont trois glyphes dessus, il faut les toucher dans l'ordre au risque de se prendre 2d6 dégâts de feu / acide / froid / éclair.
+Les coffrets ont trois glyphes dessus, il faut les toucher dans l'ordre au risque de se prendre 2d6 dégâts de feu / acide / froid / éclair. 
 
 
 #### 9b. La chambre du père
-Cette salle blanche aux allures métalliques comporte une sorte d'autel incurvé devant un immense homme de fer.
-Il s'agit-là de Kergoth, le père de Kharig qui a accepté d'être transformé en être de métal afin de survivre aussi longtemps qu'il le faudrait pour protéger son fils.
-Il a cependant été modifié pour ressembler à un golem : d'immenses épaulières encadrent sa petite tête et ses jambes ressemblent davantage à des troncs qu'à ce qu'elles furent avant.
+Cette salle blanche aux allures métalliques comporte une sorte d'autel incurvé devant un immense homme de fer. 
+Il s'agit-là de Kergoth, le père de Kharig qui a accepté d'être transformé en être de métal afin de survivre aussi longtemps qu'il le faudrait pour protéger son fils. 
+Il a cependant été modifié pour ressembler à un golem : d'immenses épaulières encadrent sa petite tête et ses jambes ressemblent davantage à des troncs qu'à ce qu'elles furent avant. 
 
 L'autel est en réalité un tableau de contrôle : chaque homoncule, serviteurs créé par Kharig a une rune inscrite dessus. Tout serviteur actif a une rune brillante, pour les autres, la rune est éteinte. Un teste d'Intelligence (DD 10) permet de le comprendre.
 
 Appuyer sur une rune fait venir dans la salle l'homoncule désigné (en fonction de son emplacement, cela peut mettre du temps).
 
-Si Kergoth est toujours actif quand les serviteurs arrivent, il leur ordonne d'attaquer les intrus.
+Si Kergoth est toujours actif quand les serviteurs arrivent, il leur ordonne d'attaquer les intrus. 
 
-Une fois mort, Kergoth ne s'avoue pas vaincu : son esprit ne souhaite pas rejoindre le royaume des morts et il attaque sous forme de fantôme les aventuriers. Une fois qu'il a été tué... il l'est, définitivement.
+Une fois mort, Kergoth ne s'avoue pas vaincu : son esprit ne souhaite pas rejoindre le royaume des morts et il attaque sous forme de fantôme les aventuriers. Une fois qu'il a été tué... il l'est, définitivement. 
 
 #### 9c. Le bureau
-Cette salle comporte des étagères sur deux côtés, un bureau et une étrange machine luisant d'une aura verte.
+Cette salle comporte des étagères sur deux côtés, un bureau et une étrange machine luisant d'une aura verte. 
 
-Le bureau : la première chose qu'on remarque immédiatement, c'est une tête sous une cloche baignant dans un liquide verdâtre. Elle regarde les aventuriers, sa moustache frémissant de colère.
-La tête fut autrefois reliée au corps de Kolgir, le grand-père paternel de Kharig.
-Il fut le premier à être tué par la folie de son petit-fils. Il l'avait mis en garde des déviances de la magie mais ce dernier n'avait pas écouté, pire encore, il avait souhaité que son grand-père reste là pour l'éternité à contempler son succès grandissant.
-Le grand-père n'a aucune affection pour qui que ce soit mais aimerait malgré tout voir le monde. Il est possible de l'emporter pour que de temps en temps il donne son avis.
+Le bureau : la première chose qu'on remarque immédiatement, c'est une tête sous une cloche baignant dans un liquide verdâtre. Elle regarde les aventuriers, sa moustache frémissant de colère. 
+La tête fut autrefois reliée au corps de Kolgir, le grand-père paternel de Kharig. 
+Il fut le premier à être tué par la folie de son petit-fils. Il l'avait mis en garde des déviances de la magie mais ce dernier n'avait pas écouté, pire encore, il avait souhaité que son grand-père reste là pour l'éternité à contempler son succès grandissant. 
+Le grand-père n'a aucune affection pour qui que ce soit mais aimerait malgré tout voir le monde. Il est possible de l'emporter pour que de temps en temps il donne son avis. 
 Il est aussi possible de détruire la cloche ce qui tuerait instantanément le vieil homme dont l'esprit ne s'attarderait pas en ces lieux si ce n'est pour assister à la mort de son petit-fils, si les aventuriers le lui font comprendre.
 
 Parmi les documents, on peut retrouver un journal de Kharig où il explique son histoire avec Léora.
-Au début il en parle comme d'une magnifique femme qu'il aime passionnément et à qui il souhaite offrir tous les biens de ce monde et même d'autres.
+Au début il en parle comme d'une magnifique femme qu'il aime passionnément et à qui il souhaite offrir tous les biens de ce monde et même d'autres. 
 Petit à petit le ton change, il semble désemparé car bien qu'il lui ait fait une aile sur mesure, elle semble être lasse. De plus, elle ne lui donne pas d'héritier malgré tous leurs efforts.
-Il devient de plus en plus aigri, en disant qu'elle a des sautes d'humeur et qu'elle n'est jamais satisfaite de ce qu'il lui propose. Qu'elle commence en réalité à l'agacer, qu'elle a changé et qu'il souhaiterait qu'elle soit "comme avant". Petit à petit, cette idée commence à l'obséder. Il trouve le corps de sa bien aimée parfait mais c'est son esprit qu'il faudrait manipuler pour qu'il soit celui qu'il a connu des dizaines d'années auparavant.
-Il avoue dans son journal d'avoir tué dans son lit Léora et qu'une nouvelle prendra sa place sous peu, en espérant que sa matrice soit capable d'enfanter.
+Il devient de plus en plus aigri, en disant qu'elle a des sautes d'humeur et qu'elle n'est jamais satisfaite de ce qu'il lui propose. Qu'elle commence en réalité à l'agacer, qu'elle a changé et qu'il souhaiterait qu'elle soit "comme avant". Petit à petit, cette idée commence à l'obséder. Il trouve le corps de sa bien aimée parfait mais c'est son esprit qu'il faudrait manipuler pour qu'il soit celui qu'il a connu des dizaines d'années auparavant. 
+Il avoue dans son journal d'avoir tué dans son lit Léora et qu'une nouvelle prendra sa place sous peu, en espérant que sa matrice soit capable d'enfanter. 
 Il fait peu à peu part de son échec en la matière et conclu par sa volonté de ne plus s'occuper des Léora, les laissant suspendues dans le temps.
 
-Les étagères : elles sont remplies de quelques livres mais surtout d'énormément de boules à neige de toutes les tailles.
+Les étagères : elles sont remplies de quelques livres mais surtout d'énormément de boules à neige de toutes les tailles. 
 On peut y voir à travers des villages très différents :une cité dans le désert, un village dans les montagnes, une ile perdue au milieu de la mer, un hameau au milieu de la neige, un dragon noir sur un rocher... etc.
 
-Ces boules à neiges sont en fait autant de bouts du monde arrachés à leur réalité qui ont été mis en "boule". Un peu comme un vivarium à fourmis... mais pour créatures et personnes. Il peut y en avoir de plein de sortes différentes.
-En briser une détruira simplement le plan où se trouve l'expérience.
+Ces boules à neiges sont en fait autant de bouts du monde arrachés à leur réalité qui ont été mis en "boule". Un peu comme un vivarium à fourmis... mais pour créatures et personnes. Il peut y en avoir de plein de sortes différentes. 
+En briser une détruira simplement le plan où se trouve l'expérience. 
 
-La machine : un dôme verdâtre lumineux entoure la machine. Une porte permet d'y avoir accès. Au sol, une empreinte ronde qui correspond au socle d'une boule à neige.
-En plaçant une boule à neige au centre,  la machine émet un bourdonnement de plus en plus aigu, le dôme est parcouru d'arcs d'énergie bleutée et en un instant, tous ceux qui sont dans le dôme se retrouvent à l'intérieur de la boule à neige.
-La machine leur aura tous mis une emprunte magique sur le bras ayant la forme d'une rune de Kharig d'un léger vert lumineux. Il suffit de la toucher pour être à nouveau téléporté au niveau de la machine.
+La machine : un dôme verdâtre lumineux entoure la machine. Une porte permet d'y avoir accès. Au sol, une empreinte ronde qui correspond au socle d'une boule à neige. 
+En plaçant une boule à neige au centre,  la machine émet un bourdonnement de plus en plus aigu, le dôme est parcouru d'arcs d'énergie bleutée et en un instant, tous ceux qui sont dans le dôme se retrouvent à l'intérieur de la boule à neige. 
+La machine leur aura tous mis une emprunte magique sur le bras ayant la forme d'une rune de Kharig d'un léger vert lumineux. Il suffit de la toucher pour être à nouveau téléporté au niveau de la machine. 
 
-Chaque boule à neige a sa propre histoire. Les gens qui sont à l'intérieur n'ont pas conscience du verre de la boule à neige : ils voient un ciel et s'ils s'éloignent trop, il y a des brumes étranges qui pourrait les détruire, ainsi, ils n'y vont pas.
-En réalité, la brume est magique et au bout d'un moment le sol se transforme en une immense fosse dont il est impossible de sortir.
+Chaque boule à neige a sa propre histoire. Les gens qui sont à l'intérieur n'ont pas conscience du verre de la boule à neige : ils voient un ciel et s'ils s'éloignent trop, il y a des brumes étranges qui pourrait les détruire, ainsi, ils n'y vont pas. 
+En réalité, la brume est magique et au bout d'un moment le sol se transforme en une immense fosse dont il est impossible de sortir. 
 
-Pour certains la vie est très agréable : ils ont passés des millénaires à élever des animaux, cultiver des champs sans grande menace.
-Au bout de dix mille ans certains sont atteints de consanguinité avancés : plus la population était petite au départ, plus il y aura des effets visibles : déformation du corps, tare physique retrouvée sur toute la population, stérilité (auquel cas, si cela s'est produit il y a longtemps plus personne n'est présent sauf peut-être des fantômes).
+Pour certains la vie est très agréable : ils ont passés des millénaires à élever des animaux, cultiver des champs sans grande menace. 
+Au bout de dix mille ans certains sont atteints de consanguinité avancés : plus la population était petite au départ, plus il y aura des effets visibles : déformation du corps, tare physique retrouvée sur toute la population, stérilité (auquel cas, si cela s'est produit il y a longtemps plus personne n'est présent sauf peut-être des fantômes). 
 
-Pour d'autres boules à neige c'est l'ennui qui règne : le dragon seul sur son rocher avec son trésor, un gardien de phare mort-vivant sur son île... etc.
+Pour d'autres boules à neige c'est l'ennui qui règne : le dragon seul sur son rocher avec son trésor, un gardien de phare mort-vivant sur son île... etc. 
 
-Pour tous, la venue d'étrangers sera pris comme un signe divin, annonçant pour certains la fin de leur monde, pour d'autres leur sauvegarde.
+Pour tous, la venue d'étrangers sera pris comme un signe divin, annonçant pour certains la fin de leur monde, pour d'autres leur sauvegarde. 
 
-Il faudrait maitriser un sort de portail pour pouvoir évacuer les personnes /  créatures des boules à neige.
+Il faudrait maitriser un sort de portail pour pouvoir évacuer les personnes /  créatures des boules à neige. 
 
 
 #### 9d. Chambre de Kharig
 
-Cette pièce aux motifs boisés a des cousins éparpillés dans toute la salle : un immense coussin servant de lit est au milieu. Au dessus flotte un corps desséché qui porte une ancienne robe d'apparat. Une lueur bleutée brille là où ses yeux devaient se trouver.
+Cette pièce aux motifs boisés a des cousins éparpillés dans toute la salle : un immense coussin servant de lit est au milieu. Au dessus flotte un corps desséché qui porte une ancienne robe d'apparat. Une lueur bleutée brille là où ses yeux devaient se trouver. 
 
 Au moment du cataclysme, Kharig se protégea en créant une faille temporelle là où il se trouvait. Il s'isola ainsi du temps. Il s'aperçu également qu'en utilisant une anatomie de mort-vivant, il était davantage épargné par le temps qui passait. Cependant, avec le temps, ses se dégradèrent.
-Ainsi, Kharig est prisonnier de sa chambre : s'il en sort ou en est sorti, le temps le rattrape et il se transforme immédiatement en poussière.
+Ainsi, Kharig est prisonnier de sa chambre : s'il en sort ou en est sorti, le temps le rattrape et il se transforme immédiatement en poussière. 
 
-Il pourrait proposer d'investir le corps d'un aventurier car eux ne semblent pas être affectés par les sorts qui le retiennent dans cette salle. Mais cela demanderait d'effectuer un rituel et de lui chercher des livres de sa bibliothèque.
-Son âme pourrait être enfermée dans une gemme et utilisée dans la machine de l'aile de la Dame.
+Il pourrait proposer d'investir le corps d'un aventurier car eux ne semblent pas être affectés par les sorts qui le retiennent dans cette salle. Mais cela demanderait d'effectuer un rituel et de lui chercher des livres de sa bibliothèque.  
+Son âme pourrait être enfermée dans une gemme et utilisée dans la machine de l'aile de la Dame. 
 
-Il peut également attaquer les personnages si ceux-ci ne sont pas conciliants.
+Il peut également attaquer les personnages si ceux-ci ne sont pas conciliants. 
 
-En fonction de ce qu'on accomplis les aventuriers, l'âme de Redia (la mère) peut venir insuffler du courage aux aventuriers, tout comme celle de Léora. Le grand-père (Kolgir)  se contenterait de regarder, de lancer quelques phrases acerbes aux bons moments, et n'interviendrait qu'en dernier recours.
+En fonction de ce qu'on accomplis les aventuriers, l'âme de Redia (la mère) peut venir insuffler du courage aux aventuriers, tout comme celle de Léora. Le grand-père (Kolgir)  se contenterait de regarder, de lancer quelques phrases acerbes aux bons moments, et n'interviendrait qu'en dernier recours. 
 
 #### 10. Le passage secret
 
-Dans cette salle, il n'y a qu'une statue qui penche la tête, bouche ouverte, regardant dans une grande vasque qui a un trou en son fond et une grande porte à double battant.
+Dans cette salle, il n'y a qu'une statue qui penche la tête, bouche ouverte, regardant dans une grande vasque qui a un trou en son fond et une grande porte à double battant. 
 
-Un teste de Perception (DD 10) révèle que la bouche est creusée très profondément.
-Un teste d'ingénierie (DD 15) permet de deviner qu'il s'agit d'une fontaine à mouvement perpétuel.
+Un teste de Perception (DD 10) révèle que la bouche est creusée très profondément. 
+Un teste d'ingénierie (DD 15) permet de deviner qu'il s'agit d'une fontaine à mouvement perpétuel. 
 
-Pour pouvoir ouvrir la porte, il faut en effet verser 3 litres d'eau dans la vasque : l'eau remontera jusqu'à la bouche et s'écoulera ainsi en un mouvement perpétuel, actionnant une turbine à l'intérieur de la statue qui permettra d'ouvrir les portes.
+Pour pouvoir ouvrir la porte, il faut en effet verser 3 litres d'eau dans la vasque : l'eau remontera jusqu'à la bouche et s'écoulera ainsi en un mouvement perpétuel, actionnant une turbine à l'intérieur de la statue qui permettra d'ouvrir les portes. 
 
 (Note : l'effet sera encore plus efficace avec de la bière !... mais il en faut 3litres...)
 
 #### 11. Les bains
 
 On arrive dans cette salle par les ascenseurs magiques... en un seul morceau avec de la chance.
-Cette grande grotte souterraine compote deux bains creusés dans la pierre : l'un a une température assez chaude, l'autre plutôt tiède.
-Des cristaux lumineux brillent et donnent aux bains des reflets bleutés.
+Cette grande grotte souterraine compote deux bains creusés dans la pierre : l'un a une température assez chaude, l'autre plutôt tiède. 
+Des cristaux lumineux brillent et donnent aux bains des reflets bleutés. 
 
-Il y a également un lac souterrain avec une petite ile sur laquelle est posée un coffre, une étrange lumière attirant le regard dessus.
-Il n'y a aucune créature dans l'eau... cependant, un sort de nage rapide y est toujours actif et assez instable.
-Il faut faire un teste de natation (DD 15) pour pouvoir nager correctement, en cas d'échec, la propulsion risque d'être doublée et les chutes contre les rochers pourraient faire mal.
+Il y a également un lac souterrain avec une petite ile sur laquelle est posée un coffre, une étrange lumière attirant le regard dessus. 
+Il n'y a aucune créature dans l'eau... cependant, un sort de nage rapide y est toujours actif et assez instable. 
+Il faut faire un teste de natation (DD 15) pour pouvoir nager correctement, en cas d'échec, la propulsion risque d'être doublée et les chutes contre les rochers pourraient faire mal. 
 
 Le coffre s'ouvre simplement. Il contient... des linges propres pour se sécher.
 
 #### 12. Salle d'expérience
 
-Dans cette salle on aperçoit des cuves comme celles de l'Aile de la Dame contenant non pas des demoiselles mais des créations qui semblent mortes.
-Ce sont des expériences de transmutations. L'une des créatures ressemble à un enfant à tête de renard et pattes de chat. Une autre à un homme avec une tête d'aigle et aux pieds de coq.
-Une autre encore ressemble à un gros vers poilu. Dans une autre cuve il y a une espèce d'algue noire dont les contours sont difficilement discernables, à tel point qu'on se demande s'il s'agit d'un tissus ou de fumée. Dans la dernière cuve, il y a ce qui semble être un petit chat blanc avec des ailes qui regarde les aventuriers avec un air implorant : il semble être le seul à s'être réveillé ou à être vivant.
+Dans cette salle on aperçoit des cuves comme celles de l'Aile de la Dame contenant non pas des demoiselles mais des créations qui semblent mortes. 
+Ce sont des expériences de transmutations. L'une des créatures ressemble à un enfant à tête de renard et pattes de chat. Une autre à un homme avec une tête d'aigle et aux pieds de coq. 
+Une autre encore ressemble à un gros vers poilu. Dans une autre cuve il y a une espèce d'algue noire dont les contours sont difficilement discernables, à tel point qu'on se demande s'il s'agit d'un tissus ou de fumée. Dans la dernière cuve, il y a ce qui semble être un petit chat blanc avec des ailes qui regarde les aventuriers avec un air implorant : il semble être le seul à s'être réveillé ou à être vivant. 
 
-Le bureau est plein de dessins aussi fous les uns que les autres de créatures chimériques : sphinx, sirène, harpie, ours-hibou...
+Le bureau est plein de dessins aussi fous les uns que les autres de créatures chimériques : sphinx, sirène, harpie, ours-hibou... 
 
-Les étagères contiennent des éléments visqueux, étranges : des yeux, des viscères et tout un tas de composantes magiques conservées dans des bocaux.
+Les étagères contiennent des éléments visqueux, étranges : des yeux, des viscères et tout un tas de composantes magiques conservées dans des bocaux. 
 
-La table d'alchimie continent des fioles avec des poudres qui furent autrefois des liquides.
+La table d'alchimie continent des fioles avec des poudres qui furent autrefois des liquides. 
 
-Toutes les créatures dans les cuves sont mortes... sauf le chat. En réalité c'est une des  [[Expérience de Kharig (fanmade)|expériences]] les plus instables de Kharig qui cherchera simplement à tuer et s'enfuir.
+Toutes les créatures dans les cuves sont mortes... sauf le chat. En réalité c'est une des  [[Expérience de Kharig (fanmade)|expériences]] les plus instables de Kharig qui cherchera simplement à tuer et s'enfuir. 
 
 
 

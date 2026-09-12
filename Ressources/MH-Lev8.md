@@ -30,5 +30,5 @@ Cette vue est optionnelle : tous les passages de niveau ne nécessitent pas ce g
 <LI>Liste des dons possédés par le personnage.
 <LI>Description du dernier don sélectionné.
 <LI>Vers [[MH-Lev6|Compétences]].
-<LI>Validation des choix. Validation du passage de niveau. Si votre personnage a assez de points d’expérience pour passer un autre niveau, il vous sera proposé de le faire. Si vous cliquez « oui » vers « Passage de niveau » sinon vers [[MH-MonPerso|Mon Personnage]].
+<LI>Validation des choix. Validation du passage de niveau. Si votre personnage a assez de points d’expérience pour passer un autre niveau, il vous sera proposé de le faire. Si vous cliquez « oui » vers « Passage de niveau » sinon vers [[MH-MonPerso|Mon Personnage]]. 
 </OL></td></tr></table>

@@ -148,7 +148,7 @@ membres d’équipage de votre vaisseau spatial.</p>
 <li>[[Définir les effets]]</li>
 <li>[[Etats]]</li>
 <li>Règles tactiques des véhicules</li>
-<li>Poursuites entre véhicules</li>
+<li>Poursuites entre véhicules</li>  
 </ul>
 ### Vaisseaux spatiaux
 <ul>

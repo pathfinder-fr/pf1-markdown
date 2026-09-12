@@ -7,7 +7,7 @@ LastModified: 2019-02-26 21:26
 {s:TitreSectionRessources|/ADJ/Ressources/titre wiki règles 2.png}
 
 <table class="page espace-col deuxcol">
-<tr>
+<tr> 
 <td>
 ### Règles de combat
 - [[Concepteur007|Manœuvres de combat et capacités spéciales des armes]] : comment déterminer si le bonus d'une arme s'applique au test de manœuvre de combat ?

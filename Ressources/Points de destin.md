@@ -17,33 +17,33 @@ Categories:
 ## Exemple
 
 ''Caché derrière la massive cloche de bronze, Koni Senta entendit les gardes arriver. Ils discutaient dans leur horrible langage suraigu de choses dont il n’avait pas idée. Ce qu’il savait, c’est que si l’un d’eux faisait sonner l’une des cloches, des centaines de ces petites créatures hideuses accourraient et le mettraient en pièce. Ils étaient faibles, certes, mais trop nombreux que pour les éliminer suffisamment rapidement. Ils approchaient. Koni ferma les yeux, inspira, et lorsqu’il les rouvrit, il su qu’il pourrait le faire, et que c’était pour ce moment particulier que le destin l’avait affûté, lui, simple nomade des alpages, pour en faire un instrument de changement.
-Il bondit donc, se dirigea vers leur groupe, et tout en marchant, distribuant la mort sur son passage. Après quelques instant, le dernier survivant réalisa seulement ce qui était arrivé. Il bondit vers la cloche la plus proche, mais la lourde claymore le brisa au moment même où il entama son mouvement. Koni Senta se retourna alors, jaugeant les cadavres de ceux qui auraient pu mettre un terme à son expédition. Il se demanda alors comment un simple homme avait pu réaliser cette prouesse. Et il eut la réponse. Il n’était pas un simple homme.''
+Il bondit donc, se dirigea vers leur groupe, et tout en marchant, distribuant la mort sur son passage. Après quelques instant, le dernier survivant réalisa seulement ce qui était arrivé. Il bondit vers la cloche la plus proche, mais la lourde claymore le brisa au moment même où il entama son mouvement. Koni Senta se retourna alors, jaugeant les cadavres de ceux qui auraient pu mettre un terme à son expédition. Il se demanda alors comment un simple homme avait pu réaliser cette prouesse. Et il eut la réponse. Il n’était pas un simple homme.'' 
 
 ## Concept du point de destin
 
-Le concept de point de destin est assez proche de celui de point héroïque décrit dans l'APG, ou du point d'action décrit dans les arcanes exhumés de la 3.5. A leur différence, les points de destins (ne) sont
+Le concept de point de destin est assez proche de celui de point héroïque décrit dans l'APG, ou du point d'action décrit dans les arcanes exhumés de la 3.5. A leur différence, les points de destins (ne) sont 
 - Plus rares 
 - Plus puissants 
 - Moins cadenassés par les règles
 - Une ressource dont le MJ garde le droit d'interdire l'utilisation à tout moment.
 - Pas une ressource dont les PJ ont conscience, mais leurs joueurs bien.
 
-L'idée, c'est qu'une partie de JDR est une histoire qui s'écrit à plusieurs. Généralement, le maître de jeu écrit une grande part. Les joueurs, eux, sont limités par la trame scénaristique et par les règles. Le point de destin est en quelque sorte un moment où les joueurs prennent une part plus active à la narration et décrivent au MJ ce qui arrive à ce moment de l'histoire.
+L'idée, c'est qu'une partie de JDR est une histoire qui s'écrit à plusieurs. Généralement, le maître de jeu écrit une grande part. Les joueurs, eux, sont limités par la trame scénaristique et par les règles. Le point de destin est en quelque sorte un moment où les joueurs prennent une part plus active à la narration et décrivent au MJ ce qui arrive à ce moment de l'histoire. 
 
 Les points de destin représentent le statut particulier qu’ont les personnages joueurs par rapport au commun des mortels. Les PNJ ne reçoivent pas de points de destin, sauf des personnages particulièrement important qui peuvent dépenser un point de destin lorsqu’ils rencontrent ou combattent les PJ.
-Un point de destin permet d’éviter le pire lorsqu’il est utilisé en réponse à une attaque aux funestes conséquences. Mais lorsqu’un point de destin est dépensé de manière active par un joueur, c’est celui-ci qui écrit le déroulement des actions qui suivent, et non le MJ ou les règles.
+Un point de destin permet d’éviter le pire lorsqu’il est utilisé en réponse à une attaque aux funestes conséquences. Mais lorsqu’un point de destin est dépensé de manière active par un joueur, c’est celui-ci qui écrit le déroulement des actions qui suivent, et non le MJ ou les règles. 
 L’utilisation de points de destin n’est pas une action effectuée par le personnage. C’est le joueur qui décide de l’utiliser, le personnage n’ayant pas connaissance de cette « ressource ». De la même manière si le MJ a associé un point de destin à un PNJ maléfique, cela signifie que c'est le MJ qui décide quand et comment le PNJ utilisé son point pour le bien de l'histoire, ce qui veut dire que le PNJ ne peut par exemple pas décider d'utiliser ce point pour faire en sorte que les PJ meurent à coup sûr (contre-productif au niveau de l'histoire). Par contre, il peut servir pour faire en sorte que le PNJ ne meure pas trop facilement (et que la bataille reste mémorable), ou lui permettre de s'échapper *in extremis* et ainsi le réutiliser par la suite....
 
-Concernant l'utilisation des points de destin par les PNJ, il n'y a pas de lancé de dé. Cependant, il vaut mieux que le MJ se contente d'effet n'autorisant pas moins de 50% de chance de réussite. L'utilisation d'un point de destin active par un PNJ peut toujours être contrée par la dépense d'un point de destin par un PJ, et ce, sans lancé de dé.
+Concernant l'utilisation des points de destin par les PNJ, il n'y a pas de lancé de dé. Cependant, il vaut mieux que le MJ se contente d'effet n'autorisant pas moins de 50% de chance de réussite. L'utilisation d'un point de destin active par un PNJ peut toujours être contrée par la dépense d'un point de destin par un PJ, et ce, sans lancé de dé. 
 
 Concrètement, que peut faire un point de destin? La réponse est "tout". On peut aussi bien les utiliser comme joker contre un sort ou une attaque particulièrement rude, pour récupérer un pouvoir quotidien déjà utilisé, avoir des actions supplémentaires, réussir un coup héroïque quasiment impossible, ou encore tout cela à la fois.
 
-Deux conditions cependant.
+Deux conditions cependant. 
 
-Primo, il faut que cela fasse avancer l'histoire dans la bonne direction. C'est donc laissé à l'appréciation du maître de jeu, qui peut, le cas échéant, interdire l'utilisation du point de destin sans justifications.
+Primo, il faut que cela fasse avancer l'histoire dans la bonne direction. C'est donc laissé à l'appréciation du maître de jeu, qui peut, le cas échéant, interdire l'utilisation du point de destin sans justifications. 
 
-Secondo, il faut éviter que les aventuriers ne se repose systématiquement sur ces points, ce qui enlève le risque des rencontres. Pour cela, l'utilisation de ces points n'est jamais certaine. Plus l'effet visé est extraordinaire, moins la probabilité que le point puisse être réellement utilisé ainsi est grande. d'où la table ci dessous.
-Pour cela, deux précaution.
+Secondo, il faut éviter que les aventuriers ne se repose systématiquement sur ces points, ce qui enlève le risque des rencontres. Pour cela, l'utilisation de ces points n'est jamais certaine. Plus l'effet visé est extraordinaire, moins la probabilité que le point puisse être réellement utilisé ainsi est grande. d'où la table ci dessous.   
+Pour cela, deux précaution. 
 
 
 
@@ -53,10 +53,10 @@ Pour cela, deux précaution.
 
 Quand un joueur décide d’utiliser un point de destin, il doit décrire au MJ ce qu’il compte en faire. Le MJ détermine le pourcentage de chance que l'action décrite par le PJ ait lieu en se basant sur le tableau ci-dessous. Le joueur jette alors un dé 100. Si le résultat est supérieur au pourcentage fixé, il n’y a aucun effet, mais le point de destin n’est pas dépensé. Si le jet est inférieur ou égal, le point d’action est dépensé, et il a pour effet ceux décrit par le joueur. Le fait de réussir au-delà du DD ne permet pas d’obtenir un meilleur résultat. Le MJ note le résultat du jet du joueur. Si dans les rounds qui suivent, un autre joueur veut utiliser un point de destin, le D100 jeté doit non seulement être en dessous du pourcentage fixé, mais aussi du résultat du joueur précédent. Lorsque les personnages peuvent souffler une minute, les PJ peuvent à nouveau utiliser leurs points de destin comme ils l’entendent. Cela signifie que lors d’un combat les actions extraordinaires des personnages doivent forcément suivre un crescendo.  {br}
 Aucun modificateur ne s’applique jamais sur ces jets. {br}
-Lorsqu'un point de destin est utilisé de manière active, c'est à dire pour amplifier les effets des actions de son personnage, le point de destin doit être dépensé avant qu’une action n’ait lieu. Celle-ci doit d’ailleurs se produire dans le round qui suit sa dépense.
+Lorsqu'un point de destin est utilisé de manière active, c'est à dire pour amplifier les effets des actions de son personnage, le point de destin doit être dépensé avant qu’une action n’ait lieu. Celle-ci doit d’ailleurs se produire dans le round qui suit sa dépense. 
 Par contre lorsqu’il s’agit d’une utilisation passive, c'est à dire pour que le personnage évit l'effet de l'action d'un de ses ennemis, un personnage peut dépenser un point de destin à posteriori pour éviter un effet qui devrait le frapper et contre lequel, il a déjà utilisé les moyens ordinaires de protection. Le pourcentage de réussite est alors généralement plus faible. Par exemple, si le MJ demande un jet de sauvegarde, le PJ peut utiliser son point d'action à priori, c'est à dire avant de lancer les dés, ou à postériori, alors qu'il a déjà lancé le dé.{br}
 
-Il est possible de cumuler les effets. Pour cela, on part de l'effet qui a le moins de chance de se produire, et l'on soustrait à la valeur celle qui est noté dans la colonne du modificateur pour le cumul.
+Il est possible de cumuler les effets. Pour cela, on part de l'effet qui a le moins de chance de se produire, et l'on soustrait à la valeur celle qui est noté dans la colonne du modificateur pour le cumul. 
 
 
 ### Actions passives possibles
@@ -184,12 +184,12 @@ Il est possible de cumuler les effets. Pour cela, on part de l'effet qui a le mo
 
 
 ## Règles d'acquisition des points de destin
-Les points de destin étant un reflet de l'importance du personnage dans l'univers de jeu, le charisme sera la caractéristique importante pour les points de destin.
-Lors de sa création, quel que soit son niveau, un aventurier possède 2 + mod. de Cha points de destin. Cette valeur est également le nombre maximum de point de destin que l’on peut en garder. Un point de destin peut être acquis chaque fois qu’un aventurier passe au niveau supérieur et réussi un jet de charisme (DD15).
-Ayant joué avec cette règle à ma campagne personnelle, un déséquilibre est apparu entre les personnages au niveau des points de destin. Pour le résoudre, je propose trois sous-règles en fonction de votre style de jeu.
+Les points de destin étant un reflet de l'importance du personnage dans l'univers de jeu, le charisme sera la caractéristique importante pour les points de destin. 
+Lors de sa création, quel que soit son niveau, un aventurier possède 2 + mod. de Cha points de destin. Cette valeur est également le nombre maximum de point de destin que l’on peut en garder. Un point de destin peut être acquis chaque fois qu’un aventurier passe au niveau supérieur et réussi un jet de charisme (DD15). 
+Ayant joué avec cette règle à ma campagne personnelle, un déséquilibre est apparu entre les personnages au niveau des points de destin. Pour le résoudre, je propose trois sous-règles en fonction de votre style de jeu. 
 
 ### Style compétitif
-Chaque joueur a droit aux points de destin généré par son PJ et c'est tout. Si il venait à dépasser sa limite de points, le point excédentaire est tout simplement perdu.
+Chaque joueur a droit aux points de destin généré par son PJ et c'est tout. Si il venait à dépasser sa limite de points, le point excédentaire est tout simplement perdu. 
 
 ### Style semi-coopératif
 Dans ce mode de gestion, lorsque l'un des personnages devrait dépasser son maximum, le point de destin va automatiquement au PJ qui en a le moins mais qui n'est pas à son maximum.

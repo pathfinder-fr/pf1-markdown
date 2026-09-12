@@ -5,7 +5,7 @@ LastModified: 2019-08-31 23:24
 ---
 
 <div class="presentation arrondi recentre ombre"><center>**CHEVALIERS DE GOLARION (LES)**
-</br>**Armées de croisés**
+</br>**Armées de croisés**  
 </br>**Dirigeant** : Chevalier–Général Halaina Lymikin
 </br>**Quartier général** : Vaisseau Amiral Épée du courage</center></div>
 

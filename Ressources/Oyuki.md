@@ -5,7 +5,7 @@ LastModified: 2015-04-26 11:17
 ---
 
 ### Présentation des oyuki
-<div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div> Les oyuki sont une race hybride, issue de l'union des humains et des mort-vivants qu'on appelle Yuki-Onna. Exclusivement féminines, cette race partage la peau pâle et les traits d'élégance immuable de leur génitrice. Elles héritent souvent également de leur patience. Qu'elles suivent ou non le chemin maudit des mort-vivants reste un choix qui leur appartient entièrement. Mais quoi qu'il en soit, l'appel glacial des tempêtes boréales résonne toujours en elles, et le froid de la mort n'est jamais loin derrière elles.
+<div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div> Les oyuki sont une race hybride, issue de l'union des humains et des mort-vivants qu'on appelle Yuki-Onna. Exclusivement féminines, cette race partage la peau pâle et les traits d'élégance immuable de leur génitrice. Elles héritent souvent également de leur patience. Qu'elles suivent ou non le chemin maudit des mort-vivants reste un choix qui leur appartient entièrement. Mais quoi qu'il en soit, l'appel glacial des tempêtes boréales résonne toujours en elles, et le froid de la mort n'est jamais loin derrière elles. 
 
 <div class="presentation arrondi ombre espaceliste">
 ### Les traits raciaux des oyuki
@@ -25,7 +25,7 @@ LastModified: 2015-04-26 11:17
 - **Langues.** Les oyuki commencent le jeu en sachant parler le [[Pathfinder-RPG.Linguistique#APPRENDREUNELANGUE|commun]]. Celles qui ont un score d’Intelligence élevé peuvent apprendre d’autres langues, choisissant celles qu’ils veulent (à l’exception des langues secrètes comme la langue des druides).
 </td></tr></table></div>
 
-<div class="presentation arrondi ombre espaceliste">
+<div class="presentation arrondi ombre espaceliste"> 
 ### Les traits raciaux alternatifs des oyuki
 Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux oyuki standards, mais consultez d’abord votre MJ.
 
@@ -45,41 +45,41 @@ Les aventurières oyuki se spécialisent souvent dans des classes sociales ou ch
 Au lieu de gagner un point de compétence ou un point de vie supplémentaire lorsqu'il gagne un nouveau niveau dans une [[Pathfinder-RPG.Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], une oyuki peut choisir un autre avantage en fonction de sa [[Pathfinder-RPG.Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]]. Les options qui suivent sont disponibles pour toutes les oyuki ayant opté pour la classe indiquée comme [[Pathfinder-RPG.Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]]. Sauf mention contraire, les bonus se cumulent à chaque niveau gagné dans la [[Pathfinder-RPG.Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]].
 
 <table class="page espace-col deuxcol"><tr><td>
-**Alchimiste**. Ajouter une formule d’[[Pathfinder-RPG.alchimiste#EXTRAITS|extrait]] issue de la [[Pathfinder-RPG.liste des formules dalchimiste|liste des formules d’alchimiste]] au livre de formules du personnage. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît.
+**Alchimiste**. Ajouter une formule d’[[Pathfinder-RPG.alchimiste#EXTRAITS|extrait]] issue de la [[Pathfinder-RPG.liste des formules dalchimiste|liste des formules d’alchimiste]] au livre de formules du personnage. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît. 
 
-**Barbare**. Quand le [[Pathfinder-RPG.barbare|barbare]] est la cible d’une attaque provenant d’un piège détecté avec [[Pathfinder-RPG.Barbare#SENSDESPIEGES|sens des pièges]], il gagne un bonus de +1/4 aux [[Pathfinder-RPG.jet de sauvegarde|jets de Réflexes]] et un bonus d’esquive de +1/4 à la [[Pathfinder-RPG.CA|CA]].
+**Barbare**. Quand le [[Pathfinder-RPG.barbare|barbare]] est la cible d’une attaque provenant d’un piège détecté avec [[Pathfinder-RPG.Barbare#SENSDESPIEGES|sens des pièges]], il gagne un bonus de +1/4 aux [[Pathfinder-RPG.jet de sauvegarde|jets de Réflexes]] et un bonus d’esquive de +1/4 à la [[Pathfinder-RPG.CA|CA]]. 
 
-**Barde**. Le [[Pathfinder-RPG.barde|barde]] rajoute +1/6 au nombre de personnes qu’il peut affecter avec sa [[Pathfinder-RPG.barde#REPRESENTATIONBARDIQUE|représentation bardique]] fascination.
+**Barde**. Le [[Pathfinder-RPG.barde|barde]] rajoute +1/6 au nombre de personnes qu’il peut affecter avec sa [[Pathfinder-RPG.barde#REPRESENTATIONBARDIQUE|représentation bardique]] fascination. 
 
 **Chevalier**. La monture du [[Pathfinder-RPG.chevalier|chevalier]] gagne 1 point de résistance au froid (maximum 10), et le personnage gagne 1/2 point de résistance au froid.
 
-**Conjurateur**.Le [[Pathfinder-RPG.conjurateur|conjurateur]] met 1 round de moins que la normale à invoquer son [[Pathfinder-RPG.eidolon|eidolon]] (avec un minimum de 1 round).
+**Conjurateur**.Le [[Pathfinder-RPG.conjurateur|conjurateur]] met 1 round de moins que la normale à invoquer son [[Pathfinder-RPG.eidolon|eidolon]] (avec un minimum de 1 round). 
 
 **Druide**. Le [[Pathfinder-RPG.druide|druide]] ajoute un bonus de +1/2 à ses tests de [[Pathfinder-RPG.Concentration|Concentration]]. Ce bonus est doublé en terrain froid.
 
 **Ensorceleur**. Ajoutez ½ point de dégât de plus aux sorts du registre du froid de l'[[Pathfinder-RPG.ensorceleur|ensorceleur]].
 
-**Guerrier**. Le [[Pathfinder-RPG.guerrier|guerrier]] ajoute un bonus de +1 à son [[Pathfinder-RPG.DMD|DMD]] quand il résiste à une tentative de [[Pathfinder-RPG.Manoeuvres offensives#DESARMEMENT|désarmement]] ou de [[Pathfinder-RPG.Manoeuvres offensives#REPOSITIONNEMENT|repositionnement]].
+**Guerrier**. Le [[Pathfinder-RPG.guerrier|guerrier]] ajoute un bonus de +1 à son [[Pathfinder-RPG.DMD|DMD]] quand il résiste à une tentative de [[Pathfinder-RPG.Manoeuvres offensives#DESARMEMENT|désarmement]] ou de [[Pathfinder-RPG.Manoeuvres offensives#REPOSITIONNEMENT|repositionnement]]. 
 
 **Inquisiteur**. L’[[Pathfinder-RPG.inquisiteur|inquisiteur]] ajoute un bonus de +1/3 aux tests d'[[Pathfinder-RPG.Intimidation|Intimidation]] et de [[Pathfinder-RPG.Psychologie|Psychologie]] envers les humanoïdes.
 
-**Magicien**. Quand le [[Pathfinder-RPG.magicien|magicien]] lance un sort d’[[Pathfinder-RPG.enchantement|enchantement]], il ajoute +1/3 à son niveau de magicien effectif, mais seulement pour déterminer la durée du sort.
+**Magicien**. Quand le [[Pathfinder-RPG.magicien|magicien]] lance un sort d’[[Pathfinder-RPG.enchantement|enchantement]], il ajoute +1/3 à son niveau de magicien effectif, mais seulement pour déterminer la durée du sort. 
 </td><td>
-**Magus.** Le [[Pathfinder-RPG.magus|magus]] ajoute +1/4 au nombre de points de sa [[Pathfinder-RPG.Magus#RESERVEMAGIQUE|réserve magique]].
+**Magus.** Le [[Pathfinder-RPG.magus|magus]] ajoute +1/4 au nombre de points de sa [[Pathfinder-RPG.Magus#RESERVEMAGIQUE|réserve magique]]. 
 
 **Moine.** Le [[Pathfinder-RPG.moine|moine]] rajoute un bonus de +1/4 à ses tests de [[Pathfinder-RPG.Manoeuvres offensives|manoeuvres offensives]].  pour saisir ou faire un croc-en-jambe.
 
-**Oracle**. L’[[Pathfinder-RPG.oracle|oracle]] apprend un nouveau [[Pathfinder-RPG.Liste des sorts de prêtres|sort d’oracle]]. Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît.
+**Oracle**. L’[[Pathfinder-RPG.oracle|oracle]] apprend un nouveau [[Pathfinder-RPG.Liste des sorts de prêtres|sort d’oracle]]. Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît. 
 
-**Paladin**. Le [[Pathfinder-RPG.paladin|paladin]] ajoute +1/2 point de vie à son [[Pathfinder-RPG.Paladin#IMPOSITIONDESMAINS|imposition des mains]] (qu’il l’utilise pour soigner ou pour blesser).
+**Paladin**. Le [[Pathfinder-RPG.paladin|paladin]] ajoute +1/2 point de vie à son [[Pathfinder-RPG.Paladin#IMPOSITIONDESMAINS|imposition des mains]] (qu’il l’utilise pour soigner ou pour blesser). 
 
 **Pistolier.** Le [[Pathfinder-RPG.pistolier|pistolier]] ajoute +1/4 au nombre de [[Pathfinder-RPG.Pistolier#AUDACE|points d’audace]] de sa réserve.
 
 **Prêtre.** Le [[Pathfinder-RPG.prêtre|prêtre]] rajoute +1 au niveau de lanceur de sorts de tous les dons de [[Pathfinder-RPG.prêtre#CANALISATIONDENERGIE|canalisation]] qui affectent les morts-vivants.
 
-**Rôdeur**. Le [[Pathfinder-RPG.Compagnons animaux|compagnon animal]] du [[Pathfinder-RPG.rôdeur|rôdeur]] gagne 1 point de résistance au froid (maximum 10), et le personnage gagne 1/2 point de résistance au froid.
+**Rôdeur**. Le [[Pathfinder-RPG.Compagnons animaux|compagnon animal]] du [[Pathfinder-RPG.rôdeur|rôdeur]] gagne 1 point de résistance au froid (maximum 10), et le personnage gagne 1/2 point de résistance au froid. 
 
-**Roublard**. Le [[Pathfinder-RPG.roublard|roublard]] ajoute +1/2 à ses tests de [[Pathfinder-RPG.Bluff|Bluff]] pour faire une feinte et à ses tests de [[Pathfinder-RPG.Diplomatie|Diplomatie]] pour rassembler des informations.
+**Roublard**. Le [[Pathfinder-RPG.roublard|roublard]] ajoute +1/2 à ses tests de [[Pathfinder-RPG.Bluff|Bluff]] pour faire une feinte et à ses tests de [[Pathfinder-RPG.Diplomatie|Diplomatie]] pour rassembler des informations. 
 
-**Sorcière**. Le [[Pathfinder-RPG.Familiers|familier]] de la [[Pathfinder-RPG.sorcière|sorcière]] gagne 1 point de résistance au froid (maximum 10), et le personnage gagne 1/2 point de résistance au froid.
+**Sorcière**. Le [[Pathfinder-RPG.Familiers|familier]] de la [[Pathfinder-RPG.sorcière|sorcière]] gagne 1 point de résistance au froid (maximum 10), et le personnage gagne 1/2 point de résistance au froid. 
 </td></tr></table>

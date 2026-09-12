@@ -4,7 +4,7 @@ Title: Otto
 LastModified: 2012-11-07 15:01
 ---
 
-A l'approche de la quarantaine, Otto commence à se sentir vieux pour ce genre de métier et se trouverait bien un petit coin tranquille avec une femme pas trop jalouse. Né dans le Brévoy, il a longtemps fait parti de la garde de Restov dans laquelle il garde de nombreux contacts avant que de ce faire virer "incompatibilité d'humeur" avec son supérieur hiérarchique.
+A l'approche de la quarantaine, Otto commence à se sentir vieux pour ce genre de métier et se trouverait bien un petit coin tranquille avec une femme pas trop jalouse. Né dans le Brévoy, il a longtemps fait parti de la garde de Restov dans laquelle il garde de nombreux contacts avant que de ce faire virer "incompatibilité d'humeur" avec son supérieur hiérarchique. 
 
 <div class="BD">
 {s:BDTitre|Otto | FP 1}

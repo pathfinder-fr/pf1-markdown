@@ -21,7 +21,7 @@ Categories:
 {s:BDTexte|**Ref **+8, **Vig **+6, **Vol** +3}
 {s:BDSousTitre|CAPACITÉS OFFENSIVES}
 {s:BDTexte|**Vitesse **6 cases}
-{s:BDTexte|**Càc **hache d'arme +7 (1d6+1 x3)}
+{s:BDTexte|**Càc **hache d'arme +7 (1d6+1 x3)} 
 {s:BDTexte|**Dist **Arc long +11 (1d8+1, x3) ou Viser +9 (1d8+5)   
 ou tir rapide +9/+9 (1d8+1 x3) portée 78m.}
 {s:BDTexte|**Attaques spéciales** Attaque handicapante }
@@ -49,6 +49,6 @@ Cuir clouté de maître ; Arc long de force (+1) de maître en os de dragon d'ai
 </td><td><div>*Alors que vous suivez sans peine les traces démesurées du géant, vous remarquez qu'un oiseau de proie observe calmement vos efforts. Soudain, sorti de nulle part, apparait un homme vêtu de frusques informes. Il tient en main un puissant arc en os.* *"Hé, Mec, fait-il en mangeant à moitié ses mots. Va trifouiller un'aut'pist'. Celle là, c'est ma mienne"*
 
 Throma est un PNJ bourru discourtois, inculte, pas spécialement courageux et même sournois. Il passe sa vie sur la piste des géants, traquant les trolls, les ogres et même les géants des collines. Il opère presque uniquement en solitaire (il n'a par exemple jamais appris à tirer sur un adversaire tout en évitant de toucher un allié. )  
-Relativement faible au corps à corps, il passera beaucoup de temps avant de réaliser la moindre attaque, mettant toutes les chances de son côté. S'il a pu survivre en exerçant une telle activité, c'est uniquement en concevant des tactiques qui ne laissent aucune chance à ses adversaires, s'ingéniant à utiliser le terrain au mieux pour retarder au plus tard le moment ou le géant arrive au corps à corps.
+Relativement faible au corps à corps, il passera beaucoup de temps avant de réaliser la moindre attaque, mettant toutes les chances de son côté. S'il a pu survivre en exerçant une telle activité, c'est uniquement en concevant des tactiques qui ne laissent aucune chance à ses adversaires, s'ingéniant à utiliser le terrain au mieux pour retarder au plus tard le moment ou le géant arrive au corps à corps. 
 
 </div></td></tr></table>

@@ -8,12 +8,12 @@ LastModified: 2013-10-21 00:02
 
 
 **Avertissement de l’auteur originel Shane ”General Chaos” Majewski : **
-"Ce document est basé sur les excellentes conversions pour 6 joueurs d’Alexeter sur les forums Paizo, disponibles à ces adresses :
+"Ce document est basé sur les excellentes conversions pour 6 joueurs d’Alexeter sur les forums Paizo, disponibles à ces adresses : 
 1:[Les Terres Volées pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKigmakerStolenLanDDhapter1For6PCs) et part 2:[Quand les Rivières se Teintent de Rouge pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKingmakerRiversRunReDDhapter2For6PCs)
 
 Pour paraphraser et citer, je suis parti du principe d’allouer 50% de PX et de trésor en plus pour compenser l’augmentation du nombre de joueurs. Tout cela en ajoutant des monstres, des Dés de vie supplémentaires, des niveaux et autres idées. "
 
-Note : Lorsque j’écris ‘notre cible de PX’, la cible est un total de PX 50% supérieur aux valeurs originales mentionnées dans l’AP. Si une rencontre du Prix du sang rapporte environ 1000PX, notre rencontre ‘convertie’ vaudra 1500PX environ, ainsi l’avancement pour 6 joueurs sera aussi rapide que dans la version classique pour 4.
+Note : Lorsque j’écris ‘notre cible de PX’, la cible est un total de PX 50% supérieur aux valeurs originales mentionnées dans l’AP. Si une rencontre du Prix du sang rapporte environ 1000PX, notre rencontre ‘convertie’ vaudra 1500PX environ, ainsi l’avancement pour 6 joueurs sera aussi rapide que dans la version classique pour 4. 
 
 Recommandations préliminaires
 - Donnez aux PJ 150PX par hex exploré ; c’est à dire 25PX par hex et par joueur, autant que si aviez quatre joueurs. 
@@ -26,19 +26,19 @@ Recommandations préliminaires
 Etant donné la façon dont est sensé se dérouler cette rencontre, seules deux parties nécessitent des ajustements :
 
 #### La marche des Trolls FP 11
-Ajouter *Evolué* aux Trolls laissent un déficit de 2400 PX (juste assez pour un Troll ‘classique’, mais j’ai préféré augmenter la difficulté de la rencontre en augmentant simplement leur nombre à 9).
+Ajouter *Evolué* aux Trolls laissent un déficit de 2400 PX (juste assez pour un Troll ‘classique’, mais j’ai préféré augmenter la difficulté de la rencontre en augmentant simplement leur nombre à 9). 
 Valeur originale de PX = 14400PX | PX cibles de la rencontre - 21600PX (3600PX par PJ)
 
 <div class="BD">
 {s:BDTitre|Trolls (9)|FP 6}
 
-</div>
+</div> 
 
 **Victoire ou Défaite**
 - Victoire : Le groupe gagne 19200PX au lieu de 12800PX.
 - Egalité : Le groupe 9600PX au lieu de 6400PX
 
-De plus, **Aemon** gagne un niveau, Notez qu’il n’est pas prévu qu’il combatte directement les PJs (on peut facilement le faire passer à FP 9) puisqu’il doit s’échapper et retourner à *Fort Drelev*. Notez également que **Terrion Numesti** utilise ici le profil d’**Aemon** et est amélioré de la même façon.
+De plus, **Aemon** gagne un niveau, Notez qu’il n’est pas prévu qu’il combatte directement les PJs (on peut facilement le faire passer à FP 9) puisqu’il doit s’échapper et retourner à *Fort Drelev*. Notez également que **Terrion Numesti** utilise ici le profil d’**Aemon** et est amélioré de la même façon. 
 
 <div class="BD">
 {s:BDTitre|AEMON TRASK|FP 9}
@@ -170,7 +170,7 @@ Valeur originale de PX = 12800PX | PX cibles de la rencontre - 19200PX (3200PX p
 
 **Trésor : **Augmentez jusqu’à 2520po, le sceptre en ivoire est serti d’opales et vaut plus de 1800po, le collier en or dispose en plus d’un cœur en pierre précieuse en forme de croissant l’amenant à 600po. En plus du kukri et de l’anneau, il y a une *épée courte +1 de contact glacial* (taille P) et 6 *dagues de maître en argent* (taille P)
 #### I - Le troupeau de chimères FP10
-J’ai été tenté d’améliorer les chimères en Géantes mais cela ne collait pas avec leur caverne de taille P. A la place, j’ai choisi de leur octroyer un DV supplémentaire et un dé de dommage supplémentaire pour leurs attaques de souffle.
+J’ai été tenté d’améliorer les chimères en Géantes mais cela ne collait pas avec leur caverne de taille P. A la place, j’ai choisi de leur octroyer un DV supplémentaire et un dé de dommage supplémentaire pour leurs attaques de souffle. 
 Valeur originale de PX = 9600PX | PX cibles de la rencontre - 14400PX (2400PX par PJ)
 
 Chimère (3) FP 7
@@ -237,10 +237,10 @@ BBA +15; BMO +25; DMD 40
 Dons Critique sanglant, Don pour les critiques, Esquive, Science du coup critique (morsure), Science de l’initiative, Science de la Volonté de fer, Volonté de fer, Réflexes surhumains, Talent (Perception)
 Compétences Acrobatie +15 (+19 saut), Perception +15, Discrétion +12 (+16 dans l’herbe haute)
 Trésor : De base : trois armures de plates de maître (1050po), quatre boucliers loiurds en acier de maître (680), six épée longues de maître (1575po), et cinq arcs longs composites de maître +3 For (3500po). Un arc long composite tueur d’animal +1 (8000po), carquois efficace (1800po) et deux flèches tueuses d’animaux (4564po) = un total de 21169po.
-Nous devons encore trouver 10584po. Je trouve que ce butin ressemble davantage à un cimetière davantage qu’à quelque chose qui sera utile et nouveau pour les joueurs. Doublez le nombre d’objets de maîtres (6 armures de plates, 8 boucliers lourds, 12 épées longues, 10 arcs longs composites) nous amène à 6805po. Il nous manque encore 3779po. Ajoutez une autre flèche tueuse d’animaux et une broche de bouclier. Il ne nous manque plus que 3po, ce qui est négligeable.
+Nous devons encore trouver 10584po. Je trouve que ce butin ressemble davantage à un cimetière davantage qu’à quelque chose qui sera utile et nouveau pour les joueurs. Doublez le nombre d’objets de maîtres (6 armures de plates, 8 boucliers lourds, 12 épées longues, 10 arcs longs composites) nous amène à 6805po. Il nous manque encore 3779po. Ajoutez une autre flèche tueuse d’animaux et une broche de bouclier. Il ne nous manque plus que 3po, ce qui est négligeable. 
 
 #### L - Le marécage hanté FP7
-La rencontre avec l’Ahuizotl est suppose être particulière, prévue pour être une ambuscade. Il pourrait être dangereux de la faire évoluer, particulièrement si elle attrape un joueur. Cependant, c’est aussi une excellente occasion pour faire en sorte que les joueurs demeurent sur leurs gardes et ne sentent pas en terrain conquis. J’imagine les réactions des joueurs en perdant l’un des leurs, face à un FP 7 solitaire. Ajouter Evolué nous amène à 3200PX, soit un manque de 400. Nous nous rattraperons plus tard.
+La rencontre avec l’Ahuizotl est suppose être particulière, prévue pour être une ambuscade. Il pourrait être dangereux de la faire évoluer, particulièrement si elle attrape un joueur. Cependant, c’est aussi une excellente occasion pour faire en sorte que les joueurs demeurent sur leurs gardes et ne sentent pas en terrain conquis. J’imagine les réactions des joueurs en perdant l’un des leurs, face à un FP 7 solitaire. Ajouter Evolué nous amène à 3200PX, soit un manque de 400. Nous nous rattraperons plus tard. 
 Valeur originale de PX = 2400PX | PX cibles de la rencontre - 3600PX (600PX par PJ)
 
 Ahuizotl évolué FP7
@@ -274,7 +274,7 @@ Voir Partie 3
 #### N - M’Botuu
 est constitué de plusieurs zones mais ne fonctionne pas pour un chapitre à part, donc les different lieux de N (N1 à N13 se suivent tous ici). Nous totaliserons ici l’ensemble des gaisn puis les divisant ensuite par endroits précis. Ajouter aux Bourbiérins classiques FP 2 quoi que ce soirn’ajoute pas grand-chose, tactiquement et il y a suffisament de bons ennemis potentiels dans leur camp. Aussi me suis-je intéressé surtout aux Gardiens et à Seépoko. Le grand total est de 53 800 PX, ce qui requiert 26 900 supplémentaire.
 
-Les gardiens sont tous identiques dans chaque zone et ont tous leur compagnon grenouille. Le bonus de PV aux Gardiens semblait insuffisant. 8x + 4 Con, +8 Vigueur = 40, avec 1 niveau de Rôdeur 9x +4Con, +9 Vigueur = 45. Les PV n’augmentent que de 5. +1000 po d’équipement… Une potion supplémentaire (pour chacun) et nous ajoutons que leur potion peut être récupéré comme butin, un poison similaire au venin de vipère noir, ce qui augmente le DD du jet de sauvegarde de 1… Nous l’appelerons le poison Rayon-de-soleil. 100 po la dose. Après avoir augmenté ces petits gars, il n’y a plus que 15 700PX à trouver, une paille ! Sépoko gagne un autre niveau lui aussi. 2 autres gardiens nous ramenant à 9 300PX. 2 autres Gardiens ne nous fait dépasser que de 300.
+Les gardiens sont tous identiques dans chaque zone et ont tous leur compagnon grenouille. Le bonus de PV aux Gardiens semblait insuffisant. 8x + 4 Con, +8 Vigueur = 40, avec 1 niveau de Rôdeur 9x +4Con, +9 Vigueur = 45. Les PV n’augmentent que de 5. +1000 po d’équipement… Une potion supplémentaire (pour chacun) et nous ajoutons que leur potion peut être récupéré comme butin, un poison similaire au venin de vipère noir, ce qui augmente le DD du jet de sauvegarde de 1… Nous l’appelerons le poison Rayon-de-soleil. 100 po la dose. Après avoir augmenté ces petits gars, il n’y a plus que 15 700PX à trouver, une paille ! Sépoko gagne un autre niveau lui aussi. 2 autres gardiens nous ramenant à 9 300PX. 2 autres Gardiens ne nous fait dépasser que de 300. 
 
 Gardiens bourbiérins FP8
 PX 4,800 chaque ( 1 600 de plus)

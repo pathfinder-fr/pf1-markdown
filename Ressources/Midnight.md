@@ -11,7 +11,7 @@ Voilà maintenant près de trois ans que je joue une campagne s'inspirant à la 
 
 J'ai entamé l'adaption des règles de Midnight aux règles de Pathfinder, afin de pouvoir continuer à utiliser cet univers avec un système de règle encore disponible. Un univers ne peut survivre s'il n'a pas un système de règle disponible.
 
-Sur Pathfinder-fr, vous trouverez bientôt l'ensemble des règles, des aides de jeu, des scénarii...
+Sur Pathfinder-fr, vous trouverez bientôt l'ensemble des règles, des aides de jeu, des scénarii... 
 Vous pouvez suivre la campagne et l'évolution du site sur le site : [Midnight Compagnie Noire](https://sites.google.com/site/midnightcompagnienoire/accueil)
 
 [Nightfinder](https://sites.google.com/site/midnightcompagnienoire/librairie/NightFinder.pdf?attredirects=0&d=1) (pdf 10mo)

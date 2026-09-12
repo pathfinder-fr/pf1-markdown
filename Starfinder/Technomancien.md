@@ -457,6 +457,6 @@ Vous récupérez vos points de persévérance quand vous utilisez une puissante 
 {s:Reference|FUSIONDESORTS}
 #### Fusion de sorts (Ext) - Niveau 20
 Vous pouvez combiner des emplacements de sorts de bas niveau pour lancer des sorts de plus haut niveau. Quand vous lancez un sort, vous pouvez dépenser 1 point de persévérance pour échanger un nombre d’emplacements de sort non utilisés contre un unique emplacement de sort de plus haut niveau ; vous utilisez ces emplacements de sort de niveau inférieur. Ajoutez les niveaux des emplacements de sort dépensés pour déterminer le niveau du sort que vous pouvez lancer (maximum niveau 6). Par exemple, vous pouvez échanger trois emplacements de sorts de niveau 1 pour lancer un sort de niveau 3 ou deux emplacements de sorts de niveau 3 pour lancer un sort de niveau 6. Si vous combinez des emplacements de sort pour lancer un sort de niveau 6, il ne compte pas comme tel pour l’aptitude persévérance
-harmonisée.
+harmonisée. 
 
 De plus, vous pouvez dépenser 2 points de persévérance pour combiner deux emplacements de sort de niveau 6 pour lancer le sort souhait.

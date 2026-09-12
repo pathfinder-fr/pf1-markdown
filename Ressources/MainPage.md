@@ -11,8 +11,8 @@ Categories:
 - Règles maison
 ---
 
-<table class="page espace-col deuxcol">
-<tr>
+<table class="page espace-col deuxcol"> 
+<tr> 
 <td>
 {s:ImageLien|/ADJ/Ressources/titre wiki PJ 2.png|100%|centre|/Wiki/Ressources.Wiki%20ressources%20PJ.ashx|Ressources Joueurs}
 <div class="chapeau">

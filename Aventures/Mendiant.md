@@ -21,7 +21,7 @@ Categories:
 {s:BDTexte|<b>Distance</b>      dague +3 (1d4+1/19-20)  (facteur de portée 3 m)}
 {s:BDTexte|<b>Attaque spéciale</b> Attaque sournoise +1d6}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|<b>Avant le combat.</b> Le mendiant ne cherche pas la bagarre mais il se défend avec hargne.}
+{s:BDTexte|<b>Avant le combat.</b> Le mendiant ne cherche pas la bagarre mais il se défend avec hargne.} 
 {s:BDTexte|<b>Pendant le combat.</b> Le mendiant hurle à l'aide en espérant attirer l'attention de la foule ou bien d'autres mendiants qui viendront l'aider. Une fois réduit à 1/3 de ses PV, il peux tomber à genoux et demander grâce ou bien, s'il a encore ses deux jambes, s'enfuir en courant dans la direction opposée aux PJs.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 13, <b>Dex</b> 17, <b>Con</b> 14, <b>Int</b> 10, <b>Sag</b> 12, <b>Cha</b> 8}

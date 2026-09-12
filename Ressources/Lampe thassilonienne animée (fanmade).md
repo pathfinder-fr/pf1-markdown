@@ -35,11 +35,11 @@ LastModified: 2016-03-29 13:19
 
 
 </div>
-</td><td><div>''La lampe est un bel ouvrage représentant une femme à quatre bras
-au bout desquels pendent des tiges en métal de 30cm où sont suspendues des lampes
+</td><td><div>''La lampe est un bel ouvrage représentant une femme à quatre bras 
+au bout desquels pendent des tiges en métal de 30cm où sont suspendues des lampes 
 à huile finelement ciselées. ''
 
-Cette lampe antique pèse environ 15kg. Elle servait à illuminer jusqu'à 9m autour d'elle et reste magiquement allumée.
+Cette lampe antique pèse environ 15kg. Elle servait à illuminer jusqu'à 9m autour d'elle et reste magiquement allumée.  
 
 
 

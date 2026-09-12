@@ -25,13 +25,13 @@ Monstres emblématiques du premier chapitre de la campagne "Les héros de Pointe
 **For** +0, **Dex** +3, **Con** +2, **Int** +0, **Sag** +0, **Cha** +0
 
 **Équipement** tranchechien, armure de cuir, arc court (avec 10 flèches)
----
+<hr />
 **CA** 16; **Réf** 6, **Vig** +9, **Vol** +3
 
 **PV** 12
 
 **Précipitation gobeline** {s:PF2a|ra} **Déclencheur** Un allié termine une action de déplacement sur une case adjacente à la vôtre. **Effet** Vous profitez du déplacement de votre allié pour ajuster votre position. Vous Faites un pas.
----
+<hr />
 
 **Vitesse** 5 cases
 

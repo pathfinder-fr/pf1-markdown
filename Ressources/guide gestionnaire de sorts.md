@@ -41,7 +41,7 @@ Le menu **option **permet de gérer l’impression ou la langue de l’interface
 
 ### Effectuer une recherche
 
-C’est la fonction la plus puissante de cet outil.
+C’est la fonction la plus puissante de cet outil. 
 
 <table class="imageauto" align="center" cellpadding="0" cellspacing="0"><tbody><tr><td><img class="image" src="GetFile.aspx?Page=Pathfinder-RPG.guide%20gestionnaire%20de%20sorts&amp;File=Recherche_01.png" alt="Image"></td></tr></tbody></table>
 

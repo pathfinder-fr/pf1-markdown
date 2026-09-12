@@ -52,7 +52,7 @@ Dans les suppléments, certains archétypes renforcent les capacités martiales 
 
 Le style n'est pas gourmand en dons. Frappe magique (1) et Attaque en puissance (3) suffisent à être efficace à bas niveau. Fente (9) donne une option tactique supplémentaire.</br>
 En dehors de cela, le build est très libre. Attaques réflexes permet de rentabiliser l'arme à allonge, Science de l'initiative est toujours bien. Suivant la campagne, les dons de création d'objets seront plus ou moins intéressants. Prestige est le don fumé par excellence.</br>
-Dans les suppléments, Voix Discordante offre un bon bonus aux dégâts. Flagbearer renforce l'aspect buff de goupe, notamment avec la Banner of the ancient kings.
+Dans les suppléments, Voix Discordante offre un bon bonus aux dégâts. Flagbearer renforce l'aspect buff de goupe, notamment avec la Banner of the ancient kings. 
 
 ##### 3.4 Sorts
 

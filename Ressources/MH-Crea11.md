@@ -31,5 +31,5 @@ LastModified: 2014-07-06 02:04
 <LI>Liste des dons possédés par le personnage.
 <LI>Description du dernier don sélectionné.
 <LI>Vers [[MH-Crea9|Compétences]].
-<LI>Validation des choix. Validation du passage de niveau. Si votre personnage a assez de points d’expérience pour passer un autre niveau, il vous sera proposé de le faire. Si vous cliquez « oui » vers « Passage de niveau » sinon vers [[MH-MesPersos|Mes Personnages]].
+<LI>Validation des choix. Validation du passage de niveau. Si votre personnage a assez de points d’expérience pour passer un autre niveau, il vous sera proposé de le faire. Si vous cliquez « oui » vers « Passage de niveau » sinon vers [[MH-MesPersos|Mes Personnages]]. 
 </OL></td></tr></table>

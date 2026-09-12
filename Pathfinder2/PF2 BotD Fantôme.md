@@ -48,7 +48,7 @@ Vous vous lamentez au sujet de votre sort et contraignez toutes les créatures v
 
 <div class="blocPF2">
 {s:titrePF2|Résistance fantomatique (Ghostly Resistance)|Don 4}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -58,7 +58,7 @@ Au niveau 10, la résistance passe à 2 (ou 4 si la source n’est pas magique).
 
 <div class="blocPF2">
 {s:titrePF2|Poigne fantomatique (Ghostly Grasp)|Don 6}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -67,7 +67,7 @@ Vous parvenez à mieux contrôler votre forme fantomatique. Vous gagnez les [[PF
 
 <div class="blocPF2">
 {s:titrePF2|Vol de fantôme (Ghost Flight) {s:PF2a|inv2a}|Don 8}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -76,7 +76,7 @@ Vous pouvez vous libérer de votre lien avec le sol et vaincre cette restriction
 
 <div class="blocPF2">
 {s:titrePF2|Passe-murailles (Pass Through) {s:PF2a|inv3a}|Don 10}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** maître en Acrobaties, Dévotion de fantôme
 
@@ -91,7 +91,7 @@ En égrainant votre forme à travers la substance d’un objet, vous pouvez trav
 
 <div class="blocPF2">
 {s:titrePF2|Réjuvénation (Rejuvenation)|Don 12}
-{s:traitRareté|Rare} {s:trait|Archétype}
+{s:traitRareté|Rare} {s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 
@@ -100,7 +100,7 @@ L’appel de votre tâche inachevée vous recrée quand vous êtes détruit. Qua
 
 <div class="blocPF2">
 {s:titrePF2|Vol de fantôme illimité (Unlimited Ghost Flight)|Don 14}
-{s:trait|Archétype}
+{s:trait|Archétype} 
 
 **Prérequis** Dévotion de fantôme
 

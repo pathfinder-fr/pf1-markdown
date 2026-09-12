@@ -22,7 +22,7 @@ Un tunnel d'apparence banal peut cacher un danger invisible (illustration par Ja
 **Discrétion** +12 (expert)
 
 **Description** Quand une créature vivante passe au-delà de la moitié du tunnel piégé, la magie nécromantique anime partiellement les corps enfouis dans les murs et le plafond.
----
+<hr />
 **Désarmorçage** Art du voleur DD 24 (expert) pour perturber le déclencheur magique avant que le piège ne lance son initiative, ou Religion DD 18 (entraîné) pour inonder la zone d'énergie positive et empêcher le piège d'utiliser sa routine pendant 1 round ; après le 3e test de Religion réussi, les énergies nécromantiques sont perturbées et le piège est détruit.
 
 **CA** 20 ; **Réflexes** +8, **Vigueur** +15, **Volonté** +14
@@ -38,7 +38,7 @@ Un tunnel d'apparence banal peut cacher un danger invisible (illustration par Ja
 &nbsp;&nbsp;**Échec** La cible est effrayée 2. Elle ne peut pas réduire sa condition effrayée sous 1 tant qu'elle se trouve dans la zone du piège.
 
 &nbsp;&nbsp;**Échec critique** Comme échec, et la cible est paralysée pendant 1 round.
----
+<hr />
 **Routine** {s:PF2a|1a} Des poings morts-vivants assaillent toutes les créatures situées dans le passage, infligeant 4d6 points de dégâts contondants. Les créatures qui sont dans le tunnel doivent effectuer un test de Réflexes de DD 21.
 
 &nbsp;&nbsp;**Réussite critique** La cible n'est pas affectée.
@@ -51,5 +51,5 @@ Un tunnel d'apparence banal peut cacher un danger invisible (illustration par Ja
 
 </div>
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shiu](https://paizo.com/community/blog/v5748dyo6shiu) et écrit par Ron Lundeen.

@@ -67,7 +67,7 @@ eu une valeur d’Intelligence de 18 lors des 3 premiers niveaux.
 ### ÉTAPE 2 : AJOUTEZ LES NOUVELLES APTITUDES DE CLASSE
 
 Votre personnage peut prendre un niveau dans sa classe actuelle ou
-un niveau dans une autre classe.
+un niveau dans une autre classe. 
 Augmentez le total de points de vie de votre personnage
 du nombre conféré par votre classe, augmentez son total de points
 d’endurance du montant indiqué dans la description de sa classe plus son

@@ -28,5 +28,5 @@ LastModified: 2014-07-06 02:03
 <LI>Définition des détails physiques de votre personnage. Notez que l’âge que vous rentrez ici n’affectera pas la catégorie d’âge de votre personnage. Il commencera toujours en étant « jeune ». Vous pourrez ensuite modifier cela en allant dans la [[MH-GestPerso|Gestion du Personnage]] 7).
 <LI>Définition des origines de votre personnage. La campagne ne sera utilisée que pour classer ce personnage parmi les autres dans l’écran [[MH-MesPersos|Mes Personnages]].
 <LI>Retour vers [[MH-Crea2|Caractéristiques]].
-<LI>Validation des données. Vers [[MH-Crea4|Traits]].
+<LI>Validation des données. Vers [[MH-Crea4|Traits]]. 
 </OL></td></tr></table>

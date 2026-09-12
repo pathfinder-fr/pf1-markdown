@@ -24,7 +24,7 @@ Categories:
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** dague [[Pathfinder-RPG.vicieuse (propriété)|vicieuse]] +1, +13 (1d4+8/19-20 plus 2d6)/ +7 (1d4+4 plus [[Pathfinder-RPG.Vampire, archétype#ABSORPIONDENERGIE|absorption d'énergie]] 2/DD 22), 1d6 au porteur}
 {s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.Vampire, archétype#ABSORPIONDESANG|absorption de sang]], [[Pathfinder-RPG.prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] négative 10/jour (DD20, 3d6)
-[[Pathfinder-RPG.Vampire, archétype#CREATIONDEREJETONS|création de rejetons]],
+[[Pathfinder-RPG.Vampire, archétype#CREATIONDEREJETONS|création de rejetons]], 
 [[Pathfinder-RPG.Vampire, archétype#CREATUREDESTENEBRES|créatures des ténèbres]], [[Pathfinder-RPG.Vampire, archétype#DOMINATION|domination]] (DD 22), [[Pathfinder-RPG.assassin#ATTAQUEMORTELLE|attaque mortelle]] (DD 13), [[Pathfinder-RPG.attaque sournoise|attaque sournoise]] 1d6, [[Pathfinder-RPG.Coup destructeur|Coup destructeur]] (+3, 7/j)}
 {s:BDTexte|**Pouvoirs magiques**  ([[Pathfinder-RPG.NLS|NLS]] 7; [[Pathfinder-RPG.concentration|concentration]] +11)}
 {s:BDSorts|7/jour - [[Pathfinder-RPG.Domaine de la Noblesse|Parole inspirante]] (3 round)}
@@ -49,11 +49,11 @@ Categories:
 Théruk est actuellement en train d'absorber le sang d'un croisé appelé [[AP13-Idrian Vosner|Idian Vosner]].
 
 ### Tactiques
-**Avant le combat**
-Thréruk utilise sa baguette de [[Pathfinder-RPG.Mise à mort|Mise à mort]] pour tuer [[AP13-Idrian Vosner|Idrian Vosner]], puis se lance [[Pathfinder-RPG.panoplie magique|panoplie magique]], [[Pathfinder-RPG.splendeur de laigle|splendeur de l'aigle]], [[Pathfinder-RPG.bouclier de la foi|bouclier de la foi]] et [[Pathfinder-RPG.faveur divine|faveur divine]] pour finir.
-**Pendant le combat**
-Dans un premier temps, Théruk tente de [[Pathfinder-RPG.domination|dominer]] les combattants vélléitaires pour les retourner contre leurs alliés. D'après ses expériencces passées, il préfère viser les barabares, les guerriers, les roublards en priorité, au lieu des paladins et des prêtres. Il lance [[Pathfinder-RPG.fracassement|fracassement]] sur les symboles sacrés de ces derniers et les prend en tenailles avec des alliés tels que des adversaires dominés.
-**Moral**
+**Avant le combat**   
+Thréruk utilise sa baguette de [[Pathfinder-RPG.Mise à mort|Mise à mort]] pour tuer [[AP13-Idrian Vosner|Idrian Vosner]], puis se lance [[Pathfinder-RPG.panoplie magique|panoplie magique]], [[Pathfinder-RPG.splendeur de laigle|splendeur de l'aigle]], [[Pathfinder-RPG.bouclier de la foi|bouclier de la foi]] et [[Pathfinder-RPG.faveur divine|faveur divine]] pour finir.   
+**Pendant le combat**   
+Dans un premier temps, Théruk tente de [[Pathfinder-RPG.domination|dominer]] les combattants vélléitaires pour les retourner contre leurs alliés. D'après ses expériencces passées, il préfère viser les barabares, les guerriers, les roublards en priorité, au lieu des paladins et des prêtres. Il lance [[Pathfinder-RPG.fracassement|fracassement]] sur les symboles sacrés de ces derniers et les prend en tenailles avec des alliés tels que des adversaires dominés.    
+**Moral**    
 Théruk se bat jusqu'à sa destruction. S'il lui reste 0 points de vie, il se replie vers son cercueil pour récupérer.
 
 

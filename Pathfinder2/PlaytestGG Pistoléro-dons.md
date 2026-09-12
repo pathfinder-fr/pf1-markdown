@@ -19,7 +19,7 @@ LastModified: 2021-01-11 22:48
 {s:trait|Pistoléro}
 
 **Conditions** Vous tenez en main une arme à feu ou une arbalète chargée et un ennemi que vous pouvez voir et qui se trouve dans la portée maximale de l'arme bénéficie d'un abri.
----
+<hr />
 Vous effectuez un tir de couverture pour protéger vos alliés et empêcher vos adversaires de bouger. Vous effectuez une Frappe avec une arme à feu ou une arbalète contre l'ennemi, qui doit choisir entre se recroqueviller derrière l'abri (aucune action nécessaire) ou pas avant que vous n'effectuiez le jet d'attaque. Si la cible se recroqueville, elle S'abrite contre votre attaque et gagne un bonus de circonstances de +4 à la CA grâce à cet abri supérieur, mais elle subit également un malus de circonstances de -2 aux attaques à distance jusqu'à la fin de son prochain tour. Ce couvert supérieur ne s'applique que contre votre Frappe, pas contre les futures attaques. Si la cible choisit de ne pas se recroqueviller, la Frappe fonctionne normalement.
 </div>
 
@@ -35,7 +35,7 @@ Vous vous êtes entraîné au point de comprendre le fonctionnement des armes à
 {s:trait|Pistoléro}
 
 **Déclencheur** Une créature que vous voyez tente une Frappe à distance contre vous.
----
+<hr />
 Vous vous jetez hors de la trajectoire, en réagissant rapidement ou par pur instinct. Vous Sautez pour éviter d'être blessé et gagnez un bonus de circonstances de +2 à votre CA contre l'attaque déclencheur. Que l'attaque déclencheur vous touche ou pas, vous vous retrouvez par terre après avoir réalisé votre Saut.
 </div>
 
@@ -62,7 +62,7 @@ Grâce à un tir rapide, vous perturbez un ennemi au combat. Effectuez une Frapp
 {s:trait|Pistoléro} {s:trait|Attaque}
 
 **Conditions** Vous tenez une arme à feu chargée.
----
+<hr />
 Parfois, emprunter la plus courte distance entre deux points implique de se débarrasser de certains obstacles. Vous déchargez l'arme à feu que vous tenez sur une serrure située à 2 cases ou moins. Effectuez votre jet d'attaque contre le DD pour Crocheter la serrure.
 
 **Réussite critique.** Vous ouvrez la serrure, ou vous obtenez deux réussites dans la progression vers l'ouverture d'une serrure complexe.  
@@ -77,7 +77,7 @@ Parfois, emprunter la plus courte distance entre deux points implique de se déb
 
 **Prérequis** entraîné en Duperie  
 **Conditions** Vous tenez une arme à distance à une main qui est chargée.
----
+<hr />
 Vos gestes rapides et le spectacle que vous offrez distraient un adversaire, le rendant vulnérable à votre attaque. Vous Feintez contre un adversaire situé dans le premier facteur de portée de l'arme mentionnée sous Conditions plutôt que contre un adversaire situé dans votre allonge de corps à corps. En cas de réussite ou de réussite critique, l'adversaire est pris au dépourvu contre vos attaques de corps à corps et à distance, plutôt que uniquement contre vos attaques de corps à corps. En cas d'échec critique, vous êtes pris au dépourvu contre les attaques de corps à corps et à distance de votre adversaire, plutôt que uniquement contre ses attaques de corps à corps.
 </div>
 
@@ -93,7 +93,7 @@ Vous dégainez votre arme et attaque dans le même mouvement. Vous Intéragissez
 {s:trait|Pistoléro} {s:trait|Fioriture}
 
 **Condition** Vous tenez une arme à feu.
----
+<hr />
 Vous vous êtes entraîné à une nouvelle technique pour recharger rapidement votre arme à feu mais elle comporte un risque quant à la fonctionnalité de l'arme. Intéragissez pour rechercher une arme à feu puis effectuez une Frappe avec cette arme à feu. Si la Frappe échoue, l'arme s'enraie.
 </div>
 
@@ -103,7 +103,7 @@ Vous vous êtes entraîné à une nouvelle technique pour recharger rapidement v
 
 **Prérequis** entraîné en Intimidation  
 **Conditions** Vous tenez une arme à feu chargée.
----
+<hr />
 Qui a besoin de parler quand le rugissement d'un fusil est bien plus explicite ? Vous tentez de Démoraliser votre adversaire en tirant en l'air, en utilisant la portée maximale de l'arme à feu plutôt que la portée habituelle de 6 cases. Le test ne subit pas la pénalité de circonstances de -4 due au fait que la cible ne partage pas de langage en commun avec vous.
 </div>
 
@@ -114,7 +114,7 @@ Qui a besoin de parler quand le rugissement d'un fusil est bien plus explicite ?
 {s:trait|Pistoléro}
 
 **Conditions** Vous portez ou tenez dans une main une bombe alchimique et vous tenez en main une arme à feu chargée.
----
+<hr />
 Vous vous êtes entraîné à une technique permettant de mélanger des bombes alchimiques avec la charge de votre arme à feu. Vous Intéragissez pour récupérer la bombe (si elle n'est pas encore dans votre main) et la verser sur votre munition, ce qui utilise la bombe. Ensuite, vous Frappez avec votre arme. La Frappe inflige des dégâts du même type que la bombe (par exemple, des dégâts de feu pour un feu grégeois), avec 1d6 points de dégâts persistant supplémentaires du même type que la bombe. Si la Frappe échoue, vous subissez 1d6 points de dégâts du même type que la bombe utilisée et l'arme à feu s'enraie. Les dégâts persistants passent à 2d6 si la bombe est de niveau 11 ou plus ; à 3d6 si elle est de niveau 17 ou plus.
 </div>
 
@@ -124,7 +124,7 @@ Vous vous êtes entraîné à une technique permettant de mélanger des bombes a
 
 **Conditions** Vous tenez une arme à feu chargée.   
 **Déclencheur** Vous Sautez.
----
+<hr />
 Tout en courant pour vous mettre en position, vous déchargez votre arme derrière vous afin d'accroître votre vitesse. Vous déchargez votre arme derrière ou sous vous et ajoutez 2 cases à la distance horizontale ou verticale parcourue. Si votre Saut nécessite un jet (comme un Saut en longueur ou un Saut en hauteur), vous pouvez utiliser cette réaction après avoir déterminé le résultat.
 </div>
 
@@ -141,7 +141,7 @@ Vous pouvez recharger votre arme en vous déplaçant. Vous Vous avancez, Faites 
 {s:trait|Pistoléro}
 
 **Conditions** Vous tenez en main une arme à feu que vous avez utilisée pour tirer ce tour-ci et vous ou un allié adjacent subissez des dégâts de saignement persistants.
----
+<hr />
 Vous pressez le canon surchauffé de votre arme contre votre blessure ou celle de votre allié, ce qui autorise immédiatement un nouveau test pur pour mettre fin au saignement avec un DD inférieur grâce à cette technique particulièrement efficace (voir Livre de base).
 </div>
 
@@ -150,7 +150,7 @@ Vous pressez le canon surchauffé de votre arme contre votre blessure ou celle d
 {s:trait|Pistoléro} {s:trait|Fioriture} {s:trait|Linguistique}
 
 **Prérequis** Voie du Pistoléro
----
+<hr />
 Avec quelques mots sévères, un insulte bien sentie ou une autre déclaration de défi, vous attirez l'attention de votre adversaire sur un duel entre vous. Choisissez un adversaire à 6 cases ou moins de vous, que vous pouvez percevoir et qui peut vous entendre et choisissez entre un test de Tromperie ou d'Intimidation. Quel que soit le résultat du test, l'ennemi est temporairement immunisé à votre Défi du Pistoléro jusqu'à midi le lendemain. Vous ne pouvez avoir qu'un seul Défi du Pistoléro en action à la fois ; si vous défiez un nouvel adversaire, l'effet prend fin sur la cible actuelle. Autrement, l'effet persiste jusqu'à ce que l'un de vous soit vaincu ou fuie ou que la rencontre prenne fin.
 
 **Réussite.** Vous et votre adversaire gagnez tous les deux un bonus de statut de +2 aux jets de dégâts pour les Frappes que vous effectuez l'un contre l'autre. Si vous êtes un maître dans la compétence choisie, le bonus passe à +3 et, si vous êtes légendaire, à +4.  
@@ -163,7 +163,7 @@ Avec quelques mots sévères, un insulte bien sentie ou une autre déclaration d
 
 **Prérequis** Voie du Vagabond  
 **Conditions** Vous tenez une arme à feu ou une arbalète et votre autre main tient une arme de corps à corps à une main ou est libre.
----
+<hr />
 Vous attaquez puis rechargez votre fusil en un mouvement fluide. Frappez un adversaire situé dans la portée de votre arme de corps à corps ou de votre attaque sans arme puis Intéragissez pour recharger. Vous n'avez pas besoin d'avoir une main libre pour recharger de cette manière.
 </div>
 
@@ -172,7 +172,7 @@ Vous attaquez puis rechargez votre fusil en un mouvement fluide. Frappez un adve
 {s:trait|Pistoléro}
 
 **Prérequis** Vous tenez une arme à feu chargée qui possède le trait Dispersion.
----
+<hr />
 Vous remplissez votre arme avec plus de mitraille et de poudre qu'habituellement pour créer un arc de destruction dévastateur mais risqué. Effectuez une Frappe à distance avec l'arme prérequise. La portée de votre arme passe de 3 cases à 6 cases ou de 6 cases à 12 cases. Si la portée de l'arme était déjà de 12 cases ou plus, cette capacité n'a pas d'effet. La Frappe gagne les effets d'échec suivants.
 
 **Échec.** L'arme à feu s'enraie.  
@@ -185,7 +185,7 @@ Vous remplissez votre arme avec plus de mitraille et de poudre qu'habituellement
 
 **Prérequis** Voie du Tireur d'élite  
 **Conditions** Vous tenez une arme à feu ou une arbalète chargée et portez sur vous ou tenez en main une bombe possédant le trait Éclaboussure.
----
+<hr />
 Vous lancez une bombe dans les airs puis lui tirez dessus, créant une pluie de dégâts sur une large zone. Si nécessaire, vous Intéragissez pour prendre la bombe en main et pour reprendre votre arme à deux mains. Vous lancez la bombe vers le coin d'une case située dans le premier facteur de portée de votre arme à feu et tirez sur la bombe. Toutes les créatures situées dans une eménation de 3 cases de la bombe subissent des dégâts d'aspersion égaux à la quantité de dégâts de précision que Un tir, un mort inflige. Le type de dégâts est le même que celui des dégâts de la bombe.
 </div>
 
@@ -196,7 +196,7 @@ Vous lancez une bombe dans les airs puis lui tirez dessus, créant une pluie de 
 
 **Fréquence** une fois par heure  
 **Déclencheur** Vous ratez un jet de Vigueur ou de Volonté.
----
+<hr />
 Vous faites appel à vos réserves de robustesse et de puissance mentale pour combattre un effet débilitant. Relancez le jet de sauvegarde déclencheur avec un bonus de circonstances de +2.
 </div>
 
@@ -205,7 +205,7 @@ Vous faites appel à vos réserves de robustesse et de puissance mentale pour co
 {s:trait|Pistoléro}
 
 **Conditions** Vous tenez deux arbalètes ou armes à feu à une main toutes les deux chargées.
----
+<hr />
 Vos tirs touchent la cible presque simultanément. Effectuez deux Frappes, une avec chacune des deux armes à distance, utilisant pour les deux votre pénalité d'attaques multiples actuelles. Les deux Frappes doivent avoir la même cible.
 
 Si les deux attaques touchent, combinez leurs dégâts puis ajoutez les éventuels effets qui s'appliquent en fonction des armes. Vous n'ajoutez des dégâts de précision qu'une seule fois (à l'une des attaques, celle de votre choix). Combinez les dégâts des deux Frappes et n'appliquez les résistances et les faiblesses qu'une seule fois. Cette activité compte comme deux attaques pour le calcul de votre pénalité d'attaques multiples.
@@ -216,7 +216,7 @@ Si les deux attaques touchent, combinez leurs dégâts puis ajoutez les éventue
 {s:trait|Pistoléro}
 
 **Prérequis** À terre !
----
+<hr />
 Vous êtes suffisamment rapide pour placer un tir même lorsque vous plongez sur le sol. Quand vous utilisez votre réaction À terre !, à n'importe quel moment pendant votre Saut, vous pouvez également effectuer une Frappe à distance avec une arme à feu ou une arbalète chargée, contre la créature dont l'attaque a déclenché votre réaction.
 </div>
 
@@ -232,7 +232,7 @@ Vous prenez votre temps pour soigneusement ajuster votre visée et votre respira
 {s:trait|Pistoléro}
 
 **Condition** Vous tenez en main une arme à feu chargée.
----
+<hr />
 Vous chargez une dose de poudre à canon supplémentaire dans votre arme à feu, ce qui lui fait vomir un nuage de fumée. Effectuez une Frappe avec votre arme à feu pour créer un nuage de fumée dans une émanation de 4 cases autour de vous. Les créatures sont camouflées tant qu'elles restent dans la fumée, et les créatures situées à l'exérieur de la zone sont camouflées pour celles qui se trouvent dedans. La fumée se dissipe en 1 round. La Frappe gagne l'effet d'échec critique suivant.
 
 **Échec critique.** L'arme s'enraie.
@@ -258,7 +258,7 @@ Vous ciblez une partie spécifique du corps de votre ennemi et endommagez le mem
 
 **Conditions** Vous tenez en main une arme à feu ou une arbalète chargée.  
 **Déclencheur** Un allié situé dans le premier facteur de portée de votre arme à feu ou arbalète est touché par une attaque, et vous pouvez voir l'attaquant.
----
+<hr />
 Quand votre arme est chargée, vous êtes toujours prêt à tirer pour détourner une attaque contre votre allié. L'allié gagne un bonus de circonstances de +2 à la CA contre l'attaque déclencheur. Vous utilisez cette réaction après que le résultat du jet d'attaque soit révélé, de sorte que vous sachiez sur le bonus de +2 fera une différence suffisante (par exemple, vous savez s'il transformera une réussite en un échec ou une réussite critique en une réussite simple).
 </div>
 
@@ -268,7 +268,7 @@ Quand votre arme est chargée, vous êtes toujours prêt à tirer pour détourne
 
 **Déclencheur** Un allié rate avec une attaque à distance qui utilise une arme de lancer ou une munition.  
 **Conditions** Vous tenez une arme à feu ou une arbalète chargée.
----
+<hr />
 En voyant l'attaque de votre allié partir dans une mauvaise direction, vous déchargez votre arme pour rectifier sa trajectoire. Effectuer un jet d'attaque avec votre arme à feu ou votre arbalète contre la cible de l'attaque déclencheur, en ignorant les bonus dont la cible bénéficierait par rapport à vous grâce à un abri ou un abri inférieur. L'attaque de votre allié utilise votre jet d'attaque au lieu du sien.
 </div>
 
@@ -277,7 +277,7 @@ En voyant l'attaque de votre allié partir dans une mauvaise direction, vous dé
 {s:trait|Pistoléro}
 
 **Conditions** Vous tenez une arme à feu chargée.
----
+<hr />
 Vous tirez, pas sur votre ennemi mais sur un objet proche. Effectuez une Frappe avec votre arme à feu contre une CA de 25 (ou une autre CA si votre MJ le choisit). Au lieu de toucher votre ennemi, votre attaque touche un objet situé derrière ou sur le côté de votre ennemi, ce qui crée l'un des effets suivants. Le MJ pourrait déterminer qu'un effet spécifique n'est pas une option valide, comme le fait d'utiliser un baril explosif alors qu'il n'y a aucun objet de ce genre sur le champ de bataille. Le MJ tranche dans ces cas-là et devrait vous informer de sa décision avant que vous ne dépensiez les actions pour un Tir astucieux.
 
 **Déloger un objet.** Votre attaque renverse un objet abandonné (qui ne se trouve pas dans les possessions d'une créature) d'au plus 2 Encombrements et le déplace d'au plus 2 cases dans une direction de votre choix. Par exemple, l'arme pourrait faire tomber la boule de cristal d'un magicien de sa table.
@@ -307,7 +307,7 @@ Quand votre premier tir vous a permis d'identifier précisément la position d'u
 {s:trait|Pistoléro}
 
 **Conditions** Vous tenez une arme à feu ou une arbalète chargée.
----
+<hr />
 Vous tirez une balle à travers un ennemi et dans un autre. Choisissez deux cibles, dont l'une devrait normalement donner un abri inférieur à l'autre contre vos attaques à distance. Effectuez une unique Frappe à distance avec l'arme citée dans Conditions, qui servira contre les deux cibles. Cette attaque ignore tout abri inférieur que la cible la plus proche donnerait normalement à l'autre. Ne lancez les dégâts qu'une seule fois et appliquez-les à chacune des créatures touchées. Tir pénétrant compte comme deux attaques pour le calcul de la pénalité d'attaques multiples.
 </div>
 
@@ -323,7 +323,7 @@ Vous vous spécialisez dans le fait de vous fondre dans un type spécifique d'en
 {s:trait|Pistoléro}
 
 **Prérequis** Ténacité et Persévérance
----
+<hr />
 Renforcé par les conflits auxquels vous avez survécu, vous possédez un entêtement inébranlable. Si le nouveau jet offert par votre réaction Tenacité et Perservérance est une réussite, il fonctionne comme une réussite critique. Si c'est un échec critique, il fonctionne comme un échec (simple).
 </div>
 
@@ -334,7 +334,7 @@ Renforcé par les conflits auxquels vous avez survécu, vous possédez un entêt
 
 **Fréquence** une fois par minute  
 **Conditions** Vous tenez une arme à feu ou une arbalète chargée et vous n'êtes pas fatigué.
----
+<hr />
 Vos pas retentissent avec le tonnerre des explosions de poudre à canon quand vous vous pratiquez cette danse mortelle. Utilisez autant d'actions que vous voulez parmi les suivantes, dans n'importe quel ordre : Faire un pas de placement, effectuer une Frappe contre une cible située dans le premier facteur de portée de votre arme à feu et Interagir pour recharger. Si vous avez tenté une Frappe et qu'elle a réussi, vous pouvez répéter ces trois actions à nouveau dans n'importe quel ordre. Si vous avez tenté une Frappe au cours du second ensemble d'actions et qu'elle a réussi, vous pouvez répéter les trois actions une troisième et dernière fois, dans n'importe quel ordre. Après avoir utilisé Danse du Tonnerre, vous devenez fatigué pendant 1 minute.
 </div>
 
@@ -343,7 +343,7 @@ Vos pas retentissent avec le tonnerre des explosions de poudre à canon quand vo
 {s:trait|Pistoléro}
 
 **Prérequis** Tournoiement de pistolet, expert en Tromperie
----
+<hr />
 Vos armes tournoyantes créent une danse distrayante que vos ennemis ont du mal à ignorer. Quand vous utilisez Tournoiement de pistolet pour Feinter, vous pouvez cibles tous les ennemis situés dans le premier facteur de portée de votre arme, que vous pouvez percevoir et qui peuvent vous voir. Vous ne lancez qu'un seul test de Tromperie et vous le comparez contre les DD de Perception de chacune des cibles.
 </div>
 
@@ -352,7 +352,7 @@ Vos armes tournoyantes créent une danse distrayante que vos ennemis ont du mal 
 {s:trait|Pistoléro} {s:trait|Fioriture} {s:trait|Enchaînement}
 
 **Prérequis** Vous tenez en main deux armes, une dans chaque main.
----
+<hr />
 Vous attaquez avec vos deux armes et portez un déluge d'attaques. Frappez deux fois, une fois avec chacune de vos armes.
 </div>
 
@@ -369,7 +369,7 @@ Vous êtes tout spécialement doués pour cibles les zones les plus vulnérables
 {s:trait|Pistoléro}
 
 **Prérequis** acte initial vous permettant d'Intéragir pour dégainer une arme
----
+<hr />
 Que ce soit lors d'un duel à la mort ou pour profiter de la surprise lors d'une attaque, personne ne peut réagir plus vite que vous lorsque vous voulez presser sur la détente. Quand vous utilisez votre acte initial, au lieu d'Intéragir pour dégainer une arme, vous pouvez Frapper avec une arme à feu ou une arbalète que vous tenez déjà en main. Si cete Frappe touche, la cible est également prise au dépourvu jusqu'à la fin de votre premier tour de la rencontre.
 
 **Spécial.** Si votre acte initial vous permet d'Intéragir pour dégainer une arme plus d'une fois, ce don vous permet de remplacer une de ces actions d'Intéraction et d'utiliser l'autre pour dégainer une arme. Vous ne pouvez pas remplacer les deux actions d'Intéraction par des Frappes mais vous pouvez dégainer une arme à feu ou une arbalète chargée et tirer immédiatement.
@@ -381,7 +381,7 @@ Que ce soit lors d'un duel à la mort ou pour profiter de la surprise lors d'une
 
 **Déclencheur** Un ennemi vous rate avec une attaque à distance utilisant un type de munition convenant à votre arme (par exemple, une balle si vous maniez une arme à feu).  
 **Conditions** Vous tenez une arme à feu ou une arbalète non chargée.
----
+<hr />
 D'une simple mouvement fluide, vous attrapez le projectile dans l'air, le chargez dans votre arme et le renvoyez vers l'attaquant. Intéragissez pour charger le projectile dans votre arme puis effectuez une Frappe avec l'arme citée dans Conditions contre l'ennemi déclencheur. Comme vous utilisez la munition de votre ennemi, cette Frappe applique les effets spéciaux éventuels de cette munition (par exemple, s'il s'agissait d'une munition explosive, elle exploserait dans une conflagration de flammes).
 </div>
 

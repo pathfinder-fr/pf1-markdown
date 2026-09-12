@@ -27,13 +27,13 @@ Roublarde demi-elfe
 **For** +2, **Dex** +4, **Con** +0, **Int** +1, **Sag** +3, **Cha** +0
 
 **Équipement** armure de cuir, feu grégeois mineur (2), corde, arc court (20 flèches), épée courte, outils de voleur
----
+<hr />
 **CA** 17 ; **Réf** +9, **Vig** +7, **Vol** +11
 
 **PV** 30
 
 **Esquive agile** {s:PF2a|ra} *Déclencheur* Wendlyn est la cible d'une attaque effectuée par un attaquant qu'elle peut voir ; *Effet* Wendlyn gagne un bonus de circonstances de +2 à la CA contre l'attaque déclenchante.
----
+<hr />
 **Vitesse** 5 cases ; mobilité
 
 **Càc** {s:PF2a|1a} *épée courte*, +10 (agile, finesse, polyvalente T) ; **Dégâts** 1d6+4 P
@@ -62,5 +62,5 @@ Les MJ pourraient vouloir considérer les idées suivantes pour intégrer Wendly
 - Via ses contacts dans la pègre, Wendlyn a eu vent d'un complot visant à importer en contrebande des drogues dans le port d'Otari tard la nuit. Elle espère intercepter les contrebandiers, jeter leurs drogues dans l'eau et leur envoyer le message qu'ils ne sont pas les bienvenus dans la ville.
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shpn?NoPrep-Character-Wendlyn](https://paizo.com/community/blog/v5748dyo6shpn?NoPrep-Character-Wendlyn) et écrit par Ron Lundeen.

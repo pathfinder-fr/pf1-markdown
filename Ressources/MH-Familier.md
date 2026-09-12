@@ -15,6 +15,6 @@ LastModified: 2014-07-06 13:17
 <LI>Validation des changements effectués.
 <LI>Nom du familier.
 <LI>Type du familier.
-<LI>Archétype du familier. Cette option vous sera proposée si vous avez l’extension Animal Archives. Cochez la case pour que l’archétype soit pris en compte.
+<LI>Archétype du familier. Cette option vous sera proposée si vous avez l’extension Animal Archives. Cochez la case pour que l’archétype soit pris en compte. 
 </OL>
 <center></center></td></tr></table>

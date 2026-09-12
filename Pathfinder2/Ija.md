@@ -44,5 +44,5 @@ Pendant les semaines et les mois qui suivirent, Ija et Tuku voyagèrent loin de 
 Ija a rencontré de nombreux chercheurs de savoir au cours de ses voyages, et elle fait un compagnon loyal, bien qu’un peu espiègle. Tuku a tendance à être plutôt distant et grognon quand il interagit avec toute autre personne qu’Ija, mais il s’habitue peu à peu à ceux qui, de toutes évidence, ne veulent aucun mal à la conjuratrice. Ensemble, Ija et Tuku prévoient de visiter la Cicatrice de Sarkoris un jour, pour découvrir tout ce qu’ils peuvent apprendre au sujet de leur lien de la part des appelle-dieux qui reviennent sur ces terres maintenant que la Plaie du Monde est refermée. Jusqu’à ce jour, cependant, Ija et Tuku vont là où leurs envies les mènent et reviennent régulièrement à Kiutu pour partager des dessins et des récits oraux de leurs aventures avec sa famille et ses amis.
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shoj?Meet-the-Iconics-Ija](https://paizo.com/community/blog/v5748dyo6shoj?Meet-the-Iconics-Ija) et écrit par Lu Pellazar.

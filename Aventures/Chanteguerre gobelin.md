@@ -22,7 +22,7 @@ LastModified: 2022-02-01 16:31
 {s:BDTexte|**Corps à corps** tranchechien, +1 (1d4/19-20)}
 {s:BDTexte|**Corps à corps** fouet, +1 (1d2 non-létaux)}
 {s:BDTexte|**Distance** arc court, +6 (1d4/x3)}
-{s:BDTexte|**Attaque spéciale** [[Pathfinder-RPG.représentations|représentation bardique]] 5 rounds/jour (contre-
+{s:BDTexte|**Attaque spéciale** [[Pathfinder-RPG.représentations|représentation bardique]] 5 rounds/jour (contre- 
 chant, distraction, fascination, inspiration vaillante +1)}
 {s:BDTexte|**Sorts connus** (NLS 1 ; concentration +2)}
 {s:BDSorts|1<sup>er</sup> (2/jour) — *[[Pathfinder-RPG.soins légers|soins légers]]*, *[[Pathfinder-RPG.fou rire|fou rire]]* (DD 12)}

@@ -22,7 +22,7 @@ Au démarrage, le programme affiche une fenêtre classique. Notez que j'utilise 
 <img src="{UP}/tutogimp/image1.jpg" class="imageauto" alt="">
 
 
-Pour ce tutorial, je vous propose de créer un donjon à l’ancienne : un enchainement de salles carrées avec quadrillage réglementaire et quelques éléments de décor pour agrémenter l’ensemble.
+Pour ce tutorial, je vous propose de créer un donjon à l’ancienne : un enchainement de salles carrées avec quadrillage réglementaire et quelques éléments de décor pour agrémenter l’ensemble. 
 Ce simple exemple permettra surtout de balayer les techniques de base essentielles : tracé, gestion des calques et des masques, création de patterns et petites astuces qui dépannent.
 
 
@@ -60,8 +60,8 @@ En validant, une nouvelle image, vide, est créé dans la fenêtre principale. E
 
 Il est temps maintenant de régler Gimp pour avoir sous la main l’ensemble des outils nécessaires.
 Ces outils sont regroupés dans des fenêtres personnalisables.
-Pour notre usage, il est intéressant d’avoir à l’écran la Boite à Outils *(CTRL+B)* ainsi que les fenêtres Calques *(CTRL+L)*, Motifs *(Shift+CTRL+P)* et Dégradés *(CTRL+G)*.
-Ces fenêtres sont dockables, peuvent êtres regroupées, superposées, déplacées sur l’écran...
+Pour notre usage, il est intéressant d’avoir à l’écran la Boite à Outils *(CTRL+B)* ainsi que les fenêtres Calques *(CTRL+L)*, Motifs *(Shift+CTRL+P)* et Dégradés *(CTRL+G)*.  
+Ces fenêtres sont dockables, peuvent êtres regroupées, superposées, déplacées sur l’écran... 
 
 
 <img src="{UP}/tutogimp/image5.jpg" class="imageleft" alt="">
@@ -153,7 +153,7 @@ Dans la zone *Nom du Calque*, taper **Murs**, afin de se rappeler plus tard ce q
 
 En cliquant sur *Valider*, un nouveau calque Murs apparait dans la fenêtre des calques, au dessus de celui d’Arrière Plan. La position relative des calques est importante et il est possible de les organiser les uns par rapport aux autres en les glissant avec la souris.
 
-Pour la suite, <u>s’assurer que c’est bien le calque Murs qui est sélectionné</u>.
+Pour la suite, <u>s’assurer que c’est bien le calque Murs qui est sélectionné</u>. 
 
 Si ce n’est pas le cas, tout ce que vous allez dessiner va se poser sur un autre calque (ici l’Arrière Plan) et cela risque d’être problématique.
 
@@ -162,7 +162,7 @@ Traçons maintenant les contours extérieurs et intérieurs du donjon, c’est �
 
 Je commence par cliquer sur une intersection. Un point apparait.
 
-Puis, en laissant la touche **Shift** du clavier enfoncée, je me rend sur l’intersection qui marque la fin du segment que je souhaite tracer.
+Puis, en laissant la touche **Shift** du clavier enfoncée, je me rend sur l’intersection qui marque la fin du segment que je souhaite tracer. 
 Un trait vert apparait pour indiquer la position du segment. Comme je suis aligné sur la grille, le curseur saute automatiquement sur les intersections, pas besoin d’être un as de précision....
 
 Une fois que j’ai déterminé mon segment, je clique... et, magique, un trait noir, définitif, remplace le trait vert.

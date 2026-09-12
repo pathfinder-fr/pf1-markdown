@@ -13,7 +13,7 @@ Categories:
 
 *A l'aube du 21 ° siècle, dans les "pays du Nord", on se préoccupe de plus en plus souvent de raconter les "origines", "la naissance d'un héro, d’un mythe", dans les différents média de fictions (romans, séries télévisées, films, etc...). Dans certains cas, le récit s'articule même autant autour du fantastique qu'autour de la maturation (ou le vieillissement) du ou des personnage(s) principal(aux) (par exemple, les oeuvres littéraires : Harry POTTER, de J.K.Rowling, et Twilight, de Stephenie Meyer ; ou encore le Manga BD « Naruto »). *
 
-*L'oeuvre littéraire "le seigneur des anneaux", de J.R.R.Tolkien, paru entre 1954 et 1955, avait marqué une étape fondamentale dans la cohérence des univers fantastiques. Cette cohérence détaillée avait poussé le public à chercher à "entrer dans l'histoire". Et de cela naquit plus ou moins directement une catégorie de jeu de société : le "Jeu de Rôles" (sur table, papiers-crayons, donc). Aujourd'hui, cela intéresse sans doute des rôlistes de jouer eux aussi une histoire cohérente, dès les origines. Et pourquoi pas, même, une épopée qui se poursuivrait sur plusieurs générations de PJ. Et l'histoire, prendrait des allures d'Histoire... (On pourra par exemple s'inspirer de la saga dessins-animé "Lodoss".)*
+*L'oeuvre littéraire "le seigneur des anneaux", de J.R.R.Tolkien, paru entre 1954 et 1955, avait marqué une étape fondamentale dans la cohérence des univers fantastiques. Cette cohérence détaillée avait poussé le public à chercher à "entrer dans l'histoire". Et de cela naquit plus ou moins directement une catégorie de jeu de société : le "Jeu de Rôles" (sur table, papiers-crayons, donc). Aujourd'hui, cela intéresse sans doute des rôlistes de jouer eux aussi une histoire cohérente, dès les origines. Et pourquoi pas, même, une épopée qui se poursuivrait sur plusieurs générations de PJ. Et l'histoire, prendrait des allures d'Histoire... (On pourra par exemple s'inspirer de la saga dessins-animé "Lodoss".)* 
 
 **Cette page est donc consacrée à tout ceux qui, d'une façon ou d'une autre, contribuent à faire le "chaînon manquant"**, *la "pièce du puzzle manquante du D20 système", pour jouer dès les commencements, l'histoire des héros (ou du groupe de personnages principaux).*
 
@@ -30,17 +30,17 @@ Il n'y a pas de règles officielles D&D pour jouer de jeunes PJ, et encore moins
 '''
 
 ### Les autres supports référencés, qui traitent de "jouer des enfants".
-La Geste des Enfants''', by MDàDD Grem’s, et qui a été contextualisé sur AideDD, dans le monde de Laelith ([ici](http://www.aidedd.org/materiel-f98/scenarios-niv-1-t1540.html)).
+La Geste des Enfants''', by MDàDD Grem’s, et qui a été contextualisé sur AideDD, dans le monde de Laelith ([ici](http://www.aidedd.org/materiel-f98/scenarios-niv-1-t1540.html)). 
 
 **Le Voleur de Poule**, scénario D20 de FENRIR, pour les Royaumes Oubliés, Janvier 2008
 
-Projet collectif d'une campagne, sur AideDD : **« Allez à Laelith »**.
+Projet collectif d'une campagne, sur AideDD : **« Allez à Laelith »**. 
 
 **Grimm, D20 système,** Editeur : Fantasy Flight Publishing, sous gamme : Horizon, 64 pages ([ici](http://www.legrog.org/jeux/d20-system/horizon/grimm-en)). C’est un jeu entier, non un simple scénario ou une campagne. Il s’agit bien d’enfant avec le D20système, mais dans une optique de jeu totalement différente d’enfants nés dans l’univers D&D. Cela a donné ensuite naissance à la même chose, mais avec un système de règle différent, chez le même éditeur ([240 pages,ici](http://www.legrog.org/jeux/grimm)).
 
 **Reunion, gamme « AD&D - Al Qadim » (1° version)**, Janvier 1998, TSR. Il s'agit d'une petite campagne en 3 scénarios. Les joueurs sont successivement, et dans n'importe quel ordre, les hommes, les femmes et les enfants de la même tribu ([ici](http://www.legrog.org/jeux/ad-d-al-qadim/reunion-en)).
 
-[**Campagne « Les Duchés de Coronis »**](http://www.pathfinder-fr.org/Forum/yaf_topics66_Partie-N-57.aspx), Auteur et MJ : [Eleuther](http://coronis.forumouf.com/). à **Pathfinder-RPG**, univers maison, en basse-fantaisy, avec une modification à la marge de la magie. Les PJ sont à **"niveau 0"** est ont une **"classe d'aspiration"**. Les joueurs vont donc d'abords jouer lentement leur acquisition du niveau 1, puis tout aussi progressivement, l'acquisition des savoirs-faire des niveaux suivant : le fait de **"devenir des héros"**.{br}
+[**Campagne « Les Duchés de Coronis »**](http://www.pathfinder-fr.org/Forum/yaf_topics66_Partie-N-57.aspx), Auteur et MJ : [Eleuther](http://coronis.forumouf.com/). à **Pathfinder-RPG**, univers maison, en basse-fantaisy, avec une modification à la marge de la magie. Les PJ sont à **"niveau 0"** est ont une **"classe d'aspiration"**. Les joueurs vont donc d'abords jouer lentement leur acquisition du niveau 1, puis tout aussi progressivement, l'acquisition des savoirs-faire des niveaux suivant : le fait de **"devenir des héros"**.{br} 
 Au départ, les PJ ont simplement un métier/profession/archétype : noble, menuisier, mineur... {br}
 Les PJ sont dans un groupe qui part défricher une région sauvage, et y installer une colonie. L'un des PJ est le noble à la tête de l'expédition. Les autres PJ sont parmi les serfs qu'il enmène. Le jeune noble peut avoir **entre 18 et 22 ans**. Les serfs sont des jeunes tout juste en âge de se mettre à travailler de manière efficace, donc âgés **entre 13 et 16 ans** (jusqu’à 20 ans pour un nain).{br}
 Il y a donc des règles spécifiques de création de PJ "niveau 0", et des règles spécifiques de progression dans les savoirs-faire des PJ.{br}
@@ -63,8 +63,8 @@ Pour le JdR « Exil », le supplément officiel « **la guerre des boulons**�
 [Jouer en Basse Fantaisie](http://olivier.fanton.free.fr/dndadj04.htm), règles maison d’Olivier FANTON
 
 #### **Pour imaginer le cadre de vie des enfants :**
-Almarande, le village médiéval, Casus Belli n°39
+Almarande, le village médiéval, Casus Belli n°39 
 
-Chantegrive, le village fortifié, Casus Belli n°
+Chantegrive, le village fortifié, Casus Belli n° 
 
 Artelac, le château fort, Casus Belli, HS n°17,

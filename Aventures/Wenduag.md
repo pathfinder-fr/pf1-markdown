@@ -29,7 +29,7 @@ Categories:
 {s:BDTexte|**Dons** [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection (arc long)]], [[Pathfinder-RPG.Tir à bout portant|Tir à bout portant]]}
 {s:BDTexte|**Compétences** [[Pathfinder-RPG.Connaissances|Connaissances]] (exploration souterraine) +6, [[Pathfinder-RPG.Discrétion|Discrétion]] +12, [[Pathfinder-RPG.Escalade|Escalade]] +8, [[Pathfinder-RPG.Escamotage|Escamotage]] +9,[[Pathfinder-RPG.Perception|Perception]] +9,[[Pathfinder-RPG.Survie|Survie]] +9}
 {s:BDTexte|**Langues** commun de profondeurs, hallit}
-{s:BDTexte|**Part** [[Pathfinder-RPG.Rôdeur#EMPATHIESAUVAGE|Empathie sauvage]] -2,
+{s:BDTexte|**Part** [[Pathfinder-RPG.Rôdeur#EMPATHIESAUVAGE|Empathie sauvage]] -2, 
 [[Pathfinder-RPG.Imitation de sons (capacité)|Imitation de sons (voix)]],
 [[Pathfinder-RPG.Rôdeur#PISTAGE|Pistage +1]]}
 {s:BDSousTitre|Equipement de combat}

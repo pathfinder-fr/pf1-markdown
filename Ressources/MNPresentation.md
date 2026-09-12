@@ -20,7 +20,7 @@ Dans ce monde recouvert par les ténèbres d'une éclipse éternelle, s'éveille
 ### Historique du jeu
 Midnight est un univers de campagne pour Donjons et Dragons 3.5 de Greg Bengage, édité en 2003 par Fantasy Flight Games. En france, c'est Black Book Edition qui assura la traduction. Les règles ont été crées sous la licence OGL du d20.
 
-Le jeu a connu un succès aux Etats-Unis, en France, en Espagne, et très vite se sont constituées de communautés de joueurs à travers la planète.
+Le jeu a connu un succès aux Etats-Unis, en France, en Espagne, et très vite se sont constituées de communautés de joueurs à travers la planète. 
 
 Malheureusement, Midnight n'est plus édité ni aux Etats-Unis, ni en France. Il n'y a d'ailleurs aucune trace de Midnight sur les sites des éditeurs Fantasy Flight Games ou Black Book Edition. Pourtant, la communauté de Midnight est loin d'être éteinte : il subsiste à quelques endroits sur Internet des communautés de fan qui font vivre cet univers. Il y a encore des conventions, même en France!
 

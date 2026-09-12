@@ -33,23 +33,23 @@ Bien que le premier questeur de la société des explorateurs d'étoiles ne soit
 Traditionnellement, chaque premier questeur annonce une direction principale pour la société lors des élections ; son mandat. un quantité importante des ressources de la société sera alors mobilisée pour atteindre cet objectif donnant aux questeurs les moyens de réaliser leur mandat. Avec ses 300 ans d'histoire, peu de questeurs ont échoués à poursuivre leurs mandats.
 
 
-Il est temps pour le premier questeur Ehu Hadif de prendre sa retraite en tant que dirigeant de la société. Après de longues délibérations, 4 explorateurs d'étoiles, hautement respectés et ambitieux, ont été retenus comme candidats au poste de premier questeur.
+Il est temps pour le premier questeur Ehu Hadif de prendre sa retraite en tant que dirigeant de la société. Après de longues délibérations, 4 explorateurs d'étoiles, hautement respectés et ambitieux, ont été retenus comme candidats au poste de premier questeur. 
 
 C'est au tour des agents de terrains de la société de rencontrer et évaluer leurs candidats en personne et de participer au scrutin.
 
 
 ### Qui est Ehu Hadif ?
-{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/63d2e38f-87aa-42b0-9390-4e86a46ccbcd/PZOSFS0300EXTRA_EhuHadif_2000.png|30%|fleft}
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/63d2e38f-87aa-42b0-9390-4e86a46ccbcd/PZOSFS0300EXTRA_EhuHadif_2000.png|30%|fleft} 
 
 
 
 
 
 
-À bien des égards, Ehu est l'incarnation de ce que doit-être un explorateur d'étoiles. Il a recentré la société autour des thèmes de l'exploration et de la recherche et a élargi nos horizons dans l'Espace proche et le Vaste.
+À bien des égards, Ehu est l'incarnation de ce que doit-être un explorateur d'étoiles. Il a recentré la société autour des thèmes de l'exploration et de la recherche et a élargi nos horizons dans l'Espace proche et le Vaste.  
 
 
-Face aux épreuves et aux tragédies, Ehu a maintenu la cohésion de la société, nous aidant à traverser les attaques numériques perpétrées par le Fléau des données, la dévastatrice crise du drift et les troubles intérieurs.
+Face aux épreuves et aux tragédies, Ehu a maintenu la cohésion de la société, nous aidant à traverser les attaques numériques perpétrées par le Fléau des données, la dévastatrice crise du drift et les troubles intérieurs.  
 
 
 L'avenir réserve d'autres surprises à Ehu Hadif, mais, tout comme Luwazi Elsebo, Ehu a rempli son mandat de premier questeur. Bien que l'ultime combat de mandat contre un entreprise mafieuse tentaculaire aux ramifications galactique que la société appelle "L'Organsation", ne soit pas encore terminé...
@@ -87,7 +87,7 @@ Notre journaliste politique indépendante, Lyta Lantrell, s'est entretenue avec 
 ### Sarmak
 
 {s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/9b45f4be-2d85-41ee-aab1-c7e85dd07987/PZOSFS0606_Sarmak_1000x1400.png|35%|fleft}
-**Pourquoi la société des explorateurs d'étoiles est la meilleure organisation des mondes du pacte?**
+**Pourquoi la société des explorateurs d'étoiles est la meilleure organisation des mondes du pacte?** 
 
 *"Mon peuple a constaté que les explorateurs sont des alliés précieux pour leurs amis, en particulier pour les personnes défavorisées. la société est prête à apporter son aide, mais s'efforce toujours d'écouter les souhaits de ceux qu'elle aide pour savoir comment contribuer au mieux."*
 
@@ -110,11 +110,11 @@ Notre journaliste politique indépendante, Lyta Lantrell, s'est entretenue avec 
 ### Heldin Sevaille
 
 {s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/a8b9628a-6e8d-4c4f-adbb-14f7ebca87c7/PZOSFS0606_Heldin_1000x1400.png|35%|fright}
-**Pourquoi la société des explorateurs d'étoiles est la meilleure organisation des mondes du pacte?**
+**Pourquoi la société des explorateurs d'étoiles est la meilleure organisation des mondes du pacte?** 
 
 *"Pourquoi, la capacité illimitée de faire le bien ! C'est la meilleure organisation scientifique dont j'ai jamais fait partie, et ses ressources sont presque illimitées !"*
 
-**Comment comptez-vous changer la société en tant que premier questeur ?**
+**Comment comptez-vous changer la société en tant que premier questeur ?** 
 
 *"Sous ma direction, la Société prendra sa place parmi les académies et les laboratoires de la galaxie en tant qu'institut référant d'apprentissage et d'expérimentation. De plus, les découvertes que nous ferons seront utilisées pour créer des médicaments à faible coût, ce qui renforcera notre notoriété."*
 
@@ -131,7 +131,7 @@ Notre journaliste politique indépendante, Lyta Lantrell, s'est entretenue avec 
 ### Nykiti Lampadephoros
 
 {s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/f9cca805-9223-4417-a3da-a479938dacee/PZOSFS0606_Nykiti_1000x1400.png|35%|fleft}
-**Pourquoi la société des explorateurs d'étoiles est la meilleure organisation des mondes du pacte?**
+**Pourquoi la société des explorateurs d'étoiles est la meilleure organisation des mondes du pacte?** 
 
 *"Une lumière, qui brille dans l'obscurité sur des rivages vierges. Un coffre-fort rempli de trésors, à l'abri du danger et de ceux qui veulent faire du mal. Et aussi un excellent thé, décliné en d'innombrables variétés !"* (L'offre de Nykiti de lire les feuilles de thé de notre journaliste a été refusée pour des raisons éthiques).
 

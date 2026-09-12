@@ -227,5 +227,5 @@ Le chant de la nature.
 
 <img src="Illustrations/Wiki/PF2/ZoetropeConceptArt_Interior_2000.webp" class="centre" alt="">
 
----
+<hr />
 Cette page est la traduction d'un récit publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6siat](https://paizo.com/community/blog/v5748dyo6siat) (1re partie), [https://paizo.com/community/blog/v5748dyo6siav](https://paizo.com/community/blog/v5748dyo6siav) (2e partie). Illustrations des jetons de pierre par Mayra Luna. Illustration de Baranthet par Gunship Revolution. Concepts du Zoetrope par Kent Hamilton.

@@ -94,7 +94,7 @@ Au niveau 2, le prêtre filou puise dans sa foi pour soigner les blessures ou bl
 Le prêtre filou peut accomplir une action rapide pour lancer n’importe quel sort de prêtre qu’il a préparé. Un sort ainsi lancé affecte uniquement le prêtre filou, même s’il devrait normalement affecter plusieurs cibles. Ce genre de sort ignore les composantes sonores et ne provoque pas d’attaque d’opportunité. Le prêtre n’a besoin d’avoir une main libre pour lancer ainsi son sort mais peut s’en dispenser pour 1 point de Ferveur de plus.
 #### Canalisation d’énergie (Sur)
 
-À partir du niveau 4, le prêtre filou peut libérer une vague d’énergie en canalisant la puissance de sa foi à travers son symbole sacré (ou impie). Cette énergie sert à blesser ou à soigner, selon son type et celui de la créature visée. Pour utiliser cette aptitude, il faut accomplir une action simple et dépenser deux utilisations de ferveur. Ce pouvoir ne provoque pas d’attaque d’opportunité mais et, pour s’en servir, le prêtre filou doit montrer son symbole sacré ou impie.
+À partir du niveau 4, le prêtre filou peut libérer une vague d’énergie en canalisant la puissance de sa foi à travers son symbole sacré (ou impie). Cette énergie sert à blesser ou à soigner, selon son type et celui de la créature visée. Pour utiliser cette aptitude, il faut accomplir une action simple et dépenser deux utilisations de ferveur. Ce pouvoir ne provoque pas d’attaque d’opportunité mais et, pour s’en servir, le prêtre filou doit montrer son symbole sacré ou impie. 
 
 * Un prêtre filou Bon (ou qui vénère une divinité Bonne) canalise de l’énergie positive et peut soigner les vivants ou blesser les morts-vivants.
 
@@ -158,7 +158,7 @@ Arme sournoise (bonus +1). L'utilisateur de l'arme doit posséder un talent d'at
 
 Ces propriétés coûtent et remplacent un bonus d’altération de valeur équivalente. Les propriétés en double ne se cumulent pas. L’arme doit disposer d’un bonus d’altération d’au moins +1 avant de pouvoir bénéficier de propriétés spéciales. Le bonus d’altération et les propriétés spéciales sont à déterminer quand le prêtre filou utilise ce pouvoir pour la première fois de la journée. Il ne peut plus en changer jusqu’au lendemain.
 
-Ces bonus ne s’appliquent pas si une créature autre que le prêtre filou manie l’arme mais ils restent actifs si l’arme quitte sa main (s’il la lance, par exemple). Le prêtre filou peut mettre fin à cette aptitude par une action libre au début de son tour (ce round n’est pas décompté de sa limite d’utilisations quotidiennes, à moins qu’il ne réactive le pouvoir au cours du même round). Si le prêtre filou utilise ce pouvoir sur une arme double, l’effet s’applique sur l’une des têtes de l’arme seulement.
+Ces bonus ne s’appliquent pas si une créature autre que le prêtre filou manie l’arme mais ils restent actifs si l’arme quitte sa main (s’il la lance, par exemple). Le prêtre filou peut mettre fin à cette aptitude par une action libre au début de son tour (ce round n’est pas décompté de sa limite d’utilisations quotidiennes, à moins qu’il ne réactive le pouvoir au cours du même round). Si le prêtre filou utilise ce pouvoir sur une arme double, l’effet s’applique sur l’une des têtes de l’arme seulement. 
 
 
 
@@ -172,9 +172,9 @@ Allégée *(nouveau)*. Une armure allégée ne bénéficie pas de bonus d'armure
 
 Compétence *(nouveau)*. Les armures peuvent délivrer des bonus à une seule compétence de Force ou de Dextérité (exemple : une armure d'ombre légère donne un bonus de +5 à la Discrétion, une armure d'acrobate supérieur octroie un bonus de +10 à l'Acrobatie et une armure graisseuse suprême délivre un bonus de +20 aux tests d'Évasion...).
 
-Ces propriétés coûtent et remplacent un bonus d’altération de valeur équivalente.Les propriétés en double ne se cumulent pas. L’armure doit disposer d’un bonus d’altération d’au moins +1 avant de pouvoir bénéficier de propriétés spéciales.
+Ces propriétés coûtent et remplacent un bonus d’altération de valeur équivalente.Les propriétés en double ne se cumulent pas. L’armure doit disposer d’un bonus d’altération d’au moins +1 avant de pouvoir bénéficier de propriétés spéciales. 
 
-Le bonus d’altération et les propriétés spéciales sont à déterminer quand le prêtre combattant utilise cette aptitude pour la première fois de la journée. Il ne peut plus en changer jusqu’au lendemain. Ces bonus s’appliquent uniquement tant que le prêtre combattant porte l’armure et se dissipent s’il l’ôte ou ne se trouve plus en sa possession. Le prêtre combattant peut mettre fin à cette aptitude par une action libre au début de son tour. Cette aptitude ne fonctionne pas sur les boucliers.
+Le bonus d’altération et les propriétés spéciales sont à déterminer quand le prêtre combattant utilise cette aptitude pour la première fois de la journée. Il ne peut plus en changer jusqu’au lendemain. Ces bonus s’appliquent uniquement tant que le prêtre combattant porte l’armure et se dissipent s’il l’ôte ou ne se trouve plus en sa possession. Le prêtre combattant peut mettre fin à cette aptitude par une action libre au début de son tour. Cette aptitude ne fonctionne pas sur les boucliers. 
 
 Quand le prêtre combattant utilise cette aptitude, il peut aussi utiliser son aptitude d’arme sacrée par une action libre, en dépensant une utilisation de ferveur.
 
@@ -184,7 +184,7 @@ Aux niveaux 7, 10, 13, 16 et 19, le prêtre filou peut acquérir certaines capac
 
 * **Défense intuitive (ext).** Sans armure ou en armure dont le bonus à la CA d'armure de base ne dépasse 2 : il ajoute son modificateur de Sagesse en bonus d'intuition à sa CA. Ce bonus disparaît avec les bonus d'esquive, de parade si le prêtre filou venait à perdre des bonus de Dextérité à la CA (pris au dépourvu, bluff...).
 
-* **Défense en armure (ext).** Le prêtre filou considère les armures intermédiaires comme légères pour l'application, des dons, des talents et autres capacités. De plus, avec les armures qu'il peut porter, il reçoit un bonus d'intuition égale à son modificateur de Sagesse pour annuler les malus d'armure aux tests et pour définir le bonus de Dextérité maximal : +8 pour une armure légère et +6 pour une armure intermédiaire.
+* **Défense en armure (ext).** Le prêtre filou considère les armures intermédiaires comme légères pour l'application, des dons, des talents et autres capacités. De plus, avec les armures qu'il peut porter, il reçoit un bonus d'intuition égale à son modificateur de Sagesse pour annuler les malus d'armure aux tests et pour définir le bonus de Dextérité maximal : +8 pour une armure légère et +6 pour une armure intermédiaire. 
 
 * **Esquive totale (ext).** L’agilité phénoménale du personnage lui permet d’esquiver les attaques magiques ou inhabituelles. S’il réussit un jet de Réflexes contre une attaque dont les dégâts devraient être réduits de moitié en cas de jet de Réflexes réussi, il évite l’attaque et ne subit pas le moindre dégât. Le roublard bénéficie de cet avantage uniquement s’il porte une armure légère ou aucune armure. Un roublard sans défense ne bénéficie pas des avantages de l’esquive totale.
 
@@ -213,7 +213,7 @@ Au niveau 20 une fois par jour, le prêtre filou canalise l’aspect de l'Artifi
 
 * Bluff (exemple : une détection des mensonges ne peut pas en prémunir)
 
-* Déguisement (exemple : déguiser en magicien, il semblera émaner de lui de nombreuses auras magiques cohérentes pour l'observateur, aucun pouvoir ne pourra révéler l'apparence réelle du personnage).
+* Déguisement (exemple : déguiser en magicien, il semblera émaner de lui de nombreuses auras magiques cohérentes pour l'observateur, aucun pouvoir ne pourra révéler l'apparence réelle du personnage). 
 
 * Pickpocket (exemple : ce qu'il cache sur lui ne peut être détecté magiquement).
 

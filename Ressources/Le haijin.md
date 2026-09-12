@@ -63,7 +63,7 @@ Cette capacité remplace « Don supplémentaire »
 
 
 
----
+<hr />
 {s:Reference|DONS}
 #### Dons
 Les dons supplémentaire « Science de l'attaque éclair » et « Attaque éclair supérieure » sont traduit ci-dessous :

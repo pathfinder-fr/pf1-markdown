@@ -4,10 +4,10 @@ Title: L'antre des kobolds
 LastModified: 2019-04-01 21:26
 ---
 
-''Je me permets de partager un donjon utilisé dans ma partie.
+''Je me permets de partager un donjon utilisé dans ma partie. 
 Des disciples d'Asmodéus ont volé des moutons d'un village, les PJ mènent l'enquête et tombent sur une grotte qui s'enfonce sous terre.
 
-Autrefois, il s'agissait d'un repère de contrebandiers qui a été abandonné. Des kobolds menés par un fervent d'Asmodéus ont pris possession des lieux pour leurs machinations infernales.
+Autrefois, il s'agissait d'un repère de contrebandiers qui a été abandonné. Des kobolds menés par un fervent d'Asmodéus ont pris possession des lieux pour leurs machinations infernales. 
 ''
 
 <img src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fDF_1bis.png" class="imageauto" alt="">
@@ -26,7 +26,7 @@ Il faudra faire attention au temps et aux actions car ce donjon est... chronomé
 (((Effet)))
 - **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
 - **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** poussière collante (cible enchevêtrée jusqu’à ce qu’elle réussisse un test de Force ou d’Évasion DD 25); [[Pathfinder-RPG.DD|DD]] 25 pour annuler
-</div>
+</div> 
 
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
@@ -35,8 +35,8 @@ Il faudra faire attention au temps et aux actions car ce donjon est... chronomé
 (((Effet)))
 - **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
 - **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** fosse de 3 m de profondeur remplie jusqu'à 1,5m de "fumier de
-dragon" (kobolds)(créature empestant le fumier de dragon, -4 aux tests de Discrétion pendant 24 h, -8 aux tests de Discrétion si la créature repérant la victime dispose du pouvoir odorat)
-</div>
+dragon" (kobolds)(créature empestant le fumier de dragon, -4 aux tests de Discrétion pendant 24 h, -8 aux tests de Discrétion si la créature repérant la victime dispose du pouvoir odorat) 
+</div> 
 
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
@@ -45,7 +45,7 @@ dragon" (kobolds)(créature empestant le fumier de dragon, -4 aux tests de Discr
 (((Effet)))
 - **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
 - **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** Une trappe au plafond laisse tomber une [nuée de serpents](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Nu%C3%A9e%20de%20serpents.ashx) qui attaquent les PJ sur un round de surprise.
-</div>
+</div> 
 
 </td>
 <td>
@@ -56,7 +56,7 @@ dragon" (kobolds)(créature empestant le fumier de dragon, -4 aux tests de Discr
 - **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** automatique (5 minutes)
 - **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** Rayon de flammes (2d6 dégâts de feu, Réf DD 20 1/2 dégâts) ; cibles multiples (toutes les cibles dans une ligne de 6m (4c)).
 Une version impie peut rajouter 1d6 dégâts de feu aux créatures d'alignement Bon.
-</div>
+</div> 
 
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
@@ -66,7 +66,7 @@ Une version impie peut rajouter 1d6 dégâts de feu aux créatures d'alignement 
 - **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** réparation
 - **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** Effet att +10 corps à corps (1d6+7) ; cibles multiples (toutes les cibles
 sur une ligne de 6 m).
-</div>
+</div> 
 
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
@@ -76,7 +76,7 @@ sur une ligne de 6 m).
 - **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** espace ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
 - **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** La case du milieu active le piège si une créature de taille M ou supérieure passe dessus : une fosse de 9m de profondeur (3d6 chute), jet Réflexe (DD 20) pour éviter ; cibles multiples (première cible dans 2 cases adjacentes de 1,50 m). 
 
-</div>
+</div> 
 
 </td></tr>
 </table>
@@ -90,35 +90,35 @@ Les peintures murales ont été rajoutées par les kobolds.
 
 #### 1. Le dépotoir
 
-''Une odeur pestilentielle s'échappa de l’entrebâillement de la porte. Des amas de détritus, carcasses, chairs putréfiées, fruits ou légumes pourris, déjections étaient entassés ça et là dans la pièce.
-Sur un des monticules nauséabonds un rat sanguinaire trônait et menaçait de ses yeux rouges qu'on vienne l'y déloger.
+''Une odeur pestilentielle s'échappa de l’entrebâillement de la porte. Des amas de détritus, carcasses, chairs putréfiées, fruits ou légumes pourris, déjections étaient entassés ça et là dans la pièce. 
+Sur un des monticules nauséabonds un rat sanguinaire trônait et menaçait de ses yeux rouges qu'on vienne l'y déloger. 
 ''
 
-Toutes les créatures étant aux abords de la pièce ou dedans doivent faire un jet de vigueur DD 7 pour afin de ne pas être nauséeux.
+Toutes les créatures étant aux abords de la pièce ou dedans doivent faire un jet de vigueur DD 7 pour afin de ne pas être nauséeux. 
 Le jet est à renouveler lorsqu'on entre dans la pièce avec un bonus de +2 à chaque round qui passe.
 
-Il s'agit d'un [[Pathfinder-RPG.Rat sanguinaire|Rat sanguinaire]]. Un [[Pathfinder-RPG.Kobold|Kobold]] est initialement en train de le [[Pathfinder-RPG.Dressage|dresser]]. S'il entend du bruit, il se cache derrière la porte.
-S'il n'est pas repéré, il ira prévenir les autres kobolds de la salle 3 en passant par le passage secret.
+Il s'agit d'un [[Pathfinder-RPG.Rat sanguinaire|Rat sanguinaire]]. Un [[Pathfinder-RPG.Kobold|Kobold]] est initialement en train de le [[Pathfinder-RPG.Dressage|dresser]]. S'il entend du bruit, il se cache derrière la porte. 
+S'il n'est pas repéré, il ira prévenir les autres kobolds de la salle 3 en passant par le passage secret. 
 
-Il s'agit d'une pierre sur le mur à enfoncer (DD 18) qui fait coulisser une porte de pierre, émettant un raclement qui peut être perçu du couloir.
+Il s'agit d'une pierre sur le mur à enfoncer (DD 18) qui fait coulisser une porte de pierre, émettant un raclement qui peut être perçu du couloir. 
 
 
 #### 2. Salle de torture
 
-''Au sol, attaché à des chaînes, la tête retombant sur son torse, se trouvait un elfe conscient mais salement amoché. Ses vêtements déchirés laissaient voir plusieurs petites plaies et son visage était sale. Ses grandes pupilles noires étaient fixées par terre, il semblait d'une faiblesse extrême.
+''Au sol, attaché à des chaînes, la tête retombant sur son torse, se trouvait un elfe conscient mais salement amoché. Ses vêtements déchirés laissaient voir plusieurs petites plaies et son visage était sale. Ses grandes pupilles noires étaient fixées par terre, il semblait d'une faiblesse extrême. 
 
-En face de lui, un chevalet de torture était en place sur lequel gisait un gnome qui avait été éviscéré.
+En face de lui, un chevalet de torture était en place sur lequel gisait un gnome qui avait été éviscéré. 
 
 Au pied du chevalet, une clef était laissée à l'abandon, trop loin du prisonnier pour qu'il puisse l'attraper, trop proche pour ne pas le tenter d'essayer de la prendre. Un jeu cruel reposant sur l'espoir et la frustration.''
 
 
-Les kobolds DÉTESTENT les gnomes. C'est pourquoi ce dernier est mort et atrocement mutilé. Il s'agit d'un marchand et de son garde du corps qui ont été faits prisonniers et torturés. L'elfe ayant potentiellement des informations à donner, il a été gardé en vie.
+Les kobolds DÉTESTENT les gnomes. C'est pourquoi ce dernier est mort et atrocement mutilé. Il s'agit d'un marchand et de son garde du corps qui ont été faits prisonniers et torturés. L'elfe ayant potentiellement des informations à donner, il a été gardé en vie. 
 
-Une torche éclaire la pièce afin que le prisonnier puisse "contempler" son ami et la clef.
+Une torche éclaire la pièce afin que le prisonnier puisse "contempler" son ami et la clef. 
 
 Deux portes en bois simple donnent accès à cette pièce. Ce sont cependant des sas : l'un menant à la porte secrète du dépotoir, l'autre à la salle de garde dont la porte est verrouillée (DD 20).
 
-L'Elfe répondra volontiers aux questions mais ne pourra pas aider à combattre. Il confessera qu'il était sur le point d'être sacrifié quand le chef humain des kobolds indiqua qu'il avait un autre sacrifice bien meilleur.
+L'Elfe répondra volontiers aux questions mais ne pourra pas aider à combattre. Il confessera qu'il était sur le point d'être sacrifié quand le chef humain des kobolds indiqua qu'il avait un autre sacrifice bien meilleur. 
 Cela devrait motiver les PJ à agir vite et parfois en désordre.
 
 #### 3. Salle de garde
@@ -126,7 +126,7 @@ Cela devrait motiver les PJ à agir vite et parfois en désordre.
 *La salle éclairée par trois torches comprend une table en bois et quatre tonneaux en guise de tabouret sur lesquels des kobolds sont installés. Dans un coin il y a une caisse et un gros baril.*
 
 1d6 kobolds la nuit (1d4 la journée) jouent aux dés ou se disputent. Ils ne font donc pas attention à ce qu'il se passe dans le couloir à moins d'être prévenu par le kobold de la salle 1.
-Parmi eux se trouvent un kobold sniper qui détient la clef de la porte qui mène à la salle de torture.
+Parmi eux se trouvent un kobold sniper qui détient la clef de la porte qui mène à la salle de torture. 
 
 En examinant de plus près, sur la porte il a une inscription :
 <img src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fDF1_Warn1.png" class="imageauto" alt="">
@@ -135,7 +135,7 @@ Il est écrit en draconique : "Si pas le code, faites le tour".
 
 #### 3bis. Couloir
 
-''Un couloir dépourvu de lumière, adjacent à la pièce bifurque à droite.
+''Un couloir dépourvu de lumière, adjacent à la pièce bifurque à droite. 
 Au Sud du couloir, il y a un cul de sac et sur le mur une dalle murale avec des gemmes et un texte gravé au dessus, visiblement incrusté d'or. De l'autre côté du couloir, un masque de soleil doré est posé au mur.''
 
 La dalle murale est en réalité une [énigme.](http://www.pathfinder-fr.org/Forum/yaf_postst13280_Enigme--4.aspx#post556204)
@@ -155,7 +155,7 @@ C'est ici que l'humain à la tête du groupe de kobold travaille. Il y a laissé
 
 En examinant les tentures :
 
-''Les tentures représentent pour l'une une scène de chasse au dragon avec une armée d'hommes en armure poursuivant un dragon rouge qui s'apprêtait à souffler sur eux. En plusieurs endroits la tapisserie se morcelle. Ce devait être une belle tenture à une époque.
+''Les tentures représentent pour l'une une scène de chasse au dragon avec une armée d'hommes en armure poursuivant un dragon rouge qui s'apprêtait à souffler sur eux. En plusieurs endroits la tapisserie se morcelle. Ce devait être une belle tenture à une époque. 
 
 L'autre représente trois hommes autour d'un coffre et au dessus de celui-ci, une créature encapuchonnée qui levait son son index ganté sur des lèvres invisibles car la silhouette est noire. ''
 
@@ -190,34 +190,34 @@ Bien qu'ils préfèrent la viande crue, ils n'ont pas rechigner à prendre des c
 
 #### 6. Le dortoir.
 
-''La porte s'ouvrit sur une salle remplie de petits matelas à même le sol dont certains, éventrés, laissaient ressortir la paille.
+''La porte s'ouvrit sur une salle remplie de petits matelas à même le sol dont certains, éventrés, laissaient ressortir la paille. 
 Des kobolds endormis sommeillaient paisiblement, leurs armes à porté de main.''
 
 Ici dorment 1d4 kobolds la nuit ou 1d6 le jour.
-Ils bénéficient d'un malus de perception de 10.
+Ils bénéficient d'un malus de perception de 10. 
 
 
 #### 7. La chambre
 
 ''La pièce est assez chaleureuse : un grand lit avec un tapis au dessous, une petite commode attenante en bois clair, un coffre aux pieds du lit et un fauteuil confortable. {br}
-Un brasier éclaire la pièce qui donne quelques reflets chauds au murs.
-Tout au fond, il y a un bureau avec sa chaise.
+Un brasier éclaire la pièce qui donne quelques reflets chauds au murs. 
+Tout au fond, il y a un bureau avec sa chaise. 
 
 Mais surtout, on perçoit un mouvement, une touffe blanche derrière le lit. A y regarder de plus près, on peut reconnaître rapidement... une chèvre.
 Celle-ci est dans un coin et semble occupée à se faire les dents sur le bureau.''
 
 
-Le coffre contient une potion de soin, des habits de noble, une rapière de maître.
-Dans un des tiroirs du bureau il y a un carnet avec des croquis.
+Le coffre contient une potion de soin, des habits de noble, une rapière de maître. 
+Dans un des tiroirs du bureau il y a un carnet avec des croquis. 
 
-La chèvre est en réalité un [[Pathfinder-RPG.Diablotin|Diablotin]] métamorphosé.
+La chèvre est en réalité un [[Pathfinder-RPG.Diablotin|Diablotin]] métamorphosé. 
 
 
 #### 8. La salle d'invocation
 
-''La salle est aussi grande que le dortoir. Des bougies autour d'un cercle noir dont les inscriptions semblaient bouger diffusent dans la pièce une lumière chaude et dérangeante. Au centre de ce cercle, une créature aussi sublime qu'étrange.
+''La salle est aussi grande que le dortoir. Des bougies autour d'un cercle noir dont les inscriptions semblaient bouger diffusent dans la pièce une lumière chaude et dérangeante. Au centre de ce cercle, une créature aussi sublime qu'étrange. 
 
-Une femme à la peau veloutée arborant des ailes aussi noires qu'une nuit sans étoiles regarde fixement l'intrus.
+Une femme à la peau veloutée arborant des ailes aussi noires qu'une nuit sans étoiles regarde fixement l'intrus. 
 Cette sinistre beauté qui semble être sortie d'un rêve qui aurait mal tourné. Son visage n'exprime aucune émotion mais on ne peut que se sentir mal à l'aise en présence d'une telle créature. ''
 
 <img src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fSharazel.jpg" width=550/>
@@ -231,11 +231,11 @@ Il s'agit d'un [[Aventures.Diaboliste initié|Diaboliste initié]].
 
 *Au fond de la pièce, une petite silhouette à la peau verdâtre retenue par des chaînes au mur, la tête pendant sur son torse, bâillonnée. *
 
-Une fois que les PJ sont rentrés dans le donjon, ils ont 100 rounds (10 minutes) pour interrompre le rituel d'invocation et faire en sorte que le diable n'apparaissent.
-La discussion entre le diaboliste et la créature invoquée prend 30 rounds (3 minutes) au termes desquelles la fillette est définitivement sacrifiée.
+Une fois que les PJ sont rentrés dans le donjon, ils ont 100 rounds (10 minutes) pour interrompre le rituel d'invocation et faire en sorte que le diable n'apparaissent. 
+La discussion entre le diaboliste et la créature invoquée prend 30 rounds (3 minutes) au termes desquelles la fillette est définitivement sacrifiée. 
 Les PJ ont donc 130 rounds pour faire ce donjon... sans le savoir. Le plus long reste à comptabiliser le temps de discussion qui parfois est très long.
 
-Ce qui est invoqué peut changer, dans mon exemple, c'est cette créature là.
+Ce qui est invoqué peut changer, dans mon exemple, c'est cette créature là. 
 
 
 

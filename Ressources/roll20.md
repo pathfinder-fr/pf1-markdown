@@ -6,7 +6,7 @@ LastModified: 2020-08-12 23:34
 
 Lien vers l'application: [https://roll20.net](https://roll20.net)
 
-Roll20 est une application web qui va vous permettre de faire vos parties de JDR en ligne et par navigateur. Il intègre tout ce qu'il faut, dans sa version gratuite, pour jouer sereinement. Noté que les options de paiement vous permette certaines choses spécifiques, comme la lumière dynamique, les SFX (effets spéciaux) ou alors la possibilité de transférer des personnages d'une partie à une autre, tout ceci est totalement facultatif et surtout, ne va concerner que des "gros joueurs" qui font beaucoup de parties via roll20.
+Roll20 est une application web qui va vous permettre de faire vos parties de JDR en ligne et par navigateur. Il intègre tout ce qu'il faut, dans sa version gratuite, pour jouer sereinement. Noté que les options de paiement vous permette certaines choses spécifiques, comme la lumière dynamique, les SFX (effets spéciaux) ou alors la possibilité de transférer des personnages d'une partie à une autre, tout ceci est totalement facultatif et surtout, ne va concerner que des "gros joueurs" qui font beaucoup de parties via roll20. 
 
 Dans ce guide, nous allons principalement parler de tout ce qu'offre la version gratuite, ainsi que quelques petites choses des versions payantes qui pourraient ne pas être claires de prime abord. (Exemple, le transfert de personnage est simplissime, je suis certains que vous parviendrez à le faire. Par contre, utiliser des effets spéciaux ou la lumière dynamique, je suis moins sûr (même si... c'est quand même simple !).
 
@@ -23,7 +23,7 @@ Pour Pathfinder première édition, testez les et choisissez en fonction de votr
 Validez en cliquant sur "Je suis prêt, créer la partie !" et vous serez amenez directement dans votre partie.
 
 #### Gérer votre partie
-En tant que Maître du Jeu, vous voyez tout et avez contrôle sur tout. Vous pourrez ensuite donner des droits au cas par cas. Il existe plusieurs types de droits, mais le tout est limité et très simple. Vous avez les droits "d'édition et de contrôle",
+En tant que Maître du Jeu, vous voyez tout et avez contrôle sur tout. Vous pourrez ensuite donner des droits au cas par cas. Il existe plusieurs types de droits, mais le tout est limité et très simple. Vous avez les droits "d'édition et de contrôle", 
 "les droits de vision" et les "droits de maître du jeu". Si le dernier ne peut être donné que via l'interface de gestion des parties (donc, pas dans la partie, mais dans l'écran qui vous montre toute vos parties en cours (il suffit alors de cliquer sur un joueur pour ouvrir un menu et lui donner ensuite le rôle de Maître du jeu), les deux autres se gèrent en jeu directement.
 
 Dans tous les cas, vous allez maintenant préparer votre première partie ! À gauche, vous avez un petit menu pour gérer les couches de terrain (carte, pion et MJ). Les joueurs ne peuvent interagir qu'avec la couche pion, mais voient la carte. Par contre, la couche MJ, c'est que pour vous. À droite, vous avez le plus important. Dans cette partie, en haut, vous avez un petit menu. Décrivons cela un instant:

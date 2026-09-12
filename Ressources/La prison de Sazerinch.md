@@ -192,5 +192,5 @@ Les pièges magiques, eux, libèrent l'énergie magique : une flèche d'acide (1
 On notera la subtilité du piège qui fait croire qu'il y a un moyen de deviner où sont les pièges en installant une sorte de motif (un à droite, aucun piège ensuite, un à gauche, aucun piège ensuite, etc.) pour finalement le briser.
 
 
-''En espérant que ça vous a plu.
+''En espérant que ça vous a plu. 
 Djezebel''

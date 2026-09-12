@@ -19,10 +19,10 @@ LastModified: 2023-10-22 18:46
 {s:BDTexte|**Sens des pièges** (+2) , **Résistances ** froid 3 (en rage uniquement)}
 {s:BDSousTitre|CAPACITÉS OFFENSIVES}
 {s:BDTexte|**Vitesse **4 cases (en armure) }
-{s:BDTexte|**Càc **grande hache +13/+8 (1d12+6, x3)
+{s:BDTexte|**Càc **grande hache +13/+8 (1d12+6, x3) 
   
 ou grande hache avec attaque en puissance +11/+6 (1d12+12, x3) }
-{s:BDTexte|**Càc en rage **grande hache +15/+10 (1d12+9, x3)
+{s:BDTexte|**Càc en rage **grande hache +15/+10 (1d12+9, x3) 
   
 ou grande hache avec attaque en puissance +13/+8 (1d12+15, x3) }
 {s:BDTexte|**Dist **hache de lancer +9 (1d6+4, facteur de portée 2 cases)  

@@ -230,23 +230,23 @@ Les aptitudes de l'émissaire sont décrites ci-dessous.
 
 {s:Reference|IMPROVISATIONDELÉMISSAIRE}
 #### Improvisation de l'émissaire - Niveau 1
-En gagnant de l’expérience, vous apprenez des improvisations de l’émissaire, des petites astuces qui, par la ruse, l’inspiration ou la chance, stimulent vos alliés, déconcertent vos adversaires ou modifient le déroulement d’un combat. Vous apprenez votre première improvisation au niveau 1 et vous en obtenez une de plus au niveau 2 et tous les 2 niveaux suivants.
+En gagnant de l’expérience, vous apprenez des improvisations de l’émissaire, des petites astuces qui, par la ruse, l’inspiration ou la chance, stimulent vos alliés, déconcertent vos adversaires ou modifient le déroulement d’un combat. Vous apprenez votre première improvisation au niveau 1 et vous en obtenez une de plus au niveau 2 et tous les 2 niveaux suivants. 
 
 Voir la liste des [[improvisations]].
 
-Si une improvisation vous permet d’accorder un effet à un allié, vous ne pouvez en bénéficier vous-même à moins que l’improvisation n’indique le contraire. Si une improvisation autorise un jet de sauvegarde pour résister à ses effets ou nécessite que l’adversaire effectue un test de compétence, le DD est égal à 10 + la moitié du niveau de l’émissaire + votre modificateur de Charisme.
+Si une improvisation vous permet d’accorder un effet à un allié, vous ne pouvez en bénéficier vous-même à moins que l’improvisation n’indique le contraire. Si une improvisation autorise un jet de sauvegarde pour résister à ses effets ou nécessite que l’adversaire effectue un test de compétence, le DD est égal à 10 + la moitié du niveau de l’émissaire + votre modificateur de Charisme. 
 
 Certaines improvisations de l’émissaire sont [[dépendant du langage|dépendantes du langage]], [[dépendant des sens|des sens]], [[affectant lesprit|affectent l’esprit]] ou sont une combinaison de ces trois facteurs.
 
 {s:Reference|MAÎTRISE}
 #### Maîtrise (Ext) - Niveau 1
-Vous êtes un expert pour surmonter les événements qui mettent à l’épreuve vos [[compétences]], que ces épreuves soient d’ordre social ou pas. Au niveau 1, quand vous tentez un test de [[Psychologie]], vous pouvez lancer 1d6 (votre dé de maîtrise) et ajouter le chiffre obtenu au résultat de votre test en tant que bonus d’intuition. Vous pouvez utiliser cette aptitude et toutes autres capacités de maîtrise tant que vous avez encore au moins 1 point de [[persévérance]].
+Vous êtes un expert pour surmonter les événements qui mettent à l’épreuve vos [[compétences]], que ces épreuves soient d’ordre social ou pas. Au niveau 1, quand vous tentez un test de [[Psychologie]], vous pouvez lancer 1d6 (votre dé de maîtrise) et ajouter le chiffre obtenu au résultat de votre test en tant que bonus d’intuition. Vous pouvez utiliser cette aptitude et toutes autres capacités de maîtrise tant que vous avez encore au moins 1 point de [[persévérance]]. 
 
 Au niveau 5, à chaque fois que vous utilisez votre dé de maîtrise, vous obtenez un bonus de +1 au résultat.
 
-Aux niveaux 9, 17 et 20, ce bonus augmente de 1.
+Aux niveaux 9, 17 et 20, ce bonus augmente de 1. 
 
-Au niveau 13, vous lancez 1d8 pour votre dé de maîtrise au lieu d’1d6.
+Au niveau 13, vous lancez 1d8 pour votre dé de maîtrise au lieu d’1d6. 
 
 À partir du niveau 9, vous maîtrisez encore mieux les compétences pour lesquelles vous pouvez utiliser votre dé de maîtrise et pour lesquelles vous avez sélectionné le don [[Talent]]. Pour chacune de ces compétences, une fois par jour quand vous lancez votre dé de maîtrise, vous pouvez le lancer deux fois et choisir le meilleur résultat.
 
@@ -258,7 +258,7 @@ Vous devez avoir au moins un [[rang]] 1 dans la compétence pour la sélectionne
 
 {s:Reference|SAVOIRFAIREMAÎTRISÉ}
 #### Savoir-faire maîtrisé - Niveau 3
-Au niveau 3 puis tous les 4 niveaux supplémentaires, vous choisissez un savoir-faire qui vous octroie une option supplémentaire quand vous utilisez une compétence que vous maîtrisez.
+Au niveau 3 puis tous les 4 niveaux supplémentaires, vous choisissez un savoir-faire qui vous octroie une option supplémentaire quand vous utilisez une compétence que vous maîtrisez. 
 
 Voir la liste des [[savoirfaire|savoir-faire]]
 

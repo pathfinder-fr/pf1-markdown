@@ -5,7 +5,7 @@ LastModified: 2019-08-31 23:25
 ---
 
 <div class="presentation arrondi recentre ombre"><center>**CAPITAINES LIBRES (LES)**
-</br>**Coalition hors la loi**
+</br>**Coalition hors la loi**  
 </br>**Dirigeant** : le Conseil des pirates
 </br>**Quartier général** : Le Roc Brisé, la Diaspora</center></div>
 

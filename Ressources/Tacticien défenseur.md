@@ -15,7 +15,7 @@ Categories:
 
 **Catégorie :** combat
 
-**Condition :** [[Pathfinder-RPG.BBA|Bonus de base à l’attaque]] de +10 ; [[Pathfinder-RPG.Attaques réflexes|Attaques réflexes]].
+**Condition :** [[Pathfinder-RPG.BBA|Bonus de base à l’attaque]] de +10 ; [[Pathfinder-RPG.Attaques réflexes|Attaques réflexes]]. 
 
 **Avantage : ** A la fin de son tour de jeu, le personnage choisit dans l'espace qu'il contrôle un nombre de cases égal au cinquième de son [[Pathfinder-RPG.BBA|BBA]] plus son modificateur d'[[Pathfinder-RPG.intelligence|intelligence]]. Ces cases doivent être adjacentes entre elles. Jusqu'au début de son prochain tour, un ennemi qui pénètre dans une de ces cases provoque une [[Pathfinder-RPG.attaque dopportunité|attaque d'opportunité]].{br}
 Ce don n'est d'aucune utilité face à un personnage réalisant un [[Pathfinder-RPG.pas de placement|pas de placement]] ou une [[Pathfinder-RPG.attaque éclair|attaque éclair]] contre le personnage. Au cours du même round, il n'est pas possible d'effectuer sur le même ennemi une [[Pathfinder-RPG.attaque dopportunité|attaque d'opportunité]] parce qu'il entre dans une de ces cases, et une autre parce qu'il sort d'une case contrôlée. Par contre, il est possible de porter une seconde attaque d'opportunité sur un même ennemi s'il effectue une autre action (comme utiliser une arme à distance ou lancer un sort) dans une case contrôlée.

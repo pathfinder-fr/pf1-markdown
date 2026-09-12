@@ -22,7 +22,7 @@ Categories:
 {s:BDTexte|**Capacités défensives** Esquive instinctive, Esquive extraordinaire}
 {s:BDSousTitre|CAPACITÉS OFFENSIVES}
 {s:BDTexte|**Vitesse **6 cases (9m) }
-{s:BDTexte|**Càc: **Épée à deux mains +14/+9 (2d6+10, 19-20)}
+{s:BDTexte|**Càc: **Épée à deux mains +14/+9 (2d6+10, 19-20)} 
 {s:BDTexte|ou 2 épées courte +1,  +15/+15/+10/+10 (d6+8, 19-20)}
 {s:BDTexte|**Càc en Changeforme:** Épée à deux mains +16/+11 (2d6+13, 19-20) }
 {s:BDTexte|ou 2 épées courte +1,  +17/+17/+12/+12 (d6+10, 19-20)}

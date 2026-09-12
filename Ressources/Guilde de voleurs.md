@@ -34,23 +34,23 @@ Le couloir est éclairé par plusieurs torches qui restent toujours allumées.
 
 C'est ici que les membres masculins se reposent entre deux missions quand ils n'ont pas d'autres lieux. Il est possible d'y rencontrer 1d6 adversaires (que vous pouvez choisir dans la [[Aventures.Liste PNJ|liste des PNJ]])
 
-Grâce à une [[Pathfinder-RPG.Perception|fouille]] (DD 15) il est possible de récupérer sous les matelas, oreillers 53 po et 23pa.
+Grâce à une [[Pathfinder-RPG.Perception|fouille]] (DD 15) il est possible de récupérer sous les matelas, oreillers 53 po et 23pa. 
 
 ### 4. Salle de repos (femmes)
 *Cette salle comporte une table basique et trois tonneaux qui servent de tabouret, une psyché ainsi que deux lits superposés dans le fond de la pièce. Les couvertures sont en meilleur état ici que dans l'autre pièce. *
 
-Il est possible de trouver 1d4 adversaires féminins.
+Il est possible de trouver 1d4 adversaires féminins. 
 Grâce à un teste de [[Pathfinder-RPG.Perception|fouille]] (DD 15) il est possible de récupérer dans les matelas et oreillers 72po et 43 pa.
 
 ### 5. La Grande salle
 *Cette immense pièce vide ne comporte rien d'autre que des torches allumées accrochées aux murs.*
 
 Cette salle est la salle de réunion de la guilde. Elle fait office également de nombreuses autres choses. Les treize torches accrochées au mur sont en réalité des leviers sur lesquels ont peut tirer.
-Un cliquetis mécanique se fait entendre à chaque fois.
+Un cliquetis mécanique se fait entendre à chaque fois. 
 - Abaisser les torches 1 et 3 en même temps permet d'activer le passage secret de cette pièce.  
 - Abaisser les torches 5, 7 et 9 en même temps permet d'ouvrir le centre de la pièce d'où émerge un autel dédié à Norgobert. 
 - Abaisser les torches 2, 6, 10 ou 13 déclenche une des trappes au plafond qui fait tomber des vases ou des créatures artificielles ([[Pathfinder-RPG.Chair affamée|chair affamée]], [[Pathfinder-RPG.cobra de fer|cobra de fer]] ou [[Pathfinder-RPG.objet animé|objet animé]])
-Abaisser les torches 4,8, 11 et 12 déclenchent un piège mécanique (flèche acide, mains brûlantes, arc électrique).
+Abaisser les torches 4,8, 11 et 12 déclenchent un piège mécanique (flèche acide, mains brûlantes, arc électrique). 
 
 ### 6. L'entrepôt
 *La pièce est plongée dans l'obscurité. Elle est remplie de caisses, barils et divers sacs. *
@@ -66,7 +66,7 @@ Derrière la tapisserie, il est possible de découvrir un trou aussi large qu'un
 
 - **Passage secret : **
 Cet endroit est gardé par un autre traqueur gluant. Le chef de guilde, qui circule parfois, a toujours un médaillon qui créer une lumière du jour.
-La fin du couloir mène une herse verrouillée qui donne sur les égouts.
+La fin du couloir mène une herse verrouillée qui donne sur les égouts. 
 
 ### 7. Salle de contrefaçon
 *L'intérieur de cette salle regorge de parchemins et substances diverses sur les étagères. Dans un coin un tableau est en passe d'être recopié. Il n'y a qu'un seul lit ainsi qu'un gnome très nerveux qui ne souhaite qu'une chose : continuer son travail.*
@@ -74,10 +74,10 @@ La fin du couloir mène une herse verrouillée qui donne sur les égouts.
 Dans cette salle, il y a tout le matériel nécessaire pour faire des copies, y compris des ouvrages rares pouvant valoir plusieurs centaines de pièces d'or. En fonction de l'attitude des aventuriers, le PNJ peut se montrer neutre ou amical. Dans tous les cas, il tient plus que tout à ses œuvres et serait prêt à mourir pour les défendre.
 
 ### 8. Salle du chef
-*Cette pièce est de loin la plus luxueuse : il y a un lit confortable, un tapis brodé au sol,deux coffres, une armoire, et une petite table avec divers papiers. *
+*Cette pièce est de loin la plus luxueuse : il y a un lit confortable, un tapis brodé au sol,deux coffres, une armoire, et une petite table avec divers papiers. * 
 
 Il est rare que le chef soit présent. Il se sert de cet endroit comme lieu de retraite, mais l'odeur des égouts non loin l'empêchent de profiter du séjour.
-Néanmoins, vous pouvez utiliser un profil du [[Pathfinder-RPG.PNJ Aventuriers#PILLEURDETOMBES|Pilleur de tombes]] pour cette rencontre.
+Néanmoins, vous pouvez utiliser un profil du [[Pathfinder-RPG.PNJ Aventuriers#PILLEURDETOMBES|Pilleur de tombes]] pour cette rencontre. 
 
 
 Amusez-vous bien !

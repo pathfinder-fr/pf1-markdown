@@ -12,16 +12,16 @@ Voir aussi : [[Aides de jeu AP13|La Colère des Justes]], [[Golarion.Plaie du mo
 <div class="BD">
 {s:BDTitre|Les Terres Blessées|}
 {s:BDTexte|*Source : Guide de la Plaie du Monde, p.74*}
-**Alignement** CM
-**Influence démoniaques** Baphomet, Deskari, Pazuzu, Shax, Sifkesh, Xevéron
+**Alignement** CM  
+**Influence démoniaques** Baphomet, Deskari, Pazuzu, Shax, Sifkesh, Xevéron  
 (((Démographie)))
-**Habitants connus** : Aponavicius, Belsféreck, Eiandre, Firadreal, Isilda, Jaalika, Khorramazadeth le Roi des Tempeêtes, Xanthir Vang, Yracandra, Zelmisdria et Azrivauxus
-**Monstres et dangers** : Geysers abyssaux, failles abyssales, [[Pathfinder-RPG.Bébilith|Bébiliths]], fanatiques, [[Pathfinder-RPG.Vermine démoniaque, archétype|Vermine démoniaque]], [[Pathfinder-RPG.dwiergth|dwiergths]], [[Pathfinder-RPG.âpresoif|apresoifs]], herbes sangsues, nuées de néo-larves, [[Pathfinder-RPG.horreur chasseresse|horreurs chasseresses]], [[Pathfinder-RPG.rampant des failles|rampants des failles]], barbes de Shax, [[Pathfinder-RPG.Nuée de vescavores|Nuées de vescavores]], [[Pathfinder-RPG.Guêpe belliciste|Guêpes bellicistes]], [[Pathfinder-RPG.Distordu|Distordus]], [[Pathfinder-RPG.Dragon de la Plaie|Dragons de la Plaie]]
+**Habitants connus** : Aponavicius, Belsféreck, Eiandre, Firadreal, Isilda, Jaalika, Khorramazadeth le Roi des Tempeêtes, Xanthir Vang, Yracandra, Zelmisdria et Azrivauxus  
+**Monstres et dangers** : Geysers abyssaux, failles abyssales, [[Pathfinder-RPG.Bébilith|Bébiliths]], fanatiques, [[Pathfinder-RPG.Vermine démoniaque, archétype|Vermine démoniaque]], [[Pathfinder-RPG.dwiergth|dwiergths]], [[Pathfinder-RPG.âpresoif|apresoifs]], herbes sangsues, nuées de néo-larves, [[Pathfinder-RPG.horreur chasseresse|horreurs chasseresses]], [[Pathfinder-RPG.rampant des failles|rampants des failles]], barbes de Shax, [[Pathfinder-RPG.Nuée de vescavores|Nuées de vescavores]], [[Pathfinder-RPG.Guêpe belliciste|Guêpes bellicistes]], [[Pathfinder-RPG.Distordu|Distordus]], [[Pathfinder-RPG.Dragon de la Plaie|Dragons de la Plaie]]  
 (((Géographie)))
-**Villes connues** : Drézen (7489), Iz (abandonnée)
-**Climat** : Venteux modéré
-**Précipitations moyennes** : Pluie
-**Survie** : DD 30 (75%)
+**Villes connues** : Drézen (7489), Iz (abandonnée)  
+**Climat** : Venteux modéré  
+**Précipitations moyennes** : Pluie  
+**Survie** : DD 30 (75%)  
 
 </div>
 </td><td><div class="BD">

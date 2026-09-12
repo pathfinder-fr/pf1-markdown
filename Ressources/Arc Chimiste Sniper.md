@@ -69,7 +69,7 @@ Pour le maniement gratuit du grenadier, l'arc long est le choix évident.
 
 **3.3.2 Capacités de classe**
 
-Bon... Alors d'abord les améliorations de notre poison. Au niveau 3, on a le choix entre fatigué, éblouis, fiévreux et un saignement de 1d6. Honnêtement, le meilleur est fiévreux : -2 à tous, c'est violent.
+Bon... Alors d'abord les améliorations de notre poison. Au niveau 3, on a le choix entre fatigué, éblouis, fiévreux et un saignement de 1d6. Honnêtement, le meilleur est fiévreux : -2 à tous, c'est violent. 
 Au niveau 6, on hésite même pas. On prend hebeté (=dazed en VO). Si tu rate ton JdS, tu passe ton tour voir plusieurs, comme ça, easy. Au passage, on notera que la condition hebeté ne craint rien. Et oui, au contraire de l'etourdissement, RIEN n'est immunisé à cette condition. Une erreur de conception ? Je l'ignore mais là où je vois une faille, je fonce ! Donc au niveau 6, votre flèche deviens un save or loose très méchant.
 Au niveau 12, y a rien pour nous. Je prend la fatigue pour préparer le futur épuisement.
 Au 15 finalement, je part sur épuisé.
@@ -132,7 +132,7 @@ Je passe sur les grands classiques du genre bandeau d'intelligence, cape de resi
 
 #### 5. Stratégie et chiffres
 
-Le matin, vous préparez vos extraits. Puis vous buvez votre fiole de poison magique. Ensuite, vous enduisez vos flèches de ce poison (possibilité de garder quelques doses au cas où et de recharger petit à petit).
+Le matin, vous préparez vos extraits. Puis vous buvez votre fiole de poison magique. Ensuite, vous enduisez vos flèches de ce poison (possibilité de garder quelques doses au cas où et de recharger petit à petit). 
 Quand le combat commence, on procède comme suit :
 1.	On sort la flèche de peinture empoisonée en action libre.
 2.	On récupère un objet alchimique avec sa queue en rapide.
@@ -143,7 +143,7 @@ Au final, notre tir fait les dégâts d'une bombe, infecte avec du poison très 
 En chiffres, prenons le niveau 8. On a un bandeau d'intelligence +2, un arc conducteur +1, un ceinturon de dextérité +2. On a prit aucun buff. On est à plus de 9m.
 Attaque : +10 pour toucher une CA moyenne de 11.9 (CA contact moyenne de FP9) avec un maximum de CA à 24. Pas mal.
 
-Dégâts :
+Dégâts : 
 bombe : 4d6+10. Possibilité d'enchevetrer ou de rendre chancelant avec un DD de 20
 Objet alchimique : 1d6 (classique)
 Poison : DD22, 6 dégâts pour 3 round. Rend fiévreux et hebeté.

@@ -42,7 +42,7 @@ LastModified: 2015-12-09 16:46
 </div>
 </td><td><div>*Vous distinguez difficilement la silhouette de cette petite fée qui vole avec une grâce incroyable, tant la lumière semble être affaiblie aux abords de sa silhouette. Soudain, elle tourne vers vous ses minuscules yeux rouges et fait tinter un rire cristallin. L'instant d'après, la pièce est plongée dans une profonde pénombre. *
 
-Les fées sombres sont des êtres sournois et vicieux qui aiment apporter la mort et les ténèbres. Elles n'aiment rien tant qu'achever une créature mourante après avoir fait tomber sur elle un voile de ténèbres. Elles sont sans surprise inféodées à la cour invisible des fées.
+Les fées sombres sont des êtres sournois et vicieux qui aiment apporter la mort et les ténèbres. Elles n'aiment rien tant qu'achever une créature mourante après avoir fait tomber sur elle un voile de ténèbres. Elles sont sans surprise inféodées à la cour invisible des fées. 
 
-Un lanceur de sort de niveau 7, d'alignement chaotique mauvais et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée sombre.
+Un lanceur de sort de niveau 7, d'alignement chaotique mauvais et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée sombre. 
 </div></td></tr></table>

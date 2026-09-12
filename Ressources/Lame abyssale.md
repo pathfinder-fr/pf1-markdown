@@ -136,14 +136,14 @@ La lame abyssale est spécialisée dans le maniement de son arme unique, et sa f
 
 {s:Reference|SANGFURIEUX}
 #### Sang Furieux (Ext)
-Au niveau 1, la lame abyssale est capable d'entrer dans un état de furie, éveillant ses pouvoirs. Cet état est similaire à celui de celui de rage du barbare, et peut être utilisé un nombre de rounds par jour égal à 4 + son modificateur de Constitution. Ce nombre augmente de +2 pour chaque niveau après le premier.
+Au niveau 1, la lame abyssale est capable d'entrer dans un état de furie, éveillant ses pouvoirs. Cet état est similaire à celui de celui de rage du barbare, et peut être utilisé un nombre de rounds par jour égal à 4 + son modificateur de Constitution. Ce nombre augmente de +2 pour chaque niveau après le premier. 
 
 Lorsque la lame abyssale sort de son état de rage, elle doit faire un jet de Volonté (DD 10 + Niveau de lame abyssale). Si elle échoue, elle subit un affaiblissement temporaire d'1d4 point de Sagesse. Si sa Sagesse tombe à 0 de cette manière, elle doit faire un jet de Vigueur (DD 20). Si elle échoue, elle meurt ; et un qlippoth émerge de sa dépouille (les détails sont laissés à l'appréciation du MJ en fonction du niveau et du type du qlippoth). dans le cas contraire, sa sagesse est remise à 1.
 
 {s:Reference|POUVOIRSOUILLE}
 
 #### Pouvoirs Souillés (Ext)
-Au niveau 2, et à tous les deux niveaux suivants, la lame abyssale gagne des particularités en fonction de la chair du qlippoth utilisé pour renforcer sa puissance.
+Au niveau 2, et à tous les deux niveaux suivants, la lame abyssale gagne des particularités en fonction de la chair du qlippoth utilisé pour renforcer sa puissance. 
 
 :: *Capacités Anormales (Ext).* Le personnage gagne un don supplémentaire, mais n'applique ses avantages qu'en état de furie. Le personnage peut le choisir n'importe quel nombre de fois.
 
@@ -153,7 +153,7 @@ Au niveau 2, et à tous les deux niveaux suivants, la lame abyssale gagne des pa
 
 :: *Forme Incertaine (Ext).* Le personnage gagne le pouvoir d'esquive. Il gagne celui d'esquive totale quand il est en état de furie.
 
-:: *Griffes Acérées (Ext).* Le personnage peut par une action libre gagner deux attaques de griffes infligeant 1d6 points de dégâts chacune. Les dégâts passent à 2d4 points de dégâts quand le personnage est en état de furie.
+:: *Griffes Acérées (Ext).* Le personnage peut par une action libre gagner deux attaques de griffes infligeant 1d6 points de dégâts chacune. Les dégâts passent à 2d4 points de dégâts quand le personnage est en état de furie. 
 
 :: *Intuition Sauvage (Ext).* Le personnage gagne un bonus de classe de +1 à la CA. Ce bonus augmente de +1 supplémentaire quand le personnage est en état de furie. Le personnage peut le sélectionner deux fois.
 
@@ -169,7 +169,7 @@ Au niveau 2, et à tous les deux niveaux suivants, la lame abyssale gagne des pa
 
 {s:Reference|REGENRAPIDE}
 #### Regénération rapide (Ext)
-Au niveau 3, le corps de la lame abyssale est naturellement renforcé par la présence d'éléments qlippoth en lui, et se regénère donc plus rapidement que la moyenne. Le personnage gagne Regénération rapide 1.
+Au niveau 3, le corps de la lame abyssale est naturellement renforcé par la présence d'éléments qlippoth en lui, et se regénère donc plus rapidement que la moyenne. Le personnage gagne Regénération rapide 1. 
 
 {s:Reference|VERITASPECT}
 #### Véritable aspect (Ext)

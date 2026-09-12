@@ -18,7 +18,7 @@ Alors que Droven réfléchissait à la possibilité de réparer le navire, une a
 
 Se rendant compte qu’il n’avait pas de temps à perdre, Droven passa le reste de la journée à se rendre compte qu’il était bel et bien seul sur ce qui était finalement un petit îlot faisant partie d’une chaîne qui encerclait une baie plus grande située entre lui et la partie principale du continent de l’Arcadie. Niveau ressources, il ne trouva qu’une outre à vin à moitié vide et des biscuits durs imbibés d’eau de mer. Il utilisa le vin éventé pour faire passer les biscuits salés et se mit à penser « Celui qui a inventé l’expression "un port dans la tempête" n’avait certainement jamais rencontré une telle tempête et jamais vu un tel "port". Enfin soit… ne suis-je pas un Éclaireur ? Il y a une zone à explorer à l’horizon et, si je veux survivre, je dois trouver un chemin pour m’y rendre. »
 
-Droven positionna les doigts de sa main droite pour former un signe en forme de clef, le symbole sacré d’Abadar, le dieu de la civilisation, et il invoqua sa bénédiction sur ses compatriotes perdus. « Que vos œuvres figurent à tout jamais dans la Première Réserve, en témoignage de votre talent, et puisse le dieu qui convient le mieux à chacun d’entre vous veiller sur vous. Et si vous avez déjà reçu votre récompense finale, accordez-moi une faveur et distrayez les requins qui se trouveraient entre ici et la côte. Ça serait vraiment dommage de survivre à un naufrage pour finir en nourriture pour poissons. »
+Droven positionna les doigts de sa main droite pour former un signe en forme de clef, le symbole sacré d’Abadar, le dieu de la civilisation, et il invoqua sa bénédiction sur ses compatriotes perdus. « Que vos œuvres figurent à tout jamais dans la Première Réserve, en témoignage de votre talent, et puisse le dieu qui convient le mieux à chacun d’entre vous veiller sur vous. Et si vous avez déjà reçu votre récompense finale, accordez-moi une faveur et distrayez les requins qui se trouveraient entre ici et la côte. Ça serait vraiment dommage de survivre à un naufrage pour finir en nourriture pour poissons. » 
 
 Sa prière terminée, Droven s’empara du plus grand morceau de bois qu’il pouvait trouver dans l’épave pour s’en servir comme flotteur. Il fixa son bras brisé à l’aide d’une écharpe faite à partir de guenilles qui devaient sans doute avoir fait partie des voiles du navire échoué puis se mit à nager lentement vers la côte.
 
@@ -38,5 +38,5 @@ Droven hocha la tête et souria. Puis lui et son nouveau compagnon Whirp commenc
 
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shu6](https://paizo.com/community/blog/v5748dyo6shu6) et écrit par Michael Sayre.

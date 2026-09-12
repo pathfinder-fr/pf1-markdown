@@ -21,7 +21,7 @@ L'encombrement tient évidement compte du poids des objets, mais également de l
 De manière globale, on gagne en simplicité et en fluidité, on perd un peu de réalisme par rapport au tables de la [[Pathfinder-RPG.Poids transportable|règle de base]], mais on regagne en réalisme au niveau de la prise en compte de la dimension des objets. {br}
 D'autre part, pour gagner en simplicité, l'encombrement dû à l'armure et celui dû au poids transporté sont compté indépendamment, mais les malus dus à chacun se cumulent. {br}
 Contrairement à la règle de base cependant, l'encombrement est ici additif avec les pénalités engendrées par l'armure. C'est la raison pour laquelle les protections présentant une pénalité d'armure et qui sont utilisé ont un encombrement très faible.{br}
-D'autre part, alors la règle de base est absolue (le poids exprimé en kg est le même pour les créatures de toutes tailles), ce système tire une partie de sa simplicité du fait qu'il est relatif. Cela signifie que les règles énoncée ci dessous sont valables pour des objets adaptés à la taille du personnage.
+D'autre part, alors la règle de base est absolue (le poids exprimé en kg est le même pour les créatures de toutes tailles), ce système tire une partie de sa simplicité du fait qu'il est relatif. Cela signifie que les règles énoncée ci dessous sont valables pour des objets adaptés à la taille du personnage. 
 
 ### Règles générales
 - Seuls les objets de 500 gr ou plus sont pris en compte dans l’encombrement. 
@@ -74,8 +74,8 @@ D'autre part, alors la règle de base est absolue (le poids exprimé en kg est l
   - Cheval lourd (Force = 20), porte 30 objets sans Malus. Premier seuil à 39 objets portés.
 
 ### Ajustements
-A partir des règles de bases proposées ici, chaque MJ peut définir des exceptions.
-Personnellement, j'utilise les suivantes.
+A partir des règles de bases proposées ici, chaque MJ peut définir des exceptions. 
+Personnellement, j'utilise les suivantes. 
 - Un personnage peut transporter gratuitement
   - Les vêtements qu'il porte
   - Un sac vide (sac à dos classique voire un sac magique)

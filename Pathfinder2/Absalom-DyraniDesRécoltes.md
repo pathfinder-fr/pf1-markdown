@@ -37,5 +37,5 @@ L’hiver qui a suivi a été difficile pour la soi-disant déesse. Au printemps
 
 Et tout cela nous amène jusqu’à aujourd’hui. Mon échoppe se situe près du bout de l’Avenue, juste en face du vaste gouffre qui entoure la Cathédrale. Le spectacle est quasiment terminé. Dyrani s’est avancée jusqu’au bord. Il n’y a pas de cri d’encouragement, pas de chants, juste le silence et le bruit du vent. Au moment où les nuages s’écartent, un rayon de lumière illumine la jeune femme. Elle semble épuisée – c’est le cas de la plupart des gens après un long voyage pour parcourir toute l’Avenue. Elle regarde en l’air, en direction du soleil, sa chaleur s’étendant sur elle, puis elle fait un pas en avant, dans le vide…
 
----
+<hr />
 Cette page est la traduction d'un récit publié sur le blog de Paizo à l'adresse [https://paizo.com/community/blog/v5748dyo6shzv](https://paizo.com/community/blog/v5748dyo6shzv) et écrit par Jason Bulmahn.

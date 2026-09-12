@@ -16,9 +16,9 @@ Créer une battle map agréable et lisible peut se révéler bien souvent fastid
 
 Installez le programme gratuit GimP 2 que vous trouverez facilement [sur ce site](http://www.gimp.org/).
 
-Installez le petit script Dungeon Map Maker disponible à cette adresse: [[{UP}/tutogimp/dmm.zip]].
+Installez le petit script Dungeon Map Maker disponible à cette adresse: [[{UP}/tutogimp/dmm.zip]]. 
 
-Ce fichier doit être copié dans le répertoire **Scripts** de l'arborescence GimP.
+Ce fichier doit être copié dans le répertoire **Scripts** de l'arborescence GimP. 
 
 Emplacement sous seven : C:\Program Files (x86)\GIMP-2.0\share\gimp\2.0\scripts
 

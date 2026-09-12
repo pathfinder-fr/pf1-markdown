@@ -37,7 +37,7 @@ Vous pouvez utiliser tous vos sens (l’ouïe, le goût, le toucher, la vue et l
 </div>
 </div>
 Par une action de mouvement, vous pouvez utiliser la Perception pour chercher quelque chose en particulier, telle qu’une créature invisible ayant signalé sa présence, une créature que vous savez cachée à proximité, ou des pièges ou des dangers proches. Vous pouvez également fouiller une zone à la recherche de choses dignes d’intérêt qui pourraient être cachées ou simplement pas immédiatement visibles, telles que des compartiments de cargaison secrets ou un trésor caché.
-Dans ce cas, il faut 1 minute pour fouiller une zone de 6 mètres sur 6 au maximum (ou plus petite, si le MJ décide que la zone est particulièrement encombrée ou complexe). Le DD est déterminé par le test de Discrétion de la créature, par le piège ou le danger impliqué, ou par le MJ.
+Dans ce cas, il faut 1 minute pour fouiller une zone de 6 mètres sur 6 au maximum (ou plus petite, si le MJ décide que la zone est particulièrement encombrée ou complexe). Le DD est déterminé par le test de Discrétion de la créature, par le piège ou le danger impliqué, ou par le MJ. 
 Si vous n’êtes pas en combat, vous pouvez faire 20 aux tests de Perception effectués pour chercher.
 
 Les DD des tests de Perception effectués pour chercher peuvent être modifiés par le MJ en fonction des circonstances et pour refléter d’autres conditions. La table suivante donne quelques exemples de circonstance et les DD typiques correspondants.
@@ -50,7 +50,7 @@ Les DD des tests de Perception effectués pour chercher peuvent être modifiés 
 Par une action de mouvement, vous pouvez utiliser la Perception pour réaliser qu’une créature a modifié son apparence. Parfois, si vous vous montrez particulièrement vigilant pour repérer les créatures à proximité qui pourraient porter un déguisement, le MJ peut vous permettre de percer un déguisement sans faire d’action. Ce test est opposé
 au test de Déguisement effectué par la créature déguisée. Si vous réussissez, vous réalisez que la créature est déguisée et qu’elle n’est pas ce à quoi elle ressemble, mais vous ne savez pas nécessairement qui elle est ou ce qu’elle est. Si la créature déguisée est un individu particulier que vous connaissez, le MJ peut conférer un bonus à votre test de Perception.
 
-La magie de divination ou des scanners vous permettant de voir à travers les illusions ou les hologrammes ne percent pas les déguisements ordinaires ou de basse technologie mais ils peuvent annuler les composantes illusoires ou holographiques d’un déguisement.
+La magie de divination ou des scanners vous permettant de voir à travers les illusions ou les hologrammes ne percent pas les déguisements ordinaires ou de basse technologie mais ils peuvent annuler les composantes illusoires ou holographiques d’un déguisement. 
 Les DD des tests de Perception effectués pour percer un déguisement sont modifiés en fonction de la familiarité de l’observateur avec l’individu particulier pour qui la créature déguisée tente de se faire passer. D’autres circonstances déterminées par le MJ peuvent également modifier ces DD.
 
 

@@ -14,7 +14,7 @@ Categories:
 
 <u>**Synopsis**</u> : Ces deux personnages, plus le compagnon animal, constituent une menace supplémentaire à faire connaitre à vos joueurs, et tenteront de venger le frère Ursion Voralius. Les deux personnages étaient au courant des penchants un peu trop hérétiques, mais ils connaissaient sa ferveur envers le régime et le Cheliax. C'est donc un affront envers le pouvoir d'avoir tué ou attaqué Ursion Voralius. Ils frapperont sans aucune retenue sauf pour le dernier pour faire un exemple.{br}
 
-<u>**Mode opératoire :**</u> Il se camoufleront en ville. Ils feront une enquête sur les habitudes des héros et tenteront de frapper au moment où ils s'y attendront le moins. La surprise peut vraiment être un élément déterminant pour la rencontre. Techniquement, les héros ne s'y attendront pas, car ils penseront avoir éliminé la menace Voralius.{br}
+<u>**Mode opératoire :**</u> Il se camoufleront en ville. Ils feront une enquête sur les habitudes des héros et tenteront de frapper au moment où ils s'y attendront le moins. La surprise peut vraiment être un élément déterminant pour la rencontre. Techniquement, les héros ne s'y attendront pas, car ils penseront avoir éliminé la menace Voralius.{br} 
 
 ### Les blocs de la rencontre :
 

@@ -11,7 +11,7 @@ LastModified: 2019-05-31 16:08
 (((Description)))
 La pointe d'une corsèque de la gargouille semble être fabriquée dans de l’obsidienne, amis elle est en réalité aussi dure et résistante que de l'acier.
 (((Capacités )))
-Cette arme fonctionne comme une [[Pathfinder-RPG.Caractéristiques des armes#ARMESDEGUERREDEUXMAINS|corsèque]] +1 qui confère un bonus de +4 aux tests de désarmement au lieu du bonus normal de +2 conféré par une corsèque ordinaire.
+Cette arme fonctionne comme une [[Pathfinder-RPG.Caractéristiques des armes#ARMESDEGUERREDEUXMAINS|corsèque]] +1 qui confère un bonus de +4 aux tests de désarmement au lieu du bonus normal de +2 conféré par une corsèque ordinaire.  
 Jusqu'à 5 fois par jour et par une action rapide, le manipulateur d'une corsèque de la gargouille peut solidifier son épiderme pendant un round, ce qui lui octroie un bonus d'altération de +2 à sa valeur d'armure naturelle.
 (((Condition de fabrication)))
 [[Pathfinder-RPG.Création darmes et armures magiques|Création d'armes et armures magiques]], [[Pathfinder-RPG.Peau décorce|peau d'écorce]].

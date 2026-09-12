@@ -339,7 +339,7 @@ Au niveau 13, le façonneur peut faire 10 pour tout test d’Art de la magie ou 
 {s:Reference|MAITREFACONNEUR}
 #### Maître Façonneur
 
-À partir du niveau 19, la vitesse à laquelle le façonneur fabrique des objets magiques et psioniques est multiplié par 10. Ainsi, un façonneur qui fabrique normalement à un taux de 1.000 po par jour fabrique maintenant à un taux de 10.000 po par jour. Toute augmentation du taux par défaut augmente également du même facteur de 10, donc si l'artificier créait normalement des objets merveilleux à 1 300 po par jour, il le crée maintenant à un taux de 13 000 po par jour.
+À partir du niveau 19, la vitesse à laquelle le façonneur fabrique des objets magiques et psioniques est multiplié par 10. Ainsi, un façonneur qui fabrique normalement à un taux de 1.000 po par jour fabrique maintenant à un taux de 10.000 po par jour. Toute augmentation du taux par défaut augmente également du même facteur de 10, donc si l'artificier créait normalement des objets merveilleux à 1 300 po par jour, il le crée maintenant à un taux de 13 000 po par jour. 
 
 {s:Reference|SCIENCEDUMAITREFACONNEUR}
 #### Science du Maître Façonneur

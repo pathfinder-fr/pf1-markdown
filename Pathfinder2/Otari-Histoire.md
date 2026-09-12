@@ -7,7 +7,7 @@ LastModified: 2023-04-27 17:38
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 • [[OTARI|Retour à la page sur Otari]]
 
----
+<hr />
 ''Paré d’un pourpoint en cuir orné de fines dorures, le maire d’Otari, Oseph Menhemes, s’avance sur l’estrade d’un pas assuré. D’un geste de la main, il repousse distraitement la cape ocre et rouge qui l’enveloppe, révélant ainsi l’épée ornée qu’il porte à sa ceinture et la broche argentée qui décore sa poitrine.
 
 « Le passé n’est pas juste un sujet qui ne sert qu’à remplir les pages de livres précieux, comme ceux qu’on trouve dans la Bibliothèque de la Fleur de l’Aube. » commence-t-il en esquissant un salut respectueux dans la direction où se trouve Vandy Banderbrash, la haute-prêtresse du temple-bibliothèque dédié à Sarenrae.
@@ -19,7 +19,7 @@ Parcourant du regard tous les citoyens d’Otari rassemblés devant lui, il pour
 Il baisse la tête en silence et pose une main sur la broche en argent représentant un cerf et un arc à flèches, le symbole sacré qui appartenait à l’une de ses ancêtres, une prêtresse d’Érastil faisant partie du groupe d’aventuriers qui ont fondé Otari. L’autre main du maire frôle un instant l’épée qui pend à sa ceinture et qui appartenait, elle aussi, à l’un de ces aventuriers. Même si Oseph Menhemes n’est pas connu pour ses prouesses martiales à l’épée, le fin politicien qu’il est sait parfaitement comment tirer parti de ces puissants symboles liés à l’histoire d’Otari.
 
 « Mes ancêtres ont contribué à la création, à la protection et au développement de notre bonne ville d’Otari. Et, tout en priant pour votre soutien lors des prochaines élections, je m’engage à donner le meilleur de moi afin de poursuivre cette tradition. Ensemble, nous pourrons œuvrer à la prospérité et au bien-être d’Otari et ainsi continuer son histoire… une histoire vers laquelle les futures générations pourront se tourner avec fierté. »''
----
+<hr />
 
 Voici un résumé des grands moments de l’histoire d’Otari. Certains éléments cités ci-dessous permettent d’expliquer l’attitude de certains des PNJ d’Otari, ou encore la présence de certains lieux visités au cours des scénarios de la boîte d’initiation ou de la campagne Le donjon des abominations.
 

@@ -16,7 +16,7 @@ LastModified: 2016-03-03 20:39
 {s:BookPic|http://static2.paizo.com/image/product/catalog/PZO/PZO90103_180.jpeg|http://paizo.com/products/btpy9gds}
 {s:BookPic||}
 {s:BookComment|**Niveau 1**  
-La Vengeance des Enfers commence avec Le Contrat de Feu d'Enfer, une nouvelle aventure dans laquelle les joueurs vont tenir le rôle de personnages mauvais dans l'empire diabolique du Cheliax! Un paladin de Iomédae, chevalier errant de la Glorieuse Reconquête arrive dans la ville de Longacre, incitant les citoyens à se joindre à la révolte contre la Trois-fois-damnée maison Thrune. D'abord comme mercenaires sans morale, puis en tant que serviteurs du cruel Archibaron de Longacre, les aventuriers malveillants doivent agir rapidement pour réprimer le soulèvement et empêcher la ville de tomber aux mains de la rébellion des chevaliers.
+La Vengeance des Enfers commence avec Le Contrat de Feu d'Enfer, une nouvelle aventure dans laquelle les joueurs vont tenir le rôle de personnages mauvais dans l'empire diabolique du Cheliax! Un paladin de Iomédae, chevalier errant de la Glorieuse Reconquête arrive dans la ville de Longacre, incitant les citoyens à se joindre à la révolte contre la Trois-fois-damnée maison Thrune. D'abord comme mercenaires sans morale, puis en tant que serviteurs du cruel Archibaron de Longacre, les aventuriers malveillants doivent agir rapidement pour réprimer le soulèvement et empêcher la ville de tomber aux mains de la rébellion des chevaliers. 
   
   
 **Articles :** De nouvelles créatures, la ville de Longacre, l'ordre chevaleresque de la Glorieuse Reconquête et le début d'un nouveau journal de l’Éclaireur}

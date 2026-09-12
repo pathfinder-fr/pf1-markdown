@@ -33,7 +33,7 @@ Les kuges commencent avec 200 pièces d'or supplémentaires. Ce bonus ne s'appli
 Au niveau 1, le kuge dispose d'une valeur d'honneur, étant naturellement plus honorable que les samouraïs moyens. Pour déterminer la quantité d’honneur qu’un kuge peut posséder, ajoutez 2 au niveau de classe du kuge, puis divisez la somme par 2. Il gagne de l’honneur en remportant un défi au nom de son seigneur (dans le cas d’un rônin kuge, il doit vaincre ce défi au nom d’une communauté) contre un adversaire dont le FP ou niveau est supérieur à son niveau de personnage. Le kuge n'est pas obligé de relever ce défi à lui seul, mais il doit contribuer de manière significative à son succès. Si le kuge échoue à un défi où le FP est de 1 ou inférieur à son niveau de personnage, il perd 1 point d'honneur.
 Un kuge avec un score d'honneur d'au moins 1 peut, une fois par jour, ajouter +10 à un seul jet de d20 (jet d'attaque, test de compétence ou sauvegarde) tant que le succès du jet est directement lié au maintien ou à l'obtention de l'honneur.
 
-Cette capacité remplace « Monture ».
+Cette capacité remplace « Monture ». 
 
 
 - **Défi** (ext) (niveau 1)

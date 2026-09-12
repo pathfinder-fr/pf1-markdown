@@ -8,7 +8,7 @@ Categories:
 
 <p class="description">Cette page constitue l'index des informations concernant l'univers de *Selnir*, univers fantastique inspiré de Golarion où le concept d**'écriture** a disparu et où les races intelligentes vivent en otarcie.</p>
 *Cet univers a été créé par un fan.*
----
+<hr />
 <p class="descBlocMain">Index :</p>
 <div class="blocMain">
 <table class="page espace-col sansmodif" style="text-align: left">

@@ -54,7 +54,7 @@ femmes à la beauté frappante. Aucune d’elles ne porte grand-chose, à l’ex
 des intrus. L’arrivée des PJ les surexcite complètement.
 
 Elles volent en décrivant des cercles au-dessus de leurs têtes, lancent des commentaires lubriques et complimentent
-les PJ sur leur apparence et leurs éventuelles compétences sexuelles.
+les PJ sur leur apparence et leurs éventuelles compétences sexuelles. 
 
 Les démons alus tiennent Delvahine au courant de la situation par télépathie et, jusqu’à ce que les PJ attaquent, tentent d’entrer dans le pavillon ou essayent d’interagir avec une des cages, elles se contentent de se moquer cruellement des envahisseurs et de flirter avec eux. Mais dès que les PJ
 entreprennent une des actions citées ci-dessus, elles attaquent en piqué.

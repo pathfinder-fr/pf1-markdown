@@ -45,7 +45,7 @@ Categories:
 {s:BDTexte|**Dons** [[Pathfinder-RPG.Écriture de parchemins|Écriture de parchemins]], [[Pathfinder-RPG.Magie de guerre|Magie de guerre]], [[Pathfinder-RPG.Vigueur surhumaine|Vigueur surhumaine]]}
 {s:BDTexte|**Compétences** [[Pathfinder-RPG.Art de la magie|Art de la magie]] +8, [[Pathfinder-RPG.Connaissances|Connaissances]] (mystères) +8, [[Pathfinder-RPG.Connaissances|Connaissances]] (plans) +8, [[Pathfinder-RPG.Discrétion|Discrétion]] +3, [[Pathfinder-RPG.Perception|Perception]] +5}
 {s:BDTexte|**Langues** abyssal, commun, nain, hallit}
-{s:BDTexte|**Part** [[Pathfinder-RPG.Nain#TRAITSRACIAUX|armes familières]],
+{s:BDTexte|**Part** [[Pathfinder-RPG.Nain#TRAITSRACIAUX|armes familières]], 
 [[Pathfinder-RPG.Nain#TRAITSRACIAUX|connaissance de la pierre]],
 [[Pathfinder-RPG.Nain#TRAITSRACIAUX|robuste]],
 [[Pathfinder-RPG.magicien#PACTEMAGIQUE|pacte magique]] (dague)}

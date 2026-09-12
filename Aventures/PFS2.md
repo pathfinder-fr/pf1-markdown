@@ -12,7 +12,7 @@ LastModified: 2013-08-14 13:14
 Bloodcove (Mwangi Expanse) - **Cycle** Before the Dawn (1)  
   
 You are sent to Aspis Consortium-infested Bloodcove to gather supplies for a nearly doomed Pathfinder mission nearby. Disguised as ordinary merchants, you have little time to gather what you need and get out before the Consortium discovers and destroys you.
----
+<hr />
 Vous êtes envoyés dans la ville de Baie de Sang, qui est contrôlée par le Consortium Aspis, afin de réunir des provisions et des fournitures pour aider une mission de la Société des Éclaireurs qui se trouve en grande difficulté dans la région voisine. Déguisés en simples marchands, vous avez peu de temps pour réunir ce dont vous avez besoin et quitter le ville avant que le Consortium ne vous découvre et ne vous tue. *(Scénario publié dans le Casus Belli n°5)*}
 {s:BookTitle|SCEN2-02|Rescue at Azlant Ridge / Sauvetage à la Crête d'Azlant}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0202E_180.jpeg|}
@@ -21,7 +21,7 @@ Vous êtes envoyés dans la ville de Baie de Sang, qui est contrôlée par le Co
 Azlant Ridge (Mwangi Expanse) - **Cycle** Before the Dawn (2)  
   
 With supplies in hand, you rush from Bloodcove to the Pathfinder expedition site at Azlant Ridge only to find it under siege. You must brave the newly discovered halls beneath the ridge in order to find the key that might save everyone.
----
+<hr />
 Avec les provisions en main, vous quittez précipitamment Baie de Sang pour rejoindre le site de l'expédition de la Société situé au pied de la Crête d'Azlant, seulement pour vous y retrouver assiégés. Vous allez devoir braver les périls des nouvelles galeries découvertes sous la crête afin de trouver la clé qui pourrait tous vous sauver.
 }
 {s:BookTitle|SCEN2-03|The Rebel's Ransom / La Rançon du Rebelle}
@@ -31,7 +31,7 @@ Avec les provisions en main, vous quittez précipitamment Baie de Sang pour rejo
 Parched Dunes (Osirion)  
   
 The Ruby Prince of Osirion sends you to the Parched Dunes to find what became of a secret Pathfinder expedition sent there to recover artifacts for the Ruby Prince himself. What you find there may very well end the Pathfinder Society as you know it.
----
+<hr />
 Le Prince Rubis d'Osirion vous envoie dans la région des Dunes Arides (Parched Dunes) afin de découvrir ce qu'est devenue une expédition secrète de la Société qui avait été envoyée la bas pour retrouver des artefacts pour le Prince Rubis lui-même. Ce que vous allez découvrir pourrait bien signifier la fin de la Société des Éclaireurs telle que vous la connaissez.}
 {s:BookTitle|SCEN2-04|Shadows Fall on Absalom / Les Ombres Tombent sur Absalom}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0204E_180.jpeg|}
@@ -40,7 +40,7 @@ Le Prince Rubis d'Osirion vous envoie dans la région des Dunes Arides (Parched 
 Absalom  
   
 One of the Pathfinder Society's most beloved venture-captains, Drandle Dreng, is nearly killed in a failed assassination attempt on the grounds of the Grand Lodge itself. Your mission to catch the assassin is complicated when you learn he is the son of an influential Pathfinder. Can you catch the assassin before his blade strikes again while avoiding the outrage of your peers?
----
+<hr />
 Drandle Dreng, l'un des Capitaine-Aventuriers parmi les plus repectés, est presque tué lors d'une tentative d'assassinat qui s'est déroulée dans les locaux même de la Grande Loge. Votre mission qui consiste à attraper l'assassin est rendue plus compliquée quand vous apprenez qu'il est le fils d'un Eclaireur influent. Pourrez vous attraper l'assassin avant que sa lame ne frappe de nouveau tout en évitant de provoquer l'indignation de vos pairs.}
 {s:BookTitle|SCEN2-05|Red Revolution / La Révolution Rouge}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0205E_180.jpeg|}
@@ -49,7 +49,7 @@ Drandle Dreng, l'un des Capitaine-Aventuriers parmi les plus repectés, est pres
   
   
 You and your fellow Pathfinders are hot on the trail of the traitor to the Pathfinder Society as Venture-Captain Eliza Petulengro once again sends you into the Maze of the Open Road to track the traitors' co-conspirators. Stepping through a portal, you find yourself on the cold, red desert planet Akiton, fourth planet from the sun and Golarion's outward neighbor. You arrive in the midst of revolution, however, and are quickly embroiled in the politics of a new world. Can you survive the frigid, violent revolution of the alien Akiton and put an end to the Society's traitor once and for all?
----
+<hr />
 Vous et vos collègues Eclaireurs êtes sur la piste du traître à la Société des Eclaireurs, lorsque que le Capitaine-Aventurier Eliza Petulengro vous envoie une fois de plus dans le Labyrinthe de la Route Ouverte (Maze of the Open road) afin de retrouver les autres co-conspirateurs. En franchissant  un portail, vous vous trouvez sur la planète rouge, froide et désertique d'Akiton, quatrième planète autour du soleil et plus proche voisine extérieure de  Golarion. Vous arrivez au beau milieu d'une révolution, et, à votre corps défendant, vous vous retrouvez rapidement mêlés à la politique d'un monde inconnu. Pouvez-vous survivre à la froide et violente révolution de l'étrange Akiton et mettre un terme définitif aux activités des traitres à la Société ?}
 {s:BookTitle|SCEN2-06|The First Heresy / La Première Hérésie}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0206E_180.jpeg|}
@@ -58,7 +58,7 @@ Vous et vos collègues Eclaireurs êtes sur la piste du traître à la Société
 Rahadoum - **Cycle** The Heresy of Man (1)  
   
 For more than 2 millenia, the nation of Rahadoum has lived under the Laws of Man that decreed, "let no man be beholden to a god." While this has led to relative peace without religious strife, it has left the nation devoid of divine healing and magical methods to provide succor to those ravaged by disease or injury. When a new and mysterious plague begins ravaging the coastal villages of Rahadoum, you are sent by the Pathfinder Society to escort a cleric of Sarenrae into the heart of the plague in order to protect a secret Pathfinder research project. Getting there means smuggling the cleric in as contraband and when the Pure Legion, Rahadoum's defense against religion, get wind of your arrival, you must fight not only to protect the cleric, but to keep yourselves from being executed for violating the First Heresy.
----
+<hr />
 Durant plus de deux millénaires, la nation de Rahadoum a vécu sous la Loi de l'Humanité qui décrétait que, "Nul homme ne doit servir un dieu". Bien que ce principe ait conduit à une relative paix sans troubles religieux, il a laissé la nation dénuée de soins divins et de moyens magiques pour alléger les peines de ceux qui souffrent de maladies ou de blessures. Quand une nouvelle et mystérieuse épidémie commence à ravager les villages cotiers du Rahadoum, vous êtes envoyés par la Société des Eclaireurs pour escorter un prêtre de Sarenrae au cœur de l'épidémie afin de protéger les membres d'un projet de recherche secret de la Société. Pour vous rendre la bas vous devez faire passer le prêtre en contrebande, et quand la Légion de la Pureté, les défenseurs de Rahadoum contre la religion, a connaissance de votre arrivée, vous devez combattre non seulement pour protéger le prêtre, mais également pour vous éviter d'être exécutés pour avoir transgressé la règle de la Première Hérésie.}
 {s:BookTitle|SCEN2-07|Where the Dark Things Sleep / La ou dorment de Sombres Choses}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0207E_180.jpeg|}
@@ -67,7 +67,7 @@ Durant plus de deux millénaires, la nation de Rahadoum a vécu sous la Loi de l
 Rahadoum - **Cycle** The Heresy of Man (2)  
   
 When a Pathfinder team in the godless nation of Rahadoum disappears, the Pathfinder Society sends the PCs to investigate. Deep beneath the sands of the small village of Wadi al-Hesr, a long imprisoned evil—responsible in part for the destruction of an ancient empire—now stirs and threatens the entire region with a deadly plague. Can the Pathfinders survive a sinister game of cat-and-mouse and escape with their lives?
----
+<hr />
 Quand une équipe d'Éclaireurs disparait dans la nation athée de Rahadoum, la Société des Éclaireurs vous envoie pour enquêter. Profondément enterrée sous les sables du petit village de Wadi al-Hesr, une force maléfique depuis longtemps emprisonnée - partiellement responsable de la destruction d'un ancien empire - est en train de se réveiller et menace la région entière avec une épidémie mortelle. Est-ce que les Éclaireurs pourront survivre à un sinistre jeu du chat et de la souris et sauver leurs vies ?}
 {s:BookTitle|SCEN2-08|The Sarkorian Prophecy / La Prophétie Sarkoriane}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0208E_180.jpeg|}
@@ -76,7 +76,7 @@ Quand une équipe d'Éclaireurs disparait dans la nation athée de Rahadoum, la 
 Worldwound  
   
 When a novice Pathfinder in the Grand Lodge of Absalom discovers an account of a long lost prophecy which may hold the key to defeating the Shadow Lodge, a team of brave agents heads into the heart of the Worldwound to recover the document. Not only do the forces of the Abyss and the demon-tainted environment stand in their way, but so does a rival team of Pathfinders set on recovering the Sarkorian Prophecy first.
----
+<hr />
 Quand un novice Éclaireur de la Grande Loge d'Absalom découvre un compte-rendu faisant référence une très ancienne prophétie qui pourrait donner la clé permettant de défaire la Loge des Ombres, une équipe de braves agents est envoyée au cœur de la Plaie du Monde (Worlwound) afin de retrouver le document. Sur votre chemin vous rencontrerez non seulement les forces des Abysses et un environnement démoniaque, mais également une équipe rivale d'Éclaireurs bien décidée à être la première à retrouver la Prophétie Sarkorienne.}
 {s:BookTitle|SCEN2-09|Beneath Forgotten Sands / Sous les Sables Oubliés}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0209E_180.jpeg|}
@@ -85,7 +85,7 @@ Quand un novice Éclaireur de la Grande Loge d'Absalom découvre un compte-rendu
 Rahadoum - **Cycle** The Heresy of Man (3)  
   
 Beneath the desolate deserts of godless Rahadoum, the Pathfinder Society races against time to beat the traitorous Shadow Lodge to an ancient Jistkan citadel. But their rivals aren't the only obstacle in the PCs' way: the long-lost ruins teem with terrible outsiders set on manipulation and destruction, including a self-proclaimed avatar of the div god Ahriman. Beneath Forgotten Sands brings the three-part Heresy of Man series to a stunning conclusion.
----
+<hr />
 A travers les déserts désolés de la nation athée de Rahadoum, la Société des Éclaireurs mène une course contre la montre afin d'atteindre l'ancienne citadelle de Jistkan avant la perfide Loge de l'Ombre. Mais leurs rivaux ne sont pas les seuls obstacles à se dresser en travers du chemin des personnages: Les ruines, depuis longtemps oubliées, sont infestées de terribles créatures des plans extérieurs qui maitrisent les arts de la manipulation et de la destruction, ainsi qu'un avatar auto proclamé du dieu Ahriman. Sous les Sables Oubliés emmène la trilogie "Heresy of Man" vers une conclusion étourdissante.}
 {s:BookTitle|SCEN2-10|Fury of the Fiend / La Fureur du Démon}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0210E_180.jpeg|}
@@ -94,7 +94,7 @@ A travers les déserts désolés de la nation athée de Rahadoum, la Société d
 Ruins of Rachikan (Cheliax)  
   
 The Pathfinder Society once again sends a team of agents into the deadly ruins of Rachikan in western Cheliax. This time, however, the Pathfinders must infiltrate a Hellknight encampment to gain access to the lost city's lower levels. Can they work their way past the suspicious soldiers and survive the ancient terrors that lurk below? Fury of the Fiend is the spiritual sequel of Fingerprints of the Fiend, though the scenarios can be played in any order.
----
+<hr />
 La Société des Éclaireurs envoie de nouveau une équipe d'agents dans les mortelles ruines de Rachikan à l'ouest de Cheliax. Cette fois, cependant, les Éclaireurs doivent infiltrer un campement de Hellknight afin d'accéder aux niveaux inférieurs de la cité perdue. Pourront-ils se frayer un passage à travers les soldats suspicieux et survivre aux terreurs anciennes qui se cachent en dessous? La Fureur du Démon est la suite spirituelle de l'aventure l'Empreinte du Démon, bien que les scénarios puissent être joués dans n'importe quel ordre.}
 {s:BookTitle|SCEN2-11|The Penumbral Accords / Les Accords de la Pénombre}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0211E_180.jpeg|}
@@ -103,7 +103,7 @@ La Société des Éclaireurs envoie de nouveau une équipe d'agents dans les mor
 Blackros Museum (Absalom) — **Cycle** Blackros Museum (4)  
   
 The daughters of Absalom's mysterious Blakros family have long been among the most pursued maidens in the Inner Sea. Now the family's matriarch approaches the Pathfinder Society to help her break a centuries-old pact with the denizens of the Plane of Shadow to save her twin daughters from a life of servitude at the hands of the Onyx Alliance. Heading into the fan-favorite adventuring location of Blakros Museum, the PCs have only a short amount of time to break the Penumbral Accords and solidify the Pathfinder Society's ties to the powerful Blakroses.
----
+<hr />
 Les filles de la mysterieuse famille Blackros d'Absalom sont depuis longtemps parmi les jeunes femmes les plus courtisées de la Mer Intérieure. Maintenant, la matriarche de la famille contacte la Société des Éclaireurs afin de l'aider à rompre un pacte séculaire signé avec les créatures du Plan des Ombres dans le but de sauver ses deux filles jumelles d'une vie de servitude aux mains de l'Alliance d'Onyx. Les aventuriers doivent immédiatement se rendre dans le fameux musée de Blackros, car ils disposent de peu de temps pour rompre les Accords de la Pénombre et renforcer ainsi le lien entre la Société des Éclaireurs et la puissante maison Blackros.}
 {s:BookTitle|SCEN2-12|Below the Silver Tarn / Sous le Lac d'Argent}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0212E_180.jpeg|}
@@ -112,7 +112,7 @@ Les filles de la mysterieuse famille Blackros d'Absalom sont depuis longtemps pa
 Menador Mountains (Southern Nidal)  
   
 In the rural Menador Mountains of southern Nidal, the PCs find themselves in a fog-enshrouded mining town facing a terrible fate. Silver Tarn, on the banks of which the settlement of Stom's Claim stands, has grown a mind of its own. Reaching out with strange abominations of the deep to siphon the souls of the stubborn populace, the lake hopes to release a powerful fiend bound centuries earlier by Arodenite clerics. If the PCs can't stop the Silver Tarn Entity, Stom's Claim and much of western Avistan may soon fall to a fate beyond comprehension.
----
+<hr />
 Dans la région rurale des Montagnes du Menador, au sud de Nidal, les personnages se trouvent confrontés à une terrible menace dans une ville minière recouverte par le brouillard. Le Lac d'Argent, sur la berge duquel se situe la communauté de Stom's Claim, semble avoir développé une conscience propre. De ses profondeurs, il a réveillé d'étranges abominations qui aspirent les âmes d'une population bornée afin de libérer un puissant démon emprisonné des siècles auparavant par les prêtres d'Aroden. Si les aventuriers ne réussissent pas à stopper l'entité du lac d'argent, Stom's Claim et une partie de l'ouest de l'Avistan pourraient subir un destin bien au-delà de l'imaginable.}
 {s:BookTitle|SCEN2-13|Murder on the Throaty Mermaid / Meutre sur la Sirène Voluptueuse}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0213E_180.jpeg|}
@@ -121,7 +121,7 @@ Dans la région rurale des Montagnes du Menador, au sud de Nidal, les personnage
 Mordant Spire (Steaming Sea)  
   
 While on a routine mission to escort a dignitary to the mysterious Mordant Spire aboard a disreputable smuggler's ship, the PCs find themselves embroiled in a murder mystery that could jeopardize the Pathfinder Society's relationship with the isolationist elves who call the citadel home. Can the cunning Pathfinders discover who among the ship's crew of scum and villains is responsible for the crime in time to clear their own names? This murder mystery upon the open sea features a mechanic allowing for a different killer each time it's run to ensure that no amount of word of mouth will spoil the investigation for any team of canny players.
----
+<hr />
 Alors que vous effectuez une mission de routine, à bord d'un navire de contrebandier de réputation douteuse, consistant à escorter un dignitaire vers la mystérieuse "Mordant Spire" , vous vous retrouvez impliqués dans un meurtre qui pourrait compromettre les relations entre la Société des Éclaireurs avec les elfes isolationnistes qui habitent la citadelle. Est-ce que des Éclaireurs astucieux pourront rapidement découvrir qui, parmi les membres de cet équipage de canailles et de fripouilles, est responsable du crime afin de pouvoir démontrer leur innocence ? Cette enquête maritime s'appuie sur une mécanique qui permet de changer de meurtrier à chaque aventure afin que nulle rumeur ne puisse compromettre les recherches et la réflexion des joueurs.}
 {s:BookTitle|SCEN2-14|The Chasm of Screams / Le Gouffre des Hurlements}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0214E_180.jpeg|}
@@ -130,7 +130,7 @@ Alors que vous effectuez une mission de routine, à bord d'un navire de contreba
 Mindspin Mountains ()  
   
 When the Decemvirate sends the PCs on a mission into the desolate Mindspin Mountains to retrieve a much-needed alchemical reagent from a hermitic ex-Pathfinder known as the Phitoness of Axioms, the players soon find themselves deep in the mythical howling caves commonly referred to as the Chasm of Screams. Can the brave adventurers survive the harsh environment and defeat the demented thralls of the powerful, icy master of the oft-avoided cavern? Or will their cries of pain join the chorus of tormented voices that already echoes from the Chasm of Screams?
----
+<hr />
 Quand le Decemvirate envoie les aventuriers en mission dans les inhospitaliers Monts de Mindspin ("Mindspin Mountains") afin de retrouver un composant alchimique rarissime auprès d'un ermite qui est une ex Éclaireur, connue sous le nom de Phiton des Axiomes, les joueurs se retrouvent rapidement à visiter les profondeurs des mythiques cavernes hurlantes usuellement connues sous le nom de Gouffre des Hurlements. Est-ce que les aventuriers résisteront à cet environnement extrême et sauront battre les minions déments du puissant et glacial seigneur de ces cavernes évitées par tous ? Ou bien est-ce que leurs cris de douleurs viendront rejoindre le cœur des voix tourmentées dont l'écho résonne déjà dans le Gouffre des Hurlements ?}
 {s:BookTitle|SCEN2-15|Written in Blood / Ecrit dans le Sang}
 {s:BookPic|http://paizo.com/image/product/catalog/PZOP/PZOPSS0215E_180.jpeg|}

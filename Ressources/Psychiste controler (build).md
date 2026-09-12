@@ -112,13 +112,13 @@ Mention honorable pour **Mindshield** qui pourra buffer le jet de sauvegarde de 
 **3.3.2 Dons**
 
 Pour les dons je trouve que le Psychic donne pas mal de liberté dans la sélection.
-Ceci dit on peut prendre deux routes :
+Ceci dit on peut prendre deux routes : 
 - la route de l'acquisition d'un familier, qui peut coûter cher si on ne choisit pas une discipline basée sur le charisme
 - le reste du monde ou on va se diriger vers les options sures de la métamagie (on passe pas à côté en lanceur de sort à 9 niveaux !)
 
 La route classique
 1 : Science de l'initiative
-3 : Vigueur Surhumaine
+3 : Vigueur Surhumaine 
 5 libre
 7 : Sort persistant
 9 : Sort transperçant

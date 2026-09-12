@@ -118,7 +118,7 @@ Vous trouverez ici la conversion des monstres et PNJ du volume 4 "La Forteresse 
 - **Langues** géant
 - **Équipement de combat** *chemise de peau +1*, crochet ogre, 2 javelines
 </div>
-</table>
+</table> 
 
 
 #### Chapitre 3
@@ -299,7 +299,7 @@ La toile gluante crée par l'araignée a 10 points de vie. Il est difficile de l
 (((Tactiques)))
 - **Pendant le combat** Les mastodontes se battent individuellement. Ils barrissent et se dirigent vers la sortie de l'écurie, chargeant au passage les personnages qu'ils peuvent attraper avec leurs défenses ou, si le combat se déroule dans la cour, ils les poussent vers la fosse (zone **A9**). Si les PJ parviennent à tuer un mastodonte, les autres piétinent alors les PJ en groupe.
 - **Moral** Les mastodontes se battent jusqu'à la mort.
-(((Caractéristiques)))
+(((Caractéristiques))) 
 - **For** 34, **Dex** 12, **Con** 21, **Int** 2, **Sag** 13, **Cha** 7
 - **BBA** +10, **BMO** +24,, **DMD** 35 (39 contre le croc-en-jambe)
 - **Dons** Arme de prédilection (corne), Attaque en puissance (-3/+6), Endurance, Science de la bousculade, Science de la volonté de fer, Talent (Perception), Volonté de fer
@@ -323,7 +323,7 @@ La toile gluante crée par l'araignée a 10 points de vie. Il est difficile de l
 (((Tactiques)))
 - **Pendant le combat**
 - **Moral**
-(((Caractéristiques)))
+(((Caractéristiques))) 
 - **For** 40, **Dex** 11, **Con** 23, **Int** 2, **Sag** 12, **Cha** 10
 - **BBA** +10, **BMO** +27, **DMD** 37
 - **Dons** Arme de prédilection (griffes), Arme naturelle supérieure (griffes), Attaque en puissance (-3/+6), Course, Enchaînement, Endurance, Talent (Perception), Vigilance, Volonté de fer

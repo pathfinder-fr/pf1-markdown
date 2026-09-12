@@ -162,13 +162,13 @@ Au niveau 3, puis tous les deux niveaux, vous gagnez une amélioration de compé
 
 À partir du niveau 7, vous pouvez utiliser l’amélioration de compétence pour devenir maître dans une compétence dans laquelle vous êtes déjà expert et à partir du niveau 15, vous pouvez l’utiliser pour devenir légendaire dans une compétence dans laquelle vous êtes déjà maître.
 #### Dons généraux (niveau 3)
-Au niveau 3, puis tous les quatre niveaux, vous gagnez un don général.
+Au niveau 3, puis tous les quatre niveaux, vous gagnez un don général. 
 #### Reconfiguration (niveau 3)
 Vous êtes devenu un expert dans tous les artisanats et vous ajustez vos inventions jusqu’à obtenir des configurations parfaites. Vous pouvez tenter de changer les modifications de votre innovation en consacrant 1 jour d'intermède à bricoler sur celle-ci et en effectuant un test d’Artisanat avec un DD élevé pour votre niveau. En cas de réussite, vous pouvez remplacer une des modifications que vous avez choisies pour votre innovation par une autre modification de même type (initiale, capitale ou révolutionnaire).
 
 Si vous possédez des dons de modification, en cas de réussite au test, au lieu de remplacer une des modifications de votre innovation, vous pouvez choisir de ré-entraîner un de ces dons de modification en un autre don de modification. Le nouveau don doit remplir les conditions standard du réapprentissage.
 #### Dons ancestraux (niveau 5)
-Vous gagnez un don ancestral au niveau 5 puis tous les quatre niveaux, en plus de celui avec lequel vous avez commencé.
+Vous gagnez un don ancestral au niveau 5 puis tous les quatre niveaux, en plus de celui avec lequel vous avez commencé. 
 #### Innovateur d’armes (niveau 5)
 Vous développez des techniques pour utiliser vos armes de manière plus efficace. Votre rang de maîtrise pour les armes simples et de guerre, ainsi que pour les attaques à mains nues, devient expert.
 
@@ -299,7 +299,7 @@ Si votre compagnon est détruit, vous pouvez utiliser 1 jour d'intermède et eff
 #### Monter un compagnon artificiel
 Vous ou un allié pouvez monter votre compagnon artificiel pour autant qu’il ait au moins une catégorie de taille de plus que l’individu qui le monte.
 #### Prototype de compagnon artificiel
-Voici les statistiques de base d’un prototype de compagnon artificiel, le premier que la plupart des personnages pourront posséder. Un compagnon a le même niveau que vous. Au fur et à mesure que vous vous élèverez en niveaux, vous pourrez effectuer d’autres ajustements en même temps que votre compagnon deviendra plus puissant. On calcule les modificateurs et les DD des compagnons artificiels tout comme les vôtres, à cette différence près : les seuls bonus d’objets dont ils peuvent bénéficier concernent la Vitesse.
+Voici les statistiques de base d’un prototype de compagnon artificiel, le premier que la plupart des personnages pourront posséder. Un compagnon a le même niveau que vous. Au fur et à mesure que vous vous élèverez en niveaux, vous pourrez effectuer d’autres ajustements en même temps que votre compagnon deviendra plus puissant. On calcule les modificateurs et les DD des compagnons artificiels tout comme les vôtres, à cette différence près : les seuls bonus d’objets dont ils peuvent bénéficier concernent la Vitesse. 
 ##### Trait créature artificielle
 Un compagnon artificiel possède le trait créature artificielle. Il ne s’agit pas d’une créature vivante, ni d’une créature morte-vivante.
 ##### Maîtrises
@@ -321,7 +321,7 @@ Votre compagnon artificiel possède une Vitesse de 7,5 m.
 
 #### Compagnons créatures artificielles avancés
 Pour faire passer un compagnon artificiel de prototype à avancé (généralement en raison d’un choix de don venant de votre
-classe), effectuez les ajustements suivants.
+classe), effectuez les ajustements suivants. 
 - Augmentez ses modificateurs de Force, de Dextérité, de Constitution et de Sagesse de 1.
 
 - Ses dégâts d’attaque à mains nues passent de un à deux dés (par exemple de 1d8 à 2d8).

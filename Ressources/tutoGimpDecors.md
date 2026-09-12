@@ -134,9 +134,9 @@ Pour cela, il faut cliquer sur la petite ancre qui est visible en bas de votre l
 En faisant cela, vous intégrez votre calque temporaire à votre Battlemap. A partir de ce moment, vous ne pourrez plus le modifier facilement car il faudra agir sur l'ensemble du calque.
 
 
-Voila, il ne vous reste plus qu'à répéter les mêmes opérations pour ajouter d'autres portes dans votre donjon... Et de procéder exactement de la même manière pour ajouter des éléments de décors (sur un autre calque), des escaliers, des monstres...
+Voila, il ne vous reste plus qu'à répéter les mêmes opérations pour ajouter d'autres portes dans votre donjon... Et de procéder exactement de la même manière pour ajouter des éléments de décors (sur un autre calque), des escaliers, des monstres... 
 
-Pour chaque calque, n'hésitez pas à ajuster sa position dans la fenêtre de calques. Par exemple en glissant certains éléments de décors au dessus du quadrillage ou d'autres sous les calques de murs, pour donner un effet de relief intéressant.
+Pour chaque calque, n'hésitez pas à ajuster sa position dans la fenêtre de calques. Par exemple en glissant certains éléments de décors au dessus du quadrillage ou d'autres sous les calques de murs, pour donner un effet de relief intéressant. 
 
 ### Finition
 

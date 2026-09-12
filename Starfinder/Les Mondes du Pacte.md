@@ -399,7 +399,7 @@ audacieux agents des sociétés ou les gardiens de la loi, la plupart des indivi
 ont des métiers tout à fait conventionnels, qu’il s’agisse de nourrir la
 population en travaillant dans des fermes hydroponiques, de transporter
 des marchandises entre les mondes, de gérer des restaurants ou des commerces
-ou d’exercer un de ces milliers d’autres métiers du quotidien.
+ou d’exercer un de ces milliers d’autres métiers du quotidien. 
 
 Socialement, la plupart des habitants des Mondes du Pacte ont tendance
 à être plutôt tolérants, car il est assez difficile d’imposer certaines
@@ -429,7 +429,7 @@ le monde, finit par mourir et que vénérer une divinité peut aider à
 déterminer le destin de votre âme éternelle dans les plans Extérieurs,
 les choix religieux ont une importance à la fois pratique et sociale. Les
 Mondes du Pacte abritent une foule de divinités différentes, dont les
-congrégations vivent globalement en harmonie.
+congrégations vivent globalement en harmonie. 
 
 Les arts et les divertissements changent constamment dans les
 Mondes du Pacte avec des modes apparaissant aussi rapidement

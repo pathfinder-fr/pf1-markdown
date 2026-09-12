@@ -15,7 +15,7 @@ Lien de la VO : [Player Basics](https://www.organizedplayfoundation.org/Lorespir
 
 Le processus de création d'un personnage suit les lignes directrices du *Livre de Base Pathfinder*, avec quelques règles et bonus supplémentaires spécifiques à la campagne. Les personnages commencent au niveau 1, à moins qu'ils n'aient des [[|*Boons*]] modifiant leur niveau de départ. La page [[PFS Création de personnage|Création de personnage]] contient des instructions détaillées pour vous aider à créer votre propre personnage Pathfinder Society et explique les étapes supplémentaires liées à la campagne. Lisez attentivement ces règles, car elles garantissent que les personnages soient adaptés à la campagne organisée.
 
-N'oubliez pas d'enregistrer votre personnage sur [<u>paizo.com</u>](https://paizo.com/) !
+N'oubliez pas d'enregistrer votre personnage sur [<u>paizo.com</u>](https://paizo.com/) ! 
 
 **Options de personnage** : Toutes les ascendances, historiques et classes du *Livre de Base Pathfinder* sont autorisées lors de la création d'un personnage. Il est possible que vous ayez besoin de dépenser des [[|*Achievement Points*]] pour débloquer certaines ascendances ou options d'autres livres avant de les utiliser dans la campagne organisée. Vous pouvez obtenir plus de renseignements sur les ressources autorisées à cet endroit [*Character Options Document*](https://paizo.com/pathfindersociety/characteroptions).
 
@@ -68,7 +68,7 @@ Dans la Société des Éclaireurs, vous ne pouvez jamais transférer de façon p
 
 #### Formules
 
-La Société des Éclaireurs peut vendre à ses agents toute formule d'objet auquel ils ont accès, excepté les objets en quantité limitée. Ceux-ci, tout comme les objets Uniques, sont tellement ésotériques que la Société n'en connaît pas la formule et qu'il n'est pas possible d'utiliser la rétro-ingénierie pour la trouver, même avec un niveau de compétence Légendaire.
+La Société des Éclaireurs peut vendre à ses agents toute formule d'objet auquel ils ont accès, excepté les objets en quantité limitée. Ceux-ci, tout comme les objets Uniques, sont tellement ésotériques que la Société n'en connaît pas la formule et qu'il n'est pas possible d'utiliser la rétro-ingénierie pour la trouver, même avec un niveau de compétence Légendaire. 
 
 #### Revendre son équipement
 
@@ -154,9 +154,9 @@ Si vous rejouez une aventure ou si vous jouez une aventure que vous avez déjà 
 
 ### Pendant l'aventure
 
-Typiquement, chaque aventure commence par un briefing, soit sous la forme d'une lettre, soit d'une convocation par un capitaine d'aventures, ou par une offre d'embauche d'un employeur.
+Typiquement, chaque aventure commence par un briefing, soit sous la forme d'une lettre, soit d'une convocation par un capitaine d'aventures, ou par une offre d'embauche d'un employeur. 
 
-**Points d'héroïsme** : Juste après le briefing, le MJ va distribuer les Points d'Héroïsme de départ. Les règles concernant les Points d'Héroïsme sont décrite [page 467 du Livre de Base](https://2e.aonprd.com/Rules.aspx?ID=427). Certaines récompenses, comme les [[|Glyphes de MJ]], les [[|Pièces de Campagne]] et l'[[|Ordre du Guide]] peuvent conférer des Points d'Héroïsme supplémentaires aux joueurs.
+**Points d'héroïsme** : Juste après le briefing, le MJ va distribuer les Points d'Héroïsme de départ. Les règles concernant les Points d'Héroïsme sont décrite [page 467 du Livre de Base](https://2e.aonprd.com/Rules.aspx?ID=427). Certaines récompenses, comme les [[|Glyphes de MJ]], les [[|Pièces de Campagne]] et l'[[|Ordre du Guide]] peuvent conférer des Points d'Héroïsme supplémentaires aux joueurs. 
 
 **Consommables de départ** : Dans un scénario Pathfinder Society, les personnages reçoivent aussi des cadeaux de leurs amis et de leur réseau avant de partir en mission. Les Éclaireurs reçoivent les [potions de guérison](https://2e.aonprd.com/Equipment.aspx?ID=186) ci-dessous au début de l'aventure, en fonction de leur niveau (LDB page 565). Les personnages dont la guérison repose sur l'énergie négative peuvent remplacer toute potion du tableau par son équivalent en énergie négative.
 NB : les personnages utilisant l'Option de Personnage Supplémentaire des [[|écoles]] ont accès à des Consommables de Départ différents et doivent les choisir au même moment.
@@ -259,7 +259,7 @@ Ci-dessous un exemple de l'or obtenu en Gagnant un Revenu pendant les 8 jours de
 
 ### Monter en niveau
 
-Les personnages gagnent des Points d'Expérience (XP) à chaque aventure. Au bout de 12 XP ils montent d'un niveau.
+Les personnages gagnent des Points d'Expérience (XP) à chaque aventure. Au bout de 12 XP ils montent d'un niveau. 
 
 Ce rythme de progression correspond à la vitesse de progression lente décrite dans le Livre de Base, [page 509](https://2e.aonprd.com/Rules.aspx?ID=574). La montée de niveau se produit après que toutes les récompenses de l'aventure aient été calculées, dont le temps d'intermède. Toutefois, les personnages peuvent acheter de l'équipement après leur montée en niveau. Les personnages ayant suffisamment d'XP doivent monter en niveau avant le début de leur prochaine partie. Leur total d'XP **n'est pas réinitialisé** à chaque niveau.
 

@@ -26,7 +26,7 @@ The Silverhex Chronicles includes six, 1-hour adventures that take the PCs to a 
 NC (nc) - **Cycle** xx  
   
 More than a millennium has passed since the "machine mage" Karamoss's failed siege of Absalom, and for years the Pathfinder Society has used upper reaches of his subterranean siege tower as a training ground for initiates. During a routine drill, the once-dormant dungeon springs to life, and it will take all the PCs' resourcefulness and skill to make it out alive.
----
+<hr />
 La Société des éclaireurs envoie régulièrement ses recrues sur l’île de Kortos, à proximité d’Absalom, mettre en application ce qui leur a été enseigné avant de partir bel et bien à l’aventure.
 Mais quelque chose à précéder les héros dans la Redoute rouge de Karamoss…}
 {s:BookTitle|SCEN6-02|The Silver Mount Collection/La collection du Mont d'Argent}
@@ -36,7 +36,7 @@ Mais quelque chose à précéder les héros dans la Redoute rouge de Karamoss…
 NC (nc) - **Cycle** xx  
   
 The esteemed Blakros family—famous for their museum in Absalom—receives a large shipment of artifacts from Numeria but fears that the ever-vigilant Technic League will attack to reclaim its "stolen" property. When they request the help of Pathfinders to help guard the collection, the PCs discover that the Technic League is the least of their worries.
----
+<hr />
 Alors que les héros se rendent à un rendez-vous avec leur capitaine-aventurier en Absalon, le musée de Blakros appelle la Société des Eclaireurs à l’aide. En effet, le musée a été attaqué pour d’obscurs raisons.}
 {s:BookTitle|SCEN6-03|The Technic Siege/La technique de siège}
 {s:BookPic|http://static3.paizo.com/image/product/catalog/PZOP/PZOPSS0603E_500.jpeg|http://paizo.com/products/btpy97n7?Pathfinder-Society-Scenario-6-03-The-Technic-Siege}
@@ -45,7 +45,7 @@ Alors que les héros se rendent à un rendez-vous avec leur capitaine-aventurier
 NC (nc) - **Cycle** xx  
   
 When the Pathfinder Society acquires a copy of A Thread of Silver, a written survey of some of Numeria's most closely guarded sites, the Technic League dispatches its own agents to the Pathfinder lodge in Nantambu to recover the text and make an example of those who would investigate Numeria's otherworldly secrets. Can the PCs prevent the League from stealing this valuable tome and destroying the Society's foothold in the Mwangi Expanse?
----
+<hr />
 Débarquant à Nantambu au coeur de l’étendue du Mwangi, les héros découvrent qu’un éclaireur a récemment acquis un ouvrage rare mais que leur arrivée tardive compromet la sécurité du précieux paquet devant être escorté à Absalom. En effet, de mystérieux individus sont déjà à la recherche du Fil d’argent…}
 {s:BookTitle|SCEN6-04|Beacon Below}
 {s:BookPic|http://static3.paizo.com/image/product/catalog/PZOP/PZOPSS0604E.jpg|http://paizo.com/products/btpy9984?Pathfinder-Society-Scenario-6-04-Beacon-Below}

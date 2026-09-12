@@ -9,10 +9,10 @@ Categories:
 *Il s'agit de jeunes soldats n'ayant jamais connu la guerre.*
 
 
-<div class="BD">{s:BDTitre|conscrit,humain|FP 1/3} </div>  {s:BDTexte|*Source : *} **XP**:135
+<div class="BD">{s:BDTitre|conscrit,humain|FP 1/3} </div>  {s:BDTexte|*Source : *} **XP**:135 
 {s:BDTexte|humanoïde taille M}
 {s:BDTexte|LN homme d'arme N1}
-{s:BDTexte|**Init** +1 ; **Sens **perception+3}
+{s:BDTexte|**Init** +1 ; **Sens **perception+3} 
 
 
 

@@ -26,7 +26,7 @@ LastModified: 2025-08-20 22:28
 {s:ItemPF2|L'Escorte|Figurines à imprimer, par AlphaRastor|/Wiki/public/Upload/PF2/CreaFans/ADJ/Figurines_2D_lescorte.png|/Wiki/public/Upload/PF2/CreaFans/ADJ/Figurines_2D_lescorte_mini.png}
 
 
-{s:ItemPF2NoImg|Les héros de Pointesable|Campagne du niveau 1 à 20 par MJAjani (sur le forum Pathfinder-FR)|<nowiki>https://www.pathfinder-fr.org/Forum/posts/t17668~~Scenario~~Campagne---Les-Heros-de-Pointesable</nowiki>}
+{s:ItemPF2NoImg|Les héros de Pointesable|Campagne du niveau 1 à 20 par MJAjani (sur le forum Pathfinder-FR)|<nowiki>https://www.pathfinder-fr.org/Forum/posts/t17668~~Scenario~~Campagne---Les-Heros-de-Pointesable</nowiki>} 
 
 {s:ItemPF2NoImg|La vengeance de l'honneur|Par Stotorm, un scénario one-shot pour des aventuriers de niveau 1 à 3|https://scribe.pf2.tools/v/Xq45BmOx-la-vengeance-de-l-honneur}
 

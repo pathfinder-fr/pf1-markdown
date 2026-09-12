@@ -30,5 +30,5 @@ Nhalmika a vécu une vie bien remplie, mais elle ne pense pas que ses meilleurs 
 
 
 
----
+<hr />
 Cette page est la traduction d'un article publié sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6shto](https://paizo.com/community/blog/v5748dyo6shto) et écrit par Ron Lundeen.

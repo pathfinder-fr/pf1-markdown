@@ -17,6 +17,6 @@ LastModified: 2014-07-06 13:48
 <LI>Définition de la règle maison ne tenant pas compte de l’encombrement.
 <LI>Définition de l’ajout des données supplémentaires aux sorts. Par défaut, certaines valeurs sont calculées et indiquées entre parenthèses pour les sorts de votre personnage. Par exemple, il sera indiqué pour projectile magique le nombre de projectiles pouvant être lancés, pour image miroir le nombre d’image pouvant être créées, pour soins modérés le nombre de points de dégâts potentiellement soignés, etc. Ces valeurs ne seront pas calculer si vous mettez cette option sur « OFF ».
 <LI>Définition de l’utilisation des règles de déshonneur et d’infamie (AP #10 – Skulls & Shackles).
-<LI>Définition de l’enregistrement de l’état du personnage à chaque niveau. Si vous activez cette option alors une version de l’état de votre personnage à chaque passage de niveau sera enregistrée (voir [[MH-GestPerso|Gestion du Personnage]], 27)).
+<LI>Définition de l’enregistrement de l’état du personnage à chaque niveau. Si vous activez cette option alors une version de l’état de votre personnage à chaque passage de niveau sera enregistrée (voir [[MH-GestPerso|Gestion du Personnage]], 27)). 
 </OL>
 <center></center></td></tr></table>

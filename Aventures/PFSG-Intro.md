@@ -45,7 +45,7 @@ En complément de ces ressources imprimées, les joueurs et les maitres de jeu d
 
 ### Ressources additionnelles
 
-Paizo publie une large gamme d'ouvrages qui approfondissent encore plus les règles de Pathfinder et le monde de Golarion.
+Paizo publie une large gamme d'ouvrages qui approfondissent encore plus les règles de Pathfinder et le monde de Golarion. 
 
 {s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20C.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}es ouvrages contiennent une grande variété d’options destinées à affiner votre personnage. Vous pouvez consulter en ligne la liste, mise à jour régulièrement, de tous les suppléments autorisés dans la Campagne sur [http://paizo.com/pathfinderSociety/rpg/additional](http://paizo.com/pathfinderSociety/rpg/additional). Afin de pouvoir utiliser le contenu d'une ressource additionnelle, un joueur doit disposer soit d’un exemplaire physique de la ressource additionnelle, soit d’un PDF Paizo identifié au nom du joueur (ou une impression de la page concernée) de la ressource en question, ainsi qu’une copie de la dernière version de la liste des ressources additionnelles. Vous devez informer le MJ avant le début de la partie que vous utilisez des options (objets, classes, dons, traits...) tirées des ressources additionnelles afin qu’il ait une chance de pouvoir se familiariser avec ces nouveaux éléments.
 

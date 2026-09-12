@@ -77,14 +77,14 @@ Jeslyn est d'avantage qu'une simple fanatique. Grâce à ses pouvoir d'oracle, D
 Il lui est également impossible de de s'en servir pour manipuler des objets avec précision. Elle peut cependant manipuler des armes à deux mains, et c'est ce qu'elle fait avec sa faux.
 
 ### Tactique
-**Avant le combat**
-Le stress de la situation a prélevé son dû sur Jeslyn qui est [[Pathfinder-RPG.Fiévreux|fiévreuse]] durant toute la durée de cette rencontre.
-Jeslyn se lance [[Pathfinder-RPG.Force de taureau|force de taureau]], [[Pathfinder-RPG.Endurance de lours|endurance de l'ours]], [[Pathfinder-RPG.simulacre de vie|Simulacre de vie]], et [[Pathfinder-RPG.Bouclier de la foi|Bouclier de la foi]] lorsqu'elle sent que les PJ approchent.
-**Pendant le combat**
-Jeslyn lance faveur divine lors du premier round, puis attaque avec sa faux.
-Si elle éprouve des difficultés à toucher ses adversaires, elle délaisse sa faux, et lance à la place des sorts de blessures.
-Elle lance malédiction pour baisser le score de Sagesse des prêtres, mais ne perd par son temps à lancer des sorts avec jet de sauvegarde contre les paladins.
-**Moral**
+**Avant le combat**  
+Le stress de la situation a prélevé son dû sur Jeslyn qui est [[Pathfinder-RPG.Fiévreux|fiévreuse]] durant toute la durée de cette rencontre.  
+Jeslyn se lance [[Pathfinder-RPG.Force de taureau|force de taureau]], [[Pathfinder-RPG.Endurance de lours|endurance de l'ours]], [[Pathfinder-RPG.simulacre de vie|Simulacre de vie]], et [[Pathfinder-RPG.Bouclier de la foi|Bouclier de la foi]] lorsqu'elle sent que les PJ approchent.  
+**Pendant le combat**  
+Jeslyn lance faveur divine lors du premier round, puis attaque avec sa faux.  
+Si elle éprouve des difficultés à toucher ses adversaires, elle délaisse sa faux, et lance à la place des sorts de blessures.  
+Elle lance malédiction pour baisser le score de Sagesse des prêtres, mais ne perd par son temps à lancer des sorts avec jet de sauvegarde contre les paladins.  
+**Moral**  
 Jeslyn se bat jusqu'à la mort.
 
 </div></td></tr></table>

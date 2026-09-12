@@ -36,5 +36,5 @@ LastModified: 2014-09-30 16:43
 <LI>Sélection de la méthode de génération de caractéristiques « Points d’achat ». Chaque valeur de caractéristique vaut un certain nombre de points (7 : -4, 8 : -2, 9 : -1, 10 : 0, 11 : 1, 12 : 2, 13 : 3, 14 : 5, 15 : 7, 16 : 10, 17 : 13, 18 : 17) que vous pouvez investir depuis une réserve de départ à définir en 14).
 <LI>Nombre de points d’achat à dépenser. Une fois ce nombre défini, cliquez sur « OK ».
 <LI>Nombre de points d’achat restants.
-<LI>Modification des valeurs de caractéristiques. Chaque modification, si elle est possible en fonction du nombre de points d’achat restants, affectera ce même nombre.
+<LI>Modification des valeurs de caractéristiques. Chaque modification, si elle est possible en fonction du nombre de points d’achat restants, affectera ce même nombre. 
 </OL></td></tr></table>

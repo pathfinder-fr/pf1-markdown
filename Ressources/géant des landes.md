@@ -41,10 +41,10 @@ Categories:
 </div>
 </td><td><div>*Ce géant large et bien bâti possède une forte barbe. *
 
-Les géants des landes constituent une espèce pacifique que l'on ne rencontre guère que dans des contrées fortement éloignées des civilisations humains. C'est généralement le cas dans des plans particuliers comme par exemple Jottunheim.
+Les géants des landes constituent une espèce pacifique que l'on ne rencontre guère que dans des contrées fortement éloignées des civilisations humains. C'est généralement le cas dans des plans particuliers comme par exemple Jottunheim. 
 
 Un géant des landes mesure 3 mètres de hauteur et pèse à peu près 300 kg.
 </div></td></tr></table>
 
-Retour à la [[Wiki ressources monstres|grotte aux monstres]] —
+Retour à la [[Wiki ressources monstres|grotte aux monstres]] — 
 Discuter de cette créature [sur le forum](http://www.pathfinder-fr.org/Forum/yaf_postsm104781_Regles-maison.aspx#post104781)

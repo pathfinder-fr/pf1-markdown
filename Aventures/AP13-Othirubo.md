@@ -43,11 +43,11 @@ Categories:
 *Othirubo a travaillé pour [[AP13-Jeslyn|Jeslyn]], la demi-elfe difforme, pendant de nombreuses années, et il se montre plutôt loyal envers elle.*
 
 ### Tactique
-**Avant le combat.**
-Othirubo boit un [[Pathfinder-RPG.Alchimiste#MUTAGENES|mutagène]] pour augmenter sa dextérité, puis un extrait de [[Pathfinder-RPG.peau décorce|peau d'écorce]] de [[Pathfinder-RPG.flou|flou]] et de [[Pathfinder-RPG.bouclier|bouclier]].
-**Pendant le combat.**
-Othirubo utilise ses [[Pathfinder-RPG.Découvertes#BOMBEEXPLOSIVE|bombe explosive]] au combat et se rabat sur sa dague lorsqu'il ne lui reste plus qu'une bombe, qui utilisera pour s'enfuir (voir ce dessous).
-**Moral.**
+**Avant le combat.**  
+Othirubo boit un [[Pathfinder-RPG.Alchimiste#MUTAGENES|mutagène]] pour augmenter sa dextérité, puis un extrait de [[Pathfinder-RPG.peau décorce|peau d'écorce]] de [[Pathfinder-RPG.flou|flou]] et de [[Pathfinder-RPG.bouclier|bouclier]].  
+**Pendant le combat.**   
+Othirubo utilise ses [[Pathfinder-RPG.Découvertes#BOMBEEXPLOSIVE|bombe explosive]] au combat et se rabat sur sa dague lorsqu'il ne lui reste plus qu'une bombe, qui utilisera pour s'enfuir (voir ce dessous).  
+**Moral.**  
 S'il lui reste moins de 15 points de vie, Othirubo utilise une [[Pathfinder-RPG.Découvertes#BOMBEFUMIGENE|bombe fumigène]] pour couvrir sa retraite. Il boit ses extraits de [[Pathfinder-RPG.repli expéditif|repli expéditif]] et [[Pathfinder-RPG.soins légers|soins légers]] en chemin dès que l'occasion se présente.
 
 ### Trésor

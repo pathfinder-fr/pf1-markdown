@@ -9,7 +9,7 @@ Categories:
 
 *Vous savez manier votre arme de corps à corps pour dévier les projectiles.*
 
-**Catégorie :** Combat
+**Catégorie :** Combat 
 
 **Conditions : ** Bonus de base à l’attaque +8.
 

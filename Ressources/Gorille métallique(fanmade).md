@@ -34,10 +34,10 @@ LastModified: 2016-03-29 21:49
 
 </div>
 
-</td><td><div>''Cette masse métallique ressemble à un gorille taillé dans l'acier. Il avance à pas lourds sur ses jambes et ses poings.
+</td><td><div>''Cette masse métallique ressemble à un gorille taillé dans l'acier. Il avance à pas lourds sur ses jambes et ses poings. 
 Les orbites noires qui lui servent d'yeux sont enfoncés dans son crâne sous un large front.''
 
-Cette création a été conçue pour garder un endroit. Selon certaines sources, "le gorille" servant à désigner une personne qui garde un emplacement viendrait de là.
+Cette création a été conçue pour garder un endroit. Selon certaines sources, "le gorille" servant à désigner une personne qui garde un emplacement viendrait de là. 
 
 Elle est liée à un socle qui comporte une rune lui permettant de se recharger en étant en veille.
 

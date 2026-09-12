@@ -13,7 +13,7 @@ Vous pouvez garder votre équilibre en traversant des surfaces étroites ou inst
 #### Déplacement acrobatique
 Tant que vous n’êtes pas encombré ou surchargé, vous pouvez utiliser la compétence Acrobaties pour traverser une case menacée par un ou plusieurs ennemis sans provoquer d’attaques d’opportunités de leur part. Déplacement acrobatique est une action de mouvement et votre vitesse de déplacement est réduite de moitié. Le DD pour traverser la zone menacée par un ennemi est égal à 15 + 1,5 × le FP de l’ennemi. Si plusieurs ennemis menacent la même case, vous effectuez un test dont le DD est calculé avec le FP de l’ennemi le plus élevé, et le DD augmente de 2 par ennemi supplémentaire au-delà du premier.
 
-Vous pouvez aussi traverser directement une case occupée par un ennemi : le DD est égal à 20 + 1,5 × le FP de l’ennemi. Si vous ratez ce test, vous arrêtez votre déplacement sur la case adjacente à votre ennemi et provoquez une attaque d’opportunité.
+Vous pouvez aussi traverser directement une case occupée par un ennemi : le DD est égal à 20 + 1,5 × le FP de l’ennemi. Si vous ratez ce test, vous arrêtez votre déplacement sur la case adjacente à votre ennemi et provoquez une attaque d’opportunité. 
 
 Si vous tentez de traverser plusieurs cases menacées ou occupées par des ennemis lors du même round, vous devez réussir un test pour chaque case et le DD de chaque test au-delà du premier augmente de 2. Par exemple, si vous effectuez un déplacement acrobatique à travers une case menacée par deux créatures de FP 1 et une autre de FP 2, le DD est égal à 15 + 3 + 2 + 2 = 22. Si vous effectuez ensuite un déplacement acrobatique à travers la case d’une créature de FP 2, le DD est égal à 20 + 3 + 2 = 25.
 

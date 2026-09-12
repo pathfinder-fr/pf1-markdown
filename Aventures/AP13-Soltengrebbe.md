@@ -46,9 +46,9 @@ Lorsqu'elle est partie en guerre, [[AP13-Aponavicius|Aponavicius]] a laissé Sol
 
 ### Tactique
 **Avant le combat**\
-Elle peut attaquer lorsque les PJ quittent la zone d'une escarmouche, les charger en piqué dans leur campement ou simplement lorsqu'ils se déplacent en ville. Ce monstre n'est pas subtil : ses rugissements avertissent toute la cité qu'il se met en chasse.
+Elle peut attaquer lorsque les PJ quittent la zone d'une escarmouche, les charger en piqué dans leur campement ou simplement lorsqu'ils se déplacent en ville. Ce monstre n'est pas subtil : ses rugissements avertissent toute la cité qu'il se met en chasse.  
 **Pendant le combat**\
-Soltengrebbe engage le combat en utilisant son souffle mythique, puis se pose au sol en mordant ses adversaires de ses machoires dévastatices. Elle focalise ses attaques sur les adversaires portant les armures les plus lourdes.
+Soltengrebbe engage le combat en utilisant son souffle mythique, puis se pose au sol en mordant ses adversaires de ses machoires dévastatices. Elle focalise ses attaques sur les adversaires portant les armures les plus lourdes.  
 **Moral**\
 Soltengrebbe se bat jusqu'à la mort.
 </div>

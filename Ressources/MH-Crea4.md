@@ -28,5 +28,5 @@ LastModified: 2014-07-06 02:03
 <LI>Liste des traits choisis.
 <LI>Description du dernier trait sélectionné.
 <LI>Retour vers [[MH-Crea3|Âme, Corps et Origines]].
-<LI>Validation des traits choisis. Vers [[MH-Crea5|Classe]].
+<LI>Validation des traits choisis. Vers [[MH-Crea5|Classe]]. 
 </OL></td></tr></table>
