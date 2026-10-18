@@ -1,7 +1,7 @@
 ---
 Name: Pathfinder-RPG.Sanguin
 Title: Le sanguin
-LastModified: 2024-10-02 17:22
+LastModified: 2026-10-17 22:51
 Categories:
 - Classe
 - Règle officielle
@@ -381,11 +381,11 @@ Au niveau 4, le sanguin gagne [[Dispense de composantes matérielles]] comme don
   <tr><td>10</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
   <tr><td>11</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
   <tr><td>12</td><td>6</td><td>5</td><td>4</td><td>-</td></tr>
-  <tr><td>13</td><td>6</td><td>5</td><td>5</td><td>2</td></tr>
-  <tr><td>14</td><td>6</td><td>5</td><td>5</td><td>3</td></tr>
+  <tr><td>13</td><td>6</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>14</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
   <tr><td>15</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
-  <tr><td>16</td><td>6</td><td>6</td><td>6</td><td>4</td></tr>
-  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>4</td></tr>
+  <tr><td>16</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
   <tr><td>18</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
   <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
   <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
